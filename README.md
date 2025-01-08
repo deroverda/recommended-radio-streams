@@ -239,18 +239,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
  **Folk Alley**
 - [Folk Alley](http://stream.folkalley.com:8000/folk.mp3)
 
- **Soma FM Left Coast – 70’s**
-- [Soma FM Left Coast](http://somafm.com/leftcoast.m3u)
-
- **Soma FM – Groove Salad**
-- [Soma FM Groove Salad](http://somafm.com/groovesalad.m3u)
-
- **Soma FM – Drone Zone**
-- [Soma FM Drone Zone](http://somafm.com/dronezone.m3u)
-
- **Soma FM – Underground 80’s**
-- [Soma FM Underground 80’s](http://somafm.com/underground80s.m3u)
-
  **WFUV 90.7FM – NY Fordham Univ – Music Discovery**
 - [WFUV 90.7FM](http://wfuv.streamguys1.com/wfuv-128.mp3)
 
@@ -514,9 +502,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
  **Radio BBC Asian Network**
 - [BBC Asian Network](http://bbc.co.uk/radioasian)
 
- **SomaFM – The Beat**
-- [SomaFM The Beat](http://somafm.com/thebeat.m3u)
-
  **KZSU Stanford 90.1 FM – Stanford, CA**
 - [KZSU Stanford 90.1 FM](http://kzsu.stanford.edu:8000/stream.mp3)
 
@@ -592,8 +577,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
  **WBGO 88.3 FM – New Jersey**
 - [WBGO 88.3 FM](http://wbgo.org:8000/wbgostream.mp3)
 
- **Soma FM – Groove Salad**
-- [Soma FM – Groove Salad](http://somafm.com/groovesalad.m3u)
 
  **Frisky Radio – Deep**
 - [Frisky Radio – Deep](http://friskyradio.com:8000/deepstream.mp3)
@@ -615,9 +598,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
  **Radio Paradise Rock Mix**
 - [Radio Paradise Rock Mix](http://stream.radioparadise.com:8000/rockstream.mp3)
-
- **Soma FM – Left Coast 70’s**
-- [Soma FM Left Coast 70’s](http://somafm.com/leftcoast70s.m3u)
 
  **KUTX 98.9 FM – Austin**
 - [KUTX 98.9 FM](http://kutx.org:8000/kutxstream.mp3)
@@ -682,26 +662,11 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
  **Folk Alley – Ohio**
 - [Folk Alley](http://folkalley.com:8000/folkalleystream.mp3)
 
- **Soma FM – Groove Salad Classic**
-- [Soma FM – Groove Salad Classic](http://somafm.com/groovesaladclassic.m3u)
-
  **Jazz 88 – San Diego**
 - [Jazz 88 – San Diego](http://jazz88.org:8000/jazzstream.mp3)
 
- **Soma FM – Groove Salad**
-- [Soma FM – Groove Salad](http://somafm.com/groovesalad.m3u)
-
  **KCRW 89.9 FM – Santa Monica**
 - [KCRW 89.9 FM](http://kcrw.com:8000/kcrwstream.mp3)
-
- **Soma FM – Lush**
-- [Soma FM – Lush](http://somafm.com/lush.m3u)
-
- **Soma FM – Bagel Radio**
-- [Soma FM – Bagel Radio](http://somafm.com/bagel.m3u)
-
- **Soma FM – Secret Agent**
-- [Soma FM – Secret Agent](http://somafm.com/secretagent.m3u)
 
  **Frisky Radio – Deep**
 - [Frisky Radio – Deep](http://friskyradio.com:8000/deepstream.mp3)
@@ -739,9 +704,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
  **Radio Swiss Jazz**
 - [Radio Swiss Jazz](http://radioswissjazz.ch:8000/radioswissjazzstream.mp3)
 
- **Soma FM – The Trip**
-- [Soma FM – The Trip](http://somafm.com/thetrip.m3u)
-
  **BBC Radio 1**
 - [BBC Radio 1](http://bbc.co.uk/radio1stream)
 
@@ -751,20 +713,12 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
  **Radio Caroline 259 Gold**
 - [Radio Caroline 259 Gold](http://radiocaroline.co.uk:8000/caroline259stream.mp3)
 
- **Soma FM – Drone Zone**
-- [Soma FM – Drone Zone](http://somafm.com/dronezone.m3u)
-
  **KXRY 91.1 FM – Portland**
 - [KXRY 91.1 FM](http://kxryfm.org:8000/kxrystream.mp3)
 
- **Soma FM – Black Rock**
-- [Soma FM – Black Rock](http://somafm.com/blackrock.m3u)
 
  **Ralph Radio – Russia**
 - [Ralph Radio](http://ralphradio.ru:8000/ralphstream.mp3)
-
- **Soma FM – Seven Inch Soul**
-- [Soma FM – Seven Inch Soul](http://somafm.com/seveninchsoul.m3u)
 
  **KUSF 90.3 FM – San Francisco**
 - [KUSF 90.3 FM](http://kusf.org:8000/kusfstream.mp3)
@@ -786,9 +740,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
  **VRT MNM Hits – Belgian**
 - [VRT MNM Hits](http://mymnmbelgium.com:8000/mnmhitstream.mp3)
-
- **Soma FM – Groove Salad**
-- [Soma FM – Groove Salad](http://somafm.com/groovesalad.m3u)
 
 **Radio Swiss Jazz**
 - [Radio Swiss Jazz](http://radioswissjazz.ch:8000/radioswissjazzstream.mp3)
