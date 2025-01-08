@@ -64,12 +64,12 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
  
 ### ***Jazz***
 
-- **Adroit Jazz Underground**: [Visit site](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)  
-- **Jazz Con Class**: [Explore Jazz Con Class](http://jazzconclass.com)  
-- **KSDS Jazz 88.3 FM**: [Listen to KSDS](http://jazz88.org)  
-- **Radio Suisse Jazz**: [Tune in to Radio Suisse Jazz](http://radiosuissejazz.ch)  
-- **WBGO 88.3**: [Listen to WBGO](http://wbgo.org)  
-- **WDNA 88.9**: [Visit WDNA](http://wdna.org)  
+- **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)  
+- **Jazz Con Class**: [Link](http://jazzconclass.com)  
+- **KSDS Jazz 88.3 FM**: [Link](http://jazz88.org)  
+- **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
+- **WBGO 88.3**: [Link](http://wbgo.org)  
+- **WDNA 88.9**: [Link](http://wdna.org)  
 
  
 ## **Artist Specific**
