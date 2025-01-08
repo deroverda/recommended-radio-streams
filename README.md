@@ -1,15 +1,24 @@
+**A curated list of internet radio stations, apps, and discovery tools for radio enthusiasts.**
+
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams)
+
+
 ![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
 
 
 *Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link.*
 
-I use [Radio Browser](https://www.radio-browser.info/) to fetch the direct stream URLs for these stations. 
-
-Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) for streaming these channels on mobile.
+## How to Use This Repo
+- Explore the curated radio station links to discover new stations.
+- Use the recommended apps (iOS or Android) to stream the stations conveniently.
+- For direct stream URLs, try searching on [Radio Browser](https://www.radio-browser.info/).
+- As an iOS user i recommend the free app [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847)
 
 ### Other Indexes:
 - [FMSTREAM](https://fmstream.org/index.php?c=FT)
-
+- [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)
+- [Worldwide Radio Globe](https://radio.garden/) (great for discovery)
 ### Other iOS Apps:
 - [Triode](https://triode.app/)
 - [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)
@@ -783,3 +792,21 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 **Radio Swiss Jazz**
 - [Radio Swiss Jazz](http://radioswissjazz.ch:8000/radioswissjazzstream.mp3)
+
+
+## Contributing
+I'd love to hear your suggestions! If you know of any radio stations you'd like to see added or have ideas for improvements, just open an issue. I'll check it out and add it to the list of stations.
+
+### How to Suggest:
+1. Open an issue in this repository.
+2. Include the station name, genre, and link in your suggestion.
+3. I will review your suggestion and add it to the list.
+
+Feel free to share your thoughts or ideas anytime! 😊
+
+## Your Suggestions
+Here are some great radio stations suggested by the community:
+
+- [Station Name](http://link-to-station.com) – Genre
+- [Station Name](http://link-to-station.com) – Genre
+
