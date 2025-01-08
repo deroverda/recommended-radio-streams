@@ -21,11 +21,11 @@ Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.co
 
 # Recommended Radio Streams
 
-1. **1.FM - Costa Del Mar**: [Link](http://streams.1.fm/costadelmar.pls)
+1. **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
 2. **BB 05.5 Charivari Munchen - Lounge**: [Link](http://stream.radio.de/bb05_5-charivari-muenchen-lounge)
-3. **24/7 Lofi Radio**: [Link](https://stream.247lofiradio.com/lofi)
+3. **24/7 Lofi Radio**: [Link](https://www.247lofiradio.com/)
 4. **181.fm (Soul)**: [Link](http://streams.181.fm/181-soul_128k.mp3)
-5. **Alex Jones - Infowars**: [Link](http://www.infowars.com/stream)
+5. removed
 6. **Alefamusic**: [Link](http://stream.alefamusic.com/stream)
 7. **AudioBook Radio**: [Link](https://audiobookradio.stream)
 8. **Adroit Jazz Underground**: [Link](http://adroitjazz.com/stream)
@@ -132,10 +132,10 @@ Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.co
 109. **SomaFM - Seven Inch Soul**: [Link](http://somafm.com/seveninchsoul)
 110. **SomaFM - ThistleRadio**: [Link](http://somafm.com/thistleradio)
 111. **Shonan Beach FM**: [Link](http://shonanbeach.fm/stream)
-112. **SR - P1**: [Link](http://sverigesradio.se/p1/stream)
-113. **SR - P2**: [Link](http://sverigesradio.se/p2/stream)
-114. **SR - P3**: [Link](http://sverigesradio.se/p3/stream)
-115. **SR - P4 Jonkoping**: [Link](http://sverigesradio.se/p4-jonkoping/stream)
+112. removed because swedish language
+113. removed because swedish language
+114. removed because swedish language
+115. removed because swedish language
 116. **Shirley & Spinoza**: [Link](http://shirleyandspinoza.com/stream)
 117. **Technicolor Web Of Sound**: [Link](http://technicolorwebofsound.com/stream)
 118. **TEKnival Radio**: [Link](http://teknivalradio.com/stream)
@@ -161,6 +161,7 @@ Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.co
 138. **Wisconsin Public Radio**: [Link](http://wpr.org/stream)
 139. **WWOZ - New Orleans Public Radio**: [Link](http://wwoz.org/stream)
 140. **WQXR 105.9 FM**: [Link](http://wqxr.org/stream)
+
 
 ---
 
