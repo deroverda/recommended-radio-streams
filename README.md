@@ -1,388 +1,146 @@
 # Recommended Radio Streams
 
-## 24/7 Lofi Radio
-[Listen here](http://www.247lofiradio.com/)
+1.FM - Costa Del Mar: http://streams.1.fm/costadelmar.pls
+95.5 Charivari Munchen - Lounge: http://stream.radio.de/bb05_5-charivari-muenchen-lounge
+24/7 Lofi Radio: https://stream.247lofiradio.com/lofi
+181.fm (soul): http://streams.181.fm/181-soul_128k.mp3
+Alex Jones - Infowars: http://www.infowars.com/stream
+Alefamusic: http://stream.alefamusic.com/stream
+AudioBook Radio: https://audiobookradio.stream
+Adroit Jazz Underground: http://adroitjazz.com/stream
+Alpha Boys School Radio: http://alphaboysschoolradio.com/stream
+BBC Radio 4: http://www.bbc.co.uk/radio4/live/radio4.m3u
+BBC Radio 4 Extra: http://www.bbc.co.uk/radio4extra/live/radio4extra.m3u
+Blue Marlin Ibiza: http://www.bluemarlinibiza.com/radio/live
+Calm Radio - Chamber Music: http://calmradio.com/radio/chamber_music
+Calm Radio - Mozart: http://calmradio.com/radio/mozart
+Calm Radio - Sleep Channel: http://calmradio.com/radio/sleep_channel
+Calm Radio - Symphony: http://calmradio.com/radio/symphony
+Cashmere Radio: http://cashmereradio.com/stream
+Celtic Music Radio: http://www.celticmusicradio.net/listenlive
+Classic FM: http://classicfm.co.uk/listen/live
+Classic Vinyl HD: http://classicvinylhd.com/stream
+Concertzender Baroque: http://www.concertzender.nl/live/concertzender-baroque
+Dance Wave: http://dancewave.com/stream
+Datafruits: https://datafruits.stream
+dublab: http://dublab.com/stream
+Dr Dick's Dub Shack: http://drdicksdubshack.com/stream
+Doctor Pundit - Yacht Rock Jams: http://doctorpundit.com/yacht-rock-stream
+Exclusive Radio - ABBA: http://exclusiveradio.com/abba
+Exclusive Radio - Aretha Franklin: http://exclusiveradio.com/aretha-franklin
+Exclusive Radio - BB King: http://exclusiveradio.com/bb-king
+Exclusive Radio - Bob Marley: http://exclusiveradio.com/bob-marley
+Exclusive Radio - Ella Fitzgerald: http://exclusiveradio.com/ella-fitzgerald
+Exclusive Radio - John Coltrane: http://exclusiveradio.com/john-coltrane
+Exclusive Radio - The Beatles: http://exclusiveradio.com/the-beatles
+Exclusive Radio - Van Morrison: http://exclusiveradio.com/van-morrison
+Exclusive Radio - Queen: http://exclusiveradio.com/queen
+FluxFM - Berlin Beach House Radio: http://fluxfm.de/berlin-beach-house
+FluxFM - ChillHop: http://fluxfm.de/chillhop
+FluxFM - FluxLounge: http://fluxfm.de/fluxlounge
+FluxFM - Hippie Trippy Garden: http://fluxfm.de/hippie-trippy-garden
+FluxFM - Sound Of Berlin: http://fluxfm.de/sound-of-berlin
+FOX News: http://www.foxnews.com/live-radio
+Frisky Deep: http://friskyradio.com/deep
+Frisky Radio: http://friskyradio.com/live
+Gladys Palmera Coleccion: http://gladyspalmera.com/coleccion/stream
+Grateful Dead Radio - WGDR: http://wgdr.org/grateful-dead-radio
+Her.st - Propaganda Broadcast: http://her.st/propaganda/stream
+Isla Negra Upbeat: http://islanegra.fm/upbeat
+Isla Negra Slowbeat: http://islanegra.fm/slowbeat
+Italoradio.fm: http://www.italoradio.fm/live-stream
+Jazz Con Class: http://jazzconclass.com/stream
+J-Club Club Bandstand: http://jclubradio.com/stream
+KBON: http://kbontv.com/stream
+KKJZ-HD88.1: http://kjzhd881.com/stream
+KSDS Jazz 88.3 FM: http://jazz88.org/stream
+KTKE 101.5 FM: http://ktke.fm/stream
+Le Grigri: http://legrigri.com/stream
+Le Mellotron: http://lemellotron.com/stream
+Love Live Jam Radio: http://lovelivejam.com/stream
+LYL Radio: http://lylradio.fr/stream
+LuxuriaMusic: http://luxuriamusic.com/stream
+Mondo Bongo Radio: http://mondobongoradio.com/stream
+Mother Earth Radio: http://motherearthradio.com/stream
+Mother Earth Radio - Instrumental: http://motherearthradio.com/instrumental
+Mutant Radio: http://mutantradio.com/stream
+NTS Radio Poolside: http://ntslive.co.uk/stream
+Nugs Radio: http://nugs.net/stream
+Nordic Lodge: http://nordiclodge.fm/stream
+Octave Radio: http://octaveradio.com/stream
+Oroko Radio: http://orokoradio.com/stream
+Pan African Space Station: http://panafricanspace.com/stream
+Pumpkin FM - 1940s radio: http://pumpkinfm.com/1940s-stream
+Pumpkin FM - Radio England: http://pumpkinfm.com/radio-england-stream
+Pyongyang Radio FM: http://pyongyangradio.com/stream
+REYFM: http://reyfm.com/stream
+Radio BipTunia: http://radiobiptunia.com/stream
+Radio Caprice - Minimal Tech House: http://radiocaprice.com/minimal-tech-house
+Radio Caprice - Afrobeat: http://radiocaprice.com/afrobeat
+Radio France: http://www.radiofrance.fr/live
+Radio is a Foreign Country: http://radioforeigncountry.com/stream
+Radio Paradise - Main Mix: http://radioparadise.com/main-mix
+Radio Paradise - Mellow: http://radioparadise.com/mellow
+Radio Free Phoenix: http://radiofreephoenix.com/stream
+Radio ItaloPower!: http://italopower.com/stream
+Radio Krimi: http://radiokrimi.com/stream
+Radio Suisse Jazz: http://radiosuissejazz.ch/stream
+Radio Suisse Classique: http://radiosuisseclassique.ch/stream
+Radio Swiss - Classic: http://radioswissclassic.ch/stream
+Rainwave - All: http://rainwave.cc/all
+Rainwave - Chiptunes: http://rainwave.cc/chiptunes
+Rewound Radio: http://rewoundradio.com/stream
+Skylab Radio: http://skylabradio.com/stream
+Spinning Seal FM: http://spinningseal.com/stream
+SuperStereo 1 - Yacht Rock: http://superstereo.com/yachtrock
+SuperStereo 1+ - Disco, Soul & Funk: http://superstereo.com/disco-soul-funk
+Soho Radio: http://sohoradio.com/stream
+SomaFM - Bossa Beyond: http://somafm.com/bossabeyond
+SomaFM - DEF CON Radio: http://somafm.com/defconradio
+SomaFM - Deep Space One: http://somafm.com/deepspaceone
+SomaFM - Heavyweight Reggae: http://somafm.com/heavyweightreggae
+SomaFM - Groove Salad: http://somafm.com/groovesalad
+SomaFM - Groove Salad Classic: http://somafm.com/groovesaladclassic
+SomaFM - Left Coast 70s: http://somafm.com/leftcoast70s
+SomaFM - Live: http://somafm.com/live
+SomaFM - Lush: http://somafm.com/lush
+SomaFM - Illinois Street Lounge: http://somafm.com/illinoisstreetlounge
+SomaFM - Secret Agent: http://somafm.com/secretagent
+SomaFM - Suburbs of Goa: http://somafm.com/suburbsofgoa
+SomaFM - SF Police Scanner: http://somafm.com/sfpolicescanner
+SomaFM - Seven Inch Soul: http://somafm.com/seveninchsoul
+SomaFM - ThistleRadio: http://somafm.com/thistleradio
+Shonan Beach FM: http://shonanbeach.fm/stream
+SR - P1: http://sverigesradio.se/p1/stream
+SR - P2: http://sverigesradio.se/p2/stream
+SR - P3: http://sverigesradio.se/p3/stream
+SR - P4 Jonkoping: http://sverigesradio.se/p4-jonkoping/stream
+Shirley & Spinoza: http://shirleyandspinoza.com/stream
+Technicolor Web Of Sound: http://technicolorwebofsound.com/stream
+TEKnival Radio: http://teknivalradio.com/stream
+The Dump: http://thedump.com/stream
+The Jazz Groove: http://jazzgroove.com/stream
+The Lake Radio: http://thelakeradio.com/stream
+The SoCal Sound: http://thesocalsound.org/stream
+The Penthouse: http://thepenthouse.com/stream
+Time Capsule Show: http://timecapsuleshow.com/stream
+Totally Wired Radio: http://totallywiredradio.com/stream
+Tropical 100 Mix: http://tropical100mix.com/stream
+Ultimate Oldies Radio: http://ultimateoldiesradio.com/stream
+Yacht Rock Miami: http://yachtrockmiami.com/stream
+Vintage Obscura Radio: http://vintageobscura.com/stream
+Wayback Radio: http://waybackradio.com/stream
+WALM - Old Time Radio: http://walm.com/stream
+WEFUNK: http://wefunkradio.com/stream
+WBGO 88.3: http://wbgo.org/stream
+WDNA 88.9: http://wdna.org/stream
+WFMT 98.7: http://wfmt.com/stream
+WFMU - Sheena's Jungle Room: http://wfmu.org/sheenajungle/stream
+WFMU - Rock 'n' Soul Radio: http://wfmu.org/rocknsoul/stream
+Wisconsin Public Radio: http://wpr.org/stream
+WWOZ - New Orleans Public Radio: http://wwoz.org/stream
+WQXR 105.9 FM: http://wqxr.org/stream
 
-## 181.fm
-[Listen here](http://181.fm/)
-
-## Adroit Jazz Underground
-[Listen here](https://adroitjazzunderground.com/)
-
-## Audiobook Radio
-[Listen here](http://www.audiobookradio.net/)
-
-## Alefamusic
-[Listen here](https://www.alefamusic.com/)
-
-## Alpha Boys School Radio
-[Listen here](http://www.alphaboysschoolradio.com/)
-
-## Boss Boss Radio
-[Listen here](https://www.bossbossradio.com/)
-
-## BBC Radio 4
-[Listen here](https://www.bbc.co.uk/radio4)
-
-## BBC Radio 4 Extra
-[Listen here](https://www.bbc.co.uk/radio4extra)
-
-## Calm Radio - Chamber Music
-[Listen here](https://www.calmradio.com/chamber-music)
-
-## Calm Radio - Mozart
-[Listen here](https://www.calmradio.com/mozart)
-
-## Calm Radio - Symphony
-[Listen here](https://www.calmradio.com/symphony)
-
-## Calm Radio - Sleep Channel
-[Listen here](https://www.calmradio.com/sleep)
-
-## Cashmere Radio
-[Listen here](https://www.cashmereradio.com/)
-
-## Classic FM
-[Listen here](https://www.classicfm.com/)
-
-## Classic Vinyl HD
-[Listen here](https://www.classicvinylhd.com/)
-
-## Datafruits
-[Listen here](https://www.datafruits.fm/)
-
-## dublab
-[Listen here](https://dublab.com/)
-
-## Dance Wave
-[Listen here](https://dancewave.radio/)
-
-## Doctor Pundit - Yacht Rock Jams
-[Listen here](https://www.doctorpundit.com/)
-
-## Dr Dick's Dub Shack
-[Listen here](https://dicksdubshack.com/)
-
-## Exclusive Radio - ABBA
-[Listen here](https://www.exclusiveradio.com/abba)
-
-## Exclusive Radio - Aretha Franklin
-[Listen here](https://www.exclusiveradio.com/aretha-franklin)
-
-## Exclusive Radio - BB King
-[Listen here](https://www.exclusiveradio.com/bb-king)
-
-## Exclusive Radio - Bob Marley
-[Listen here](https://www.exclusiveradio.com/bob-marley)
-
-## Exclusive Radio - Ella Fitzgerald
-[Listen here](https://www.exclusiveradio.com/ella-fitzgerald)
-
-## Exclusive Radio - John Coltrane
-[Listen here](https://www.exclusiveradio.com/john-coltrane)
-
-## Exclusive Radio - Queen
-[Listen here](https://www.exclusiveradio.com/queen)
-
-## Exclusive Radio - The Beatles
-[Listen here](https://www.exclusiveradio.com/the-beatles)
-
-## Exclusive Radio - Van Morrison
-[Listen here](https://www.exclusiveradio.com/van-morrison)
-
-## FluxFM - Berlin Beach House Radio
-[Listen here](https://www.fluxfm.de/)
-
-## FluxFM - ChillHop
-[Listen here](https://www.fluxfm.de/)
-
-## FluxFM - FluxLounge
-[Listen here](https://www.fluxfm.de/)
-
-## FluxFM - Hippie Trippy Garden Pretty
-[Listen here](https://www.fluxfm.de/)
-
-## FOX News
-[Listen here](https://www.foxnews.com/radio)
-
-## Frisky Chill
-[Listen here](https://www.friskyradio.com/chill)
-
-## Frisky Deep
-[Listen here](https://www.friskyradio.com/deep)
-
-## Frisky Radio
-[Listen here](https://www.friskyradio.com/)
-
-## Gladys Palmera Coleccion
-[Listen here](https://www.gladyspalmera.com/)
-
-## Grateful Dead Radio
-[Listen here](https://www.gratefuldead.com/)
-
-## Isla Negra Upbeat
-[Listen here](https://www.islanegra.fm/)
-
-## Isla Negra Slowbeat
-[Listen here](https://www.islanegra.fm/)
-
-## Haarlem105
-[Listen here](http://haarlem105.nl/)
-
-## Italoradio.fm
-[Listen here](https://www.italoradio.fm/)
-
-## Jazz Con Clas
-[Listen here](https://www.jazzconclas.com/)
-
-## JazzRadio 106.8 Berlin
-[Listen here](https://www.jazzradio.de/)
-
-## J-Club Club Bandstand
-[Listen here](https://www.j-club.net/)
-
-## KTKE 101.5 FM
-[Listen here](http://ktke1015.com/)
-
-## KBON
-[Listen here](http://kbon.com/)
-
-## KEWU Jazz
-[Listen here](https://www.kewu.org/)
-
-## KKJZ-HD1 88.1
-[Listen here](https://www.jazzandblues.org/)
-
-## Le Grigri
-[Listen here](https://www.legrigri.fm/)
-
-## Le Mellotron
-[Listen here](https://www.lemellotron.com/)
-
-## Live Jam Radio
-[Listen here](https://www.livejamradio.com/)
-
-## LYL Radio
-[Listen here](https://www.lyl.live/)
-
-## LuxuriaMusic
-[Listen here](https://www.luxuriamusic.com/)
-
-## Mondo Bongo Radio
-[Listen here](https://www.mondobongo.com/)
-
-## Mother Earth Radio
-[Listen here](https://www.motherearthradio.com/)
-
-## Mother Earth Radio - Instrumental
-[Listen here](https://www.motherearthradio.com/instrumental)
-
-## Mutant Radio
-[Listen here](https://www.mutantradio.com/)
-
-## NIA Radio Lo-Fi
-[Listen here](https://www.niaradio.com/)
-
-## NTS Radio Poolside
-[Listen here](https://www.nts.live/)
-
-## NRK - Jazz
-[Listen here](https://www.nrk.no/jazz/)
-
-## Nugs Radio
-[Listen here](https://www.nugs.net/)
-
-## Nordic Lodge
-[Listen here](https://www.nordiclodge.fm/)
-
-## Octave Radio
-[Listen here](https://www.octaveradio.com/)
-
-## Oroko Radio
-[Listen here](https://www.orokoradio.com/)
-
-## Pan African Space Station
-[Listen here](https://www.panafricanspace.com/)
-
-## Pumpkin FM - 1940s radio
-[Listen here](https://www.pumpkinfm.com/1940s-radio/)
-
-## Pumpkin FM - Radio England
-[Listen here](https://www.pumpkinfm.com/radio-england/)
-
-## Pyongyang Radio FM
-[Listen here](https://www.pyongyangradio.fm/)
-
-## Radio BipTunia
-[Listen here](http://radiobiptunia.com/)
-
-## Radio Caprice - Minimal Tech House
-[Listen here](https://www.radiocaprice.com/minimal-tech-house)
-
-## Radio Free Phoenix
-[Listen here](https://www.radiofreephoenix.com/)
-
-## Radio France
-[Listen here](https://www.radiofrance.fr/)
-
-## Radio is a Foreign Country
-[Listen here](http://radioisaforeigncountry.com/)
-
-## Radio ItaloPower!
-[Listen here](https://www.radioitalopower.com/)
-
-## Radio Krimi (general)
-[Listen here](https://www.radiokrimi.com/)
-
-## Radio Paradise - Main Mix
-[Listen here](https://www.radioparadise.com/)
-
-## Radio Paradise - Mellow
-[Listen here](https://www.radioparadise.com/)
-
-## Radio Suisse Classique
-[Listen here](https://www.radiosuisseclassique.ch/)
-
-## Radio Suisse Jazz
-[Listen here](https://www.radiosuissejazz.ch/)
-
-## Rewound Radio
-[Listen here](https://www.rewoundradio.com/)
-
-## Rainwave All
-[Listen here](https://rainwave.cc/)
-
-## Rainwave Chiptunes
-[Listen here](https://rainwave.cc/)
-
-## REYFM - LOFI
-[Listen here](https://www.reyfm.com/lofi)
-
-## REYFM - original
-[Listen here](https://www.reyfm.com/original)
-
-## SomaFM Bossa Beyond
-[Listen here](https://www.somafm.com/bossa-beyond/)
-
-## SomaFM Deep Space One
-[Listen here](https://www.somafm.com/deep-space-one/)
-
-## SomaFM DEF CON Radio
-[Listen here](https://www.somafm.com/def-con-radio/)
-
-## SomaFM Groove Salad
-[Listen here](https://www.somafm.com/groove-salad/)
-
-## SomaFM Groove Salad Classic
-[Listen here](https://www.somafm.com/groove-salad-classic/)
-
-## SomaFM Illinois Street Lounge
-[Listen here](https://www.somafm.com/illinois-street-lounge/)
-
-## SomaFM Left Coast 70s
-[Listen here](https://www.somafm.com/left-coast-70s/)
-
-## SomaFM Lush
-[Listen here](https://www.somafm.com/lush/)
-
-## SomaFM Secret Agent
-[Listen here](https://www.somafm.com/secret-agent/)
-
-## SomaFM Seven Inch Soul
-[Listen here](https://www.somafm.com/seven-inch-soul/)
-
-## SomaFM ThistleRadio
-[Listen here](https://www.somafm.com/thistleradio/)
-
-## SomaFM - Live
-[Listen here](https://www.somafm.com/live/)
-
-## SomaFM - SF Police Scanner
-[Listen here](https://www.somafm.com/sf-police-scanner/)
-
-## Soho Radio
-[Listen here](https://www.sohoradiolondon.com/)
-
-## Spinning Seal FM
-[Listen here](https://www.spinningsealfm.com/)
-
-## SuperStereo 1 *Yacht Rock*
-[Listen here](https://www.supers1.com/yacht-rock/)
-
-## SuperStereo 1+ *Disco, Soul & Funk*
-[Listen here](https://www.supers1.com/disco-soul-funk/)
-
-## Skylab Radio
-[Listen here](https://www.skylabradio.com/)
-
-## Shirley & Spinoza
-[Listen here](https://www.shirleyandspinoza.com/)
-
-## Shonan Beach FM
-[Listen here](https://www.shonanbeachfm.com/)
-
-## Technicolor Web Of Sound
-[Listen here](https://www.technicolorwebofsound.com/)
-
-## TEKnival Radio
-[Listen here](https://www.teknivalradio.com/)
-
-## The Dump
-[Listen here](https://www.thedump.com/)
-
-## The Lake Radio
-[Listen here](https://www.thelakeradio.com/)
-
-## The SoCal Sound
-[Listen here](https://www.socalsound.org/)
-
-## Time Capsule Show
-[Listen here](https://www.timecapsuleshow.com/)
-
-## Totally Wired Radio
-[Listen here](https://www.totallywiredradio.com/)
-
-## Tropical 100 Mix
-[Listen here](https://www.tropical100mix.com/)
-
-## Ultimate Oldies Radio! Musical Hist
-[Listen here](https://www.ultimateoldiesradio.com/)
-
-## Vintage Obscura Radio
-[Listen here](https://www.vintageobscura.com/)
-
-## WALM - Old Time Radio
-[Listen here](https://www.walm-radio.com/)
-
-## WBGO 88.3 'Jazz 88' Newark, NJ
-[Listen here](https://www.wbgo.org/)
-
-## WDNA 88.9
-[Listen here](https://www.wdna.org/)
-
-## Wayback Radio
-[Listen here](https://www.waybackradio.com/)
-
-## WFMT 98.7 Chicago, IL
-[Listen here](https://www.wfmt.com/)
-
-## WFMU - Sheena's Jungle Room
-[Listen here](https://www.wfmu.org/)
-
-## WFMU - Rock 'n' Soul Radio
-[Listen here](https://www.wfmu.org/)
-
-## Wisconsin Public Radio: NPR News
-[Listen here](https://www.wpr.org/)
-
-## WWOZ - New Orleans Public Radio
-[Listen here](https://www.wwoz.org/)
-
-## WQXR 105.9 FM
-[Listen here](https://www.wqxr.org/)
-
-## Yacht Rock Miami
-[Listen here](https://www.yachtrockmiami.com/)
 
 radio channels worth checking out. 
 ## **Radio Paradise**
