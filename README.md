@@ -23,7 +23,7 @@
 - [Triode](https://triode.app/)
 - [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)
 - [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
-- [SomaFM Radio Player](https://apps.apple.com/us/app/somafm-radio-player/id406262816)
+
 
 ### Android Apps:
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)
