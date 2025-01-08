@@ -11,7 +11,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 ### Recommended Apps for Streaming
 
 - **iOS**:  
-  [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) — *Recommended*  
+  [CuterDio](https://apps.apple.com/gb/app/cuterdio-internet-radio/id1489513385?l) — *Recommended*  
   [Triode](https://triode.app/),  
   [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154),  
   [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
@@ -41,30 +41,30 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Cashmere Radio**: [Link](http://cashmereradio.com)  
 - **Dance Wave**: [Link](http://dancewave.com)  
 - **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop)  
-- **FluxFM - Hippie Trippy Garden**: [Link](http://fluxfm.de/hippie-trippy-garden)  
+- **FluxFM - Hippie Trippy Garden**: [Link](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118)  
 - **FluxFM - Sound Of Berlin**: [Link](http://fluxfm.de/sound-of-berlin)  
 - **Frisky Deep**: [Link](http://friskyradio.com/deep)  
 - **Frisky Radio**: [Link](http://friskyradio.com/live)  
-- **LYL Radio**: [Link](http://lylradio.fr)  
+- **LYL Radio**: [Link](https://lyl.live/)  
 - **LuxuriaMusic**: [Link](http://luxuriamusic.com)  
 - **Octave Radio**: [Link](http://octaveradio.com)  
 - **NTS Radio Poolside**: [Link](http://ntslive.co.uk)  
-- **Radio Caprice - Minimal Tech House**: [Link](http://radiocaprice.com/minimal-tech-house)  
+- **Radio Caprice - Minimal Tech House**: [Link](http://www.radcap.ru/)  
 - **Radio Paradise - Mellow**: [Link](http://radioparadise.com/mellow)  
 - **Skylab Radio**: [Link](http://skylabradio.com)  
 - **Datafruits**: [Link](https://datafruits.fm/)  
 - **dublab**: [Link](http://dublab.com)  
 - **TEKnival Radio**: [Link](http://teknivalradio.com)  
 - **Rainwave - All**: [Link](http://rainwave.cc/all)  
-- **Rainwave - Chiptunes**: [Link](http://rainwave.cc/chiptunes)  
+- **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/)  
 - **Italoradio.fm**: [Link](http://www.italoradio.fm)  
 - **Radio ItaloPower!**: [Link](http://italopower.com)  
-- **Radio BipTunia**: [Link](http://radiobiptunia.com)  
-- **Shonan Beach FM**: [Link](http://shonanbeach.fm)
+- **Radio BipTunia**: [Link](https://biptunia.com/)  
+- **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/)
  
 ### ***Jazz***
 
-- **Adroit Jazz Underground**: [Visit site](http://adroitjazz.com)  
+- **Adroit Jazz Underground**: [Visit site](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)  
 - **Jazz Con Class**: [Explore Jazz Con Class](http://jazzconclass.com)  
 - **KSDS Jazz 88.3 FM**: [Listen to KSDS](http://jazz88.org)  
 - **Radio Suisse Jazz**: [Tune in to Radio Suisse Jazz](http://radiosuissejazz.ch)  
@@ -82,30 +82,30 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Exclusive Radio - Bob Marley**: [Link](http://exclusiveradio.com/bob-marley)  
 - **Exclusive Radio - Ella Fitzgerald**: [Link](http://exclusiveradio.com/ella-fitzgerald)  
 - **Exclusive Radio - John Coltrane**: [Link](http://exclusiveradio.com/john-coltrane)  
-- **Grateful Dead Radio - WGDR**: [Link](http://wgdr.org/grateful-dead-radio)
+- **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 
 
 ### ***Lounge & Chill***
 
 - **1.FM - Costa Del Mar**: [Listen to Costa Del Mar](https://www.1.fm/stations)  
-- **BB 05.5 Charivari Munchen - Lounge**: [Tune in to BB 05.5 Charivari](http://stream.radio.de/bb05_5-charivari-muenchen-lounge)  
+- **BB 05.5 Charivari Munchen - Lounge**: [Tune in to BB 05.5 Charivari](https://www.charivari.de/radio/internetradio-streams)  
 - **FluxFM - FluxLounge**: [Relax with FluxLounge](http://fluxfm.de/fluxlounge)  
 - **Blue Marlin Ibiza**: [Experience Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live)  
-- **Nordic Lodge**: [Chill with Nordic Lodge](http://nordiclodge.fm)  
+- **Nordic Lodge**: [Chill with Nordic Lodge](https://www.nordiclodgeradio.com/)  
 - **Tropical 100 Mix**: [Enjoy Tropical 100 Mix](http://tropical100mix.com)  
 
 
 ### ***World Music***
 
 **African:**  
-- **Oroko Radio**: [Link](http://orokoradio.com)  
-- **Pan African Space Station**: [Link](http://panafricanspace.com)  
-- **Radio Caprice - Afrobeat**: [Link](http://radiocaprice.com/afrobeat)  
+- **Oroko Radio**: [Link](https://oroko.live/)  
+- **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
+- **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)  
 
 **Latin/Caribbean:**  
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion)  
-- **Isla Negra Upbeat**: [Link](http://islanegra.fm/upbeat)  
-- **Isla Negra Slowbeat**: [Link](http://islanegra.fm/slowbeat)  
+- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d)  
+- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
 
 **Other:**  
 - **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
@@ -115,53 +115,52 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 
 ### ***SomaFM***
 
-- **SomaFM - Bossa Beyond**: [Link](http://somafm.com/bossabeyond)  
-- **SomaFM - DEF CON Radio**: [Link](http://somafm.com/defconradio)  
-- **SomaFM - Deep Space One**: [Link](http://somafm.com/deepspaceone)  
-- **SomaFM - Heavyweight Reggae**: [Link](http://somafm.com/heavyweightreggae)  
-- **SomaFM - Groove Salad**: [Link](http://somafm.com/groovesalad)  
-- **SomaFM - Groove Salad Classic**: [Link](http://somafm.com/groovesaladclassic)  
-- **SomaFM - Left Coast 70s**: [Link](http://somafm.com/leftcoast70s)  
-- **SomaFM - Live**: [Link](http://somafm.com/live)  
-- **SomaFM - Lush**: [Link](http://somafm.com/lush)  
-- **SomaFM - Illinois Street Lounge**: [Link](http://somafm.com/illinoisstreetlounge)  
-- **SomaFM - Secret Agent**: [Link](http://somafm.com/secretagent)  
-- **SomaFM - SF Police Scanner**: [Link](http://somafm.com/sfpolicescanner)  
-- **SomaFM - Seven Inch Soul**: [Link](http://somafm.com/seveninchsoul)  
-- **SomaFM - ThistleRadio**: [Link](http://somafm.com/thistleradio)  
+- **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/)  
+- **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/)
+- **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/)  
+- **SomaFM - Heavyweight Reggae**: [Link](https://somafm.com/listen/) 
+- **SomaFM - Groove Salad**: [Link](https://somafm.com/listen/)
+- **SomaFM - Groove Salad Classic**: [Link](https://somafm.com/listen/) 
+- **SomaFM - Left Coast 70s**: [Link](https://somafm.com/listen/)
+- **SomaFM - Live**: [Link](https://somafm.com/listen/)
+- **SomaFM - Lush**: [Link](https://somafm.com/listen/)  
+- **SomaFM - Illinois Street Lounge**: [Link](https://somafm.com/listen/)
+- **SomaFM - Secret Agent**: [Link](https://somafm.com/listen/)
+- **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/)  
+- **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/)
+- **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/)
 
 
 ### ***General***
 
-- **Doctor Pundit - Yacht Rock Jams**: [Link](http://doctorpundit.com/yacht-rock-stream)  
+- **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
 - **Yacht Rock Miami**: [Link](http://yachtrockmiami.com)  
 - **SuperStereo 1 - Yacht Rock**: [Link](http://superstereo.com/yachtrock)  
-- **Classic Vinyl HD**: [Link](http://classicvinylhd.com/stream)  
-- **KTKE 101.5 FM**: [Link](http://ktke.fm/stream)  
+- **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  
+- **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/)  
 - **SuperStereo 1+ - Disco, Soul & Funk**: [Link](http://superstereo.com/disco-soul-funk)  
-- **Soho Radio**: [Link](http://sohoradio.com/stream)  
-- **Technicolor Web Of Sound**: [Link](http://technicolorwebofsound.com)  
+- **Soho Radio**: [Link](http://sohoradio.com)
+- **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/)  
 - **The Dump**: [Link](http://thedump.com)  
 - **The Lake Radio**: [Link](http://thelakeradio.com)  
 - **The SoCal Sound**: [Link](http://thesocalsound.org)  
-- **The Penthouse**: [Link](http://thepenthouse.com)  
+- **The Penthouse**: [Link](https://thepenthouse.fm/)  
 - **Time Capsule Show**: [Link](http://timecapsuleshow.com)  
 - **Totally Wired Radio**: [Link](http://totallywiredradio.com)  
-- **181.fm (Soul)**: [Link](http://streams.181.fm/181-soul_128k.mp3)  
+- **181.fm**: [Link](https://www.181.fm/)  
 - **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house)  
-- **Her.st - Propaganda Broadcast**: [Link](http://her.st/propaganda)  
+- **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/)  
 - **J-Club Club Bandstand**: [Link](http://jclubradio.com)  
-- **KBON**: [Link](http://kbontv.com)  
-- **KKJZ-HD88.1**: [Link](http://kjzhd881.com)  
+- **KBON**: [Link](https://www.kbon.com/)  
+- **KKJZ-HD88.1**: [Link](https://kkjz.org/)  
 - **Le Grigri**: [Link](http://legrigri.com)  
 - **Le Mellotron**: [Link](http://lemellotron.com)  
-- **Love Live Jam Radio**: [Link](http://lovelivejam.com)  
 - **Mondo Bongo Radio**: [Link](http://mondobongoradio.com)  
 - **Mother Earth Radio**: [Link](http://motherearthradio.com)  
 - **Mother Earth Radio - Instrumental**: [Link](http://motherearthradio.com/instrumental)  
 - **Mutant Radio**: [Link](http://mutantradio.com)  
 - **Nugs Radio**: [Link](http://nugs.net)  
-- **REYFM**: [Link](http://reyfm.com)  
+- **REYFM**: [Link](https://rey.fm/)  
 - **Radio France**: [Link](http://www.radiofrance.fr/live)  
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
 - **Radio Free Phoenix**: [Link](http://radiofreephoenix.com)  
@@ -174,8 +173,8 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
 ### ***News, Talk & Spoken Word***
-- **BBC Radio 4**: [Link](http://www.bbc.co.uk/radio4/live/radio4.m3u)  
-- **BBC Radio 4 Extra**: [Link](http://www.bbc.co.uk/radio4extra/live/radio4extra.m3u)  
+- **BBC Radio 4**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)  
+- **BBC Radio 4 Extra**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)  
 - **AudioBook Radio**: [Link](https://audiobookradio.net/)  
 
 ### ***Oldies/Classic***
@@ -195,28 +194,25 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 
 ## **Radio Paradise**
-- [Radio Paradise](http://stream.radioparadise.com:8000/rp_128k.mp3)
-- [Radio Paradise](http://stream.radioparadise.com:8000/rp_128k.mp3)
-- [Radio Paradise Eclectic Mix](http://stream.radioparadise.com:8000/rp_eclectic.mp3)
-- [Radio Paradise Mellow Mix](http://stream.radioparadise.com:8000/rp_mellow.mp3)
-- [Radio Paradise Rock Mix](http://stream.radioparadise.com:8000/rp_rock.mp3)
+- [Radio Paradise](https://radioparadise.com/listen/stream-links)
+- [Radio Paradise](https://radioparadise.com/listen/stream-links)
+- [Radio Paradise Eclectic Mix](https://radioparadise.com/listen/stream-links)
+- [Radio Paradise Mellow Mix](https://radioparadise.com/listen/stream-links)
+- [Radio Paradise Rock Mix](https://radioparadise.com/listen/stream-links)
 
-## **Antenne Bayern**
-- [Antenne Bayern Chillout](http://antenne.bayern/stream/chillout.mp3)
-- [Antenne Bayern CoffeeHouse](http://antenne.bayern/stream/coffeehouse.mp3)
-- [Antenne Bayern Lounge Love Songs](http://antenne.bayern/stream/lounge_lovesongs.mp3)
-- [Antenne Bayern Oldies but Goodies](http://antenne.bayern/stream/oldies.mp3)
-- [Antenne Bayern Hitmix](http://antenne.bayern/stream/hitmix.mp3)
-- [Antenne Bayern Relax](http://antenne.bayern/stream/relax.mp3)
+## **Antenne Bayern** (https://www.antenne.de/webradio/)
+- [Antenne Bayern Chillout]
+- [Antenne Bayern CoffeeHouse]
+- [Antenne Bayern Lounge Love Songs]
+- [Antenne Bayern Oldies but Goodies]
+- [Antenne Bayern Hitmix]
+- [Antenne Bayern Relax]
 
 ## **WWOZ 90.7 – New Orleans**
 [WWOZ 90.7 New Orleans](http://streaming.wwoz.org:8000/wwoz128k)
 
 ## **Beyond the Beat Generation (1965-69)**
-[Beyond the Beat Generation](http://stream.beyondbeatgeneration.com:8000/beatgen.mp3)
-
-## **Radio Caroline – UK OG Boat Broadcast**
-- [Radio Caroline](http://stream.radiocaroline.co.uk:8000/radiocaroline.mp3)
+[Beyond the Beat Generation][(http://www.beyondthebeatgeneration.com/)
 
 ## **Retro Soul Radio UK**
 - [Retro Soul Radio UK](http://retro.soulradio.co.uk:8000/retro_soul.mp3)
@@ -250,18 +246,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 ## **Folk Alley**
 - [Folk Alley](http://stream.folkalley.com:8000/folk.mp3)
-
-## **Soma FM Left Coast – 70’s**
-- [Soma FM Left Coast](http://somafm.com/leftcoast.m3u)
-
-## **Soma FM – Groove Salad**
-- [Soma FM Groove Salad](http://somafm.com/groovesalad.m3u)
-
-## **Soma FM – Drone Zone**
-- [Soma FM Drone Zone](http://somafm.com/dronezone.m3u)
-
-## **Soma FM – Underground 80’s**
-- [Soma FM Underground 80’s](http://somafm.com/underground80s.m3u)
 
 ## **WFUV 90.7FM – NY Fordham Univ – Music Discovery**
 - [WFUV 90.7FM](http://wfuv.streamguys1.com/wfuv-128.mp3)
@@ -763,14 +747,9 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 ## **Radio Caroline 259 Gold**
 - [Radio Caroline 259 Gold](http://radiocaroline.co.uk:8000/caroline259stream.mp3)
 
-## **Soma FM – Drone Zone**
-- [Soma FM – Drone Zone](http://somafm.com/dronezone.m3u)
-
 ## **KXRY 91.1 FM – Portland**
 - [KXRY 91.1 FM](http://kxryfm.org:8000/kxrystream.mp3)
 
-## **Soma FM – Black Rock**
-- [Soma FM – Black Rock](http://somafm.com/blackrock.m3u)
 
 ## **Ralph Radio – Russia**
 - [Ralph Radio](http://ralphradio.ru:8000/ralphstream.mp3)
@@ -799,11 +778,9 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 ## **VRT MNM Hits – Belgian**
 - [VRT MNM Hits](http://mymnmbelgium.com:8000/mnmhitstream.mp3)
 
-## **Soma FM – Groove Salad**
-- [Soma FM – Groove Salad](http://somafm.com/groovesalad.m3u)
 
 ## **Radio Swiss Jazz**
-- [Radio Swiss Jazz](http://radioswissjazz.ch:8000/radioswissjazzstream.mp3)
+- [Radio Swiss Jazz](https://www.radio-browser.info/history/961ac56b-0601-11e8-ae97-52543be04c81)
 
 
 
