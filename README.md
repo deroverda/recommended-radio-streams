@@ -1,26 +1,39 @@
-![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
+# A Curated List of Internet Radio Stations
 
+Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, the lively beats of dub, or the chill energy of lo-fi, I've put together a collection of great radio stations for any music lover. From upbeat ska to mellow electronic, you'll find new tunes and hidden gems from all over. Tune in and enjoy a mix of styles, from the classics to the fresh and new.
+
+![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
 
 *Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link.*
 
-I use [Radio Browser](https://www.radio-browser.info/) to fetch the direct stream URLs for these stations. 
+---
 
-Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) for streaming these channels on mobile.
+### Recommended Apps for Streaming
 
-### Other Indexes:
-- [FMSTREAM](https://fmstream.org/index.php?c=FT)
+- **iOS**:  
+  [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) — *Recommended*  
+  [Triode](https://triode.app/),  
+  [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154),  
+  [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
 
-### Other iOS Apps:
-- [Triode](https://triode.app/)
-- [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)
-- [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
-- [SomaFM Radio Player](https://apps.apple.com/us/app/somafm-radio-player/id406262816)
 
-### Android Apps:
-- [RadioDroid](https://github.com/segler-alex/RadioDroid)
-- [Transistor](https://codeberg.org/y20k/transistor)
-- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)
-- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+- **Desktop**:  
+  [Foobar2000](https://www.foobar2000.org/) is a powerful option for streaming and supports various formats. - recommended
+
+- **Android**:  
+  [RadioDroid](https://github.com/segler-alex/RadioDroid),  
+  [Transistor](https://codeberg.org/y20k/transistor),  
+  [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp),  
+  [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+
+---
+
+### Database
+
+- [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)
+- [Radio Browser](https://www.radio-browser.info)
+- [Worldwide Radio Globe](https://radio.garden/)
+- [FMStream](https://fmstream.org)
 
 # My Personal Curated List
 
