@@ -19,7 +19,7 @@ Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.co
 - [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)
 - [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
 
-# Recommended Radio Streams
+# My Personal Curated List
 
 1. **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
 2. **BB 05.5 Charivari Munchen - Lounge**: [Link](http://stream.radio.de/bb05_5-charivari-muenchen-lounge)
