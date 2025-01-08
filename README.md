@@ -1,3 +1,24 @@
+*Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website where you can find the stream link.*
+
+I use [Radio Browser](https://www.radio-browser.info/) to fetch the direct stream URLs for these stations. 
+
+Since I use iOS on my phone, I also recommend using the free app [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) for streaming these channels on mobile.
+
+### Other Indexes:
+- [FMSTREAM](https://fmstream.org/index.php?c=FT)
+
+### Other iOS Apps:
+- [Triode](https://triode.app/)
+- [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)
+- [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
+- [SomaFM Radio Player](https://apps.apple.com/us/app/somafm-radio-player/id406262816)
+
+### Android Apps:
+- [RadioDroid](https://github.com/segler-alex/RadioDroid)
+- [Transistor](https://codeberg.org/y20k/transistor)
+- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)
+- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+
 # Recommended Radio Streams
 
 1. **1.FM - Costa Del Mar**: [Link](http://streams.1.fm/costadelmar.pls)
@@ -141,8 +162,14 @@
 139. **WWOZ - New Orleans Public Radio**: [Link](http://wwoz.org/stream)
 140. **WQXR 105.9 FM**: [Link](http://wqxr.org/stream)
 
+---
 
-radio channels worth checking out. 
+
+## Radio Channels Worth Checking Out
+
+These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste!
+
+
 ## **Radio Paradise**
 - [Radio Paradise](http://stream.radioparadise.com:8000/rp_128k.mp3)
 - [Radio Paradise Eclectic Mix](http://stream.radioparadise.com:8000/rp_eclectic.mp3)
