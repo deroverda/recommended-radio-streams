@@ -2,7 +2,7 @@
 
 I use [Radio Browser](https://www.radio-browser.info/) to fetch the direct stream URLs for these stations. 
 
-Since I use iOS on my phone, I also recommend using the free app [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) for streaming these channels on mobile.
+Since I use iOS, I recommend using the free app [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) for streaming these channels on mobile.
 
 ### Other Indexes:
 - [FMSTREAM](https://fmstream.org/index.php?c=FT)
