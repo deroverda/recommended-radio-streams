@@ -6,6 +6,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 
 *Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link.*
 
+*Note2: Please report dead links.*
 ---
 
 ### Recommended Apps for Streaming
