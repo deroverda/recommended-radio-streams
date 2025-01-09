@@ -212,8 +212,8 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 ## **WWOZ 90.7 – New Orleans**
 [WWOZ 90.7 New Orleans](https://www.wwoz.org/)
 
-## **Beyond the Beat Generation (1965-69)**
-[Beyond the Beat Generation][(http://www.beyondthebeatgeneration.com/)
+## **Beyond the Beat Generation**
+[Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/)
 
 ## **Retro Soul Radio UK**
 - [Retro Soul Radio UK](https://www.retrosoulradio.co.uk/player.html)
