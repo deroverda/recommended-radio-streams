@@ -53,6 +53,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - [Worldwide Radio Globe](https://radio.garden/)
 - [FMStream](https://fmstream.org)
 - [Radio URL Search](https://streamurl.link)
+- [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists)
 
 ### Additional Internet Radio Stations
 [deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.com) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com) | [Live365](https://www.live365.com) | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.com) | [Tilderadio](https://tilderadio.com) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [Radios.yt](https://radios.yt) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio2.com) | [Chiru.no](https://chiru.no) | [radio.uwu](https://radio.uwu) | [radcap](https://www.radcap.ru) | [Audiophile](https://www.audiophile.com) | [NTS Radio / SoundCloud](https://www.nts.live) | [You Radio](https://www.youradio.com) | [rivestream](https://www.rivestream.com)
