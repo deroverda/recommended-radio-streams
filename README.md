@@ -191,7 +191,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 
 ## Radio Channels Worth Checking Out
 
-These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste!
+These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! Some links are most proably, please report and I'll update. If you don't wanna, check if you find the direct link @ [RadioBrowser](https://www.radio-browser.info/), 9/10 times they do 😊
 
 
 ## **Radio Paradise**
