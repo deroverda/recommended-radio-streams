@@ -27,7 +27,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 ### Recommended Apps for Streaming
 
 - iOS:  
-  ⭐ [CuterDio](https://apps.apple.com/gb/app/cuterdio-internet-radio/id1489513385?l)  
+  ⭐[CuterDio](https://apps.apple.com/gb/app/cuterdio-internet-radio/id1489513385?l)  
   [Triode](https://triode.app/)  
   [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)  
   [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
