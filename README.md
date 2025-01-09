@@ -61,39 +61,40 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 # My Personal Curated List
 
 ### Electronic
-- **Cashmere Radio**: [Link](http://cashmereradio.com)  
-- **Dance Wave**: [Link](http://dancewave.com)  
-- **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop)  
-- **FluxFM - Hippie Trippy Garden**: [Link](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118)  
-- **FluxFM - Sound Of Berlin**: [Link](http://fluxfm.de/sound-of-berlin)  
-- **Frisky Deep**: [Link](https://www.friskyradio.com/)  
-- **Frisky Radio**: [Link](https://www.friskyradio.com/)  
-- **LYL Radio**: [Link](https://lyl.live/)  
-- **LuxuriaMusic**: [Link](http://luxuriamusic.com)  
-- **Octave Radio**: [Link](http://octaveradio.com)  
-- **NTS Radio Poolside**: [Link](http://ntslive.co.uk)  
-- **Radio Caprice - Minimal Tech House**: [Link](http://www.radcap.ru/)  
+- **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
+- **Dance Wave**: [Link](http://dancewave.com) | Focuses on upbeat electronic dance music.
+- **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop) | Plays a relaxed mix of hip-hop influenced electronic beats.
+- **FluxFM - Hippie Trippy Garden**: [Link](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118) | Features psychedelic and experimental electronic music.
+- **FluxFM - Sound Of Berlin**: [Link](http://fluxfm.de/sound-of-berlin) | Showcases the electronic music scene of Berlin.
+- **Frisky Deep**: [Link](https://www.friskyradio.com/) | Specializes in deep house and similar electronic styles.
+- **Frisky Radio**: [Link](https://www.friskyradio.com/) | A broader mix of various electronic genres.
+- **LYL Radio**: [Link](https://lyl.live/) |  An independent station known for diverse and eclectic electronic selections.
+- **LuxuriaMusic**: [Link](http://luxuriamusic.com) | Plays retro-futuristic and exotica-influenced electronic music.
+- **Octave Radio**: [Link](http://octaveradio.com) | Plays a variety of electronic music, sometimes also categorized as Jazz.
+- **NTS Radio Poolside**: [Link](http://ntslive.co.uk) | Features chill and summery electronic vibes.
+- **Radio Caprice - Minimal Tech House**: [Link](http://www.radcap.ru/) 
 - **Radio Paradise - Mellow**: [Link](http://radioparadise.com/mellow)  
-- **Skylab Radio**: [Link](http://skylabradio.com)  
-- **Datafruits**: [Link](https://datafruits.fm/)  
-- **dublab**: [Link](http://dublab.com)  
-- **TEKnival Radio**: [Link](http://teknivalradio.com)  
-- **Rainwave - All**: [Link](http://rainwave.cc/all)  
+- **Skylab Radio**: [Link](http://skylabradio.com) | Known for spacey, ambient, and experimental electronic sounds.
+- **Datafruits**: [Link](https://datafruits.fm/) | Focuses on chiptune and video game-inspired electronic music.
+- **dublab**: [Link](http://dublab.com) | Features a wide range of experimental and underground electronic music.
+- **TEKnival Radio**: [Link](http://teknivalradio.com) | Plays hard-edged techno and rave-inspired electronic music. 
+- **Rainwave - All**: [Link](http://rainwave.cc/all) | A mix of different types of video game music including electronic styles.
 - **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/)  
-- **Italoradio.fm**: [Link](https://italoradio.fm/)  
+- **Italoradio.fm**: [Link](https://italoradio.fm/) | Plays Italo-disco music.
 - **Radio ItaloPower!**: [Link](http://italopower.com)  
-- **Radio BipTunia**: [Link](https://biptunia.com/)  
-- **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/)
+- **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
+- **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
+
  
 #### Jazz
-- **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)  
+- **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
 - **Jazz Con Class**: [Link](http://jazzconclass.com)  
-- **KSDS Jazz 88.3 FM**: [Link](http://jazz88.org)  
+- **KSDS Jazz 88.3 FM**: [Link](http://jazz88.org) | A public radio station broadcasting classic and contemporary jazz.
 - **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
-- **WBGO 88.3**: [Link](http://wbgo.org)  
-- **WDNA 88.9**: [Link](http://wdna.org)  
-- ⭐**KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5)
-- ⭐**Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712)
+- **WBGO 88.3**: [Link](http://wbgo.org) | A New York-based public radio station specializing in jazz.
+- **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
+- ⭐**KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
+- ⭐**Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
 ### Artist Specific
 - **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
 - **Exclusive Radio - Aretha Franklin**: [Link](http://exclusiveradio.com/aretha-franklin)  
@@ -123,7 +124,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)  
 
 **Latin/Caribbean**
-- **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion)  
+- **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
 - **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d)  
 - **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
 
@@ -155,34 +156,34 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
 - **SuperStereo 1 - Yacht Rock**: [Link](http://superstereo.com/yachtrock)  
 - **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  
-- **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/)  
+- **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | general station
 - **SuperStereo 1+ - Disco, Soul & Funk**: [Link](http://superstereo.com/disco-soul-funk)  
-- **Soho Radio**: [Link](http://sohoradio.com)
-- **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/)  
-- **The Dump**: [Link](http://thedump.com)  
+- **Soho Radio**: [Link](http://sohoradio.com) | A London-based station with a variety of music and talk shows.
+- **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/) | Plays 1960s psychedelic rock and pop. 
+- **The Dump**: [Link](http://thedump.com) |  Eclectic mix of various genres and obscure music.
 - **The Lake Radio**: [Link](http://thelakeradio.com)  
-- **The SoCal Sound**: [Link](http://thesocalsound.org)  
-- **The Penthouse**: [Link](https://thepenthouse.fm/)  
+- **The SoCal Sound**: [Link](http://thesocalsound.org) | Features contemporary California rock, pop and indie music. 
+- **The Penthouse**: [Link](https://thepenthouse.fm/) | Asoul, r&b and pop music. variety of classic 
 - **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/))  
-- **Totally Wired Radio**: [Link](http://totallywiredradio.com)  
+- **Totally Wired Radio**: [Link](http://totallywiredradio.com) |  Plays a mix of indie, punk, and alternative music.
 - **181.fm**: [Link](https://www.181.fm/)  
 - **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house)  
 - **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/)  
-- **J-Club Club Bandstand**: [Link](http://jclubradio.com)  
-- **KBON**: [Link](https://www.kbon.com/)  
-- **KKJZ-HD88.1**: [Link](https://kkjz.org/)  
-- **Le Grigri**: [Link](http://legrigri.com)  
-- **Le Mellotron**: [Link](http://lemellotron.com)  
-- **Mondo Bongo Radio**: [Link](http://mondobongoradio.com)  
-- **Mother Earth Radio**: [Link](http://motherearthradio.com)  
+- **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
+- **KBON**: [Link](https://www.kbon.com/) | Plays a mix of Louisiana-based music.
+- **KKJZ-HD88.1**: [Link](https://kkjz.org/) | A public radio station that plays jazz and blues.
+- **Le Grigri**: [Link](http://legrigri.com) | Plays a mix of African and Caribbean music.
+- **Le Mellotron**: [Link](http://lemellotron.com) | Features a mix of world music, jazz and electronic.
+- **Mondo Bongo Radio**: [Link](http://mondobongoradio.com) | Plays a mix of world music, exotica and soul.
+- **Mother Earth Radio**: [Link](http://motherearthradio.com) | Plays a mix of nature-themed, acoustic music.
 - **Mother Earth Radio - Instrumental**: [Link](http://motherearthradio.com/instrumental)  
-- **Mutant Radio**: [Link](http://mutantradio.com)  
-- **Nugs Radio**: [Link](http://nugs.net)  
-- **REYFM**: [Link](https://rey.fm/)  
-- **Radio France**: [Link](http://www.radiofrance.fr/live)  
+- **Mutant Radio**: [Link](http://mutantradio.com) |  Plays an eclectic mix of experimental and alternative music.
+- **Nugs Radio**: [Link](http://nugs.net) |  Plays live recordings of rock and jam bands.
+- **REYFM**: [Link](https://rey.fm/) | Plays contemporary pop and latin music.
+- **Radio France**: [Link](http://www.radiofrance.fr/live) | A French public radio station with a variety of programming.
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
 - **Radio Free Phoenix**: [Link](http://radiofreephoenix.com)  
-- **Radio Krimi**: [Link](http://radiokrimi.com)  
+- **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
 
 
 #### Reggae & Dub
@@ -199,7 +200,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **Pumpkin FM - Radio England**: [Link](http://pumpkinfm.com/radio-england-stream)  
 - **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
 - **Vintage Obscura Radio**: [Link](http://vintageobscura.com)  
-- ⭐**Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream)
+- ⭐**Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
 
 ---
 
