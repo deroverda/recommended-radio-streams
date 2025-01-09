@@ -1,5 +1,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=for-the-badge)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=deroverda.recommended-radio-streams&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=deroverda.recommended-radio-streams)
 
 
 
