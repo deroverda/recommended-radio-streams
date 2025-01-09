@@ -212,14 +212,14 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! Some links are most proably, please report and I'll update. If you don't wanna, check if you find the direct link @ [RadioBrowser](https://www.radio-browser.info/), 9/10 times they do 😊
 
 
-### Radio Paradise
+Radio Paradise
 - [Radio Paradise](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Eclectic Mix](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Mellow Mix](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Rock Mix](https://radioparadise.com/listen/stream-links)
 
-### Antenne Bayern (https://www.antenne.de/webradio/)
+Antenne Bayern - [Link](https://www.antenne.de/webradio/)
 - [Antenne Bayern Chillout]
 - [Antenne Bayern CoffeeHouse]
 - [Antenne Bayern Lounge Love Songs]
@@ -284,8 +284,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - WQXR Q2 – Classical NY: [Link](http://wqxr.org:8000/q2.mp3)
 - Sky Radio 101Fm – Dutch/Netherlands – US Pop: [Link](http://skyradio101fm.com:8000/ustop40.mp3)
 - Jazz24: [Link](http://stream.jazz24.org:8000/jazz24.mp3)
-
-
 - KUSF.org – San Francisco: [Link](http://kusf.org:8000/kusf128.mp3)
 - Radio France Internationale – World News: [Link](http://rfi.org:8000/worldnews.mp3)
 - WGN 720 AM Chicago – News/Classic Rock: [Link](http://wgnradio.com:8000/wgn720.mp3)
@@ -329,7 +327,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - FIP – France: [Link](http://fip.fr:8000/fipstream.mp3)
 - WNYC-FM – New York City: [Link](http://wnyc.org:8000/stream.mp3)
 - 101.1 WFMU – Freeform Radio: [Link](http://wfmuradio.com:8000/wfmufm.mp3)
-
 - KEXP 90.3 FM – Seattle: [Link](http://kexp.org:8000/stream.mp3)
 - WKCR 89.9 FM – Columbia University: [Link](http://wkcr.org:8000/wkcrfm.mp3)
 - Radio New Zealand National: [Link](http://rnz.co.nz:8000/rnzstream.mp3)
@@ -409,10 +406,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - ChillTraxx – World’s Chillout Channel: [Link](http://chilltraxx.com:8000/chilloutstream.mp3)
 - VRT MNM Hits – Belgian: [Link](http://mymnmbelgium.com:8000/mnmhitstream.mp3)
 - Radio Swiss Jazz: [Link](https://www.radio-browser.info/history/961ac56b-0601-11e8-ae97-52543be04c81)
-
-
-
-
 
 
 ## Contributing
