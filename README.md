@@ -209,7 +209,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 ## Radio Channels Worth Checking Out
 
-These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! Some links are most proably, please report and I'll update. If you don't wanna, check if you find the direct link @ [RadioBrowser](https://www.radio-browser.info/), 9/10 times they do 😊
+These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! most links seem to be dead, manually search for these using the tools above. please report and I'll update.😊
 
 
 Radio Paradise
