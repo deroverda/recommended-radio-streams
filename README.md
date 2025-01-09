@@ -4,9 +4,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 
 ![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
 
-*Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link.*
-
-*Note2: Please report dead links.*
+*Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link. if you find any dead links, let me know*
 ---
 
 ### Recommended Apps for Streaming
