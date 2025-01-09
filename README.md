@@ -12,7 +12,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 ### Recommended Apps for Streaming
 
 - **iOS**:  
-  [CuterDio](https://apps.apple.com/gb/app/cuterdio-internet-radio/id1489513385?l) — *Recommended*  
+  ⭐ [CuterDio](https://apps.apple.com/gb/app/cuterdio-internet-radio/id1489513385?l) — *Recommended*  
   [Triode](https://triode.app/),  
   [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154),  
   [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
