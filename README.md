@@ -51,6 +51,9 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - [FMStream](https://fmstream.org)
 - [Radio URL Search](https://streamurl.link)
 
+### Various Internet Radio 
+[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.com) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com) | [Live365](https://www.live365.com) | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.com) | [Tilderadio](https://tilderadio.com) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [Radios.yt](https://radios.yt) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio2.com) | [Chiru.no](https://chiru.no) | [radio.uwu](https://radio.uwu) | [radcap](https://www.radcap.ru) | [Audiophile](https://www.audiophile.com) | [NTS Radio / SoundCloud](https://www.nts.live) | [You Radio](https://www.youradio.com) | [rivestream](https://www.rivestream.com)
+
 # My Personal Curated List
 
 ### Electronic
