@@ -1,6 +1,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=for-the-badge)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=deroverda.recommended-radio-streams)
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/deroverda/recommended-radio-streams&title=Visitors)
 
 
 # A Curated List of Internet Radio Stations
