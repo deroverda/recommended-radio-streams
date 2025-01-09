@@ -191,10 +191,6 @@ A curated list of great online radio channels for music lovers of all tastes and
 - ⭐**Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
-#### News, Talk & Spoken Word
-- **BBC Radio 4**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)  
-- **BBC Radio 4 Extra**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)  
-- **AudioBook Radio**: [Link](https://audiobookradio.net/)  
 
 #### Oldies/Classic
 - **Pumpkin FM - 1940s radio**: [Link](http://pumpkinfm.com/1940s-stream)  
