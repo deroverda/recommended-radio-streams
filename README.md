@@ -220,13 +220,7 @@ Radio Paradise
 - [Radio Paradise Rock Mix](https://radioparadise.com/listen/stream-links)
 
 Antenne Bayern - [Link](https://www.antenne.de/webradio/)
-- [Antenne Bayern Chillout]
-- [Antenne Bayern CoffeeHouse]
-- [Antenne Bayern Lounge Love Songs]
-- [Antenne Bayern Oldies but Goodies]
-- [Antenne Bayern Hitmix]
-- [Antenne Bayern Relax]
-
+Antenne Bayern Chillout, Antenne Bayern CoffeeHouse, Antenne Bayern Lounge Love Songs,Antenne Bayern Oldies but Goodies, Antenne Bayern Hitmix, Antenne Bayern Relax]
 - WWOZ 90.7 – New Orleans: [Link](https://www.wwoz.org/)
 - Beyond the Beat Generation: [Link](http://www.beyondthebeatgeneration.com/)
 - Retro Soul Radio UK: [Link](https://www.retrosoulradio.co.uk/player.html)
@@ -405,6 +399,7 @@ Antenne Bayern - [Link](https://www.antenne.de/webradio/)
 - VRT MNM Hits – Belgian: [Link](http://mymnmbelgium.com:8000/mnmhitstream.mp3)
 - Radio Swiss Jazz: [Link](https://www.radio-browser.info/history/961ac56b-0601-11e8-ae97-52543be04c81)
 
+--- 
 
 ## Contributing
 I'd love to hear your suggestions! If you know of any radio stations you'd like to see added or have ideas for improvements, just open an issue. I'll check it out and add it to the list of stations.
