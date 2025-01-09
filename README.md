@@ -57,7 +57,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **TEKnival Radio**: [Link](http://teknivalradio.com)  
 - **Rainwave - All**: [Link](http://rainwave.cc/all)  
 - **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/)  
-- **Italoradio.fm**: [Link](http://www.italoradio.fm)  
+- **Italoradio.fm**: [Link](https://italoradio.fm/)  
 - **Radio ItaloPower!**: [Link](http://italopower.com)  
 - **Radio BipTunia**: [Link](https://biptunia.com/)  
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/)
@@ -134,7 +134,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 ### ***General***
 
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
-- **Yacht Rock Miami**: [Link](http://yachtrockmiami.com)  
+- **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
 - **SuperStereo 1 - Yacht Rock**: [Link](http://superstereo.com/yachtrock)  
 - **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  
 - **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/)  
@@ -145,7 +145,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **The Lake Radio**: [Link](http://thelakeradio.com)  
 - **The SoCal Sound**: [Link](http://thesocalsound.org)  
 - **The Penthouse**: [Link](https://thepenthouse.fm/)  
-- **Time Capsule Show**: [Link](http://timecapsuleshow.com)  
+- **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/))  
 - **Totally Wired Radio**: [Link](http://totallywiredradio.com)  
 - **181.fm**: [Link](https://www.181.fm/)  
 - **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house)  
@@ -209,7 +209,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - [Antenne Bayern Relax]
 
 ## **WWOZ 90.7 – New Orleans**
-[WWOZ 90.7 New Orleans](http://streaming.wwoz.org:8000/wwoz128k)
+[WWOZ 90.7 New Orleans](https://www.wwoz.org/)
 
 ## **Beyond the Beat Generation (1965-69)**
 [Beyond the Beat Generation][(http://www.beyondthebeatgeneration.com/)
