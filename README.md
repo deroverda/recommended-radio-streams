@@ -93,7 +93,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **WBGO 88.3**: [Link](http://wbgo.org)  
 - **WDNA 88.9**: [Link](http://wdna.org)  
 - ⭐**KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5)
- 
+- ⭐**Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712)
 ### Artist Specific
 - **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
 - **Exclusive Radio - Aretha Franklin**: [Link](http://exclusiveradio.com/aretha-franklin)  
