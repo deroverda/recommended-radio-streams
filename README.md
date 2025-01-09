@@ -24,23 +24,24 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 ---
 
-### Recommended Apps for Streaming
+### **Recommended Apps for Streaming**
 
-- iOS:  
-  ⭐[CuterDio](https://apps.apple.com/gb/app/cuterdio-internet-radio/id1489513385?l)  
-  [Triode](https://triode.app/)  
-  [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)  
-  [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
+**iOS:**
+- ⭐ [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847)  
+- [Triode](https://triode.app/)  
+- [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)  
+- [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
+
+**Desktop:**
+- [Foobar2000](https://www.foobar2000.org/) – A powerful and customizable media player that supports a wide variety of streaming formats.
+
+**Android:**
+- [RadioDroid](https://github.com/segler-alex/RadioDroid)  
+- [Transistor](https://codeberg.org/y20k/transistor)  
+- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)  
+- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
 
 
-- Desktop:
-  [Foobar2000](https://www.foobar2000.org/) is a powerful option for streaming and supports various formats. - recommended
-
-- Android:
-  [RadioDroid](https://github.com/segler-alex/RadioDroid)
-  [Transistor](https://codeberg.org/y20k/transistor)
-  [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)
-  [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
 
 ---
 
