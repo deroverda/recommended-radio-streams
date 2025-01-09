@@ -1,3 +1,5 @@
+![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
+
 ![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=for-the-badge)
 
 
@@ -7,7 +9,6 @@
 
 Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, the lively beats of dub, or the chill energy of lo-fi, I've put together a collection of great radio stations for any music lover. From upbeat ska to mellow electronic, you'll find new tunes and hidden gems from all over. Tune in and enjoy a mix of styles, from the classics to the fresh and new.
 
-![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
 
 Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link. if you find any dead links, let me know
 
