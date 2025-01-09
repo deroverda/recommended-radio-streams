@@ -216,13 +216,11 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 [Beyond the Beat Generation][(http://www.beyondthebeatgeneration.com/)
 
 ## **Retro Soul Radio UK**
-- [Retro Soul Radio UK](http://retro.soulradio.co.uk:8000/retro_soul.mp3)
+- [Retro Soul Radio UK](https://www.retrosoulradio.co.uk/player.html)
 
 ## **Newtown Radio – Prog – Good Alt. – Brooklyn**
-- [Newtown Radio](http://newtownradio.com:8000/prog.mp3)
+- [Newtown Radio](https://newtownradio.com/explore/)
 
-## **ChillTraxx – World’s Chillout Channel**
-- [ChillTraxx](http://stream.chilltraxx.com:8000/chillout.mp3)
 
 ## **NTS Radio 1 – London**
 - [NTS Radio 1](http://nts.live/stream/nts1)
@@ -231,49 +229,37 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - [NTS Radio 2](http://nts.live/stream/nts2)
 
 ## **Worldwide FM – Cool Jazz Style mixes**
-- [Worldwide FM](http://stream.worldwidefm.net:8000/worldwidefm.mp3)
+- [Worldwide FM](https://worldwidefm.net/)
 
 ## **Bondi Beach Radio – Sydney**
-- [Bondi Beach Radio](http://stream.bondibeachradio.com:8000/bondi.mp3)
+- [Bondi Beach Radio](https://bondiradio.com.au/)
 
 ## **Resonance 104.4FM – London – Diverse Community Radio**
-- [Resonance FM](http://resonance.fm/live)
+- [Resonance FM](https://www.resonancefm.com/)
 
 ## **Radio Dismuke – 1920’s 1930’s Jazz and Pop**
-- [Radio Dismuke](http://stream.dismuke.org:8000/dismuke.mp3)
-
-## **Dubstep.fm**
-- [Dubstep.fm](http://stream.dubstep.fm:8000/dubstep.mp3)
-
-## **Folk Alley**
-- [Folk Alley](http://stream.folkalley.com:8000/folk.mp3)
+- [Radio Dismuke](https://radiodismuke.com/)
 
 ## **WFUV 90.7FM – NY Fordham Univ – Music Discovery**
-- [WFUV 90.7FM](http://wfuv.streamguys1.com/wfuv-128.mp3)
+- [WFUV 90.7FM](https://wfuv.org/options)
 
 ## **WFUV HD2 All Music 90.7Fm**
-- [WFUV HD2](http://wfuv.streamguys1.com/wfuvhd2-128.mp3)
-
-## **Bay Vibes**
-- [Bay Vibes](http://stream.bayvibes.com:8000/bayvibes.mp3)
+- [WFUV HD2](https://wfuv.org/options)
 
 ## **WFMU – Rock and Soul Ichiban – 50’s Fun**
-- [WFMU Ichiban](http://stream.wfmu.org:8000/ichiban.m3u)
+- [WFMU Ichiban](https://wfmu.org/listen-live/ichiban)
 
 ## **BBC Radio – 6 Alt Mix**
 - [BBC Radio 6](http://bbc.co.uk/radio6alt)
 
-## **Frisky Radio - Underground Electronic**
-- [Frisky Radio](http://stream.friskyradio.com:8000/underground.mp3)
-
 ## **Frisky Radio - Chill**
-- [Frisky Radio Chill](http://stream.friskyradio.com:8000/chill.mp3)
+- [Frisky Radio Chill](https://www.friskyradio.com/)
 
 ## **Frisky Radio – Deep**
-- [Frisky Radio Deep](http://stream.friskyradio.com:8000/deep.mp3)
+- [Frisky Radio Deep](https://www.friskyradio.com/)
 
 ## **Antenne Bayern – CoffeeHouse**
-- [Antenne Bayern CoffeeHouse](http://antenne.bayern/stream/coffeehouse.mp3)
+- [Antenne Bayern CoffeeHouse](https://www.antenne.de/webradio/coffeemusic)
 
 ## **KEXP 90.3 Seattle, UofWashington – Alt/Indie**
 - [KEXP 90.3](http://kexp.org/stream)
@@ -289,15 +275,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 ## **Time Capsule Audio Network**
 - [Time Capsule Audio Network](http://timecapsuleaudio.com/stream)
-
-## **57 Chevy Radio**
-- [57 Chevy Radio](http://stream.57chevyradio.com:8000/chevy.mp3)
-
-## **57 Chevy Love Songs**
-- [57 Chevy Love Songs](http://stream.57chevyradio.com:8000/lovesongs.mp3)
-
-## **Brit Sky Radio – French/Paris – Rock in English**
-- [Brit Sky Radio](http://stream.britskyradio.com:8000/rockinenglish.mp3)
 
 ## **BBC Radio 1 – Pop Mix**
 - [BBC Radio 1](http://bbc.co.uk/radio1pop)
@@ -317,20 +294,8 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 ## **KXRY 91.1 FM (KXRAY FM 107.1) – Portland – Hourly Mixes**
 - [KXRY 91.1 FM](http://kxry.fm/stream)
 
-## **Drentse Piraten – Netherlands – Dance/Urban**
-- [Drentse Piraten](http://drentsepiraten.nl:8000/danceurban.mp3)
-
-## **Drentse Piraten Hits – Netherlands – Weird Mix**
-- [Drentse Piraten Hits](http://drentsepiraten.nl:8000/weirdmix.mp3)
-
-## **KCRW 89.9 HD2 (Eclectic 24) – Eclectic Euro**
-- [KCRW Eclectic 24](http://kcrw.com/stream/eclectic24.mp3)
-
 ## **113.fm Hits 1997 – Ads**
 - [113.fm Hits 1997](http://113fm.com/hits1997)
-
-## **Radio Dark Tunnel**
-- [Radio Dark Tunnel](http://stream.radiodarktunnel.com:8000/dark.mp3)
 
 ## **JukeBox Radio – World Eclectic**
 - [JukeBox Radio](http://jukeboxradio.com:8000/worldeclectic.mp3)
