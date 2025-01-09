@@ -1,4 +1,4 @@
-![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo.jpg?raw=true)
+![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo_resized.jpg?raw=true)
 
 
 
