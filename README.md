@@ -558,7 +558,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - [Soma FM – Groove Salad](http://somafm.com/groovesalad.m3u)
 
 ## **Frisky Radio – Deep**
-- [Frisky Radio – Deep](http://friskyradio.com:8000/deepstream.mp3)
+- [Frisky Radio – Deep](https://www.friskyradio.com/)
 
 ## **JazzFM – UK**
 - [JazzFM – UK](http://jazzfm.com:8000/jazzfmstream.mp3)
