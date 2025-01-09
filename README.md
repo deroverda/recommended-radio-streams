@@ -2,6 +2,7 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/deroverda/recommended-radio-streams&title=Visitors)
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A)
 
 # A Curated List of Internet Radio Stations
 
