@@ -86,7 +86,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/)
  
 #### Jazz
-
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)  
 - **Jazz Con Class**: [Link](http://jazzconclass.com)  
 - **KSDS Jazz 88.3 FM**: [Link](http://jazz88.org)  
@@ -109,7 +108,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 
 #### Lounge & Chill
-
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)  
 - **BB 05.5 Charivari Munchen - Lounge**: [Link](https://www.charivari.de/radio/internetradio-streams)  
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
@@ -119,7 +117,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 
 #### World Music
-
 **African**
 - **Oroko Radio**: [Link](https://oroko.live/)  
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
@@ -137,7 +134,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 
 #### ⭐**SomaFM**
-
 - **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/)  
 - **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/)
 - **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/)  
@@ -155,7 +151,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 
 #### General
-
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
 - **SuperStereo 1 - Yacht Rock**: [Link](http://superstereo.com/yachtrock)  
