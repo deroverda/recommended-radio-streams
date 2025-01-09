@@ -7,10 +7,8 @@
 
 # A Curated List of Internet Radio Stations
 
-Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, the lively beats of dub, or the chill energy of lo-fi, I've put together a collection of great radio stations for any music lover. From upbeat ska to mellow electronic, you'll find new tunes and hidden gems from all over. Tune in and enjoy a mix of styles, from the classics to the fresh and new.
+A curated list of great online radio channels for music lovers of all tastes and genres. Most URLs link to the main radio creators' websites. If you can't find a stream URL, try searching in this index: [https://www.radio-browser.info](https://www.radio-browser.info)
 
-
-Note: Not all of the URLs lead directly to the stream. However, they will take you to the station's website (most probably :D) where you can find the stream link. if you find any dead links, let me know
 
 ---
 
