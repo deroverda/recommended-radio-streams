@@ -13,6 +13,15 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 ---
 
+## Table of Contents
+- [A Curated List of Internet Radio Stations](#a-curated-list-of-internet-radio-stations)
+- [Recommended Apps for Streaming](#recommended-apps-for-streaming)
+- [My Personal Curated List](#my-personal-curated-list)
+- [Contributing](#contributing)
+- [Your Suggestions](#your-suggestions)
+
+---
+
 ### Recommended Apps for Streaming
 
 - iOS:  
