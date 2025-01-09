@@ -228,21 +228,11 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - [Antenne Bayern Relax]
 
 WWOZ 90.7 – New Orleans [Link](https://www.wwoz.org/)
-
-### Beyond the Beat Generation
-[Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/)
-
-###  Retro Soul Radio UK
-- [Retro Soul Radio UK](https://www.retrosoulradio.co.uk/player.html)
-
-### Newtown Radio – Prog – Good Alt. – Brooklyn
-- [Newtown Radio](https://newtownradio.com/explore/)
-
-### NTS Radio 1 – London
-- [NTS Radio 1](http://nts.live/stream/nts1)
-
-### NTS Radio 2 – London
-- [NTS Radio 2](http://nts.live/stream/nts2)
+Beyond the Beat Generation[Link](http://www.beyondthebeatgeneration.com/)
+Retro Soul Radio UK [Link](https://www.retrosoulradio.co.uk/player.html)
+Newtown Radio – Prog – Good Alt. – Brooklyn[Link](https://newtownradio.com/explore/)
+NTS Radio 1 – London [Link](http://nts.live/stream/nts1)
+NTS Radio 2 – London [Link](http://nts.live/stream/nts2)
 
 ### Worldwide FM – Cool Jazz Style mixes
 - [Worldwide FM](https://worldwidefm.net/)
