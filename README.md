@@ -227,8 +227,6 @@ Antenne Bayern - [Link](https://www.antenne.de/webradio/)
 - [Antenne Bayern Hitmix]
 - [Antenne Bayern Relax]
 
----
-
 - WWOZ 90.7 – New Orleans: [Link](https://www.wwoz.org/)
 - Beyond the Beat Generation: [Link](http://www.beyondthebeatgeneration.com/)
 - Retro Soul Radio UK: [Link](https://www.retrosoulradio.co.uk/player.html)
