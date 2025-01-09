@@ -21,6 +21,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
 - [Contributing](#contributing)
 - [Your Suggestions](#your-suggestions)
+- [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -341,4 +342,9 @@ Here are some great radio stations suggested by the community:
 
 - [Station Name](http://link-to-station.com) – Genre
 - [Station Name](http://link-to-station.com) – Genre
+
+
+## Acknowledgements
+
+Special thanks to the users who submitted many of these radio suggestions on the internet. Also, thanks to [FMHY](https://fmhy.pages.dev/) for listing alternative radio apps.
 
