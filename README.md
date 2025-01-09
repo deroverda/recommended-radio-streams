@@ -36,9 +36,9 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
   [Foobar2000](https://www.foobar2000.org/) is a powerful option for streaming and supports various formats. - recommended
 
 - **Android**:  
-  [RadioDroid](https://github.com/segler-alex/RadioDroid),  
-  [Transistor](https://codeberg.org/y20k/transistor),  
-  [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp),  
+  [RadioDroid](https://github.com/segler-alex/RadioDroid)
+  [Transistor](https://codeberg.org/y20k/transistor)
+  [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)
   [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
 
 ---
