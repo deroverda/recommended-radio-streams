@@ -211,8 +211,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! most links seem to be dead, manually search for these using the tools above. please report and I'll update.😊
 
-
-Radio Paradise
 - [Radio Paradise](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Eclectic Mix](https://radioparadise.com/listen/stream-links)
@@ -238,10 +236,6 @@ Radio Paradise
 - WXYC 89.3FM - Chapel Hill - NC Freeform College Radio: [WXYC 89.3FM](http://stream.wxyc.org:8000/wxyc128k)
 - KNBR 104.5 – KFOG S.F. Talk/Music: [KNBR 104.5](http://knbr.com/live)
 - Time Capsule Audio Network: [Time Capsule Audio Network](http://timecapsuleaudio.com/stream)
-- BBC Radio 1 – Pop Mix: [BBC Radio 1](http://bbc.co.uk/radio1pop)
-- BBC 1xtra – Urban, Dubstep, Soul, UK, Int. Underground: [BBC 1xtra](http://bbc.co.uk/1xtra)
-- BBC 2 – Adult Pop and Rock: [BBC 2](http://bbc.co.uk/radio2adultpop)
-- BBC 3 - Jazz, World Music: [BBC 3](http://bbc.co.uk/radio3jazzworld)
 - Rinse FM (Rinse France) – Dance/Urban – London: [Rinse FM](http://rinse.fm/rinsefrance)
 - KXRY 91.1 FM (KXRAY FM 107.1) – Portland – Hourly Mixes: [KXRY 91.1 FM](http://kxry.fm/stream)
 - 113.fm Hits 1997 – Ads: [113.fm Hits 1997](http://113fm.com/hits1997)
@@ -304,7 +298,6 @@ Radio Paradise
 - Radio Subasio – Italy: [Link](http://radiosubasio.com:8000/subasio.mp3)
 - KCLR96FM – Kilkenny, Ireland: [Link](http://kclr96fm.com:8000/kclr96fm.mp3)
 - Radio BBC Asian Network: [Link](http://bbc.co.uk/radioasian)
-- SomaFM – The Beat: [Link](http://somafm.com/thebeat.m3u)
 - KZSU Stanford 90.1 FM – Stanford, CA: [Link](http://kzsu.stanford.edu:8000/stream.mp3)
 - Radio Marija – Lithuania: [Link](http://radiomarija.lt:8000/lithuania.mp3)
 - Radio 3 – Spain: [Link](http://radio3.rtve.es:8000/stream.mp3)
@@ -360,15 +353,9 @@ Radio Paradise
 - BBC World Service: [Link](http://bbc.co.uk/worldservicestream)
 - KUSF 90.3 FM – San Francisco: [Link](http://kusf.org:8000/kusfstream.mp3)
 - Folk Alley – Ohio: [Link](http://folkalley.com:8000/folkalleystream.mp3)
-- Soma FM – Groove Salad Classic: [Link](http://somafm.com/groovesaladclassic.m3u)
 - Jazz 88 – San Diego: [Link](http://jazz88.org:8000/jazzstream.mp3)
-- Soma FM – Groove Salad: [Link](http://somafm.com/groovesalad.m3u)
 - Jazz 88 – San Diego: [Link](http://jazz88.org:8000/jazzstream.mp3)
-- Soma FM – Groove Salad: [Link](http://somafm.com/groovesalad.m3u)
 - KCRW 89.9 FM – Santa Monica: [Link](http://kcrw.com:8000/kcrwstream.mp3)
-- Soma FM – Lush: [Link](http://somafm.com/lush.m3u)
-- Soma FM – Bagel Radio: [Link](http://somafm.com/bagel.m3u)
-- Soma FM – Secret Agent: [Link](http://somafm.com/secretagent.m3u)
 - Frisky Radio – Deep: [Link](http://friskyradio.com:8000/deepstream.mp3)
 - WFMU 91.1 FM – Jersey City: [Link](http://wfmu.org:8000/wfmustream.mp3)
 - Radio Dismuke – 1920’s 1930’s Jazz and Pop: [Link](http://dismuke.org:8000/dismukestream.mp3)
@@ -387,7 +374,6 @@ Radio Paradise
 - Radio Caroline 259 Gold: [Link](http://radiocaroline.co.uk:8000/caroline259stream.mp3)
 - KXRY 91.1 FM – Portland: [Link](http://kxryfm.org:8000/kxrystream.mp3)
 - Ralph Radio – Russia: [Link](http://ralphradio.ru:8000/ralphstream.mp3)
-- Soma FM – Seven Inch Soul: [Link](http://somafm.com/seveninchsoul.m3u)
 - KUSF 90.3 FM – San Francisco: [Link](http://kusf.org:8000/kusfstream.mp3)
 - BBC 1xtra: [Link](http://bbc.co.uk/1xtra.mp3)
 - KEXP – Seattle: [Link](http://kexp.org:8000/kexpstream.mp3)
