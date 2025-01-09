@@ -93,7 +93,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
 - **WBGO 88.3**: [Link](http://wbgo.org)  
 - **WDNA 88.9**: [Link](http://wdna.org)  
-- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5)
+-⭐**KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5)
  
 ### Artist Specific
 - **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
