@@ -1,4 +1,6 @@
-![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/recommended-radio-streams.jpg?raw=true)
+![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo.jpg?raw=true)
+
+
 
 ![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=for-the-badge)
 
