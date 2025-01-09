@@ -227,7 +227,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - [Antenne Bayern Hitmix]
 - [Antenne Bayern Relax]
 
-###  WWOZ 90.7 – New Orleans (https://www.wwoz.org/)
+###  WWOZ 90.7 – New Orleans [Link](https://www.wwoz.org/)
 
 ### Beyond the Beat Generation
 [Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/)
