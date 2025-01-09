@@ -56,7 +56,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 ### General Internet Radio Platforms & Aggregators
 [iHeartRadio](https://www.iheart.com) [OnlineRadioBox](https://onlineradiobox.com) [LiveOnlineRadio](https://www.liveonlineradio.net) [WebSDR](https://websdr.org) [System Bus Radio](https://systembusradio.com) [myTuner](https://mytuner-radio.com) [Zeno](https://zeno.fm) [TuneYou](https://tuneyou.com) [Tvradiotuner](https://tvradiotuner.com) [Instant.audio](https://instant.audio) [Radiodeck](https://www.radiodeck.com) [VRadio](https://www.vradio.app) [WorldRadioMap](https://www.worldradiomap.com) [Streema](https://streema.com) [vTuner](https://www.vtuner.com) [Radio.net](https://www.radio.net) [TheOneStopRadio](https://theonestopradio.com) [Radio Guide](https://www.radioguide.fm) [Xiph](https://xiph.org) [raddio](https://radd.io) [WProject](https://wproject.fm) [ilovemusic](https://ilovemusic.fm) [0nRadio](https://0nradio.com) [1a Radio](https://1aradio.com) [radioline](https://www.radioline.co) [QMPlay2](https://qmplay2.org)
 
-General Internet Radio Platforms & Aggregators
 # My Personal Curated List
 
 ### Electronic
