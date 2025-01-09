@@ -186,7 +186,7 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 
 #### Reggae & Dub
-- **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
+- ⭐**Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
 #### News, Talk & Spoken Word
