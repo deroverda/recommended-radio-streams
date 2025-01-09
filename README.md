@@ -227,54 +227,25 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - [Antenne Bayern Hitmix]
 - [Antenne Bayern Relax]
 
+---
+
 - WWOZ 90.7 – New Orleans: [Link](https://www.wwoz.org/)
 - Beyond the Beat Generation: [Link](http://www.beyondthebeatgeneration.com/)
 - Retro Soul Radio UK: [Link](https://www.retrosoulradio.co.uk/player.html)
 - Newtown Radio – Prog – Good Alt. – Brooklyn[Link](https://newtownradio.com/explore/)
 - NTS Radio 1 – London [Link](http://nts.live/stream/nts1)
 - NTS Radio 2 – London [Link](http://nts.live/stream/nts2)
-
-### Worldwide FM – Cool Jazz Style mixes
-- [Worldwide FM](https://worldwidefm.net/)
-
-### Bondi Beach Radio – Sydney
-- [Bondi Beach Radio](https://bondiradio.com.au/)
-
-### Resonance 104.4FM – London – Diverse Community Radio
-- [Resonance FM](https://www.resonancefm.com/)
-
-### Radio Dismuke – 1920’s 1930’s Jazz and Pop
-- [Radio Dismuke](https://radiodismuke.com/)
-
-### WFUV 90.7FM – NY Fordham Univ – Music Discovery
-- [WFUV 90.7FM](https://wfuv.org/options)
-
-### WFUV HD2 All Music 90.7Fm
-- [WFUV HD2](https://wfuv.org/options)
-
-### WFMU – Rock and Soul Ichiban – 50’s Fun
-- [WFMU Ichiban](https://wfmu.org/listen-live/ichiban)
-
-### BBC Radio – 6 Alt Mix
-- [BBC Radio 6](http://bbc.co.uk/radio6alt)
-
-### Frisky Radio - Chill
-- [Frisky Radio Chill](https://www.friskyradio.com/)
-
-### Frisky Radio – Deep
-- [Frisky Radio Deep](https://www.friskyradio.com/)
-
-### Antenne Bayern – CoffeeHouse
-- [Antenne Bayern CoffeeHouse](https://www.antenne.de/webradio/coffeemusic)
-
-### KEXP 90.3 Seattle, UofWashington – Alt/Indie
-- [KEXP 90.3](http://kexp.org/stream)
-
-### KUTX 98.9 – Austin UT
-- [KUTX 98.9](http://kutx.org/stream)
-
-### WXYC 89.3FM - Chapel Hill - NC Freeform College Radio
-- [WXYC 89.3FM](http://stream.wxyc.org:8000/wxyc128k)
+- Worldwide FM – Cool Jazz Style mixes [Worldwide FM](https://worldwidefm.net/)
+- Bondi Beach Radio – Sydneyb- [Bondi Beach Radio](https://bondiradio.com.au/)
+- Resonance 104.4FM – London – Diverse Community Radio [Resonance FM](https://www.resonancefm.com/)
+- Radio Dismuke – 1920’s 1930’s Jazz and Pop [Radio Dismuke](https://radiodismuke.com/)
+- WFUV 90.7FM – NY Fordham Univ – Music Discovery [WFUV 90.7FM](https://wfuv.org/options)
+- WFUV HD2 All Music 90.7Fm [WFUV HD2](https://wfuv.org/options)
+- WFMU – Rock and Soul Ichiban – 50’s Funk [WFMU Ichiban](https://wfmu.org/listen-live/ichiban)
+- Antenne Bayern – CoffeeHouse [Antenne Bayern CoffeeHouse](https://www.antenne.de/webradio/coffeemusic)
+- KEXP 90.3 Seattle, UofWashington – Alt/Indie [KEXP 90.3](http://kexp.org/stream)
+- KUTX 98.9 – Austin UT [KUTX 98.9](http://kutx.org/stream)
+- WXYC 89.3FM - Chapel Hill - NC Freeform College Radio [WXYC 89.3FM](http://stream.wxyc.org:8000/wxyc128k)
 
 ### KNBR 104.5 – KFOG S.F. Talk/Music
 - [KNBR 104.5](http://knbr.com/live)
