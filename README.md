@@ -108,12 +108,12 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 #### Lounge & Chill
 
-- **1.FM - Costa Del Mar**: [Listen to Costa Del Mar](https://www.1.fm/stations)  
-- **BB 05.5 Charivari Munchen - Lounge**: [Tune in to BB 05.5 Charivari](https://www.charivari.de/radio/internetradio-streams)  
-- **FluxFM - FluxLounge**: [Relax with FluxLounge](http://fluxfm.de/fluxlounge)  
-- **Blue Marlin Ibiza**: [Experience Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live)  
-- **Nordic Lodge**: [Chill with Nordic Lodge](https://www.nordiclodgeradio.com/)  
-- **Tropical 100 Mix**: [Enjoy Tropical 100 Mix](http://tropical100mix.com)  
+- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)  
+- **BB 05.5 Charivari Munchen - Lounge**: [Link](https://www.charivari.de/radio/internetradio-streams)  
+- **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
+- **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
+- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
+- **Tropical 100 Mix**: [Link](http://tropical100mix.com)  
 
 
 #### World Music
