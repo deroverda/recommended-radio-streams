@@ -220,7 +220,7 @@ Radio Paradise
 - [Radio Paradise Rock Mix](https://radioparadise.com/listen/stream-links)
 
 Antenne Bayern - [Link](https://www.antenne.de/webradio/)
-Antenne Bayern Chillout, Antenne Bayern CoffeeHouse, Antenne Bayern Lounge Love Songs,Antenne Bayern Oldies but Goodies, Antenne Bayern Hitmix, Antenne Bayern Relax]
+Antenne Bayern Chillout | Antenne Bayern CoffeeHouse | Antenne Bayern Lounge Love Songs|Antenne Bayern Oldies but Goodies | Bayern Hitmix | Antenne Bayern Relax
 - WWOZ 90.7 – New Orleans: [Link](https://www.wwoz.org/)
 - Beyond the Beat Generation: [Link](http://www.beyondthebeatgeneration.com/)
 - Retro Soul Radio UK: [Link](https://www.retrosoulradio.co.uk/player.html)
