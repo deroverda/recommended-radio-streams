@@ -1,6 +1,5 @@
 ![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=for-the-badge)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/deroverda/recommended-radio-streams&title=Visitors)
 
 ![](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A)
 
