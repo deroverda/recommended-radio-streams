@@ -213,7 +213,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! most links seem to be dead, manually search for these using the tools above. please report and I'll update.😊
 
 - Radio Paradise - [Link](https://radioparadise.com/listen/stream-links)
-- Radio Paradise - [Link](https://radioparadise.com/listen/stream-links)
 - Radio Paradise Eclectic Mix - [Link](https://radioparadise.com/listen/stream-links)
 - Radio Paradise Mellow Mix - [Link](https://radioparadise.com/listen/stream-links)
 - Radio Paradise Rock Mix - [Link](https://radioparadise.com/listen/stream-links)
