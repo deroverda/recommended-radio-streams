@@ -32,13 +32,13 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 ### Database
 
 - [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)
-- [Radio Browser](https://www.radio-browser.info)
+- ⭐[Radio Browser](https://www.radio-browser.info)
 - [Worldwide Radio Globe](https://radio.garden/)
 - [FMStream](https://fmstream.org)
 
 # My Personal Curated List
 
-### *Electronic***
+### Electronic
 - **Cashmere Radio**: [Link](http://cashmereradio.com)  
 - **Dance Wave**: [Link](http://dancewave.com)  
 - **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop)  
@@ -63,7 +63,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Radio BipTunia**: [Link](https://biptunia.com/)  
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/)
  
-#### *Jazz***
+#### Jazz
 
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)  
 - **Jazz Con Class**: [Link](http://jazzconclass.com)  
@@ -73,7 +73,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **WDNA 88.9**: [Link](http://wdna.org)  
 
  
-### Artist Specific**
+### Artist Specific
 - **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
 - **Exclusive Radio - Aretha Franklin**: [Link](http://exclusiveradio.com/aretha-franklin)  
 - **Exclusive Radio - BB King**: [Link](http://exclusiveradio.com/bb-king)  
@@ -86,7 +86,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 
 
-#### *Lounge & Chill***
+#### Lounge & Chill
 
 - **1.FM - Costa Del Mar**: [Listen to Costa Del Mar](https://www.1.fm/stations)  
 - **BB 05.5 Charivari Munchen - Lounge**: [Tune in to BB 05.5 Charivari](https://www.charivari.de/radio/internetradio-streams)  
@@ -96,7 +96,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Tropical 100 Mix**: [Enjoy Tropical 100 Mix](http://tropical100mix.com)  
 
 
-#### *World Music***
+#### World Music
 
 **African:**  
 - **Oroko Radio**: [Link](https://oroko.live/)  
@@ -114,7 +114,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **Alefamusic**: [Link](http://stream.alefamusic.com)
 
 
-#### *SomaFM***
+#### ⭐**SomaFM**
 
 - **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/)  
 - **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/)
@@ -132,7 +132,7 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 - **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/)
 
 
-#### *General***
+#### General
 
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
@@ -169,16 +169,16 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 
 
 
-#### *Reggae & Dub***
+#### Reggae & Dub
 - **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
-#### *News, Talk & Spoken Word***
+#### News, Talk & Spoken Word
 - **BBC Radio 4**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)  
 - **BBC Radio 4 Extra**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)  
 - **AudioBook Radio**: [Link](https://audiobookradio.net/)  
 
-#### *Oldies/Classic***
+#### Oldies/Classic
 - **Pumpkin FM - 1940s radio**: [Link](http://pumpkinfm.com/1940s-stream)  
 - **Pumpkin FM - Radio England**: [Link](http://pumpkinfm.com/radio-england-stream)  
 - **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
@@ -192,14 +192,14 @@ Whether you're into the smooth vibes of soul, the free-flowing sounds of jazz, t
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! Some links are most proably, please report and I'll update. If you don't wanna, check if you find the direct link @ [RadioBrowser](https://www.radio-browser.info/), 9/10 times they do 😊
 
 
-### Radio Paradise**
+### Radio Paradise
 - [Radio Paradise](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Eclectic Mix](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Mellow Mix](https://radioparadise.com/listen/stream-links)
 - [Radio Paradise Rock Mix](https://radioparadise.com/listen/stream-links)
 
-### Antenne Bayern** (https://www.antenne.de/webradio/)
+### Antenne Bayern (https://www.antenne.de/webradio/)
 - [Antenne Bayern Chillout]
 - [Antenne Bayern CoffeeHouse]
 - [Antenne Bayern Lounge Love Songs]
