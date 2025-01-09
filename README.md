@@ -26,16 +26,16 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 ### **Recommended Apps for Streaming**
 
-**iOS:**
+**iOS**
 - ⭐ [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847)  
 - [Triode](https://triode.app/)  
 - [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)  
 - [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
 
-**Desktop:**
+**Desktop**
 - [Foobar2000](https://www.foobar2000.org/) – A powerful and customizable media player that supports a wide variety of streaming formats.
 
-**Android:**
+**Android**
 - [RadioDroid](https://github.com/segler-alex/RadioDroid)  
 - [Transistor](https://codeberg.org/y20k/transistor)  
 - [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)  
@@ -120,17 +120,17 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 
 #### World Music
 
-**African:**  
+**African**
 - **Oroko Radio**: [Link](https://oroko.live/)  
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
 - **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)  
 
-**Latin/Caribbean:**  
+**Latin/Caribbean**
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion)  
 - **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d)  
 - **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
 
-**Other:**  
+**Other**
 - **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
 - **Celtic Music Radio**: [Link](http://www.celticmusicradio.net/listenlive)  
 - **Alefamusic**: [Link](http://stream.alefamusic.com)
@@ -188,7 +188,6 @@ Note: Not all of the URLs lead directly to the stream. However, they will take y
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
 - **Radio Free Phoenix**: [Link](http://radiofreephoenix.com)  
 - **Radio Krimi**: [Link](http://radiokrimi.com)  
-
 
 
 #### Reggae & Dub
