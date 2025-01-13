@@ -188,17 +188,17 @@ Welcome to a carefully curated collection of the best online radio stations for 
 ---
 
 ### Oldies/Classic 📼
-- **Pumpkin FM - 1940s radio**: [Link](http://pumpkinfm.com/1940s-stream)  
-- **Pumpkin FM - Radio England**: [Link](http://pumpkinfm.com/radio-england-stream)  
-- **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
-- **Vintage Obscura Radio**: [Link](http://vintageobscura.com)  
+- **Pumpkin FM - 1940s radio**: [Link](http://pumpkinfm.com/1940s-stream) | The Old Time Radio Network
+- **Pumpkin FM - Radio England**: [Link](http://pumpkinfm.com/radio-england-stream) | The Old Time Radio Network
+- **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com) | Musical History of the 50's, 60's, 70's & More!
+- **Vintage Obscura Radio**: [Link](http://vintageobscura.com) | Nearly 100,000 music-obsessed researchers scour the internet daily to uncover nearly forgotten music of every genre and category at /r/vintageobscura
 - **Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
 
 ---
 
 ### Reggae & Dub 🇯🇲 🟩🟨🟥
-- **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
-- **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)
+- **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com) | Bermuda-based online radio station playing all species of dub, downtempo and bass music -  from the classic early analogue dub reggae of the 60s and 70s, through to 80s and 90s digidub, on to year 3000 steppas and future bass music!
+- **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com) | Every song features at least one past student of the Alpha music programme in Kingston, Jamaica. Founded in 1880, Alpha has helped launch the careers of jazz innovators, ska pioneers and reggae icons. Operated by the Sisters of Mercy of Jamaica, a Catholic order of nuns since 1890, Alpha continues to develop the next generation of music talent.
 
 ---
 
@@ -218,18 +218,20 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 ### World Music 🌍🎶
 **African** 🪘🦁
-- **Oroko Radio**: [Link](https://oroko.live/)  
-- **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
+- **Oroko Radio**: [Link](https://oroko.live/) | Afro Indie Radio showcases Indie, Folk, and Soul music. Resident artist Tommy WÁ, a Nigerian-born singer/songwriter, poet, and guitarist, blends Afro Indie acoustics with poetic storytelling. Influenced by his multicultural upbringing and experiences in Nigeria and Ghana, his music reflects a soulful fusion of genres and rich folkloric wisdom. Written in English, Yoruba-influenced dialects, and pidgin, his introspective works offer mutual understanding and emotional closure to listeners.
+- **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/) | The Pan African Space Station (PASS), founded by Chimurenga and Neo Muyanga in 2008, is a dynamic platform combining a live radio studio, performance space, research hub, and internet radio station. Operating in transitory spaces, PASS blends sound, music, and words to create new forms of knowledge, inspired by Sun Ra’s philosophy, "There are other worlds out there they never told you about." PASS challenges perceptions of Africa, fosters collective experiences, and explores how we understand and mediate shared human and historical connections.
 - **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)
-- **Alefa Music - Afrobeat** [Link](https://alefamusic.net/)
+- **Alefa Music - Afrobeat** [Link](https://alefamusic.net/) | Alefamusic is a webradio dedicated to Malagasy music, especially the salegy rhythm. Founded in 2006 in France, it began as a radio show hosted by DJ Gasy Mich and Fabrice Mystone on Aligre FM 93.1 Paris, airing until November 2017. The webradio launched in 2012, continuing the show’s legacy by broadcasting Malagasy music worldwide. Alefamusic is available on its website and platforms like Orange, Freebox TV, Radioking, TuneIn, and more.
 
 **Latin/Caribbean** 🌴🎺
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
-- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d)  
-- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
+- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d) | Radio Isla Negra is a non-profit, non-commercial radio station created by Hernan Rodriguez M in 1999 from the small beach town of Isla Negra, Chile. It has been an unparalleled source of handpicked music from across the musical spectrum.
+            Its mission is to find the best tracks regardless of time, genre, or style. No additives. No sugar added. Just 100% Pure High-Quality Music.
+        Streaming without commercials or interruptions since 1999.
+- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f) 
 
 **Other** 🌀🌍
-- **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/)  
+- **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Welcome to Celtic Music Radio 95FM, a community station run by volunteers, broadcasting to Greater Glasgow and the world. We play a wide range of traditional, contemporary, folk, roots, Americana, and world music, supporting emerging acts. With strong ties to Scottish culture and festivals, we offer diverse, high-quality programming. Our loyal listeners tune in via 95FM, DAB, mobile apps, and our website. As a charity, we stay on air through donations, fundraisers, and limited advertising.
 
 </details>
 
