@@ -12,7 +12,6 @@ Welcome to a handpicked collection of the best online radio stations for music l
 ---
 
 ## Table of Contents
-- [A Curated List of Internet Radio Stations](#a-curated-list-of-internet-radio-stations)
 - [Recommended Apps for Streaming](#recommended-apps-for-streaming)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
@@ -56,7 +55,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists)
 
 ### 🔗 Additional Internet Radio Stations
-[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com) | [Live365](https://www.live365.com) | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [Radios.yt](https://radios.yt) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru) | [Audiophile](https://www.audiophile.com) | [NTS Radio / SoundCloud](https://www.nts.live) | [You Radio](https://play.you.radio/) | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
+[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com) | [Live365](https://www.live365.com) | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru) | [Audiophile](https://www.audiophile.com) | [NTS Radio / SoundCloud](https://www.nts.live) | [You Radio](https://play.you.radio/) | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
 
 ### 🌐 General Internet Radio Platforms & Aggregators
 [iHeartRadio](https://www.iheart.com) | [OnlineRadioBox](https://onlineradiobox.com) | [LiveOnlineRadio](https://www.liveonlineradio.net) | [WebSDR](http://websdr.org/) | [System Bus Radio](https://github.com/fulldecent/system-bus-radio) | [myTuner](https://mytuner-radio.com) | [Zeno](https://zeno.fm) | [TuneYou](https://tuneyou.com) | [Tvradiotuner](https://tvradiotuner.com) | [Instant.audio](https://instant.audio) | [Radiodeck](https://www.radiodeck.com) | [VRadio](https://www.vradio.app) | [WorldRadioMap](https://www.worldradiomap.com) | [Streema](https://streema.com) | [vTuner](https://www.vtuner.com) | [Radio.net](https://www.radio.net) | [TheOneStopRadio](https://theonestopradio.com) | [Radio Guide](https://www.radioguide.fm) | [Xiph](https://xiph.org) | [ilovemusic](https://ilovemusic.de/) | [0nRadio](https://0nradio.com) | [1a Radio](https://1aradio.com) | [radioline](https://www.radioline.co) | [QMPlay2](https://github.com/zaps166/QMPlay2) | [GWES EAS Relay Network](https://gwes-eas.network/listen/)
@@ -280,7 +279,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - KIX Belgium – Talk and Radio: [Link](https://www.radiokix.be/)
 - KNBR 104.5 – KFOG S.F. Talk/Music: [Link](http://knbr.com)
 - KUSF 90.3 FM – San Francisco: [Link](https://www.kusf.org)
-- KUSF.org – San Francisco: [Link](http://kusf.org)
 - KUTX 98.9 FM – Austin: [Link](http://kutx.org)
 - KUTX 98.9 – Austin UT: [Link](http://kutx.org)
 - KZSC 88.1 FM – Santa Cruz: [Link](http://kzsc.org)
@@ -324,7 +322,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - WDR 1Live Plan B: [Link](http://wdr.de)
 - WFUV 90.7 FM – New York: [Link](http://wfuv.org)
 - WFMU – Rock and Soul Ichiban – 50’s Funk: [Link](https://wfmu.org/)
-- WFMU 91.1 FM – New Jersey: [Link](http://wfmufm.org)
+- WFMU 91.1 FM – New Jersey: [Link](https://wfmu.org/)
 - WGN 720 AM Chicago – News/Classic Rock: [Link](http://wgnradio.com)
 - WKCR 89.9 FM – Columbia University: [Link](http://wkcr.org)
 - WLRN 91.3 FM – Miami: [Link](http://wlrn.org)
