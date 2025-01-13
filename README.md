@@ -243,7 +243,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - 113.fm Hits 1997 – Ads: [Link](https://www.113.fm/)
 - All Jazz Radio – South Africa: [Link](https://www.madmusicradio.com/wjzz)
 - Ambient Sleeping Pill: [Link](https://ambientsleepingpill.com/)
-- Antenne Bayern - [Link, various channels](https://www.antenne.de/webradio/)
+- Antenne Bayern - [Link](https://www.antenne.de/webradio/)
 - Antenne Bayern – CoffeeHouse: [Link](https://www.antenne.de/webradio/coffeemusic)
 - Basso Radio – Deep House and Progressive: [Link](https://www.bassoradio.com/)
 - Berlin Community Radio: [Link](https://tunein.com/radio/Berlin-Community-Radio-s209811/)
