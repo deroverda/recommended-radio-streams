@@ -6,7 +6,7 @@
 
 # A Curated List of Internet Radio Stations
 
-A curated list of great online radio channels for music lovers of all tastes and genres. Most URLs link to the main radio creators' websites. If you can't find a stream URL, try searching in this index: [https://www.radio-browser.info](https://www.radio-browser.info)
+Welcome to a handpicked collection of the best online radio stations for music lovers of all kinds! Whether you're into electronic beats, jazz, reggae, or classic rock, you'll find something here to suit your mood. Each station is linked directly to the creators' official websites. If you're having trouble finding a stream URL, try searching in this great directory: [Radio Browser Info](https://www.radio-browser.info)
 
 
 ---
