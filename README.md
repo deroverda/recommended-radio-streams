@@ -132,7 +132,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-#### Lounge & Chill 🛋️🍹
+### Lounge & Chill 🛋️🍹
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
 - **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
 - **BB 05.5 Charivari Munchen - Lounge**: [Link](https://www.charivari.de/radio/internetradio-streams)  
@@ -143,7 +143,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-#### World Music 🌍🎶
+### World Music 🌍🎶
 **African** 🪘🦁
 - **Oroko Radio**: [Link](https://oroko.live/)  
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
@@ -161,7 +161,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-#### ⭐**SomaFM**
+### ⭐**SomaFM**
 - **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/) - Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
 - **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/) - Music for Hacking. The DEF CON Year-Round Channel.
 - **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/) - Deep ambient electronic, experimental and space music. For inner and outer space exploration.
@@ -179,7 +179,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-#### General 📻🌈
+### General 📻🌈
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
 - **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/)  
@@ -215,13 +215,13 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-#### Reggae & Dub 🇯🇲🎚️
+### Reggae & Dub 🇯🇲🎚️
 - **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
 ---
 
-#### Oldies/Classic 📼
+### Oldies/Classic 📼
 - **Pumpkin FM - 1940s radio**: [Link](http://pumpkinfm.com/1940s-stream)  
 - **Pumpkin FM - Radio England**: [Link](http://pumpkinfm.com/radio-england-stream)  
 - **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
@@ -232,7 +232,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-## Radio Channels Worth Checking Out
+### Radio Channels Worth Checking Out
 <details>
   <summary>Click to expand</summary>
 
