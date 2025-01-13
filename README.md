@@ -86,7 +86,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Exclusive Radio - The Police**: [Link](https://streaming.exclusive.radio/er/policehits/icecast.audio)  
 - **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
 - **Australian Digital Radio Network - Red Hot Chili Peppers**: [Link](http://abm22.com.au:8000/CONTAINER129)  
-- **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)  
+- **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
+- **Grateful Dead Radio**: [Link](http://108.163.245.230:8100/stream) | unknown station
 - **Virgin Radio Rockstar: Rolling Stones**: [Link](https://icy.unitedradio.it/VirginSpecialEvent.mp3)
 
 
