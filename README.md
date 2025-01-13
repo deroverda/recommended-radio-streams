@@ -96,8 +96,8 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
 - **WBGO 88.3**: [Link](http://wbgo.org) | A New York-based public radio station specializing in jazz.
 - **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
-- ⭐**KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
-- ⭐**Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
+- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
+- **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
 
 ---
   
@@ -198,7 +198,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 ---
 
 #### Reggae & Dub 🇯🇲🎚️
-- ⭐**Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
+- **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
 ---
@@ -208,7 +208,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Pumpkin FM - Radio England**: [Link](http://pumpkinfm.com/radio-england-stream)  
 - **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
 - **Vintage Obscura Radio**: [Link](http://vintageobscura.com)  
-- ⭐**Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
+- **Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
 
 </details>
 
