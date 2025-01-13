@@ -1,11 +1,8 @@
 ![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo_resized.jpg?raw=true)
 
-
-
 ![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=for-the-badge)
-
-
 ![](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A)
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 # A Curated List of Internet Radio Stations
 
@@ -61,6 +58,8 @@ A curated list of great online radio channels for music lovers of all tastes and
 ### General Internet Radio Platforms & Aggregators
 [iHeartRadio](https://www.iheart.com) | [OnlineRadioBox](https://onlineradiobox.com) | [LiveOnlineRadio](https://www.liveonlineradio.net) | [WebSDR](https://websdr.org) | [System Bus Radio](https://systembusradio.com) | [myTuner](https://mytuner-radio.com) | [Zeno](https://zeno.fm) | [TuneYou](https://tuneyou.com) | [Tvradiotuner](https://tvradiotuner.com) | [Instant.audio](https://instant.audio) | [Radiodeck](https://www.radiodeck.com) | [VRadio](https://www.vradio.app) | [WorldRadioMap](https://www.worldradiomap.com) | [Streema](https://streema.com) | [vTuner](https://www.vtuner.com) | [Radio.net](https://www.radio.net) | [TheOneStopRadio](https://theonestopradio.com) | [Radio Guide](https://www.radioguide.fm) | [Xiph](https://xiph.org) | [raddio](https://radd.io) | [WProject](https://wproject.fm) | [ilovemusic](https://ilovemusic.fm) | [0nRadio](https://0nradio.com) | [1a Radio](https://1aradio.com) | [radioline](https://www.radioline.co) | [QMPlay2](https://qmplay2.org)
 
+---
+
 # My Personal Curated List
 
 ### Electronic 🎛️✨
@@ -88,6 +87,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 
+---
  
 #### Jazz 🎷🎵
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
@@ -98,6 +98,8 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
 - ⭐**KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
 - ⭐**Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
+
+---
   
 ### Artist Specific 🎤👑
 - **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
@@ -111,6 +113,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **Exclusive Radio - John Coltrane**: [Link](http://exclusiveradio.com/john-coltrane)  
 - **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 
+---
 
 #### Lounge & Chill 🛋️🍹
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)  
@@ -120,6 +123,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
 - **Tropical 100 Mix**: [Link](http://tropical100mix.com)  
 
+---
 
 #### World Music 🌍🎶
 **African** 🪘🦁
@@ -137,6 +141,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **Celtic Music Radio**: [Link](http://www.celticmusicradio.net/listenlive)  
 - **Alefamusic**: [Link](http://stream.alefamusic.com)
 
+---
 
 #### ⭐**SomaFM**
 - **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/) - Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
@@ -154,6 +159,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
 - **SomaFM - ALL CHANNELS**: [Link](https://somafm.com/listen/)
 
+---
 
 #### General 📻🌈
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
@@ -189,11 +195,13 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **Radio Free Phoenix**: [Link](http://radiofreephoenix.com)  
 - **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
 
+---
 
 #### Reggae & Dub 🇯🇲🎚️
 - ⭐**Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
+---
 
 #### Oldies/Classic 📼
 - **Pumpkin FM - 1940s radio**: [Link](http://pumpkinfm.com/1940s-stream)  
