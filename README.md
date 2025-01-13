@@ -343,5 +343,5 @@ Here are some great radio stations suggested by the community:
 
 ## Acknowledgements
 
-Special thanks to the users who submitted many of these radio suggestions on the internet. Also, thanks to [FMHY](https://fmhy.pages.dev/) for listing alternative radio apps, aggregators and platfors.
+Special thanks to the users who submitted many of these radio suggestions on the internet. Also, thanks to [FMHY](https://fmhy.pages.dev/) for listing alternative radio apps, aggregators and platforms. 
 
