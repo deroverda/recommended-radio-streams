@@ -59,7 +59,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists)
 
 ### 🔗 Additional Internet Radio Stations
-[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com) | [Live365](https://www.live365.com) | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru) | [Audiophile](https://www.audiophile.com) | [ Radio / SoundCloud](https://www..live) | [You Radio](https://play.you.radio/) | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
+[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com)  | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru) | [You Radio](https://play.you.radio/) | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
 
 ### 🌐 General Internet Radio Platforms & Aggregators
 [iHeartRadio](https://www.iheart.com) | [OnlineRadioBox](https://onlineradiobox.com) | [LiveOnlineRadio](https://www.liveonlineradio.net) | [WebSDR](http://websdr.org/) | [System Bus Radio](https://github.com/fulldecent/system-bus-radio) | [myTuner](https://mytuner-radio.com) | [Zeno](https://zeno.fm) | [TuneYou](https://tuneyou.com) | [Tvradiotuner](https://tvradiotuner.com) | [Instant.audio](https://instant.audio) | [Radiodeck](https://www.radiodeck.com) | [VRadio](https://www.vradio.app) | [WorldRadioMap](https://www.worldradiomap.com) | [Streema](https://streema.com) | [vTuner](https://www.vtuner.com) | [Radio.net](https://www.radio.net) | [TheOneStopRadio](https://theonestopradio.com) | [Radio Guide](https://www.radioguide.fm) | [Xiph](https://xiph.org) | [ilovemusic](https://ilovemusic.de/) | [0nRadio](https://0nradio.com) | [1a Radio](https://1aradio.com) | [radioline](https://www.radioline.co) | [QMPlay2](https://github.com/zaps166/QMPlay2) | [GWES EAS Relay Network](https://gwes-eas.network/listen/)
@@ -210,6 +210,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed
 - **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
 - **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
+- **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
 - **SomaFM - ALL CHANNELS**: [Link](https://somafm.com/listen/)
 
 ---
@@ -227,7 +228,6 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
 
 **Other** 🌀🌍
-- **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/)  
 
 </details>
