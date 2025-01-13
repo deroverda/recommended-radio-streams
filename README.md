@@ -363,8 +363,9 @@ I’ll review it and update the list accordingly. 😊
 ## Your Suggestions
 Here are some great radio stations suggested by the community:
 
-- [CRTV Internet Radio](https://erncrtv.com/)) – western primary for the excellent Global Weather and EAS Society EAS Relay Network. This station relays any EAS except for non-Missoula test alerts. [suggested by @macccorehenni
-- [Station Name](http://link-to-station.com) – Genre
+- [CRTV Internet Radio](https://erncrtv.com/)) – western primary for the excellent Global Weather and EAS Society EAS Relay Network. This station relays any EAS except for non-Missoula test alerts. [suggested by @macccorehenni]
+- [	NTS Radio 1](https://www.nts.live/1) – NTS is a global radio platform broadcasting music from over 50 cities around the globe, live 24/7. [suggested by @Potential-Ant-6320]
+- [	NTS Radio 2](https://www.nts.live/2) – NTS is a global radio platform broadcasting music from over 50 cities around the globe, live 24/7. [suggested by @Potential-Ant-6320]
 
 
 ## Acknowledgements
