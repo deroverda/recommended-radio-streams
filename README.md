@@ -26,19 +26,18 @@ Welcome to a handpicked collection of the best online radio stations for music l
 ### **Recommended Apps for Streaming**
 
 **📱 iOS**
-- ⭐ [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847)  
+- ⭐ [CuterDio](https://apps.apple.com/us/app/cuterdio/id1084316847) | A lightweight app for easy access to internet radio stations. Uses Radio-Browser as database. 
 - [Triode](https://triode.app/)  
-- [IHeartRadio](https://apps.apple.com/us/app/iheart-radio-podcasts-music/id290638154)  
-- [TuneIn](https://apps.apple.com/us/app/tunein-radio-music-sports/id418987775)
+
 
 **💻 Desktop**
 - [Foobar2000](https://www.foobar2000.org/) – A powerful and customizable media player that supports a wide variety of streaming formats.
 
 **🤖 Android**
-- [RadioDroid](https://github.com/segler-alex/RadioDroid)  
-- [Transistor](https://codeberg.org/y20k/transistor)  
-- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)  
-- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)
+- [RadioDroid](https://github.com/segler-alex/RadioDroid) | Open-source. Uses Radio-Browser as database. 
+- [Transistor](https://codeberg.org/y20k/transistor) | Transistor is an app with a minimalistic approach for listening to radio programs over the internet, which may not be to everyone's liking. It has no radio station discovery feature. Transistor only offers a very simple search option and it imports audio streaming links when you tap them in a web browser.
+- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) | RadioUpnp reads any internet radio.
+- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) | With over 35,000 radio stations from around the world, RadioTime offers a staggering variety of options for music lovers, news junkies, and sports enthusiasts alike.
 
 
 
