@@ -27,7 +27,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 **📱 iOS**
 - ⭐ [CuterDio](https://cuterdio.com/en) | A lightweight app for easy access to internet radio stations. Uses Radio-Browser as database. 
-- [Triode](https://triode.app/)  
+- [Triode](https://triode.app/) | Listen everywhere.
 
 
 **💻 Desktop**
@@ -43,7 +43,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-### Database
+### Radio Index
 
 - [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)
 - ⭐[Radio Browser](https://www.radio-browser.info)
@@ -328,7 +328,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - Add more genre-specific channels - ██████░░░░░░ 50% Done
 - Improve formatting and make it more user-friendly - ██████████░░░░ 80% Done
 
-## Contributing
+## Contributing 🎉
 
 I welcome contributions! If you know of any great radio stations that should be added, or if you spot any issues (like dead links), feel free to open an issue. 
 
