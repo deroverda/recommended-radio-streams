@@ -19,6 +19,7 @@ A curated list of great online radio channels for music lovers of all tastes and
 - [Recommended Apps for Streaming](#recommended-apps-for-streaming)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
+- [Things to Do](#things-to-do)
 - [Contributing](#contributing)
 - [Your Suggestions](#your-suggestions)
 - [Acknowledgements](#acknowledgements)
@@ -323,6 +324,12 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - WXYC 89.3FM - Chapel Hill - NC Freeform College Radio: [Link](http://stream.wxyc.org:8000/wxyc128k)
 
 --- 
+
+## Things to Do
+
+- Fix broken links
+- Add more genre-specific channels
+- Improve formatting and make it mobile-friendly
 
 ## Contributing
 I'd love to hear your suggestions! If you know of any radio stations you'd like to see added or have ideas for improvements, just open an issue. I'll check it out and add it to the list of stations.
