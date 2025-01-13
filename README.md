@@ -366,7 +366,7 @@ Here are some great radio stations suggested by the community:
 - [	NTS Radio 1](https://www.nts.live/1) – NTS is a global radio platform broadcasting music from over 50 cities around the globe, live 24/7. [suggested by @Potential-Ant-6320]
 - [	NTS Radio 2](https://www.nts.live/2) – NTS is a global radio platform broadcasting music from over 50 cities around the globe, live 24/7. [suggested by @Potential-Ant-6320]
 - [GWES EAS Relay Network](https://gwes-eas.network/listen/) – all of the sister stations in the ERN network that CRTV is a part of. [suggested by @Potential-Ant-6320]
-
+- [KPISS](https://kpiss.fm/) – aka “the Golden Stream” is a very silly DJ-supported eclectic internet radio station with loads of great specialty shows. It used to be physically located in Brooklyn but went internet only during Covid. [suggested by @dotheemptyhouse]
 
 ## Acknowledgements
 
