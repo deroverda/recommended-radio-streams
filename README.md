@@ -71,18 +71,19 @@ Welcome to a handpicked collection of the best online radio stations for music l
   <summary>Click to expand</summary>
 
 ### Electronic 🎛️✨
-- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
 - **1.FM - Deep Techno & House**: [Link](https://www.1.fm/stations)
 - **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
 - **Dance Wave**: [Link](http://dancewave.com) | Focuses on upbeat electronic dance music.
 - **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop) | Plays a relaxed mix of hip-hop influenced electronic beats.
 - **FluxFM - Hippie Trippy Garden**: [Link](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118) | Features psychedelic and experimental electronic music.
 - **FluxFM - Sound Of Berlin**: [Link](http://fluxfm.de/sound-of-berlin) | Showcases the electronic music scene of Berlin.
+- **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house)  
 - **Frisky Deep**: [Link](https://www.friskyradio.com/) | Specializes in deep house and similar electronic styles.
 - **Frisky Radio**: [Link](https://www.friskyradio.com/) | A broader mix of various electronic genres.
 - **LYL Radio**: [Link](https://lyl.live/) |  An independent station known for diverse and eclectic electronic selections.
 - **LuxuriaMusic**: [Link](http://luxuriamusic.com) | Plays retro-futuristic and exotica-influenced electronic music.
 - **Octave Radio**: [Link](http://octaveradio.com) | Plays a variety of electronic music, sometimes also categorized as Jazz.
+- **OpenLab FM**: [Link](https://openlab.fm) | Broadcasting from Ibiza, this station offers a unique blend of electronic music and visual arts, curated by a roster of creative professionals.
 - **NTS Radio - Poolside**: [Link](http://ntslive.co.uk) | Features chill and summery electronic vibes.
 - **Radio Caprice - Minimal Tech House**: [Link](http://www.radcap.ru/) | Tech house
 - **Skylab Radio**: [Link](http://skylabradio.com) | Known for spacey, ambient, and experimental electronic sounds.
@@ -96,7 +97,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 - **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
-- **OpenLab FM**: [Link](https://openlab.fm) | Broadcasting from Ibiza, this station offers a unique blend of electronic music and visual arts, curated by a roster of creative professionals.
+
 
 ---
  
@@ -136,19 +137,17 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **WMNR**: [Link](https://www.wmnr.org/listen)
 
 
-
-
-
 ---
 
 ### Lounge & Chill 🛋️🍹
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
+- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
 - **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
 - **BB 05.5 Charivari Munchen**: [Link](https://www.charivari.de/radio/internetradio-streams)  
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
 - **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
-- **Tropical 100 Salsa**: [Link](https://www.radio-browser.info/history/224004c9-b278-4f43-a846-094a1e87e918)  
+
 
 ---
 
@@ -172,15 +171,10 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ### ⭐**SomaFM**
 - **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/) - Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
-- **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/) - Music for Hacking. The DEF CON Year-Round Channel.
 - **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/) - Deep ambient electronic, experimental and space music. For inner and outer space exploration.
-- **SomaFM - Heavyweight Reggae**: [Link](https://somafm.com/listen/) - Reggae, Ska, Rocksteady classic and deep tracks.
 - **SomaFM - Groove Salad**: [Link](https://somafm.com/listen/) | A nicely chilled plate of ambient/downtempo beats and grooves.
 - **SomaFM - Groove Salad Classic**: [Link](https://somafm.com/listen/) | The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
 - **SomaFM - Left Coast 70s**: [Link](https://somafm.com/listen/) | Mellow album rock from the Seventies. Yacht not required.
-- **SomaFM - Lush**: [Link](https://somafm.com/listen/) | Sensuous and mellow female vocals, many with an electronic influence.
-- **SomaFM - Illinois Street Lounge**: [Link](https://somafm.com/listen/) | Classic bachelor pad, playful exotica and vintage music of tomorrow.
-- **SomaFM - Secret Agent**: [Link](https://somafm.com/listen/) | The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
 - **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed
 - **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
 - **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
@@ -204,7 +198,6 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/))  
 - **Totally Wired Radio**: [Link](http://totallywiredradio.com) |  Plays a mix of indie, punk, and alternative music.
 - **181.fm**: [Link](https://www.181.fm/)  
-- **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house)  
 - **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/)  
 - **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
 - **KBON**: [Link](https://www.kbon.com/) | Plays a mix of Louisiana-based music.
