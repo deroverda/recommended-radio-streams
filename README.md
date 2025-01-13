@@ -343,7 +343,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 ## Things to Do
 
-- Fix broken links
+- Review broken links and update them
 - Add more genre-specific channels
 - Improve formatting and make it mobile-friendly
 
