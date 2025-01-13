@@ -91,6 +91,8 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Radio ItaloPower!**: [Link](http://italopower.com) | Italodisco hits & rarities.
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
+- **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
+- **OpenLab FM**: [Link](https://openlab.fm) | Broadcasting from Ibiza, this station offers a unique blend of electronic music and visual arts, curated by a roster of creative professionals.
 
 ---
  
