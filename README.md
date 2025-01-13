@@ -101,9 +101,9 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music)
 - **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music)
 - **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music)
-- **WFMT Chicago**: [Link](https://www.wfmt.com/)
-- **WBJC Baltimore**: [Link](https://www.wbjc.com/)
-- **WMNR**: [Link](https://www.wmnr.org/listen)
+- **WFMT Chicago**: [Link](https://www.wfmt.com/) | WFMT has been broadcasting classical music since 1951. Its website says WFMT "strives to entertain, engage, and above all, respect its listeners with a quality and variety of programming found nowhere else." It is also the primary station of the nationally syndicated WFMT Radio Network and a jazz network available to other public radio stations around the U.S. 
+- **WBJC Baltimore**: [Link](https://www.wbjc.com/) | WBJC-FM is the classical radio voice of Baltimore City Community College.
+- **WMNR**: [Link](https://www.wmnr.org/listen) | WMNR Fine Arts Radio is a public radio station, licensed to the Town of Monroe (Connecticut). We are on air 24/7,  providing classical and classic music via FM signal to much of Connecticut and nearby portions of New York. Our live stream is enjoyed around the world.
 
 ---
 
@@ -139,22 +139,22 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 ### General 📻
 - **BBC Radio 6 Music**: [Link](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8) 
-- **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
-- **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
-- **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/)  
-- **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  
+- **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/) | Yach Rock.  
+- **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  | Yach Rock.  
+- **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/) | Yach Rock. 
+- **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  | general
 - **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | general station
 - **SuperStereo 1+ - Disco, Soul & Funk**: [Link](https://www.hiresaudio.online/category/radio/)  
 - **Soho Radio**: [Link](http://sohoradio.com) | A London-based station with a variety of music and talk shows.
 - **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/) | Plays 1960s psychedelic rock and pop. 
 - **The Dump**: [Link](http://thedump.com) |  Eclectic mix of various genres and obscure music.
-- **The Lake Radio**: [Link](http://thelakeradio.com)  
+- **The Lake Radio**: [Link](http://thelakeradio.com) | The Lake is a place for music and sounds. The radio stream runs at all hours of the day and is randomized. No one knows what The Lake plays next.
 - **The SoCal Sound**: [Link](http://thesocalsound.org) | Features contemporary California rock, pop and indie music. 
 - **The Penthouse**: [Link](https://thepenthouse.fm/) | Asoul, r&b and pop music. variety of classic 
 - **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/))  
 - **Totally Wired Radio**: [Link](http://totallywiredradio.com) |  Plays a mix of indie, punk, and alternative music.
 - **181.fm**: [Link](https://www.181.fm/)  
-- **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/)  
+- **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/) | This station is a 24/7 stream of Her.st Propaganda Broadcast! Conspiracy Theories, Philosophy, and more! Coast to Coast AM archives, Alan Watts lectures, Terence McKenna lectures, and more!
 - **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
 - **KBON**: [Link](https://www.kbon.com/) | Plays a mix of Louisiana-based music.
 - **KKJZ-HD88.1**: [Link](https://kkjz.org/) | A public radio station that plays jazz and blues.
@@ -169,7 +169,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **REYFM**: [Link](https://rey.fm/) | Plays contemporary pop and latin music.
 - **Radio France**: [Link](http://www.radiofrance.fr/live) | A French public radio station with a variety of programming.
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
-- **Radio Free Phoenix**: [Link](http://radiofreephoenix.com)  
+- **Radio Free Phoenix**: [Link](http://radiofreephoenix.com) | general
 - **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
 - **KEXP**: [Link](https://www.kexp.org/listen/) | Highly praised for its exceptional music selection.
 
@@ -177,9 +177,9 @@ Welcome to a carefully curated collection of the best online radio stations for 
  
 ### Jazz 🎷
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
-- **Jazz Con Class**: [Link](http://jazzconclass.com)  
+- **Jazz Con Class**: [Link](http://jazzconclass.com) | Jazz Con Class Radio, hosted by Jose Reyes, is a 24/7 online station focused on traditional/classic Jazz from the late 40s to the early 70s. It aims to revive and celebrate Jazz music, which Reyes feels has been overlooked
 - **KSDS Jazz 88.3 FM**: [Link](https://www.jazz88.org/) | A public radio station broadcasting classic and contemporary jazz.
-- **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
+- **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch) | Radio Swiss Jazz is the perfect musical companion: swinging standards from the «Great American Songbook» as well as gems of innovative bebop instrumentalists, supplemented with Latin, Black and World Music, result in the ideal non-stop mix for any time of day or night. 
 - **WBGO 88.3**: [Link](http://wbgo.org) | A New York-based public radio station specializing in jazz.
 - **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
 - **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
