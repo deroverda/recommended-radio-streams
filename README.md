@@ -213,6 +213,8 @@ A curated list of great online radio channels for music lovers of all tastes and
 ---
 
 ## Radio Channels Worth Checking Out
+<details>
+  <summary>Click to expand</summary>
 
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! most links seem to be dead, manually search for these using the tools above. please report and I'll update.😊
 
@@ -331,6 +333,8 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - WRIR 97.3 FM – Richmond: [Link](http://wrir.org:8000/wrirstream.mp3)
 - WWOZ 90.7 – New Orleans: [Link](https://www.wwoz.org/)
 - WXYC 89.3FM - Chapel Hill - NC Freeform College Radio: [Link](http://stream.wxyc.org:8000/wxyc128k)
+
+</details>
 
 --- 
 
