@@ -138,6 +138,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 ---
 
 ### General 📻
+- **BBC Radio 6 Music**: [Link](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8) 
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
 - **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/)  
