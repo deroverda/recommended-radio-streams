@@ -60,7 +60,9 @@ A curated list of great online radio channels for music lovers of all tastes and
 
 ---
 
-# My Personal Curated List
+## My Personal Curated List
+<details>
+  <summary>Click to expand</summary>
 
 ### Electronic 🎛️✨
 - **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
@@ -209,6 +211,8 @@ A curated list of great online radio channels for music lovers of all tastes and
 - **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
 - **Vintage Obscura Radio**: [Link](http://vintageobscura.com)  
 - ⭐**Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
+
+</details>
 
 ---
 
