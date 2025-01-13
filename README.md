@@ -75,8 +75,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **LuxuriaMusic**: [Link](http://luxuriamusic.com) | Plays retro-futuristic and exotica-influenced electronic music.
 - **Octave Radio**: [Link](http://octaveradio.com) | Plays a variety of electronic music, sometimes also categorized as Jazz.
 - **NTS Radio Poolside**: [Link](http://ntslive.co.uk) | Features chill and summery electronic vibes.
-- **Radio Caprice - Minimal Tech House**: [Link](http://www.radcap.ru/) 
-- **Radio Paradise - Mellow**: [Link](http://radioparadise.com/mellow)  
+- **Radio Caprice - Minimal Tech House**: [Link](http://www.radcap.ru/) | Tech house
 - **Skylab Radio**: [Link](http://skylabradio.com) | Known for spacey, ambient, and experimental electronic sounds.
 - **Datafruits**: [Link](https://datafruits.fm/) | Focuses on chiptune and video game-inspired electronic music.
 - **dublab**: [Link](http://dublab.com) | Features a wide range of experimental and underground electronic music.
@@ -84,7 +83,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Rainwave - All**: [Link](http://rainwave.cc/all) | A mix of different types of video game music including electronic styles.
 - **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/)  
 - **Italoradio.fm**: [Link](https://italoradio.fm/) | Plays Italo-disco music.
-- **Radio ItaloPower!**: [Link](http://italopower.com)  
+- **Radio ItaloPower!**: [Link](http://italopower.com) | Italodisco hits & rarities.
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 
