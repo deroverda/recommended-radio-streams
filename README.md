@@ -217,6 +217,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
 - **Radio Free Phoenix**: [Link](http://radiofreephoenix.com)  
 - **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
+- **KEXP**: [Link](https://www.kexp.org/listen/) | Highly praised for its exceptional music selection.
 
 ---
 
