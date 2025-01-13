@@ -79,7 +79,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Exclusive Radio - Ella Fitzgerald**: [Link](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)  
 - **Exclusive Radio - John Coltrane**: [Link](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)  
 - **Exclusive Radio - The Beatles**: [Link](http://streaming.exclusive.radio/er/beatles/icecast.audio)  
-- **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
+- **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)
+- **Australian Digital Radio Network - Red Hot Chili Peppers**: [Link](http://abm22.com.au:8000/CONTAINER129)
 - **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 
 
