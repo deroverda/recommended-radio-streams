@@ -144,7 +144,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 ### Lounge & Chill 🛋️🍹
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
 - **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
-- **BB 05.5 Charivari Munchen - Lounge**: [Link](https://www.charivari.de/radio/internetradio-streams)  
+- **BB 05.5 Charivari Munchen**: [Link](https://www.charivari.de/radio/internetradio-streams)  
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
 - **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
