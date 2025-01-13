@@ -64,6 +64,8 @@ Welcome to a handpicked collection of the best online radio stations for music l
   <summary>Click to expand</summary>
 
 ### Electronic 🎛️✨
+- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
+- **1.FM - Deep Techno & House**: [Link](https://www.1.fm/stations)
 - **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
 - **Dance Wave**: [Link](http://dancewave.com) | Focuses on upbeat electronic dance music.
 - **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop) | Plays a relaxed mix of hip-hop influenced electronic beats.
@@ -115,8 +117,24 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
+### Classical 🎻🎶
+
+- **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music)
+- **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music)
+- **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music)
+- **WFMT Chicago**: [Link](https://www.wfmt.com/)
+- **WBJC Baltimore**: [Link](https://www.wbjc.com/)
+- **WMNR**: [Link](https://www.wmnr.org/listen)
+
+
+
+
+
+---
+
 #### Lounge & Chill 🛋️🍹
-- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)  
+- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
+- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
 - **BB 05.5 Charivari Munchen - Lounge**: [Link](https://www.charivari.de/radio/internetradio-streams)  
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
