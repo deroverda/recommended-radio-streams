@@ -345,7 +345,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 ## Things to Do
 
-- Review broken links and update them - ██████████ 99% Done
+- Review broken links and update them - █████████░░ 80% Done
 - Add more genre-specific channels - ██████░░░░░░ 50% Done
 - Improve formatting and make it more user-friendly - ██████████░░░░ 80% Done
 
