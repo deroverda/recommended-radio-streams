@@ -138,20 +138,20 @@ A curated list of great online radio channels for music lovers of all tastes and
 
 
 #### ⭐**SomaFM**
-- **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/)  
-- **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/)
-- **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/)  
-- **SomaFM - Heavyweight Reggae**: [Link](https://somafm.com/listen/) 
-- **SomaFM - Groove Salad**: [Link](https://somafm.com/listen/)
-- **SomaFM - Groove Salad Classic**: [Link](https://somafm.com/listen/) 
-- **SomaFM - Left Coast 70s**: [Link](https://somafm.com/listen/)
-- **SomaFM - Live**: [Link](https://somafm.com/listen/)
-- **SomaFM - Lush**: [Link](https://somafm.com/listen/)  
-- **SomaFM - Illinois Street Lounge**: [Link](https://somafm.com/listen/)
-- **SomaFM - Secret Agent**: [Link](https://somafm.com/listen/)
-- **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/)  
-- **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/)
-- **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/)
+- **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/) - Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
+- **SomaFM - DEF CON Radio**: [Link](https://somafm.com/listen/) - Music for Hacking. The DEF CON Year-Round Channel.
+- **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/) - Deep ambient electronic, experimental and space music. For inner and outer space exploration.
+- **SomaFM - Heavyweight Reggae**: [Link](https://somafm.com/listen/) - Reggae, Ska, Rocksteady classic and deep tracks.
+- **SomaFM - Groove Salad**: [Link](https://somafm.com/listen/) | A nicely chilled plate of ambient/downtempo beats and grooves.
+- **SomaFM - Groove Salad Classic**: [Link](https://somafm.com/listen/) | The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
+- **SomaFM - Left Coast 70s**: [Link](https://somafm.com/listen/) | Mellow album rock from the Seventies. Yacht not required.
+- **SomaFM - Lush**: [Link](https://somafm.com/listen/) | Sensuous and mellow female vocals, many with an electronic influence.
+- **SomaFM - Illinois Street Lounge**: [Link](https://somafm.com/listen/) | Classic bachelor pad, playful exotica and vintage music of tomorrow.
+- **SomaFM - Secret Agent**: [Link](https://somafm.com/listen/) | The soundtrack for your stylish, mysterious, dangerous life. For Spies and PIs too!
+- **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed
+- **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
+- **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
+- **SomaFM - ALL CHANNELS**: [Link](https://somafm.com/listen/)
 
 
 #### General
