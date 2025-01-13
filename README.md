@@ -70,6 +70,31 @@ Welcome to a handpicked collection of the best online radio stations for music l
 <details>
   <summary>Click to expand</summary>
 
+### Artist Specific 🎤👑
+- **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
+- **Exclusive Radio - Aretha Franklin**: [Link](http://exclusiveradio.com/aretha-franklin)  
+- **Exclusive Radio - BB King**: [Link](http://exclusiveradio.com/bb-king)  
+- **Exclusive Radio - The Beatles**: [Link](http://exclusiveradio.com/the-beatles)  
+- **Exclusive Radio - Van Morrison**: [Link](http://exclusiveradio.com/van-morrison)  
+- **Exclusive Radio - Queen**: [Link](http://exclusiveradio.com/queen)  
+- **Exclusive Radio - Bob Marley**: [Link](http://exclusiveradio.com/bob-marley)  
+- **Exclusive Radio - Ella Fitzgerald**: [Link](http://exclusiveradio.com/ella-fitzgerald)  
+- **Exclusive Radio - John Coltrane**: [Link](http://exclusiveradio.com/john-coltrane)  
+- **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
+
+---
+
+### Classical 🎻🎶
+
+- **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music)
+- **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music)
+- **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music)
+- **WFMT Chicago**: [Link](https://www.wfmt.com/)
+- **WBJC Baltimore**: [Link](https://www.wbjc.com/)
+- **WMNR**: [Link](https://www.wmnr.org/listen)
+
+---
+
 ### Electronic ⚡
 - **1.FM - Deep Techno & House**: [Link](https://www.1.fm/stations)
 - **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
@@ -97,88 +122,6 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 - **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
-
-
----
- 
-### Jazz 🎷
-- **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
-- **Jazz Con Class**: [Link](http://jazzconclass.com)  
-- **KSDS Jazz 88.3 FM**: [Link](https://www.jazz88.org/) | A public radio station broadcasting classic and contemporary jazz.
-- **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
-- **WBGO 88.3**: [Link](http://wbgo.org) | A New York-based public radio station specializing in jazz.
-- **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
-- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
-- **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
-
----
-  
-### Artist Specific 🎤👑
-- **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
-- **Exclusive Radio - Aretha Franklin**: [Link](http://exclusiveradio.com/aretha-franklin)  
-- **Exclusive Radio - BB King**: [Link](http://exclusiveradio.com/bb-king)  
-- **Exclusive Radio - The Beatles**: [Link](http://exclusiveradio.com/the-beatles)  
-- **Exclusive Radio - Van Morrison**: [Link](http://exclusiveradio.com/van-morrison)  
-- **Exclusive Radio - Queen**: [Link](http://exclusiveradio.com/queen)  
-- **Exclusive Radio - Bob Marley**: [Link](http://exclusiveradio.com/bob-marley)  
-- **Exclusive Radio - Ella Fitzgerald**: [Link](http://exclusiveradio.com/ella-fitzgerald)  
-- **Exclusive Radio - John Coltrane**: [Link](http://exclusiveradio.com/john-coltrane)  
-- **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
-
----
-
-### Classical 🎻🎶
-
-- **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music)
-- **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music)
-- **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music)
-- **WFMT Chicago**: [Link](https://www.wfmt.com/)
-- **WBJC Baltimore**: [Link](https://www.wbjc.com/)
-- **WMNR**: [Link](https://www.wmnr.org/listen)
-
-
----
-
-### Lounge & Chill 🍹🌅🌴
-- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
-- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
-- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
-- **BB 05.5 Charivari Munchen**: [Link](https://www.charivari.de/radio/internetradio-streams)  
-- **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
-- **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
-- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
-
-
----
-
-### World Music 🌍🎶
-**African** 🪘🦁
-- **Oroko Radio**: [Link](https://oroko.live/)  
-- **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
-- **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)
-- **Alefa Music - Afrobeat** [Link](https://alefamusic.net/)
-
-**Latin/Caribbean** 🌴🎺
-- **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
-- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d)  
-- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
-
-**Other** 🌀🌍
-- **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
-- **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/)  
-
----
-
-### ⭐**SomaFM**
-- **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/) - Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
-- **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/) - Deep ambient electronic, experimental and space music. For inner and outer space exploration.
-- **SomaFM - Groove Salad**: [Link](https://somafm.com/listen/) | A nicely chilled plate of ambient/downtempo beats and grooves.
-- **SomaFM - Groove Salad Classic**: [Link](https://somafm.com/listen/) | The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
-- **SomaFM - Left Coast 70s**: [Link](https://somafm.com/listen/) | Mellow album rock from the Seventies. Yacht not required.
-- **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed
-- **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
-- **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
-- **SomaFM - ALL CHANNELS**: [Link](https://somafm.com/listen/)
 
 ---
 
@@ -217,10 +160,29 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **KEXP**: [Link](https://www.kexp.org/listen/) | Highly praised for its exceptional music selection.
 
 ---
+ 
+### Jazz 🎷
+- **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
+- **Jazz Con Class**: [Link](http://jazzconclass.com)  
+- **KSDS Jazz 88.3 FM**: [Link](https://www.jazz88.org/) | A public radio station broadcasting classic and contemporary jazz.
+- **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch)  
+- **WBGO 88.3**: [Link](http://wbgo.org) | A New York-based public radio station specializing in jazz.
+- **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
+- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
+- **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
 
-### Reggae & Dub 🇯🇲 🟩🟨🟥
-- **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
-- **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
+---
+  
+
+### Lounge & Chill 🍹🌅🌴
+- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
+- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
+- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
+- **BB 05.5 Charivari Munchen**: [Link](https://www.charivari.de/radio/internetradio-streams)  
+- **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
+- **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
+- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
+
 
 ---
 
@@ -230,6 +192,43 @@ Welcome to a handpicked collection of the best online radio stations for music l
 - **Ultimate Oldies Radio**: [Link](http://ultimateoldiesradio.com)  
 - **Vintage Obscura Radio**: [Link](http://vintageobscura.com)  
 - **Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
+
+---
+
+### Reggae & Dub 🇯🇲 🟩🟨🟥
+- **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
+- **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)
+
+---
+
+### ⭐**SomaFM**
+- **SomaFM - Bossa Beyond**: [Link](https://somafm.com/listen/) - Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba and beyond
+- **SomaFM - Deep Space One**: [Link](https://somafm.com/listen/) - Deep ambient electronic, experimental and space music. For inner and outer space exploration.
+- **SomaFM - Groove Salad**: [Link](https://somafm.com/listen/) | A nicely chilled plate of ambient/downtempo beats and grooves.
+- **SomaFM - Groove Salad Classic**: [Link](https://somafm.com/listen/) | The classic (early 2000s) version of a nicely chilled plate of ambient/downtempo beats and grooves.
+- **SomaFM - Left Coast 70s**: [Link](https://somafm.com/listen/) | Mellow album rock from the Seventies. Yacht not required.
+- **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed
+- **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
+- **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
+- **SomaFM - ALL CHANNELS**: [Link](https://somafm.com/listen/)
+
+---
+
+### World Music 🌍🎶
+**African** 🪘🦁
+- **Oroko Radio**: [Link](https://oroko.live/)  
+- **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/)  
+- **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)
+- **Alefa Music - Afrobeat** [Link](https://alefamusic.net/)
+
+**Latin/Caribbean** 🌴🎺
+- **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
+- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d)  
+- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)  
+
+**Other** 🌀🌍
+- **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
+- **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/)  
 
 </details>
 
