@@ -32,6 +32,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 **💻 Desktop**
 - [Foobar2000](https://www.foobar2000.org/) – A powerful and customizable media player that supports a wide variety of streaming formats.
+- [Lyrion Music Server](https://github.com/LMS-Community)
 
 **🤖 Android**
 - [RadioDroid](https://github.com/segler-alex/RadioDroid) | Open-source. Uses Radio-Browser as database. 
