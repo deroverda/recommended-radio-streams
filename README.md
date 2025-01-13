@@ -348,14 +348,16 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - Improve formatting and make it mobile-friendly
 
 ## Contributing
-I'd love to hear your suggestions! If you know of any radio stations you'd like to see added or have ideas for improvements, just open an issue. I'll check it out and add it to the list of stations.
+
+I welcome contributions! If you know of any great radio stations that should be added, or if you spot any issues (like dead links), feel free to open an issue. 
 
 ### How to Suggest:
 1. Open an issue in this repository.
 2. Include the station name, genre, and link in your suggestion.
-3. I will review your suggestion and add it to the list.
+3. If you're familiar with markdown, feel free to open a PR to add your suggestion directly!
 
-Feel free to share your thoughts or ideas anytime! 😊
+I’ll review it and update the list accordingly. 😊
+
 
 ## Your Suggestions
 Here are some great radio stations suggested by the community:
