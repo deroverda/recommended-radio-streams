@@ -70,7 +70,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 <details>
   <summary>Click to expand</summary>
 
-### Artist Specific 🎤👑
+### Artist Specific 👑
 - **Exclusive Radio - 2pac**: [Link](https://streaming.exclusive.radio/er/2pac/icecast.audio)  
 - **Exclusive Radio - ABBA**: [Link](https://streaming.exclusive.radio/er/abba/icecast.audio)  
 - **Exclusive Radio - Aretha Franklin**: [Link](https://streaming.exclusive.radio/er/arethafranklin/icecast.audio)  
@@ -96,7 +96,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 ---
 
-### Classical 🎻🎶
+### Classical 🎻
 
 - **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music)
 - **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music)
@@ -137,7 +137,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 ---
 
-### General 📻🌈
+### General 📻
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/)  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  
 - **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/)  
@@ -228,7 +228,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 ---
 
-### World Music 🌍🎶
+### World Music 🌍
 **African** 🪘🦁
 - **Oroko Radio**: [Link](https://oroko.live/) | Afro Indie Radio showcases Indie, Folk, and Soul music. Resident artist Tommy WÁ, a Nigerian-born singer/songwriter, poet, and guitarist, blends Afro Indie acoustics with poetic storytelling. Influenced by his multicultural upbringing and experiences in Nigeria and Ghana, his music reflects a soulful fusion of genres and rich folkloric wisdom. Written in English, Yoruba-influenced dialects, and pidgin, his introspective works offer mutual understanding and emotional closure to listeners.
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/) | The Pan African Space Station (PASS), founded by Chimurenga and Neo Muyanga in 2008, is a dynamic platform combining a live radio studio, performance space, research hub, and internet radio station. Operating in transitory spaces, PASS blends sound, music, and words to create new forms of knowledge, inspired by Sun Ra’s philosophy, "There are other worlds out there they never told you about." PASS challenges perceptions of Africa, fosters collective experiences, and explores how we understand and mediate shared human and historical connections.
@@ -242,7 +242,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
         Streaming without commercials or interruptions since 1999.
 - **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f) 
 
-**Other** 🌀🌍
+**Other** 🌀
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Welcome to Celtic Music Radio 95FM, a community station run by volunteers, broadcasting to Greater Glasgow and the world. We play a wide range of traditional, contemporary, folk, roots, Americana, and world music, supporting emerging acts. With strong ties to Scottish culture and festivals, we offer diverse, high-quality programming. Our loyal listeners tune in via 95FM, DAB, mobile apps, and our website. As a charity, we stay on air through donations, fundraisers, and limited advertising.
 
 </details>
