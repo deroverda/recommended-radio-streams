@@ -69,16 +69,19 @@ Welcome to a carefully curated collection of the best online radio stations for 
   <summary>Click to expand</summary>
 
 ### Artist Specific 🎤👑
-- **Exclusive Radio - ABBA**: [Link](http://exclusiveradio.com/abba)  
-- **Exclusive Radio - Aretha Franklin**: [Link](http://exclusiveradio.com/aretha-franklin)  
-- **Exclusive Radio - BB King**: [Link](http://exclusiveradio.com/bb-king)  
-- **Exclusive Radio - The Beatles**: [Link](http://exclusiveradio.com/the-beatles)  
-- **Exclusive Radio - Van Morrison**: [Link](http://exclusiveradio.com/van-morrison)  
-- **Exclusive Radio - Queen**: [Link](http://exclusiveradio.com/queen)  
+- **Exclusive Radio - 2pac**: [Link](https://streaming.exclusive.radio/er/2pac/icecast.audio) 
+- **Exclusive Radio - ABBA**: [Link](https://streaming.exclusive.radio/er/abba/icecast.audio)  
+- **Exclusive Radio - Aretha Franklin**: [Link](https://streaming.exclusive.radio/er/arethafranklin/icecast.audio)  
+- **Exclusive Radio - BB King**: [Link](https://streaming.exclusive.radio/er/bbking/icecast.audio)  
 - **Exclusive Radio - Bob Marley**: [Link](http://exclusiveradio.com/bob-marley)  
-- **Exclusive Radio - Ella Fitzgerald**: [Link](http://exclusiveradio.com/ella-fitzgerald)  
-- **Exclusive Radio - John Coltrane**: [Link](http://exclusiveradio.com/john-coltrane)  
+- **Exclusive Radio - Creedence Clearwater Revival**: [Link](https://streaming.exclusive.radio/er/creedence/icecast.audio)  
+- **Exclusive Radio - Daft Punk**: [Link](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)  
+- **Exclusive Radio - Ella Fitzgerald**: [Link](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)  
+- **Exclusive Radio - John Coltrane**: [Link](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)  
+- **Exclusive Radio - The Beatles**: [Link](http://streaming.exclusive.radio/er/beatles/icecast.audio)  
+- **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
 - **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
+
 
 ---
 
