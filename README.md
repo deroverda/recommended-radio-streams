@@ -1,4 +1,4 @@
-![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo_resized.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/4f94409e-b085-4183-b200-a5182a2a1bf6)![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo_resized.jpg?raw=true)
 
 [![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
 [![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
@@ -70,7 +70,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 <details>
   <summary>Click to expand</summary>
 
-### Electronic 🎛️✨
+### Electronic ⚡
 - **1.FM - Deep Techno & House**: [Link](https://www.1.fm/stations)
 - **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
 - **Dance Wave**: [Link](http://dancewave.com) | Focuses on upbeat electronic dance music.
@@ -101,7 +101,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
  
-### Jazz 🎷🎵
+### Jazz 🎷
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
 - **Jazz Con Class**: [Link](http://jazzconclass.com)  
 - **KSDS Jazz 88.3 FM**: [Link](https://www.jazz88.org/) | A public radio station broadcasting classic and contemporary jazz.
@@ -139,7 +139,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-### Lounge & Chill 🛋️🍹
+### Lounge & Chill 🍹🌅🌴
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
 - **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
 - **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
@@ -218,7 +218,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-### Reggae & Dub 🇯🇲🎚️
+### Reggae & Dub 🇯🇲 🟩🟨🟥
 - **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com)  
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com)  
 
