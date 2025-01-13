@@ -15,7 +15,7 @@ Welcome to a handpicked collection of the best online radio stations for music l
 
 ---
 
-## Table of Contents
+## 🗂️ Table of Contents
 - [Recommended Apps for Streaming](#recommended-apps-for-streaming)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
@@ -354,7 +354,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - Add more genre-specific channels - ██████░░░░░░ 50% Done
 - Improve formatting and make it more user-friendly - ██████████░░░░ 80% Done
 
-## Contributing 🎉
+## 🤝 Contributing
 
 I welcome contributions! If you know of any great radio stations that should be added, or if you spot any issues (like dead links), feel free to open an issue. 
 
@@ -375,7 +375,7 @@ Here are some great radio stations suggested by the community:
 - [GWES EAS Relay Network](https://gwes-eas.network/listen/) – all of the sister stations in the ERN network that CRTV is a part of. [suggested by @Potential-Ant-6320]
 - [KPISS](https://kpiss.fm/) – aka “the Golden Stream” is a very silly DJ-supported eclectic internet radio station with loads of great specialty shows. It used to be physically located in Brooklyn but went internet only during Covid. [suggested by @dotheemptyhouse]
 
-## Acknowledgements
+## 🙏 Acknowledgements
 
 Special thanks to the users who submitted many of these radio suggestions on the internet. Also, thanks to [FMHY](https://fmhy.pages.dev/) for listing alternative radio apps, aggregators and platforms. 
 
