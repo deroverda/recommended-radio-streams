@@ -134,11 +134,14 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 - **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
+- adult alternative, classic rock, folk rock, alternative rock, americana, indie rock, progressive rock, singer-songwriters
+- **Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | Welcome to 24/7 online vaporwave and future funk radio station.
 
 ---
 
 ### General 📻
-- **BBC Radio 6 Music**: [Link](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8) 
+- **BBC Radio 6 Music**: [Link](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8)
+- **Birch Street Radio**: [Link](https://jenny.torontocast.com:8172/stream) | adult alternative, classic rock, folk rock, alternative rock, americana, indie rock, progressive rock, singer-songwriters 
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/) | Yach Rock.  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  | Yach Rock.  
 - **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/) | Yach Rock. 
@@ -175,6 +178,11 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **KEXP**: [Link](https://www.kexp.org/listen/) | Highly praised for its exceptional music selection.
 
 ---
+
+### Hip-Hop/Rap
+- **90s90s HipHop & Rap**: [Link](http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/) | 90s.
+- **181.FM - Old School HipHop/RnB**: [Link](http://listen.181fm.com/181-oldschool_128k.mp3) | Old school.
+
  
 ### Jazz 🎷
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
