@@ -16,7 +16,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 ---
 
 ## 🗂️ Table of Contents
-- [Recommended Apps for Streaming](#recommended-apps-for-streaming)
+- [Recommended Apps for Streaming](#️-recommended-apps-for-streaming)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
 - [Things to Do](#things-to-do)
