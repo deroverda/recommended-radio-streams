@@ -258,8 +258,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste! most links seem to be dead, manually search for these using the tools above. please report and I'll update.😊
 - **1FM Chillout Lounge**: [Link](https://www.1.fm/stations) | Plays chillout, ambient, and relaxing music.
 - **113.fm Hits 1997 – Ads**: [Link](https://www.113.fm/) | Plays popular music hits from 1997 along with occasional ads.
-- **All Jazz Radio – South Africa**: [Link](https://www.madmusicradio.com/wjzz) | A South African radio station featuring jazz from around the world.
-- **Ambient Sleeping Pill**: [Link](https://ambientsleepingpill.com/) | Specializes in ambient music designed for relaxation and sleep.
+- **All Jazz Radio**: [Link](https://www.madmusicradio.com/wjzz) | All jazz.
+- **Ambient Sleeping Pill**: [Link](https://ambientsleepingpill.com/) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
 - **Antenne Bayern**: [Link](https://www.antenne.de/webradio/) | A German radio station playing a variety of music genres, including pop and classic hits.
 - **Antenne Bayern – CoffeeHouse**: [Link](https://www.antenne.de/webradio/coffeemusic) | Features soft, relaxing music for a peaceful coffeehouse atmosphere.
 - **Basso Radio – Deep House and Progressive**: [Link](https://www.bassoradio.com/) | Focuses on deep house and progressive electronic music.
