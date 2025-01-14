@@ -203,7 +203,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **1.FM - Sax4Love**: [Link](https://www.1.fm/stations) | Sax4Love is dedicated exclusively to Saxophone music and offers you this unique channel: "Smooth Jazz".
 - **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/) | LoFi
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge) | An unexcited mix of soft pop, singer-songwriter and smooth tunes ensures a pleasant feel-good atmosphere. A bubble bath for the ears.
-- **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
+- **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live) | The station offers a curated mix of Balearic beats, house, and electronic music, reflecting the relaxed yet vibrant atmosphere of Ibiza. It streams live DJ sets and exclusive music.
 - **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/) | Chill-out Music for the Open-Minded Listener
 - **Ambient Sleeping Pill**: [Link](https://s.stereoscenic.com/asp-h.m3u) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
 
@@ -236,7 +236,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **SomaFM - SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed
 - **SomaFM - Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
 - **SomaFM - ThistleRadio**: [Link](https://somafm.com/listen/) | Exploring music from Celtic roots and branches
-- **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa)  
+- **SomaFM - Suburbs of Goa**: [Link](http://somafm.com/suburbsofgoa) | Desi-influenced Asian world beats and beyond.
 - **SomaFM - ALL CHANNELS**: [Link](https://somafm.com/listen/)
 
 ---
