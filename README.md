@@ -128,7 +128,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **dublab**: [Link](http://dublab.com) | Features a wide range of experimental and underground electronic music.
 - **TEKnival Radio**: [Link](http://teknivalradio.com) | Plays hard-edged techno and rave-inspired electronic music. 
 - **Rainwave - All**: [Link](http://rainwave.cc/all) | A mix of different types of video game music including electronic styles.
-- **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/)  
+- **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/)  | BLEEPS AND BLOOPS, FROM GAMES AND MORE.
 - **Italoradio.fm**: [Link](https://italoradio.fm/) | Plays Italo-disco music.
 - **Radio ItaloPower!**: [Link](http://italopower.com) | Italodisco hits & rarities.
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
@@ -198,14 +198,12 @@ Welcome to a carefully curated collection of the best online radio stations for 
   
 
 ### Lounge & Chill 🍹🌅🌴
-- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations)
-- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations)
-- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/)
-- **BB 05.5 Charivari Munchen**: [Link](https://www.charivari.de/radio/internetradio-streams)  
-- **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
+- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations) | Vibe out to ambient and lounge music. Costa Del Mar is easy listening inspired by the sea.
+- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations) | Sax4Love is dedicated exclusively to Saxophone music and offers you this unique channel: "Smooth Jazz". In this sensual space, you will find a selection of the best "Smooth Jazz" soundtracks performed by the specialists of its kind such as Kim Waters, Eric Darius, Everette Harp and Richard Elliot. Lovers of the Saxophone, this channel is for you!
+- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/) | LoFi
+- **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge) | An unexcited mix of soft pop, singer-songwriter and smooth tunes ensures a pleasant feel-good atmosphere. A bubble bath for the ears.
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
-- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)
-- https://s.stereoscenic.com/asp-h.m3u
+- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/) | Chill-out Music for the Open-Minded Listener
 - **Ambient Sleeping Pill**: [Link](https://s.stereoscenic.com/asp-h.m3u) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
 
 
