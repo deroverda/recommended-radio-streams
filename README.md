@@ -134,7 +134,6 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 - **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
-- adult alternative, classic rock, folk rock, alternative rock, americana, indie rock, progressive rock, singer-songwriters
 - **Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | Welcome to 24/7 online vaporwave and future funk radio station.
 
 ---
