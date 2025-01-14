@@ -171,6 +171,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
 - **Radio Free Phoenix**: [Link](http://radiofreephoenix.com) | general
 - **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
+- **Retro Soul Radio UK**: [Link](https://www.retrosoulradio.co.uk) | Plays soul music, featuring both classic and contemporary soul tracks.
 - **KEXP**: [Link](https://www.kexp.org/listen/) | Highly praised for its exceptional music selection.
 
 ---
@@ -195,7 +196,9 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **BB 05.5 Charivari Munchen**: [Link](https://www.charivari.de/radio/internetradio-streams)  
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge)  
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
-- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)  
+- **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/)
+- https://s.stereoscenic.com/asp-h.m3u
+- **Ambient Sleeping Pill**: [Link](https://s.stereoscenic.com/asp-h.m3u) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
 
 
 ---
@@ -207,6 +210,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Vintage Obscura Radio**: [Link](http://vintageobscura.com) | Nearly 100,000 music-obsessed researchers scour the internet daily to uncover nearly forgotten music of every genre and category at /r/vintageobscura
 - **Radio Nostalgia**: [Link](http://cast1.torontocast.com:1630/stream) | Plays classic pop and music from the 1940's to 1980's.
 - **The Retro Attic**: [Link](	https://psn3.prostreaming.net:2199/tunein/theretro.pls) | 50s-70S LOST AND CLASSIC OLDIES
+- **Radio Dismuke – 1920’s 1930’s Jazz and Pop**: [Link](http://dismuke.org) | Plays music from the 1920s and 1930s, including jazz and pop classics.
 
 ---
 
@@ -262,7 +266,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **Ambient Sleeping Pill**: [Link](https://ambientsleepingpill.com/) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
 - **Antenne Bayern**: [Link](https://www.antenne.de/webradio/) | A German radio station playing a variety of music genres, including pop and classic hits.
 - **Antenne Bayern – CoffeeHouse**: [Link](https://www.antenne.de/webradio/coffeemusic) | Features soft, relaxing music for a peaceful coffeehouse atmosphere.
-- **Basso Radio – Deep House and Progressive**: [Link](https://www.bassoradio.com/) | Focuses on deep house and progressive electronic music.
 - **Berlin Community Radio**: [Link](https://tunein.com/radio/Berlin-Community-Radio-s209811/) | A community radio station in Berlin offering diverse programming.
 - **Beyond the Beat Generation**: [Link](http://www.beyondthebeatgeneration.com/) | Plays jazz and experimental music inspired by the Beat Generation.
 - **Blue Marlin Ibiza – Dance/Elect**: [Link](https://www.bluemarlinibiza.com/radio/) | Plays electronic dance music and live DJ mixes from the Blue Marlin Ibiza.
