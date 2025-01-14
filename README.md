@@ -257,6 +257,13 @@ Welcome to a carefully curated collection of the best online radio stations for 
 **Other** 🌀
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Welcome to Celtic Music Radio 95FM, a community station run by volunteers, broadcasting to Greater Glasgow and the world. We play a wide range of traditional, contemporary, folk, roots, Americana, and world music, supporting emerging acts. With strong ties to Scottish culture and festivals, we offer diverse, high-quality programming. Our loyal listeners tune in via 95FM, DAB, mobile apps, and our website. As a charity, we stay on air through donations, fundraisers, and limited advertising.
 
+---
+
+### Emergency/ATC 🚨✈️
+- **Maricopa County - Police (Valley Wide) & DPS (Highway Patrol) - Phoenix, AZ Scanner**: [Link](http://brickcamp.biz:8097/city-scan)
+- **Pittsburgh Police, Fire and EMS**: [Link](https://broadcastify.cdnstream1.com/21738)
+- **LiveRTC KJFK Tower 2, New York**: [Link](https://www.liveatc.net/play/kjfk9_s.pls)
+
 </details>
 
 ---
