@@ -252,7 +252,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 **Latin/Caribbean** 🌴🎺
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
-- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d) | Radio Isla Negra is a non-profit, non-commercial radio station created by Hernan Rodriguez M in 1999 from the small beach town of Isla Negra, Chile. It has been an unparalleled source of handpicked music from across the musical spectrum. Its mission is to find the best tracks regardless of time, genre, or style. No additives. No sugar added. Just 100% Pure High-Quality Music.
+- **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d) | Radio Isla Negra is a non-profit, non-commercial radio station created by Hernan Rodriguez M in 1999 from the small beach town of Isla Negra, Chile. It has been an unparalleled source of handpicked music from across the musical spectrum. Its mission is to find the best tracks regardless of time, genre, or style.
 - **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)
 
 **Asian** 🇯🇵
