@@ -253,7 +253,11 @@ Welcome to a carefully curated collection of the best online radio stations for 
 **Latin/Caribbean** 🌴🎺
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
 - **Isla Negra Upbeat**: [Link](https://www.radio-browser.info/history/af54e7ca-3a45-40cd-8ca8-c5ee9bc4231d) | Radio Isla Negra is a non-profit, non-commercial radio station created by Hernan Rodriguez M in 1999 from the small beach town of Isla Negra, Chile. It has been an unparalleled source of handpicked music from across the musical spectrum. Its mission is to find the best tracks regardless of time, genre, or style. No additives. No sugar added. Just 100% Pure High-Quality Music.
-- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f) 
+- **Isla Negra Slowbeat**: [Link](https://www.radio-browser.info/history/c3517203-bd27-4019-9ba9-a72a53e4c88f)
+
+**Asian**
+**listen.moe**: [Link](https://listen.moe/kpop/stream) | k-pop
+**J-Pop Sakura 懐かしい asia DREAM radio**: [Link](https://cast1.torontocast.com:2170/;.mp3) | j-pop
 
 **Other** 🌀
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Welcome to Celtic Music Radio 95FM, a community station run by volunteers, broadcasting to Greater Glasgow and the world. We play a wide range of traditional, contemporary, folk, roots, Americana, and world music, supporting emerging acts. With strong ties to Scottish culture and festivals, we offer diverse, high-quality programming. Our loyal listeners tune in via 95FM, DAB, mobile apps, and our website. As a charity, we stay on air through donations, fundraisers, and limited advertising.
