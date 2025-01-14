@@ -200,7 +200,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 ### Lounge & Chill 🍹🌅🌴
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations) | Vibe out to ambient and lounge music. Costa Del Mar is easy listening inspired by the sea.
-- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations) | Sax4Love is dedicated exclusively to Saxophone music and offers you this unique channel: "Smooth Jazz". In this sensual space, you will find a selection of the best "Smooth Jazz" soundtracks performed by the specialists of its kind such as Kim Waters, Eric Darius, Everette Harp and Richard Elliot. Lovers of the Saxophone, this channel is for you!
+- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations) | Sax4Love is dedicated exclusively to Saxophone music and offers you this unique channel: "Smooth Jazz".
 - **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/) | LoFi
 - **FluxFM - FluxLounge**: [Link](http://fluxfm.de/fluxlounge) | An unexcited mix of soft pop, singer-songwriter and smooth tunes ensures a pleasant feel-good atmosphere. A bubble bath for the ears.
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live)  
@@ -246,7 +246,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Oroko Radio**: [Link](https://oroko.live/) | Afro Indie Radio features Indie, Folk, and Soul music, led by Nigerian-born artist Tommy WÁ. Blending Afro Indie acoustics with poetic storytelling, his music reflects a fusion of genres, drawing from experiences in Nigeria and Ghana. Written in English, Yoruba dialects, and pidgin, his soulful works promote connection and emotional depth.
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/) | The Pan African Space Station (PASS), founded by Chimurenga and Neo Muyanga in 2008, is a dynamic platform blending a live radio studio, performance space, research hub, and internet radio station. Drawing inspiration from Sun Ra's philosophy, PASS creates new forms of knowledge, challenges perceptions of Africa, and explores shared human and historical connections.
 - **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)
-- **Alefa Music - Afrobeat** [Link](https://alefamusic.net/) | Alefamusic is a webradio dedicated to Malagasy music, especially the salegy rhythm. Founded in 2006 in France, it began as a radio show hosted by DJ Gasy Mich and Fabrice Mystone on Aligre FM 93.1 Paris, airing until November 2017. The webradio launched in 2012, continuing the show’s legacy by broadcasting Malagasy music worldwide. Alefamusic is available on its website and platforms like Orange, Freebox TV, Radioking, TuneIn, and more.
+- **Alefa Music - Afrobeat** [Link](https://alefamusic.net/) | Alefamusic is a webradio dedicated to Malagasy music, especially the salegy rhythm. Founded in 2006 in France, it began as a radio show hosted by DJ Gasy Mich and Fabrice Mystone on Aligre FM 93.1 Paris, airing until November 2017. The webradio launched in 2012, continuing the show’s legacy by broadcasting Malagasy music worldwide.
 - **Afro FM**: [Link](http://stream.zeno.fm/fu367ky6hkeuv)
 - **Jazz Afro**: [Link](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)
 
@@ -260,7 +260,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **J-Pop Sakura 懐かしい asia DREAM radio**: [Link](https://cast1.torontocast.com:2170/;.mp3) | j-pop
 
 **Other** 🌀
-- **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Welcome to Celtic Music Radio 95FM, a community station run by volunteers, broadcasting to Greater Glasgow and the world. We play a wide range of traditional, contemporary, folk, roots, Americana, and world music, supporting emerging acts. With strong ties to Scottish culture and festivals, we offer diverse, high-quality programming. Our loyal listeners tune in via 95FM, DAB, mobile apps, and our website. As a charity, we stay on air through donations, fundraisers, and limited advertising.
+- **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Celtic Music Radio 95FM, run by volunteers, brings traditional, folk, roots, Americana, and world music to Glasgow and beyond. Supporting emerging acts, we connect with Scottish culture and festivals. Tune in via 95FM, DAB, apps, or online. As a charity, we rely on donations, fundraisers, and limited ads.
 
 ---
 
