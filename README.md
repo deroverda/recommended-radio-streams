@@ -240,6 +240,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/) | The Pan African Space Station (PASS), founded by Chimurenga and Neo Muyanga in 2008, is a dynamic platform combining a live radio studio, performance space, research hub, and internet radio station. Operating in transitory spaces, PASS blends sound, music, and words to create new forms of knowledge, inspired by Sun Ra’s philosophy, "There are other worlds out there they never told you about." PASS challenges perceptions of Africa, fosters collective experiences, and explores how we understand and mediate shared human and historical connections.
 - **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)
 - **Alefa Music - Afrobeat** [Link](https://alefamusic.net/) | Alefamusic is a webradio dedicated to Malagasy music, especially the salegy rhythm. Founded in 2006 in France, it began as a radio show hosted by DJ Gasy Mich and Fabrice Mystone on Aligre FM 93.1 Paris, airing until November 2017. The webradio launched in 2012, continuing the show’s legacy by broadcasting Malagasy music worldwide. Alefamusic is available on its website and platforms like Orange, Freebox TV, Radioking, TuneIn, and more.
+- **Afro FM**: [Link](http://stream.zeno.fm/fu367ky6hkeuv)
+- **Jazz Afro**: [Link](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)
 
 **Latin/Caribbean** 🌴🎺
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
