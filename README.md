@@ -401,6 +401,7 @@ Here are some great radio stations suggested by the community:
 - [KPISS](https://kpiss.fm/) – aka “the Golden Stream” is a very silly DJ-supported eclectic internet radio station with loads of great specialty shows. It used to be physically located in Brooklyn but went internet only during Covid. [suggested by @dotheemptyhouse]
 - [Radio Nova](http://novazz.ice.infomaniak.ch/novazz-128.mp3) – The Grand Mix offers an eclectic, curious blend of sounds—perfect for thinking, dancing, and turning up the volume. [suggested by @Ukplugs4eva]
 - [FIP](http://icecast.radiofrance.fr/fip-hifi.aac) – The programming features all types of music genres including chanson, classical, film music, jazz, pop rock, world music and blues, but with careful attention paid to smooth and unobtrusive transition from one song to the other.  [suggested by @Ukplugs4eva]
+- [Radio Meuh](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3) | Independent Internet radio station out of the French Alps playing fresh songs from all four corners of the globe. [suggested by @psychic_gibbon]
 
 
 
