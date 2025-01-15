@@ -146,6 +146,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/) | Yach Rock. 
 - **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  | general
 - **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | general station
+- **Lahmacun Radio**: [Link](https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3) | Lahmacun.hu is an online music & more radio from Budapest.
 - **SuperStereo 1+ - Disco, Soul & Funk**: [Link](https://www.hiresaudio.online/category/radio/)  
 - **Soho Radio**: [Link](http://sohoradio.com) | A London-based station with a variety of music and talk shows.
 - **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/) | Plays 1960s psychedelic rock and pop. 
@@ -206,6 +207,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live) | The station offers a curated mix of Balearic beats, house, and electronic music, reflecting the relaxed yet vibrant atmosphere of Ibiza. It streams live DJ sets and exclusive music.
 - **Nordic Lodge**: [Link](https://www.nordiclodgeradio.com/) | Chill-out Music for the Open-Minded Listener
 - **Ambient Sleeping Pill**: [Link](https://s.stereoscenic.com/asp-h.m3u) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
+- **The Queit Village**: [Link](https://cp3.shoutcheap.com:2199/tunein/mark1234.pls) | The Quiet Village is the soundtrack for your Tiki bar! Featuring Exotica, Hawaiian and Lounge music from yesterday and today, and interviews.
+- **FreeCodeCamp**: [Link](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3) | Welcome to Code Radio. 24/7 music designed for coding.
 
 
 ---
