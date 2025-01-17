@@ -144,7 +144,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 
 ---
 
-### Yacht Rock
+### Yacht Rock1.	🚤🌊
 
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/) | Yach Rock.  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  | Yach Rock.  
@@ -292,7 +292,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Radio Caprice - Middle Eastern Music**: [Link](http://79.111.119.111:8004/middleeast) | Middle East 
 ---
 
-### Misc
+### Misc 🎙️
 - **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/) | This station is a 24/7 stream of Her.st Propaganda Broadcast! Conspiracy Theories, Philosophy, and more! Coast to Coast AM archives, Alan Watts lectures, Terence McKenna lectures, and more!
 - **Pi ano**: [Link](http://stream.p-node.org/piano) |  Piano only. 
 
