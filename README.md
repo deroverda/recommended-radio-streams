@@ -104,7 +104,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music)
 - **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music)
 - **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music)
-- **WFMT Chicago**: [Link](https://www.wfmt.com/) | WFMT has been broadcasting classical music since 1951. Its website says WFMT "strives to entertain, engage, and above all, respect its listeners with a quality and variety of programming found nowhere else." It is also the primary station of the nationally syndicated WFMT Radio Network and a jazz network available to other public radio stations around the U.S. 
+- **WFMT Chicago**: [Link](https://www.wfmt.com/) | WFMT has been broadcasting classical music since 1951. Its website says WFMT "strives to entertain, engage, and above all, respect its listeners with a quality and variety of programming found nowhere else". 
 - **WBJC Baltimore**: [Link](https://www.wbjc.com/) | WBJC-FM is the classical radio voice of Baltimore City Community College.
 - **WMNR**: [Link](https://www.wmnr.org/listen) | WMNR Fine Arts Radio is a public radio station, licensed to the Town of Monroe (Connecticut). We are on air 24/7,  providing classical and classic music via FM signal to much of Connecticut and nearby portions of New York. Our live stream is enjoyed around the world.
 - **Only Mozart (Australian Digital Radio**: [Link](http://abm21.com.au:8000/CONTAINER10) | Mozart 
