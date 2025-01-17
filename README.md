@@ -180,7 +180,11 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
 - **Retro Soul Radio UK**: [Link](https://www.retrosoulradio.co.uk) | Plays soul music, featuring both classic and contemporary soul tracks.
 - **KEXP**: [Link](https://www.kexp.org/listen/) | Highly praised for its exceptional music selection.
-
+- **Do!! You!!! Radio**: [Link](https://doyouworld.out.airtime.pro/doyouworld_a) | London-based community radio station. Family radio Broadcasting from London town Monday to Friday. Do!! You!!! World is a totally independent station, free of corporate investment. A radio station solely funded by the listeners that will always be free at the point of use.
+- **Radio Nula**: [Link](https://strm.radionula.com/classics) | CLASSIC Soul - Funk - Disco - Hip-Hop and all that Jazz 
+- **Netil Radio**: [Link](https://netilradio.out.airtime.pro/netilradio_a) |London's community voice broadcasting live from a converted shipping container atop of Netil Market.
+- **FIP**: [Link](https://stream.radiofrance.fr/fip/fip.m3u8) | Welcome to Fip, the most eclectic music radio in the world! Listen online to the 8 thematic webradios and find your favorite shows, all for free and without advertising. 
+- **Fluid Radio**: [Link](http://uk4-vn.webcast-server.net:9270/) | Fluid Radio brings you the best in experimental frequencies allowing listeners, artists, producers and promoters to be completely involved in the growth and direction of the station. Focusing on experimental genres, we aim to provide a space to share in the creative process and spread the experience of inner exploration through musical expression. The playlist is diverse, encompassing Ambient, Modern Classical, Experimental Acoustic, Folk and Abstract sounds.
 ---
 
 ### Hip-Hop/Rap 🎤
@@ -200,7 +204,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **WDNA 88.9**: [Link](http://wdna.org) |  Miami-based public radio station focused on jazz and Latin jazz.
 - **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
 - **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
-
+- **Head Wax Radio**: [Link](https://headwaxradio.radioca.st/stream) | Future sounds of jazz. Head Wax is music for your mind, body and soul... and your dancing feet. Broadcasting from Dublin, Ireland from the same people who gave us Dublin's JazzFM 89.8 back in the day.
 ---
   
 
@@ -215,9 +219,9 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **The Queit Village**: [Link](https://cp3.shoutcheap.com:2199/tunein/mark1234.pls) | The Quiet Village is the soundtrack for your Tiki bar! Featuring Exotica, Hawaiian and Lounge music from yesterday and today, and interviews.
 - **FreeCodeCamp**: [Link](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3) | Welcome to Code Radio. 24/7 music designed for coding.
 - **Hunter FM LoFi**: [Link](https://live.hunter.fm/lofi_high) | Perfect beats for studying and working, or even relaxing and falling asleep. 
-
-
-
+- **Moon Phase Radio**: [Link](https://cp12.serverse.com/proxy/moonphase/stream) | Moon Phase Radio brings to you commercial free Ambient & Downtempo music 24 hrs a day. MPR commenced broadcasting on 1st January 2010. Our Ambient music is a great way of distancing yourself from this busy planet and experiencing the calm of Mare Tranquillitatis.
+- ** Smooth Chill**: [Link](https://media-ssl.musicradio.com/ChillMP3) | Music To Chill To
+- ** Radio Schizoid - Chillout**: [Link](http://94.130.113.214:8000/chill) | Escape Reality - Chillout /Ambient Finest Psychedelic Chillout/Ambient Tunes.
 ---
 
 ### Oldies/Classic 📼
@@ -234,7 +238,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 ### Reggae & Dub 🇯🇲 🟩🟨🟥
 - **Dr Dick's Dub Shack**: [Link](http://drdicksdubshack.com) | Bermuda-based online radio station playing all species of dub, downtempo and bass music -  from the classic early analogue dub reggae of the 60s and 70s, through to 80s and 90s digidub, on to year 3000 steppas and future bass music!
 - **Alpha Boys School Radio**: [Link](http://alphaboysschoolradio.com) | Every song features at least one past student of the Alpha music programme in Kingston, Jamaica. Founded in 1880, Alpha has helped launch the careers of jazz innovators, ska pioneers and reggae icons. Operated by the Sisters of Mercy of Jamaica, a Catholic order of nuns since 1890, Alpha continues to develop the next generation of music talent.
-
+- **King Dub Radio**: [Link](http://london-dedicated.myautodj.com:8862/stream) | King Dub Radio is the online radio station of 'King Dub Records' from France. They are dedicated to spread Soundsystem Culture to the world and play Roots & Culture Dub as well as new digital Dub tune. 
 ---
 
 ### ⭐**SomaFM**
