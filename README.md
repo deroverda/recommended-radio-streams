@@ -186,7 +186,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **⭐FIP**: [Link](https://stream.radiofrance.fr/fip/fip.m3u8) | Welcome to Fip, the most eclectic music radio in the world! Listen online to the 8 thematic webradios and find your favorite shows, all for free and without advertising. 
 - **Fluid Radio**: [Link](http://uk4-vn.webcast-server.net:9270/) | Fluid Radio brings you the best in experimental frequencies allowing listeners, artists, producers and promoters to be completely involved in the growth and direction of the station. Focusing on experimental genres, we aim to provide a space to share in the creative process and spread the experience of inner exploration through musical expression. The playlist is diverse, encompassing Ambient, Modern Classical, Experimental Acoustic, Folk and Abstract sounds.
 - **⭐La Patate Douce**: [Link](http://listen.radioking.com/radio/285742/stream/331753)
-
+- **⭐WFMU**: [Link](http://wfmu.org) | A freeform radio station offering a wide range of music, from rock to experimental.
 
 ---
 
@@ -374,7 +374,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **Tuned In Radio – Classical**: [Link](http://tunedinradio.com) | Plays classical music with a focus on orchestral and chamber pieces.
 - **WBEZ 91.5 FM – Chicago**: [Link](http://wbez.org) | A public radio station in Chicago offering news, talk, and music programming.
 - **WDR 1Live Plan B**: [Link](http://wdr.de) | A German station offering a mix of music, talk, and entertainment.
-- **WFMU – New Jersey**: [Link](http://wfmu.org) | A freeform radio station offering a wide range of music, from rock to experimental.
 - **WGBH 89.7 – Boston**: [Link](http://wgbh.org) | A Boston-based public radio station offering classical music and cultural programming.
 - **WGBH 99.5 FM – Classical Music**: [Link](http://wgbh.org) | Plays classical music and opera, including local and international performances.
 - **WGTR FM – Christian/World Music**: [Link](http://wgtr.fm) | Plays Christian music alongside a selection of world music genres.
