@@ -107,6 +107,8 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **WFMT Chicago**: [Link](https://www.wfmt.com/) | WFMT has been broadcasting classical music since 1951. Its website says WFMT "strives to entertain, engage, and above all, respect its listeners with a quality and variety of programming found nowhere else". 
 - **WBJC Baltimore**: [Link](https://www.wbjc.com/) | WBJC-FM is the classical radio voice of Baltimore City Community College.
 - **WMNR**: [Link](https://www.wmnr.org/listen) | WMNR Fine Arts Radio is a public radio station, licensed to the Town of Monroe (Connecticut). We are on air 24/7,  providing classical and classic music via FM signal to much of Connecticut and nearby portions of New York. Our live stream is enjoyed around the world.
+- **Concertzender Baroque**: [Link](https://www.concertzender.nl/programma_genre/oude-muziek/) | Baroque 
+
 - **Only Mozart (Australian Digital Radio**: [Link](http://abm21.com.au:8000/CONTAINER10) | Mozart 
 ---
 
