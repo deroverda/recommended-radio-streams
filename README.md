@@ -177,7 +177,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Le Grigri**: [Link](http://legrigri.com) | Plays a mix of African and Caribbean music.
 - **Le Mellotron**: [Link](http://lemellotron.com) | Features a mix of world music, jazz and electronic.
 - **Mondo Bongo Radio**: [Link](http://mondobongoradio.com) | Plays a mix of world music, exotica and soul.
-- **Mutant Radio**: [Link](http://mutantradio.com) |  Plays an eclectic mix of experimental and alternative music.
+- **Mutant Radio**: [Link](https://www.mutantradio.net) |  Plays an eclectic mix of experimental and alternative music.
 - **⭐Nugs Radio**: [Link](http://nugs.net) |  Plays live recordings of rock and jam bands.
 - **REYFM**: [Link](https://rey.fm/) | Plays contemporary pop and latin music.
 - **Radio France**: [Link](http://www.radiofrance.fr/live) | A French public radio station with a variety of programming.
