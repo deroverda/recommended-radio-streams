@@ -31,6 +31,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 **📱 iOS**
 - ⭐ [CuterDio](https://cuterdio.com/en) | A lightweight app for easy access to internet radio stations. Uses Radio-Browser as database. 
 - [Triode](https://triode.app/) | Listen everywhere.
+- [Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB) | Eter is a free iOS app that allows users to listen to a vast array of internet radio stations. It utilizes the radio-browser.info database, providing access to thousands of free and publicly available stations worldwide.  ￼ The app is available across multiple Apple platforms, including macOS, iOS, iPadOS, watchOS, and tvOS.  
 - [Foobar2000](https://www.foobar2000.org/) – A powerful and customizable media player that supports a wide variety of streaming formats.
 
 
