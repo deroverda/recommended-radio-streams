@@ -10,7 +10,7 @@
 
 # A Curated List of Internet Radio Stations
 
-Welcome to a carefully curated collection of the best online radio stations for music lovers of all tastes! From electronic beats and jazz to reggae and classic rock, there's something here for every mood. Each station links directly to its official website, where you can find the stream link and explore more about the station. If you're looking for a specific stream URL, check out this excellent index: [Radio Browser Info](https://www.radio-browser.info)
+Hey there! This is a handpicked list of some of the best online radio stations out there. Whether you’re into electronic, jazz, reggae, classic rock, or just looking for something new to vibe with, there’s a station here for you.
 
 
 ---
