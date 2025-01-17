@@ -146,7 +146,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 
 ---
 
-### Yacht Rock1.	🚤🌊
+### Yacht Rock 🚤🌊
 
 - **Doctor Pundit - Yacht Rock Jams**: [Link](https://www.doctorpundit.com/media/) | Yach Rock.  
 - **Yacht Rock Miami**: [Link](https://www.yachtrockmiami.com/)  | Yach Rock.  
