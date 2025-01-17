@@ -80,6 +80,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Exclusive Radio - Daft Punk**: [Link](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)  
 - **Exclusive Radio - Ella Fitzgerald**: [Link](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)  
 - **Exclusive Radio - Eric Clapton**: [Link](https://streaming.exclusive.radio/er/ericclapton/icecast.audio)  
+- **Exclusive Radio - Fleetwood Mac**: [Link](https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio)
 - **Exclusive Radio - Jimi Hendrix**: [Link](https://streaming.exclusive.radio/er/hendrix/icecast.audio)  
 - **Exclusive Radio - John Coltrane**: [Link](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)  
 - **Exclusive Radio - Steely Dan**: [Link](https://streaming.exclusive.radio/er/steelydan/icecast.audio)  
@@ -87,7 +88,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Exclusive Radio - The Beatles**: [Link](http://streaming.exclusive.radio/er/beatles/icecast.audio)  
 - **Exclusive Radio - The Police**: [Link](https://streaming.exclusive.radio/er/policehits/icecast.audio)  
 - **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
-- **Australian Digital Radio Network - Red Hot Chili Peppers**: [Link](http://abm22.com.au:8000/CONTAINER129)  
+- **Red Hot Chili Peppers (Australian Digital Radio Network)**: [Link](http://abm22.com.au:8000/CONTAINER129)  
+- **Eminem (Australian Digital Radio)**: [Link](http://abm21.com.au:8000/CONTAINER158) | Slim Shady
 - **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 - **Grateful Dead**: [Link](http://108.163.245.230:8100/stream) | unknown station
 - **Virgin Radio Rockstar: Rolling Stones**: [Link](https://icy.unitedradio.it/VirginSpecialEvent.mp3)
@@ -135,6 +137,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 - **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
 - **Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | Welcome to 24/7 online vaporwave and future funk radio station.
+- **Tech House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER18) | Tech House
+- **Acid House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER1) | Acid House .
 
 ---
 
@@ -182,6 +186,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 ### Hip-Hop/Rap 🎤
 - **90s90s HipHop & Rap**: [Link](http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/) | 90s.
 - **181.FM - Old School HipHop/RnB**: [Link](http://listen.181fm.com/181-oldschool_128k.mp3) | Old school.
+- **Old School Rap (Australian Digital Radio)**: [Link](http://abm21.com.au:8000/CONTAINER69) | Old School Rap
 
 ---
 
@@ -209,6 +214,8 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Ambient Sleeping Pill**: [Link](https://s.stereoscenic.com/asp-h.m3u) | internet radio streaming music for sleep, meditation or study; for tuning out distractions or simply relaxing; ad-free, beat-free, never too new-age or dark 
 - **The Queit Village**: [Link](https://cp3.shoutcheap.com:2199/tunein/mark1234.pls) | The Quiet Village is the soundtrack for your Tiki bar! Featuring Exotica, Hawaiian and Lounge music from yesterday and today, and interviews.
 - **FreeCodeCamp**: [Link](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3) | Welcome to Code Radio. 24/7 music designed for coding.
+- **Hunter FM LoFi**: [Link](https://live.hunter.fm/lofi_high) | Perfect beats for studying and working, or even relaxing and falling asleep. 
+
 
 
 ---
@@ -252,6 +259,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Alefa Music - Afrobeat** [Link](https://alefamusic.net/) | Alefamusic is a webradio dedicated to Malagasy music, especially the salegy rhythm. Founded in 2006 in France, it began as a radio show hosted by DJ Gasy Mich and Fabrice Mystone on Aligre FM 93.1 Paris, airing until November 2017. The webradio launched in 2012, continuing the show’s legacy by broadcasting Malagasy music worldwide.
 - **Afro FM**: [Link](http://stream.zeno.fm/fu367ky6hkeuv)
 - **Jazz Afro**: [Link](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)
+- **Afro House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER53) | Afro House 
 
 **Latin/Caribbean** 🌴🎺
 - **Gladys Palmera Coleccion**: [Link](http://gladyspalmera.com/coleccion) | Plays a mix of Latin and Spanish music.
@@ -264,7 +272,9 @@ Welcome to a carefully curated collection of the best online radio stations for 
 
 **Other** 🌀
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Celtic Music Radio 95FM, run by volunteers, brings traditional, folk, roots, Americana, and world music to Glasgow and beyond. Supporting emerging acts, we connect with Scottish culture and festivals. Tune in via 95FM, DAB, apps, or online. As a charity, we rely on donations, fundraisers, and limited ads.
-
+- **Worldwide FM**: [Link](https://worldwidefm.out.airtime.pro/worldwidefm_b) | Worldwide FM is an award-winning community and platform where marginalised voices, alternative perspectives and shared progressive values are brought to the forefront through music and culture. 
+- ** Hollow Earth Radio** : [Link](http://centova.rockhost.com:8001/stream) | We are also an all-ages music and performance venue. Our focus is on audio not often heard on the traditional radio dial, including: found sound, field recordings, forgotten music, local musicians, bedroom recordings, lo-fi demos, dreams, storytelling, conversations from within marginalized communities and things that feel real.  
+- **Radio Caprice - Middle Eastern Music**: [Link](http://79.111.119.111:8004/middleeast) | Middle East 
 ---
 
 ### Emergency/ATC 🚨✈️
