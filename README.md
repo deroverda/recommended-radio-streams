@@ -170,7 +170,6 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/))  
 - **Totally Wired Radio**: [Link](http://totallywiredradio.com) |  Plays a mix of indie, punk, and alternative music.
 - **181.fm**: [Link](https://www.181.fm/)  
-- **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/) | This station is a 24/7 stream of Her.st Propaganda Broadcast! Conspiracy Theories, Philosophy, and more! Coast to Coast AM archives, Alan Watts lectures, Terence McKenna lectures, and more!
 - **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
 - **KBON**: [Link](https://www.kbon.com/) | Plays a mix of Louisiana-based music.
 - **KKJZ-HD88.1**: [Link](https://kkjz.org/) | A public radio station that plays jazz and blues.
@@ -179,7 +178,6 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Mondo Bongo Radio**: [Link](http://mondobongoradio.com) | Plays a mix of world music, exotica and soul.
 - **Mutant Radio**: [Link](http://mutantradio.com) |  Plays an eclectic mix of experimental and alternative music.
 - **Nugs Radio**: [Link](http://nugs.net) |  Plays live recordings of rock and jam bands.
-- **Pi ano**: [Link](http://stream.p-node.org/piano) |  Piano only. 
 - **REYFM**: [Link](https://rey.fm/) | Plays contemporary pop and latin music.
 - **Radio France**: [Link](http://www.radiofrance.fr/live) | A French public radio station with a variety of programming.
 - **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix)  
@@ -293,6 +291,10 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Hollow Earth Radio** : [Link](http://centova.rockhost.com:8001/stream) | We are also an all-ages music and performance venue. Our focus is on audio not often heard on the traditional radio dial, including: found sound, field recordings, forgotten music, local musicians, bedroom recordings, lo-fi demos, dreams, storytelling, conversations from within marginalized communities and things that feel real.  
 - **Radio Caprice - Middle Eastern Music**: [Link](http://79.111.119.111:8004/middleeast) | Middle East 
 ---
+
+### Misc
+- **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/) | This station is a 24/7 stream of Her.st Propaganda Broadcast! Conspiracy Theories, Philosophy, and more! Coast to Coast AM archives, Alan Watts lectures, Terence McKenna lectures, and more!
+- **Pi ano**: [Link](http://stream.p-node.org/piano) |  Piano only. 
 
 ### Emergency/ATC 🚨✈️
 - **Maricopa County - Police (Valley Wide) & DPS (Highway Patrol) - Phoenix, AZ Scanner**: [Link](http://brickcamp.biz:8097/city-scan)
