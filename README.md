@@ -72,28 +72,28 @@ Hey there! This is a handpicked list of some of the best online radio stations o
   <summary>Click to expand</summary>
 
 ### Artist Specific 👑
-- **Exclusive Radio - 2pac**: [Link](https://streaming.exclusive.radio/er/2pac/icecast.audio)  
-- **Exclusive Radio - ABBA**: [Link](https://streaming.exclusive.radio/er/abba/icecast.audio)  
-- **Exclusive Radio - Aretha Franklin**: [Link](https://streaming.exclusive.radio/er/arethafranklin/icecast.audio)  
-- **Exclusive Radio - BB King**: [Link](https://streaming.exclusive.radio/er/bbking/icecast.audio)  
-- **Exclusive Radio - Bob Marley**: [Link](https://streaming.exclusive.radio/er/bobmarley/icecast.audio)  
-- **Exclusive Radio - Creedence Clearwater Revival**: [Link](https://streaming.exclusive.radio/er/creedence/icecast.audio)  
-- **Exclusive Radio - Daft Punk**: [Link](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)  
-- **Exclusive Radio - Ella Fitzgerald**: [Link](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)  
-- **Exclusive Radio - Eric Clapton**: [Link](https://streaming.exclusive.radio/er/ericclapton/icecast.audio)  
-- **Exclusive Radio - Fleetwood Mac**: [Link](https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio)
-- **Exclusive Radio - Jimi Hendrix**: [Link](https://streaming.exclusive.radio/er/hendrix/icecast.audio)  
-- **Exclusive Radio - John Coltrane**: [Link](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)  
-- **Exclusive Radio - Steely Dan**: [Link](https://streaming.exclusive.radio/er/steelydan/icecast.audio)  
-- **Exclusive Radio - Supertramp**: [Link](https://streaming.exclusive.radio/er/supertramp/icecast.audio)  
-- **Exclusive Radio - The Beatles**: [Link](http://streaming.exclusive.radio/er/beatles/icecast.audio)  
-- **Exclusive Radio - The Police**: [Link](https://streaming.exclusive.radio/er/policehits/icecast.audio)  
-- **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
+- **2pac (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/2pac/icecast.audio)  
+- **ABBA (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/abba/icecast.audio)  
+- **Aretha Franklin (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/arethafranklin/icecast.audio)  
+- **BB King (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/bbking/icecast.audio)  
+- **Bob Marley (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/bobmarley/icecast.audio)  
+- **Creedence Clearwater Revival (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/creedence/icecast.audio)  
+- **Daft Punk (Exclusive Radio)**: [Link](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)  
+- **Ella Fitzgerald (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)  
+- **Eric Clapton (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/ericclapton/icecast.audio)  
+- **Fleetwood Mac (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio)  
+- **Jimi Hendrix (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/hendrix/icecast.audio)  
+- **John Coltrane (Exclusive Radio)**: [Link](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)  
+- **Steely Dan (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/steelydan/icecast.audio)  
+- **Supertramp (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/supertramp/icecast.audio)  
+- **The Beatles (Exclusive Radio)**: [Link](http://streaming.exclusive.radio/er/beatles/icecast.audio)  
+- **The Police (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/policehits/icecast.audio)  
+- **Van Morrison (Exclusive Radio)**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
 - **Red Hot Chili Peppers (Australian Digital Radio Network)**: [Link](http://abm22.com.au:8000/CONTAINER129)  
 - **Eminem (Australian Digital Radio)**: [Link](http://abm21.com.au:8000/CONTAINER158) | Slim Shady
 - **⭐Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 - **Grateful Dead**: [Link](http://108.163.245.230:8100/stream) | unknown station
-- **Virgin Radio Rockstar: Rolling Stones**: [Link](https://icy.unitedradio.it/VirginSpecialEvent.mp3)
+- **Rolling Stones (Virgin Radio Rockstar)**: [Link](https://icy.unitedradio.it/VirginSpecialEvent.mp3)
 
 
 
