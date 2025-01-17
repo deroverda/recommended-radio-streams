@@ -214,7 +214,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station with a focus on jazz.
 - **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | Also appears in the Electronic category, sometimes plays jazz.
 - **⭐Head Wax Radio**: [Link](https://headwaxradio.radioca.st/stream) | Future sounds of jazz. Head Wax is music for your mind, body and soul... and your dancing feet. Broadcasting from Dublin, Ireland from the same people who gave us Dublin's JazzFM 89.8 back in the day.
-- **Concertzender - Jazznotjazz: [Link](https://www.concertzender.nl/programma_genre/oude-muziek/)
+- **Concertzender - Jazznotjazz**: [Link](https://www.concertzender.nl/programma_genre/oude-muziek/)
 
 ---
   
