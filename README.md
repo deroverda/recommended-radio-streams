@@ -284,6 +284,9 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **listen.moe**: [Link](https://listen.moe/kpop/stream) | k-pop
 - **J-Pop Sakura 懐かしい asia DREAM radio**: [Link](https://cast1.torontocast.com:2170/;.mp3) | j-pop
 - **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
+- **Pyongyang Radio FM**: [Link](https://listen7.myradio24.com/69366) | The Korean Central Broadcasting Station (KCBS) is North Korea’s main state-run radio broadcaster, established in 1945. It broadcasts in Korean on multiple frequencies, focusing on state propaganda, including praise for the leadership and promotion of Juche ideology. In 2024, Pyongyang Broadcasting Station, targeting South Korea and Japan, ceased operations after nearly 70 years.
+
+
 **Other** 🌀
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Celtic Music Radio 95FM, run by volunteers, brings traditional, folk, roots, Americana, and world music to Glasgow and beyond. Supporting emerging acts, we connect with Scottish culture and festivals. Tune in via 95FM, DAB, apps, or online. As a charity, we rely on donations, fundraisers, and limited ads.
 - **Worldwide FM**: [Link](https://worldwidefm.out.airtime.pro/worldwidefm_b) | Worldwide FM is an award-winning community and platform where marginalised voices, alternative perspectives and shared progressive values are brought to the forefront through music and culture. 
