@@ -228,8 +228,8 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **FreeCodeCamp**: [Link](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3) | Welcome to Code Radio. 24/7 music designed for coding.
 - **Hunter FM LoFi**: [Link](https://live.hunter.fm/lofi_high) | Perfect beats for studying and working, or even relaxing and falling asleep. 
 - **⭐Moon Phase Radio**: [Link](https://cp12.serverse.com/proxy/moonphase/stream) | Moon Phase Radio brings to you commercial free Ambient & Downtempo music 24 hrs a day. MPR commenced broadcasting on 1st January 2010. Our Ambient music is a great way of distancing yourself from this busy planet and experiencing the calm of Mare Tranquillitatis.
-- ** Smooth Chill**: [Link](https://media-ssl.musicradio.com/ChillMP3) | Music To Chill To
-- ** Radio Schizoid - Chillout**: [Link](http://94.130.113.214:8000/chill) | Escape Reality - Chillout /Ambient Finest Psychedelic Chillout/Ambient Tunes.
+- **Smooth Chill**: [Link](https://media-ssl.musicradio.com/ChillMP3) | Music To Chill To
+- **Radio Schizoid - Chillout**: [Link](http://94.130.113.214:8000/chill) | Escape Reality - Chillout /Ambient Finest Psychedelic Chillout/Ambient Tunes.
 - **Mother Earth Radio**: [Link](http://motherearthradio.com) | Plays a mix of nature-themed, acoustic music.
 - **Mother Earth Radio - Instrumental**: [Link](http://motherearthradio.com/instrumental)  
 
