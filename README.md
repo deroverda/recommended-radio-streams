@@ -269,7 +269,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 
 ---
 
-### HiRes and CD-quality internet radio stations
+### HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.
 - **WBOR Radio**: [Link](https://wbor.org/#about) 
 - **96bFM**: [Link](https://95bfm.com)
 - **Radio Random**: [Link](https://radiorandom.org)
