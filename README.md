@@ -90,7 +90,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Exclusive Radio - Van Morrison**: [Link](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)  
 - **Red Hot Chili Peppers (Australian Digital Radio Network)**: [Link](http://abm22.com.au:8000/CONTAINER129)  
 - **Eminem (Australian Digital Radio)**: [Link](http://abm21.com.au:8000/CONTAINER158) | Slim Shady
-- **Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
+- **⭐Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 - **Grateful Dead**: [Link](http://108.163.245.230:8100/stream) | unknown station
 - **Virgin Radio Rockstar: Rolling Stones**: [Link](https://icy.unitedradio.it/VirginSpecialEvent.mp3)
 
@@ -136,7 +136,7 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Radio BipTunia**: [Link](https://biptunia.com/) | Plays experimental and quirky electronic music.
 - **Shonan Beach FM**: [Link](https://www.beachfm.co.jp/) | Japanese radio station focusing on chilled out electronic and beach vibes.
 - **Fnoob Techno**: [Link](https://fnoobtechno.com/) | A dedicated techno station.
-- **Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | Welcome to 24/7 online vaporwave and future funk radio station.
+- **⭐Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | Welcome to 24/7 online vaporwave and future funk radio station.
 - **Tech House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER18) | Tech House
 - **Acid House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER1) | Acid House .
 
@@ -185,6 +185,9 @@ Welcome to a carefully curated collection of the best online radio stations for 
 - **Netil Radio**: [Link](https://netilradio.out.airtime.pro/netilradio_a) |London's community voice broadcasting live from a converted shipping container atop of Netil Market.
 - **FIP**: [Link](https://stream.radiofrance.fr/fip/fip.m3u8) | Welcome to Fip, the most eclectic music radio in the world! Listen online to the 8 thematic webradios and find your favorite shows, all for free and without advertising. 
 - **Fluid Radio**: [Link](http://uk4-vn.webcast-server.net:9270/) | Fluid Radio brings you the best in experimental frequencies allowing listeners, artists, producers and promoters to be completely involved in the growth and direction of the station. Focusing on experimental genres, we aim to provide a space to share in the creative process and spread the experience of inner exploration through musical expression. The playlist is diverse, encompassing Ambient, Modern Classical, Experimental Acoustic, Folk and Abstract sounds.
+- **La Patate Douce**: [Link](http://listen.radioking.com/radio/285742/stream/331753)
+
+
 ---
 
 ### Hip-Hop/Rap 🎤
