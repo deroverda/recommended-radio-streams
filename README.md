@@ -170,7 +170,6 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/))  
 - **Totally Wired Radio**: [Link](http://totallywiredradio.com) |  Plays a mix of indie, punk, and alternative music.
 - **181.fm**: [Link](https://www.181.fm/)  
-- **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
 - **KBON**: [Link](https://www.kbon.com/) | Plays a mix of Louisiana-based music.
 - **KKJZ-HD88.1**: [Link](https://kkjz.org/) | A public radio station that plays jazz and blues.
 - **Le Grigri**: [Link](http://legrigri.com) | Plays a mix of African and Caribbean music.
@@ -284,7 +283,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 **Asian** 🇯🇵
 - **listen.moe**: [Link](https://listen.moe/kpop/stream) | k-pop
 - **J-Pop Sakura 懐かしい asia DREAM radio**: [Link](https://cast1.torontocast.com:2170/;.mp3) | j-pop
-
+- **J-Club Club Bandstand**: [Link](http://jclubradio.com) | Plays a mix of classic and contemporary Japanese music.
 **Other** 🌀
 - **Celtic Music Radio**: [Link](https://www.celticmusicradio.net/) | Celtic Music Radio 95FM, run by volunteers, brings traditional, folk, roots, Americana, and world music to Glasgow and beyond. Supporting emerging acts, we connect with Scottish culture and festivals. Tune in via 95FM, DAB, apps, or online. As a charity, we rely on donations, fundraisers, and limited ads.
 - **Worldwide FM**: [Link](https://worldwidefm.out.airtime.pro/worldwidefm_b) | Worldwide FM is an award-winning community and platform where marginalised voices, alternative perspectives and shared progressive values are brought to the forefront through music and culture. 
