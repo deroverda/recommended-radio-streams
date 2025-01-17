@@ -423,7 +423,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **Radio Reverb 97.2 FM – Brighton**: [Link](https://www.radioreverb.com/) | Another frequency for Radio Reverb offering similar community radio programming.
 - **Radio Subasio – Italy**: [Link](http://radiosubasio.com) | Plays a mix of contemporary and classic Italian pop and rock music.
 - **Radio Swiss Jazz**: [Link](https://www.radioswissjazz.ch/en) | A Swiss station focused on jazz music.
-- **Ralph Radio – Russia**: [Link](http://ralphradio.ru) | A Russian radio station offering pop and rock music.
 - **Resonance 104.4FM – London – Diverse Community Radio**: [Link](https://www.resonancefm.com/) | A London-based community station offering a diverse mix of music and cultural programming.
 - **Retro Soul Radio UK**: [Link](https://www.retrosoulradio.co.uk) | Plays soul music, featuring both classic and contemporary soul tracks.
 - **Rinse FM – UK**: [Link](http://rinse.fm) | A London-based station focused on underground dance music and urban genres.
