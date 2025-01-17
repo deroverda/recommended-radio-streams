@@ -269,6 +269,54 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 
 ---
 
+### HiRes and CD-quality internet radio stations
+- **WBOR Radio**: [Link](https://wbor.org/#about) 
+- **96bFM**: [Link](https://95bfm.com)
+- **Radio Random**: [Link](https://radiorandom.org)
+- **Open Sky Radio**: [Link](https://opensky.radio) 
+- **Radio Random**: [Link](https://www.radiorandom.com)  
+- **Open Sky Radio**: [Link](https://www.openskyradio.com)  
+- **JB Radio**: [Link](https://www.jbradio.com)  
+- **SuperStereo: Signal 3+**: [Link](https://www.superstereo3plus.com)  
+- **SuperStereo: Signal 7**: [Link](https://www.superstereo7.com)  
+- **SuperStereo: Signal 6**: [Link](https://www.superstereo6.com)  
+- **SuperStereo: Signal 5**: [Link](https://www.superstereo5.com)  
+- **SuperStereo: Signal 4+**: [Link](https://www.superstereo4plus.com)  
+- **SuperStereo: Signal 4**: [Link](https://www.superstereo4.com)  
+- **SuperStereo: Signal 3**: [Link](https://www.superstereo3.com)  
+- **SuperStereo: Signal 2**: [Link](https://www.superstereo2.com)  
+- **SuperStereo: Signal 1+**: [Link](https://www.superstereo1plus.com)  
+- **SuperStereo: Signal 1**: [Link](https://www.superstereo1.com)  
+- **Radio Jeunes Rheims**: [Link](https://www.radiojeunesrheims.com)  
+- **Violent Forces Radio: '80s Thrash**: [Link](https://www.violentforcesradio.com)  
+- **Violent Forces Radio: General Thrash**: [Link](https://www.violentforcesradio.com)  
+- **Radio 90FM Valencia**: [Link](https://www.radio90fmvalencia.com)  
+- **Radio Krov**: [Link](https://www.radiokrov.com)  
+- **Radio Bias**: [Link](https://www.radiobias.com)  
+- **Easy Radio**: [Link](https://www.easyradio.com)  
+- **TEKnival Radio**: [Link](https://www.teknivalradio.com)  
+- **The Cheese**: [Link](https://www.thecheese.com)  
+- **Intense Radio**: [Link](https://www.intenseradio.com)  
+- **LapFox Radio**: [Link](https://www.lapfoxradio.com)  
+- **Dance Wave Retro!**: [Link](https://www.dancewaveretro.com)  
+- **Dance Wave!**: [Link](https://www.dancewave.com)  
+- **Magic Radio**: [Link](https://www.magicradio.com)  
+- **Radio Calico**: [Link](https://www.radiocalico.com)  
+- **Mother Earth Jazz**: [Link](https://www.motherearthjazz.com)  
+- **Mother Earth Klassik**: [Link](https://www.motherearthklassik.com)  
+- **Mother Earth Instrumental**: [Link](https://www.motherearthinstrumental.com)  
+- **Mother Earth Radio**: [Link](https://www.motherearthradio.com)  
+- **Djam Radio**: [Link](https://www.djamradio.com)  
+- **Le Bon Mix**: [Link](https://www.lebonmix.com)  
+- **Radio Sputnik**: [Link](https://www.radiosputnik.com)  
+- **Radio Paradise (Global Mix)**: [Link](https://www.radioparadise.com)  
+- **Radio Paradise (Rock Mix)**: [Link](https://www.radioparadise.com)  
+- **60North Radio**: [Link](https://www.60northradio.com)  
+- **Radio Paradise (Mellow Mix)**: [Link](https://www.radioparadise.com)  
+- **Radio Paradise (Main Mix)**: [Link](https://www.radioparadise.com)  
+
+---
+
 ### World Music 🌍
 **African** 🪘🦁
 - **Oroko Radio**: [Link](https://oroko.live/) | Afro Indie Radio features Indie, Folk, and Soul music, led by Nigerian-born artist Tommy WÁ. Blending Afro Indie acoustics with poetic storytelling, his music reflects a fusion of genres, drawing from experiences in Nigeria and Ghana. Written in English, Yoruba dialects, and pidgin, his soulful works promote connection and emotional depth.
