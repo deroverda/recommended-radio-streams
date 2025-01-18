@@ -461,7 +461,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - Review broken links and update them -  ███████████░ 99% Done
 - Add more genre-specific channels
 - Add descriptions to all channels - █████████░ 60-80% Done
-
+- Fix the broken Hi-Res links. 
 
 ## 🤝 Contributing
 
