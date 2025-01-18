@@ -235,7 +235,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Radio Schizoid - Chillout**: [Link](http://94.130.113.214:8000/chill) | Escape Reality - Chillout /Ambient Finest Psychedelic Chillout/Ambient Tunes.
 - **Mother Earth Radio**: [Link](http://motherearthradio.com) | Plays a mix of nature-themed, acoustic music.
 - **Mother Earth Radio - Instrumental**: [Link](http://motherearthradio.com/instrumental)  
-
+- **NTS - Slow Focus**: [Link](https://stream-mixtape-geo.ntslive.net/mixtape) | Meditative, relaxing and beatless: ambient, drone and ragas. Tune in and zone out with NTS&apos; compendium of the beatless and transcendental. Calming sounds to help you focus or drift away.
 ---
 
 ### Oldies/Classic 📼
