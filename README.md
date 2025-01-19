@@ -292,29 +292,21 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Violent Forces Radio: '80s Thrash**: [Link](https://violentforcesradio.weebly.com)
 - **Violent Forces Radio: General Thrash**: [Link](https://violentforcesradio.weebly.com)
 - **Radio 90FM Valencia**: [Link](https://www.radio90.fm)
-- **Radio Krov**: [Link](https://www.radiokrov.com)  
-- **Radio Bias**: [Link](https://www.radiobias.com)  
-- **Easy Radio**: [Link](https://www.easyradio.com)  
-- **TEKnival Radio**: [Link](https://www.teknivalradio.com)  
-- **The Cheese**: [Link](https://www.thecheese.com)  
-- **Intense Radio**: [Link](https://www.intenseradio.com)  
-- **LapFox Radio**: [Link](https://www.lapfoxradio.com)  
-- **Dance Wave Retro!**: [Link](https://www.dancewaveretro.com)  
-- **Dance Wave!**: [Link](https://www.dancewave.com)  
-- **Magic Radio**: [Link](https://www.magicradio.com)  
-- **Radio Calico**: [Link](https://www.radiocalico.com)  
-- **Mother Earth Jazz**: [Link](https://www.motherearthjazz.com)  
-- **Mother Earth Klassik**: [Link](https://www.motherearthklassik.com)  
-- **Mother Earth Instrumental**: [Link](https://www.motherearthinstrumental.com)  
-- **Mother Earth Radio**: [Link](https://www.motherearthradio.com)  
-- **Djam Radio**: [Link](https://www.djamradio.com)  
-- **Le Bon Mix**: [Link](https://www.lebonmix.com)  
-- **Radio Sputnik**: [Link](https://www.radiosputnik.com)  
-- **Radio Paradise (Global Mix)**: [Link](https://www.radioparadise.com)  
-- **Radio Paradise (Rock Mix)**: [Link](https://www.radioparadise.com)  
-- **60North Radio**: [Link](https://www.60northradio.com)  
-- **Radio Paradise (Mellow Mix)**: [Link](https://www.radioparadise.com)  
-- **Radio Paradise (Main Mix)**: [Link](https://www.radioparadise.com)  
+- **Radio Krov**: [Link](https://www.hiresaudio.online/radio-krov/)
+- **Radio Bias**: [Link](https://biasradio.com)
+- **Easy Radio**: [Link](https://www.easyradio.bg)
+- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk)
+- **The Cheese**: [Link](https://thecheese.co.nz)
+- **Intense Radio**: [Link](https://sanctuaryinternational.com/intense-radio/)
+- **LapFox Radio**: [Link](https://lapfoxradio.com)
+- **Dance Wave!**: [Link](https://dancewave.online)
+- **Magic Radio**: [Link](https://magic-radio.net)
+- **Radio Calico**: [Link](https://www.radio-calico.com)
+- **Mother Earth Radio**: [Link](https://motherearthradio.de/en/)
+- **Djam Radio**: [Link](https://www.djam.radio)
+- **Le Bon Mix**: [Link](https://www.lebonmix.radio)
+- **Radio Sputnik**: [Link](https://audiophile.fm/radio-sputnik)
+- **Radio Paradise (Global Mix)**: [Link](https://radioparadise.com/home)
 
 ---
 
@@ -462,7 +454,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - Review broken links and update them -  ███████████░ 99% Done
 - Add more genre-specific channels
 - Add descriptions to all channels - █████████░ 60-80% Done
-- Fix the broken Hi-Res links. 
+- Fix the broken Hi-Res links. Done
 
 ## 🤝 Contributing
 
