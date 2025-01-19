@@ -193,7 +193,7 @@ Hey there! This is a handpicked list of some of the best online radio stations o
 - **Fluid Radio**: [Link](http://uk4-vn.webcast-server.net:9270/) | Fluid Radio brings you the best in experimental frequencies allowing listeners, artists, producers and promoters to be completely involved in the growth and direction of the station. Focusing on experimental genres, we aim to provide a space to share in the creative process and spread the experience of inner exploration through musical expression. The playlist is diverse, encompassing Ambient, Modern Classical, Experimental Acoustic, Folk and Abstract sounds.
 - **⭐La Patate Douce**: [Link](http://listen.radioking.com/radio/285742/stream/331753)
 - **⭐WFMU**: [Link](http://wfmu.org) | A freeform radio station offering a wide range of music, from rock to experimental.
-
+- **Zeno.FM GTA Radio**: [Link](https://stream.zeno.fm/qe1hrwvkg48uv) | GTA playlist. 
 ---
 
 ### Hip-Hop/Rap 🎤
