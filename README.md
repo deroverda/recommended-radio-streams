@@ -454,8 +454,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - Review broken links and update them -  ███████████░ 99% Done
 - Add more genre-specific channels
 - Add descriptions to all channels - █████████░ 60-80% Done
-- Fix the broken Hi-Res links. Done
-
+- Fix the broken Hi-Res links ██████████ 100%
 ## 🤝 Contributing
 
 I welcome contributions! If you know of any great radio stations that should be added, or if you spot any issues (like dead links), feel free to open an issue. 
