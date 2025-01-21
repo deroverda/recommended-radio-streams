@@ -63,7 +63,7 @@ Welcome to a curated list of the best online radio stations. From electronic and
 - [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists)
 
 ### 🔗 Additional Internet Radio Stations
-[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com)  | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru) | [You Radio](https://play.you.radio/) | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
+[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [RadioParadise](https://www.radioparadise.com) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com)  | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru)  | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
 
 ### 🌐 General Internet Radio Platforms & Aggregators
 [ScrobbleRadio](https://scrobblerad.io/) [iHeartRadio](https://www.iheart.com) | [OnlineRadioBox](https://onlineradiobox.com) | [LiveOnlineRadio](https://www.liveonlineradio.net) | [WebSDR](http://websdr.org/) | [System Bus Radio](https://github.com/fulldecent/system-bus-radio) | [myTuner](https://mytuner-radio.com) | [Zeno](https://zeno.fm) | [TuneYou](https://tuneyou.com) | [Tvradiotuner](https://tvradiotuner.com) | [Instant.audio](https://instant.audio) | [Radiodeck](https://www.radiodeck.com) | [VRadio](https://www.vradio.app) | [WorldRadioMap](https://www.worldradiomap.com) | [Streema](https://streema.com) | [vTuner](https://www.vtuner.com) | [Radio.net](https://www.radio.net) | [TheOneStopRadio](https://theonestopradio.com) | [Radio Guide](https://www.radioguide.fm) | [Xiph](https://xiph.org) | [ilovemusic](https://ilovemusic.de/) | [0nRadio](https://0nradio.com) | [1a Radio](https://1aradio.com) | [radioline](https://www.radioline.co) | [QMPlay2](https://github.com/zaps166/QMPlay2) | [GWES EAS Relay Network](https://gwes-eas.network/listen/)
@@ -158,7 +158,7 @@ Welcome to a curated list of the best online radio stations. From electronic and
 ---
 
 ### General 📻
-- **BBC Radio 6 Music**: [Link](http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8)
+- **BBC Radio 6 Music**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)
 - **Birch Street Radio**: [Link](https://jenny.torontocast.com:8172/stream) | adult alternative, classic rock, folk rock, alternative rock, americana, indie rock, progressive rock, singer-songwriters 
 - **Classic Vinyl HD**: [Link](https://walmradio.com/classic/)  | general
 - **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | general station
@@ -318,7 +318,7 @@ Welcome to a curated list of the best online radio stations. From electronic and
 - **Pan African Space Station**: [Link](https://panafricanspacestation.org.za/) | The Pan African Space Station (PASS), founded by Chimurenga and Neo Muyanga in 2008, is a dynamic platform blending a live radio studio, performance space, research hub, and internet radio station. Drawing inspiration from Sun Ra's philosophy, PASS creates new forms of knowledge, challenges perceptions of Africa, and explores shared human and historical connections.
 - **Radio Caprice - Afrobeat**: [Link](http://www.radcap.ru/)
 - **Alefa Music - Afrobeat** [Link](https://alefamusic.net/) | Alefamusic is a webradio dedicated to Malagasy music, especially the salegy rhythm. Founded in 2006 in France, it began as a radio show hosted by DJ Gasy Mich and Fabrice Mystone on Aligre FM 93.1 Paris, airing until November 2017. The webradio launched in 2012, continuing the show’s legacy by broadcasting Malagasy music worldwide.
-- **Afro FM**: [Link](http://stream.zeno.fm/fu367ky6hkeuv)
+- **Afro FM**: [Link](https://zeno.fm/radio/fm-afro/)
 - **Jazz Afro**: [Link](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)
 - **Afro House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER53) | Afro House 
 
@@ -436,7 +436,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **WDR 1Live Plan B**: [Link](http://wdr.de) | A German station offering a mix of music, talk, and entertainment.
 - **WGBH 89.7 – Boston**: [Link](http://wgbh.org) | A Boston-based public radio station offering classical music and cultural programming.
 - **WGBH 99.5 FM – Classical Music**: [Link](http://wgbh.org) | Plays classical music and opera, including local and international performances.
-- **WGTR FM – Christian/World Music**: [Link](http://wgtr.fm) | Plays Christian music alongside a selection of world music genres.
 - **WLIR 92.7 – New York**: [Link](http://wliwfm.org) | Offers alternative rock, pop, and indie
 - **WNYC 93.9 FM – New York**: [Link](http://wnyc.org) | A public radio station offering news, talk, and music programming.
 - **WRIR 97.3 – Richmond, VA**: [Link](http://wrir.org) | A community radio station offering a variety of music genres and talk programming.
