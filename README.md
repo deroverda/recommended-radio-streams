@@ -141,7 +141,6 @@ Welcome to a curated list of the best online radio stations. From electronic and
 - **Tech House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER18) | Tech House
 - **Acid House (Australian Digital Radio)**: [Link](http://abm22.com.au:8000/CONTAINER1) | Acid House .
 
-
 ---
 
 ### Yacht Rock 🚤🌊
@@ -236,7 +235,7 @@ Welcome to a curated list of the best online radio stations. From electronic and
 - **Mother Earth Radio - Instrumental**: [Link](http://motherearthradio.com/instrumental)  
 - **NTS - Slow Focus**: [Link](https://stream-mixtape-geo.ntslive.net/mixtape) | Meditative, relaxing and beatless: ambient, drone and ragas. Tune in and zone out with NTS&apos; compendium of the beatless and transcendental. Calming sounds to help you focus or drift away.
 - **Ambinature Radio**: [Link](https://nature-rex.radioca.st/stream) | Ambi Nature Radio (Sleep, Relaxation & Meditation) is a station with the focus on providing natural relaxation sounds. We don’t play any music, just let your mind be free while listening to the most relaxing nature sounds of the earth.
-
+- **Limbik Frequencies - Radio Elektro[u]nique**: [Link](https://limbikfreq.com/public/limbik_frequencies) | A tasty blend of deep fried beats.
 
 ---
 
