@@ -135,7 +135,7 @@ These are my favorite stations from the curated list below. They represent a div
 - **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | A general station with a mix of music and talk shows.
 - **Lahmacun Radio**: [Link](https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3) | A Budapest-based station offering a mix of music and talk shows.
 - **SuperStereo 1+ - Disco, Soul & Funk**: [Link](https://www.hiresaudio.online/category/radio/) | Plays a blend of disco, soul, and funk music.
-- **Soho Radio**: [Link](http://sohoradio.com) | A London-based station with a variety of music and talk shows.
+- **Soho Radio**: [Link](https://sohoradiolondon.com/) | A London-based station with a variety of music and talk shows.
 - **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/) | Plays 1960s psychedelic rock and pop.
 - **The Dump**: [Link](http://thedump.com) | An eclectic mix of various genres and obscure music.
 - **The Lake Radio**: [Link](http://thelakeradio.com) | Offers a random selection of music and sounds, playing 24/7.
@@ -194,7 +194,7 @@ These are my favorite stations from the curated list below. They represent a div
 - **Skylab Radio**: [Link](http://skylabradio.com) | Known for spacey, ambient, and experimental electronic sounds.
 - **Datafruits**: [Link](https://datafruits.fm/) | Focuses on chiptune and video game-inspired electronic music.
 - **dublab**: [Link](http://dublab.com) | Features a wide range of experimental and underground electronic music.
-- **TEKnival Radio**: [Link](http://teknivalradio.com) | Plays hard-edged techno and rave-inspired electronic music.
+- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk/lander) | Plays hard-edged techno and rave-inspired electronic music.
 - **Rainwave - All**: [Link](http://rainwave.cc/all) | A mix of different types of video game music including electronic styles.
 - **Rainwave - Chiptunes**: [Link](https://rainwave.cc/chiptune/) | A collection of chiptune (bleeps and bloops) from games and more.
 - **Italoradio.fm**: [Link](https://italoradio.fm/) | Plays Italo-disco music.
@@ -226,7 +226,7 @@ These are my favorite stations from the curated list below. They represent a div
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
 - **Concertzender - Jazznotjazz**: [Link](https://www.concertzender.nl/programma_genre/oude-muziek/) | Plays a mix of jazz and non-jazz genres with a focus on alternative jazz sounds.
 - **Jazz Con Class**: [Link](http://jazzconclass.com) | Hosted by Jose Reyes, this 24/7 station celebrates traditional/classic Jazz from the late 40s to early 70s, aiming to revive overlooked Jazz music.
-- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://kewuradio.ewu.edu/KEWU_Jazz_89.5) | A public radio station dedicated to jazz.
+- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://www.ewu.edu/kewu/) | A public radio station dedicated to jazz.
 - **KSDS Jazz 88.3 FM**: [Link](https://www.jazz88.org/) | A public radio station broadcasting both classic and contemporary jazz.
 - **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | A station that occasionally plays jazz, also featured in the Electronic category.
 - **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch) | Features swinging standards from the "Great American Songbook," bebop, and Latin, Black, and World Music for an ideal non-stop mix.
@@ -276,10 +276,10 @@ These are my favorite stations from the curated list below. They represent a div
 ---
 
 ### ⭐**SomaFM**
-- **Bossa Beyond**: [Link](https://fm.com/listen/) | Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba, and beyond.
-- **Deep Space One**: [Link](https://fm.com/listen/) | Deep ambient electronic, experimental, and space music for inner and outer space exploration.
-- **FM - Groove Salad Classic**: [Link](https://fm.com/listen/) | The classic (early 2000s) version of a chilled plate of ambient/downtempo beats and grooves.
-- **Groove Salad**: [Link](https://fm.com/listen/) | A nicely chilled plate of ambient/downtempo beats and grooves.
+- **Bossa Beyond**: [Link](https://somafm.com/listen/) | Silky-smooth, laid-back Brazilian-style rhythms of Bossa Nova, Samba, and beyond.
+- **Deep Space One**: [Link](https://somafm.com/listen/) | Deep ambient electronic, experimental, and space music for inner and outer space exploration.
+- **FM - Groove Salad Classic**: [Link](https://somafm.com/listen/) | The classic (early 2000s) version of a chilled plate of ambient/downtempo beats and grooves.
+- **Groove Salad**: [Link](https://somafm.com/listen/) | A nicely chilled plate of ambient/downtempo beats and grooves.
 - **Left Coast 70s**: [Link](https://somafm.com/listen/) | Mellow album rock from the Seventies. Yacht not required.
 - **SF Police Scanner**: [Link](https://somafm.com/listen/) | San Francisco Public Safety Scanner Feed.
 - **Seven Inch Soul**: [Link](https://somafm.com/listen/) | Vintage soul tracks from the original 45 RPM vinyl.
