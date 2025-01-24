@@ -7,7 +7,7 @@
 
 # A Curated List of Internet Radio Stations
 
-Welcome to a curated list of the best online radio stations. From electronic and jazz to reggae, classic rock, and beyond, you'll find stations to suit every mood and taste.
+Welcome to a curated list of great online radio stations. This list features not only my personal favorite stations but also recommendations I've heard are great, spanning genres like electronic, jazz, reggae, classic rock, and more. You'll also find suggestions for apps to help you tune in and listen. I encourage the community to contribute by sharing their favorite stations, making this list a growing resource for all radio & music enthusiasts.
 
 ---
 
@@ -27,14 +27,14 @@ Welcome to a curated list of the best online radio stations. From electronic and
 - [Triode](https://triode.app/): Simple app for listening to stations anywhere.
 - [Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB): Free app offering a vast array of stations with Radio-Browser support. Also available on macOS, iPadOS, watchOS, and tvOS.
 
-#### Desktop
-- [Lyrion Music Server](https://github.com/LMS-Community): Open-source software for local music, internet radio, and streaming services.
-
 #### Android
 - [RadioDroid](https://github.com/segler-alex/RadioDroid): Open-source app with Radio-Browser integration.
 - [Transistor](https://codeberg.org/y20k/transistor): Minimal radio app for direct audio stream links.
 - [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp): Plays internet radio and integrates with UPnP devices.
 - [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app): Access over 35,000 stations worldwide.
+
+#### Desktop
+- [Lyrion Music Server](https://github.com/LMS-Community): Open-source software for local music, internet radio, and streaming services.
 
 #### Cross-Platform
 - [Foobar2000](https://www.foobar2000.org/): Customizable media player supporting various streaming formats.
@@ -117,16 +117,51 @@ Welcome to a curated list of the best online radio stations. From electronic and
 
 ### ⭐ Featured Stations
 These are my favorite stations from the curated list below. They represent a diverse mix of genres.
-- **⭐Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | A 24/7 online vaporwave and future funk radio station.
-- **⭐Nugs Radio**: [Link](http://nugs.net) |  Plays live recordings of rock and jam bands.
-- **⭐FIP**: [Link](https://stream.radiofrance.fr/fip/fip.m3u8) | The most eclectic music radio in the world! Explore 8 thematic webradios, all free and ad-free.
-- **⭐La Patate Douce**: [Link](http://listen.radioking.com/radio/285742/stream/331753) | Groovy vibes and soulful tunes.
-- **⭐WFMU**: [Link](http://wfmu.org) | A legendary freeform radio station offering music from rock to experimental.
-- **⭐Radio Nula - Classics**: [Link](https://strm.radionula.com/classics) | Soul - Funk - Disco - Hip-Hop and all that Jazz
-- **⭐Head Wax Radio**: [Link](https://headwaxradio.radioca.st/stream) | Future sounds of jazz and music for your mind, body, and soul. Broadcasting from Dublin, Ireland.
-- **⭐Hunter FM LoFi**: [Link](https://live.hunter.fm/lofi_high) | Perfect beats for studying and working, or even relaxing and falling asleep. 
-- **⭐Moon Phase Radio**: [Link](https://cp12.serverse.com/proxy/moonphase/stream) | Commercial-free ambient & downtempo music, broadcasting since 2010.
+- **Nightwave Plaza**: [Link](http://radio.plaza.one/mp3) | A 24/7 online vaporwave and future funk radio station.
+- **Nugs Radio**: [Link](http://nugs.net) |  Plays live recordings of rock and jam bands.
+- **FIP**: [Link](https://stream.radiofrance.fr/fip/fip.m3u8) | The most eclectic music radio in the world! Explore 8 thematic webradios, all free and ad-free.
+- **La Patate Douce**: [Link](http://listen.radioking.com/radio/285742/stream/331753) | Groovy vibes and soulful tunes.
+- **WFMU**: [Link](http://wfmu.org) | A legendary freeform radio station offering music from rock to experimental.
+- **Radio Nula - Classics**: [Link](https://strm.radionula.com/classics) | Soul - Funk - Disco - Hip-Hop and all that Jazz
+- **Head Wax Radio**: [Link](https://headwaxradio.radioca.st/stream) | Future sounds of jazz and music for your mind, body, and soul. Broadcasting from Dublin, Ireland.
+- **Hunter FM LoFi**: [Link](https://live.hunter.fm/lofi_high) | Perfect beats for studying and working, or even relaxing and falling asleep. 
+- **Moon Phase Radio**: [Link](https://cp12.serverse.com/proxy/moonphase/stream) | Commercial-free ambient & downtempo music, broadcasting since 2010.
 
+---
+### General 📻
+- **BBC Radio 6 Music**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3) | A station offering a blend of alternative, indie, and eclectic music.
+- **Birch Street Radio**: [Link](https://jenny.torontocast.com:8172/stream) | Features adult alternative, classic rock, folk rock, alternative rock, americana, indie rock, progressive rock, and singer-songwriters.
+- **Classic Vinyl HD**: [Link](https://walmradio.com/classic/) | Plays classic rock and vinyl hits.
+- **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | A general station with a mix of music and talk shows.
+- **Lahmacun Radio**: [Link](https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3) | A Budapest-based station offering a mix of music and talk shows.
+- **SuperStereo 1+ - Disco, Soul & Funk**: [Link](https://www.hiresaudio.online/category/radio/) | Plays a blend of disco, soul, and funk music.
+- **Soho Radio**: [Link](http://sohoradio.com) | A London-based station with a variety of music and talk shows.
+- **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/) | Plays 1960s psychedelic rock and pop.
+- **The Dump**: [Link](http://thedump.com) | An eclectic mix of various genres and obscure music.
+- **The Lake Radio**: [Link](http://thelakeradio.com) | Offers a random selection of music and sounds, playing 24/7.
+- **The SoCal Sound**: [Link](http://thesocalsound.org) | Features contemporary California rock, pop, and indie music.
+- **The Penthouse**: [Link](https://thepenthouse.fm/) | A variety station featuring soul, R&B, pop, and classic music.
+- **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/) | A time-traveling journey through music history.
+- **Totally Wired Radio**: [Link](http://totallywiredradio.com) | Plays a mix of indie, punk, and alternative music.
+- **181.fm**: [Link](https://www.181.fm/) | Offers a variety of radio channels.
+- **KBON**: [Link](https://www.kbon.com/) | A Louisiana-based station playing a mix of local music.
+- **KKJZ-HD88.1**: [Link](https://kkjz.org/) | Plays jazz and blues music, focused on educational programming.
+- **Le Grigri**: [Link](http://legrigri.com) | Plays a mix of African and Caribbean music.
+- **Le Mellotron**: [Link](http://lemellotron.com) | Features a mix of world music, jazz, and electronic music.
+- **Mondo Bongo Radio**: [Link](http://mondobongoradio.com) | Plays a mix of world music, exotica, and soul.
+- **Mutant Radio**: [Link](https://www.mutantradio.net) | Plays an eclectic mix of experimental and alternative music.
+- **REYFM**: [Link](https://rey.fm/) | Plays contemporary pop and Latin music.
+- **Radio France**: [Link](http://www.radiofrance.fr/live) | A French public station with a variety of programming.
+- **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix) | A blend of rock, world, and electronic music.
+- **Radio Free Phoenix**: [Link](http://radiofreephoenix.com) | A general station offering a mix of music and programming.
+- **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
+- **Retro Soul Radio UK**: [Link](https://www.retrosoulradio.co.uk) | Plays a mix of classic and contemporary soul music.
+- **KEXP**: [Link](https://www.kexp.org/listen/) | A highly praised station known for its exceptional music selection.
+- **Do!! You!!! Radio**: [Link](https://doyouworld.out.airtime.pro/doyouworld_a) | London-based community station offering family-friendly broadcasts.
+- **Netil Radio**: [Link](https://netilradio.out.airtime.pro/netilradio_a) | A London community radio station broadcasting from a converted shipping container.
+- **Fluid Radio**: [Link](http://uk4-vn.webcast-server.net:9270/) | Focuses on experimental genres like ambient, modern classical, and acoustic music.
+- **Zeno.FM GTA Radio**: [Link](https://stream.zeno.fm/qe1hrwvkg48uv) | A station dedicated to GTA-themed music and playlists.
+---
 
 ### Classical 🎻
 
@@ -179,41 +214,6 @@ These are my favorite stations from the curated list below. They represent a div
 - **SuperStereo 1 - Yacht Rock**: [Link](https://www.hiresaudio.online/category/radio/) | Plays a mix of classic Yacht Rock tracks.
 ---
 
-### General 📻
-- **BBC Radio 6 Music**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3) | A station offering a blend of alternative, indie, and eclectic music.
-- **Birch Street Radio**: [Link](https://jenny.torontocast.com:8172/stream) | Features adult alternative, classic rock, folk rock, alternative rock, americana, indie rock, progressive rock, and singer-songwriters.
-- **Classic Vinyl HD**: [Link](https://walmradio.com/classic/) | Plays classic rock and vinyl hits.
-- **KTKE 101.5 FM**: [Link](https://www.truckeetahoeradio.com/) | A general station with a mix of music and talk shows.
-- **Lahmacun Radio**: [Link](https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3) | A Budapest-based station offering a mix of music and talk shows.
-- **SuperStereo 1+ - Disco, Soul & Funk**: [Link](https://www.hiresaudio.online/category/radio/) | Plays a blend of disco, soul, and funk music.
-- **Soho Radio**: [Link](http://sohoradio.com) | A London-based station with a variety of music and talk shows.
-- **Technicolor Web Of Sound**: [Link](https://www.techwebsound.com/) | Plays 1960s psychedelic rock and pop.
-- **The Dump**: [Link](http://thedump.com) | An eclectic mix of various genres and obscure music.
-- **The Lake Radio**: [Link](http://thelakeradio.com) | Offers a random selection of music and sounds, playing 24/7.
-- **The SoCal Sound**: [Link](http://thesocalsound.org) | Features contemporary California rock, pop, and indie music.
-- **The Penthouse**: [Link](https://thepenthouse.fm/) | A variety station featuring soul, R&B, pop, and classic music.
-- **Time Capsule Show**: [Link](https://ckut.ca/timecapsule/) | A time-traveling journey through music history.
-- **Totally Wired Radio**: [Link](http://totallywiredradio.com) | Plays a mix of indie, punk, and alternative music.
-- **181.fm**: [Link](https://www.181.fm/) | Offers a variety of radio channels.
-- **KBON**: [Link](https://www.kbon.com/) | A Louisiana-based station playing a mix of local music.
-- **KKJZ-HD88.1**: [Link](https://kkjz.org/) | Plays jazz and blues music, focused on educational programming.
-- **Le Grigri**: [Link](http://legrigri.com) | Plays a mix of African and Caribbean music.
-- **Le Mellotron**: [Link](http://lemellotron.com) | Features a mix of world music, jazz, and electronic music.
-- **Mondo Bongo Radio**: [Link](http://mondobongoradio.com) | Plays a mix of world music, exotica, and soul.
-- **Mutant Radio**: [Link](https://www.mutantradio.net) | Plays an eclectic mix of experimental and alternative music.
-- **REYFM**: [Link](https://rey.fm/) | Plays contemporary pop and Latin music.
-- **Radio France**: [Link](http://www.radiofrance.fr/live) | A French public station with a variety of programming.
-- **Radio Paradise - Main Mix**: [Link](http://radioparadise.com/main-mix) | A blend of rock, world, and electronic music.
-- **Radio Free Phoenix**: [Link](http://radiofreephoenix.com) | A general station offering a mix of music and programming.
-- **Radio Krimi**: [Link](http://radiokrimi.com) | Plays mystery-themed radio dramas.
-- **Retro Soul Radio UK**: [Link](https://www.retrosoulradio.co.uk) | Plays a mix of classic and contemporary soul music.
-- **KEXP**: [Link](https://www.kexp.org/listen/) | A highly praised station known for its exceptional music selection.
-- **Do!! You!!! Radio**: [Link](https://doyouworld.out.airtime.pro/doyouworld_a) | London-based community station offering family-friendly broadcasts.
-- **Netil Radio**: [Link](https://netilradio.out.airtime.pro/netilradio_a) | A London community radio station broadcasting from a converted shipping container.
-- **Fluid Radio**: [Link](http://uk4-vn.webcast-server.net:9270/) | Focuses on experimental genres like ambient, modern classical, and acoustic music.
-- **Zeno.FM GTA Radio**: [Link](https://stream.zeno.fm/qe1hrwvkg48uv) | A station dedicated to GTA-themed music and playlists.
----
-
 ### Hip-Hop/Rap 🎤
 - **90s90s HipHop & Rap**: [Link](http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/) | 90s.
 - **181.FM - Old School HipHop/RnB**: [Link](http://listen.181fm.com/181-oldschool_128k.mp3) | Old school.
@@ -234,7 +234,6 @@ These are my favorite stations from the curated list below. They represent a div
 - **WDNA 88.9**: [Link](http://wdna.org) | Miami-based public station focused on jazz and Latin jazz.
 
 ---
-  
 
 ### Lounge & Chill 🍹🌅🌴
 - **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations) | Vibe out to ambient and lounge music. Costa Del Mar is an easy listening station inspired by the sea.
@@ -290,41 +289,6 @@ These are my favorite stations from the curated list below. They represent a div
 
 ---
 
-### HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.
-- **96bFM**: [Link](https://95bfm.com)
-- **Easy Radio**: [Link](https://www.easyradio.bg)
-- **JB Radio**: [Link](https://jb-radio.net)
-- **LapFox Radio**: [Link](https://lapfoxradio.com)
-- **Le Bon Mix**: [Link](https://www.lebonmix.radio)
-- **Magic Radio**: [Link](https://magic-radio.net)
-- **Mother Earth Radio**: [Link](https://motherearthradio.de/en/)
-- **Open Sky Radio**: [Link](https://opensky.radio)
-- **Radio 90FM Valencia**: [Link](https://www.radio90.fm)
-- **Radio Bias**: [Link](https://biasradio.com)
-- **Radio Calico**: [Link](https://www.radio-calico.com)
-- **Radio Jeunes Rheims**: [Link](https://www.rjrradio.fr)
-- **Radio Krov**: [Link](https://www.hiresaudio.online/radio-krov/)
-- **Radio Random**: [Link](https://radiorandom.org)
-- **Radio Sputnik**: [Link](https://audiophile.fm/radio-sputnik)
-- **SuperStereo: Signal 1**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 1+**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 2**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 3**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html)
-- **SuperStereo: Signal 4**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 4+**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 5**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 6**: [Link](https://superstereohires.com/streams/)
-- **SuperStereo: Signal 7**: [Link](https://icecast.centaury.cl/superstereo/index7.html)
-- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html)
-- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk)
-- **The Cheese**: [Link](https://thecheese.co.nz)
-- **Violent Forces Radio: '80s Thrash**: [Link](https://violentforcesradio.weebly.com)
-- **Violent Forces Radio: General Thrash**: [Link](https://violentforcesradio.weebly.com)
-- **WBOR Radio**: [Link](https://wbor.org)
-
----
-
 ### World Music 🌍
 
 **African** 🪘🦁
@@ -377,6 +341,41 @@ These are my favorite stations from the curated list below. They represent a div
 - **⭐Grateful Dead Radio - WGDR**: [Link](https://www.madmusicradio.com/wgdr)
 - **Grateful Dead**: [Link](http://108.163.245.230:8100/stream) | unknown station
 - **Rolling Stones (Virgin Radio Rockstar)**: [Link](https://icy.unitedradio.it/VirginSpecialEvent.mp3)
+
+---
+
+### HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.
+- **96bFM**: [Link](https://95bfm.com)
+- **Easy Radio**: [Link](https://www.easyradio.bg)
+- **JB Radio**: [Link](https://jb-radio.net)
+- **LapFox Radio**: [Link](https://lapfoxradio.com)
+- **Le Bon Mix**: [Link](https://www.lebonmix.radio)
+- **Magic Radio**: [Link](https://magic-radio.net)
+- **Mother Earth Radio**: [Link](https://motherearthradio.de/en/)
+- **Open Sky Radio**: [Link](https://opensky.radio)
+- **Radio 90FM Valencia**: [Link](https://www.radio90.fm)
+- **Radio Bias**: [Link](https://biasradio.com)
+- **Radio Calico**: [Link](https://www.radio-calico.com)
+- **Radio Jeunes Rheims**: [Link](https://www.rjrradio.fr)
+- **Radio Krov**: [Link](https://www.hiresaudio.online/radio-krov/)
+- **Radio Random**: [Link](https://radiorandom.org)
+- **Radio Sputnik**: [Link](https://audiophile.fm/radio-sputnik)
+- **SuperStereo: Signal 1**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 1+**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 2**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 3**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html)
+- **SuperStereo: Signal 4**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 4+**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 5**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 6**: [Link](https://superstereohires.com/streams/)
+- **SuperStereo: Signal 7**: [Link](https://icecast.centaury.cl/superstereo/index7.html)
+- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html)
+- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk)
+- **The Cheese**: [Link](https://thecheese.co.nz)
+- **Violent Forces Radio: '80s Thrash**: [Link](https://violentforcesradio.weebly.com)
+- **Violent Forces Radio: General Thrash**: [Link](https://violentforcesradio.weebly.com)
+- **WBOR Radio**: [Link](https://wbor.org)
 
 ---
 
