@@ -12,7 +12,7 @@ Welcome to a curated list of the best online radio stations. From electronic and
 ---
 
 ## 🗂️ Table of Contents
-- [Recommended Apps for Streaming](#️-recommended-apps-for-streaming)
+- [Recommended Apps for Streaming](#️-apps-for-streaming)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
 - [Things to Do](#things-to-do)
@@ -21,52 +21,91 @@ Welcome to a curated list of the best online radio stations. From electronic and
 - [Acknowledgements](#acknowledgements)
 ---
 
-### 🖥️ **Recommended Apps for Streaming**
+### Apps for Streaming
+#### iOS
+- [CuterDio](https://cuterdio.com/en): Lightweight app using Radio-Browser for station discovery.
+- [Triode](https://triode.app/): Simple app for listening to stations anywhere.
+- [Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB): Free app offering a vast array of stations with Radio-Browser support. Also available on macOS, iPadOS, watchOS, and tvOS.
 
-#### 📱 **iOS**
-- ⭐ [CuterDio](https://cuterdio.com/en) | Lightweight app using Radio-Browser for station discovery.
-- [Triode](https://triode.app/) | Simple app for listening to stations everywhere.
-- [Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB) | Free app offering a vast array of internet radio stations via Radio-Browser. Supports iOS, macOS, iPadOS, watchOS, and tvOS.
+#### Desktop
+- [Lyrion Music Server](https://github.com/LMS-Community): Open-source software for local music, internet radio, and streaming services.
 
-#### 💻 **Desktop**
-- [Lyrion Music Server](https://github.com/LMS-Community) | Open-source server software for local music, internet radio, and streaming services.
+#### Android
+- [RadioDroid](https://github.com/segler-alex/RadioDroid): Open-source app with Radio-Browser integration.
+- [Transistor](https://codeberg.org/y20k/transistor): Minimal radio app for direct audio stream links.
+- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp): Plays internet radio and integrates with UPnP devices.
+- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app): Access over 35,000 stations worldwide.
 
-#### 🤖 **Android**
-- [RadioDroid](https://github.com/segler-alex/RadioDroid) | Open-source app with Radio-Browser integration.
-- [Transistor](https://codeberg.org/y20k/transistor) | Minimalistic radio app for direct audio stream links.
-- [RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp) | Plays internet radio and integrates with UPnP devices.
-- [RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app) | Access over 35,000 stations worldwide for music, news, and sports.
+#### Cross-Platform
+- [Foobar2000](https://www.foobar2000.org/): Customizable media player supporting various streaming formats.
 
-#### 📱💻 **Cross-Platform Apps**
-- [Foobar2000](https://www.foobar2000.org/) | Customizable media player supporting various streaming formats. Available on iOS, Android, and Desktop.
-
----
-
-### 📜 Radio Index
-
-- [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)
-- ⭐[Radio Browser](https://www.radio-browser.info)
-- [Worldwide Radio Globe](https://radio.garden/)
-- [FMStream](https://fmstream.org)
-- [Radio URL Search](https://streamurl.link)
-- [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists)
 
 ---
 
-### 🌐 General Internet Radio Platforms & Aggregators
-**[ScrobbleRadio](https://scrobblerad.io/)** | **[iHeartRadio](https://www.iheart.com)** | **[OnlineRadioBox](https://onlineradiobox.com)** | **[LiveOnlineRadio](https://www.liveonlineradio.net)**  
-**[WebSDR](http://websdr.org/)** | **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)** | **[myTuner](https://mytuner-radio.com)** | **[Zeno](https://zeno.fm)**  
-**[TuneYou](https://tuneyou.com)** | **[Tvradiotuner](https://tvradiotuner.com)** | **[Instant.audio](https://instant.audio)** | **[Radiodeck](https://www.radiodeck.com)**  
-**[VRadio](https://www.vradio.app)** | **[WorldRadioMap](https://www.worldradiomap.com)** | **[Streema](https://streema.com)** | **[vTuner](https://www.vtuner.com)**  
-**[Radio.net](https://www.radio.net)** | **[TheOneStopRadio](https://theonestopradio.com)** | **[Radio Guide](https://www.radioguide.fm)** | **[Xiph](https://xiph.org)**  
-**[ilovemusic](https://ilovemusic.de/)** | **[0nRadio](https://0nradio.com)** | **[1a Radio](https://1aradio.com)** | **[radioline](https://www.radioline.co)**  
-**[QMPlay2](https://github.com/zaps166/QMPlay2)** | **[GWES EAS Relay Network](https://gwes-eas.network/listen/)**  
+### Radio Index
+
+- [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations): A Wikipedia list of notable internet radio stations.
+- ⭐ [Radio Browser](https://www.radio-browser.info): A community-driven directory of internet radio stations.
+- [Worldwide Radio Globe](https://radio.garden/): Explore global radio stations interactively via a 3D map.
+- [FMStream](https://fmstream.org): A directory for FM and online radio streams.
+- [Radio URL Search](https://streamurl.link): A tool to find stream URLs for internet radio stations.
+- [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists): A collection of curated M3U playlists for various genres.
+
 
 ---
 
-### 🔗 Additional Internet Radio Stations
-[deep-cut.fm](https://deep-cut.fm) | [CoreRadio](https://coreradio.online/) | [IndieSHuffle](https://www.indieshuffle.com) | [You42](https://www.you42.com) | [Jango](https://www.jango.com) | [RadioTunes](https://www.radiotunes.com)  | [AccuRadio](https://www.accuradio.com) | [Radio.dubbeh](https://radio.dubbeh.net/) | [Tilderadio](https://tilderadio.org/) | [AnonRadio](https://anonradio.net) | [UpBeat / Discord](https://discord.com) | [ShoutCast](https://www.shoutcast.com) | [Internet-Radio](https://www.internet-radio.com) | [Radiolise](https://radiolise.com) | [JetSetRadio / 2](https://jetsetradio.live/) | [Chiru.no](https://chiru.no) | [radcap](https://www.radcap.ru)  | [rivestream](https://www.rivestream.com) [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/)
+<details>
+  <summary>Click to view General Internet Radio Platforms & Aggregators</summary>
+  
+### General Internet Radio Platforms, Aggregators & Stations
+- [0nRadio](https://0nradio.com): A directory of thematic radio stations.
+- [1a Radio](https://1aradio.com): German radio streams featuring various genres.
+- [GWES EAS Relay Network](https://gwes-eas.network/listen/): Emergency alert relay network for radio.
+- [Instant.audio](https://instant.audio): Quick access to various radio streams.
+- [iHeartRadio](https://www.iheart.com): Popular aggregator offering music, talk shows, and podcasts.
+- [ilovemusic](https://ilovemusic.de/): A German internet radio platform.
+- [LiveOnlineRadio](https://www.liveonlineradio.net): Search and listen to live online radio broadcasts globally.
+- [myTuner](https://mytuner-radio.com): Aggregator offering a mix of radio, podcasts, and music.
+- [OnlineRadioBox](https://onlineradiobox.com): Directory of online radio stations worldwide.
+- [QMPlay2](https://github.com/zaps166/QMPlay2): Multimedia player supporting internet radio.
+- [Radiodeck](https://www.radiodeck.com): Internet radio app for accessing diverse stations.
+- [Radioline](https://www.radioline.co): Radio and podcast aggregator.
+- [Radio Guide](https://www.radioguide.fm): Database of FM, AM, and internet radio stations.
+- [Radio.net](https://www.radio.net): Discover and listen to a variety of radio channels.
+- [ScrobbleRadio](https://scrobblerad.io/): A platform for discovering new music through internet radio.
+- [Streema](https://streema.com): Search engine for radio stations and TV broadcasts.
+- [System Bus Radio](https://github.com/fulldecent/system-bus-radio): Experimental project for streaming audio using computers' system buses.
+- [TheOneStopRadio](https://theonestopradio.com): Aggregator for online radio streams.
+- [TuneYou](https://tuneyou.com): Access over 50,000 radio stations globally.
+- [Tvradiotuner](https://tvradiotuner.com): Internet radio directory with a mix of channels.
+- [VRadio](https://www.vradio.app): Mobile app for internet radio streaming.
+- [WebSDR](http://websdr.org/): Software-defined radio streams for exploring global frequencies.
+- [WorldRadioMap](https://www.worldradiomap.com): Interactive map of worldwide radio stations.
+- [Xiph](https://xiph.org): Open-source multimedia project, including internet radio tools.
+- [Zeno](https://zeno.fm): Free streaming platform for radio stations and podcasts.
+- [vTuner](https://www.vtuner.com): A guide for accessing internet radio.
+  
+### Additional Internet Radio Stations
+- [AccuRadio](https://www.accuradio.com): Customizable internet radio with hundreds of channels.
+- [AnonRadio](https://anonradio.net): Broadcasts by the SDF Public Access Unix System community.
+- [Chiru.no](https://chiru.no): Community-based station featuring Japanese pop culture music.
+- [CoreRadio](https://coreradio.online/): Streams underground and experimental music.
+- [deep-cut.fm](https://deep-cut.fm): A station dedicated to playing lesser-known indie and alternative tracks.
+- [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl/): A curated list of stations focusing on demoscene and video game music.
+- [IndieShuffle](https://www.indieshuffle.com): A platform for discovering indie music curated by listeners.
+- [Internet-Radio](https://www.internet-radio.com): Directory of free internet radio streams.
+- [Jango](https://www.jango.com): Personalized internet radio with ad-supported free streaming.
+- [JetSetRadio](https://jetsetradio.live/): A fan-made internet radio station inspired by the Jet Set Radio video game series.
+- [Radio.dubbeh](https://radio.dubbeh.net/): Plays an eclectic mix of genres, perfect for exploration.
+- [Radiolise](https://radiolise.com): Features live radio streams from various genres.
+- [RadioTunes](https://www.radiotunes.com): Offers curated internet radio channels across various genres.
+- [radcap](https://www.radcap.ru): A Russian radio station streaming diverse music genres.
+- [rivestream](https://www.rivestream.com): A directory and platform for internet radio streams.
+- [ShoutCast](https://www.shoutcast.com): Provides tools for hosting your own internet radio station.
+- [Tilderadio](https://tilderadio.org/): Community-powered internet radio.
+- [You42](https://www.you42.com): A multimedia streaming platform with a mix of music and entertainment.
 
+</details>
 
 ---
 
