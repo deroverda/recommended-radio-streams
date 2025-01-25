@@ -94,7 +94,6 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [RadioTunes](https://www.radiotunes.com): Offers curated music stations.
 - [Shoutcast](http://directory.shoutcast.com): A platform for hosting your own radio station.
 - [Live365](https://live365.com/listen): Platform for creating and streaming radio.
-- [Deso.fm](https://deso.fm): Hosts its own curated stations.
 - [QMPlay2](https://github.com/zaps166/QMPlay2): A multimedia player supporting internet radio.
 - [rivestream](https://www.rivestream.com): A directory and platform for internet radio streams.
 
@@ -103,7 +102,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 ## **Niche & Specialized Stations**
 - [AnonRadio](https://anonradio.net): A community-based Unix system radio.
 - [Chiru.no](https://chiru.no): Focuses on Japanese pop culture music.
-- [CoreRadio](https://www.coreradio.com): Underground and experimental music.
+- [CoreRadio](https://coreradio.online/): Underground and experimental music.
 - [deep-cut.fm](https://deep-cut.fm): Indie and alternative music streams.
 - [IndieShuffle](https://www.indieshuffle.com): Listener-curated indie music.
 - [Radio Dubbeh](https://radio.dubbeh.net): Plays eclectic genres for discovery.
@@ -122,7 +121,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 ---
 
 ## **Experimental & Community Projects**
-- [System Bus Radio](https://bellard.org/systembusradio): Streams audio using computers' system buses.
+- [System Bus Radio](https://github.com/fulldecent/system-bus-radio): Streams audio using computers' system buses.
 - [WebSDR](http://www.websdr.org): Software-defined radios for exploring frequencies.
 - [TildeRadio](https://tilderadio.tildeverse.org): Community-powered internet radio.
 
