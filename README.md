@@ -542,9 +542,7 @@ Here are some great radio stations suggested by the community:
 - [FIP](http://icecast.radiofrance.fr/fip-hifi.aac) – The programming features all types of music genres including chanson, classical, film music, jazz, pop rock, world music and blues, but with careful attention paid to smooth and unobtrusive transition from one song to the other.  [suggested by @Ukplugs4eva]
 - [Radio Meuh](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3) | Independent Internet radio station out of the French Alps playing fresh songs from all four corners of the globe. [suggested by @psychic_gibbon]
 - [La Patate Douce](http://listen.radioking.com/radio/285742/stream/331753) | La Patate Douce is an independent webradio that provides Disco-Funk Groovy, Afro-Soul & House nuggets... and puree that it's good. [suggested by @psychic_gibbon]
-
-
-
+- [AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen) | Based in Japan. Mostly jazz and bossa nova.  It also features songs by artists affiliated with the station and broadcasts talk shows lasting 15 minutes to an hour. [suggested by @naniwadanahi]
 
 ## Acknowledgements
 
