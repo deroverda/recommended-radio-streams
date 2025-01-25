@@ -21,7 +21,9 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-### Apps for Streaming
+
+## **Apps for Streaming**
+
 #### iOS
 - [CuterDio](https://cuterdio.com/en): Lightweight app using Radio-Browser for station discovery.
 - [Triode](https://triode.app/): Simple app for listening to stations anywhere.
