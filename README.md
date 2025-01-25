@@ -39,9 +39,11 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
+
+## Internat Radio Platforms, Tools and Stations
 <details>
-  <summary>Click to view Internet Radio Platforms, Tools, and Stationss</summary>
-  
+  <summary>Click to expand</summary>
+
 
 ## **General Internet Radio Platforms & Aggregators**
 - [ilovemusic](https://ilovemusic.de): German internet radio platform.
