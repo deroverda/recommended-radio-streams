@@ -469,7 +469,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **The Edge Radio – New Zealand**: [Link](http://theedge.co.nz) | Plays contemporary pop, rock, and alternative music from New Zealand.
 - **The Jazz Groove**: [Link](https://jazzgroove.org/?channel=mix1) | Focuses on smooth jazz music, including contemporary and classic jazz.
 - **Time Capsule Audio Network**: [Link](http://timecapsuleaudio.com) | A nostalgic station playing a variety of classic music and soundtracks.
-- **TSF Jazz 89.9 FM – Paris – Jazz, Talk**: [Link](http://tsfjazz.com) | A Paris-based station focusing on jazz, talk shows, and interviews.
+- **TSF Jazz 89.9 FM – Paris – Jazz, Talk**: [Link](https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3) | A Paris-based station focusing on jazz, talk shows, and interviews.
 - **Tuned In Radio – Classical**: [Link](http://tunedinradio.com) | Plays classical music with a focus on orchestral and chamber pieces.
 - **WBEZ 91.5 FM – Chicago**: [Link](http://wbez.org) | A public radio station in Chicago offering news, talk, and music programming.
 - **WDR 1Live Plan B**: [Link](http://wdr.de) | A German station offering a mix of music, talk, and entertainment.
