@@ -10,7 +10,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## 🗂️ Table of Contents
+## Table of Contents
 - [Recommended Apps for Streaming](#apps-for-streaming)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
