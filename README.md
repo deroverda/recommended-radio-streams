@@ -126,7 +126,7 @@ These are my favorite stations from the curated list below. They represent a div
 - **Head Wax Radio**: [Link](https://headwaxradio.radioca.st/stream) | Future sounds of jazz and music for your mind, body, and soul. Broadcasting from Dublin, Ireland.
 - **Hunter FM LoFi**: [Link](https://live.hunter.fm/lofi_high) | Perfect beats for studying and working, or even relaxing and falling asleep. 
 - **Moon Phase Radio**: [Link](https://cp12.serverse.com/proxy/moonphase/stream) | Commercial-free ambient & downtempo music, broadcasting since 2010.
-
+- **KEWU-FM 89.5**: [Link](https://streamer.radio.co/s3ba633066/listen) | A public radio station dedicated to jazz.
 ---
 ### General 📻
 - **BBC Radio 6 Music**: [Link](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3) | A station offering a blend of alternative, indie, and eclectic music.
