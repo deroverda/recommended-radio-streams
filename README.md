@@ -7,7 +7,7 @@
 
 # A Curated List of Internet Radio Stations
 
-Welcome to a curated list of great online radio stations. This list features not only my personal favorite stations but also recommendations I've heard are great, spanning genres like electronic, jazz, reggae, classic rock, and more. You'll also find suggestions for apps to help you tune in and listen. I encourage the community to contribute by sharing their favorite stations, making this list a growing resource for all radio & music enthusiasts.
+A curated list of great online radio stations, featuring personal favorites and recommendations across genres like electronic, jazz, reggae, Lo-Fi, classical, rap, and classic rock. It also includes app suggestions to make tuning in simple. Contributions are encouraged—share your favorite stations, report broken links, or suggest improvements to help this list become a valuable resource for all music fans.
 
 ---
 
