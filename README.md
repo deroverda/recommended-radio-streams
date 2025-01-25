@@ -4,8 +4,7 @@
 [![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
 
 
-
-# A Curated List of Internet Radio Stations
+---
 
 A curated list of great online radio stations, featuring personal favorites and recommendations across genres like electronic, jazz, reggae, Lo-Fi, classical, rap, and classic rock. It also includes app suggestions to make tuning in simple. Contributions are encouraged—share your favorite stations, report broken links, or suggest improvements to help this list become a valuable resource for all music fans.
 
