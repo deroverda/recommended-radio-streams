@@ -182,10 +182,6 @@ These are my favorite stations from the curated list below. They represent a div
 ---
 
 ### Classical 🎻
-
-- **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music) | Dedicated to symphonies and orchestral masterpieces.
-- **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music) | A mix of classical genres including symphonies, concertos, and more.
-- **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music) | Focused on operatic performances and classical vocals.
 - **WFMT Chicago**: [Link](https://www.wfmt.com/) | WFMT has been broadcasting classical music since 1951. Its website says WFMT "strives to entertain, engage, and above all, respect its listeners with a quality and variety of programming found nowhere else".
 - **WBJC Baltimore**: [Link](https://www.wbjc.com/) | WBJC-FM is the classical radio voice of Baltimore City Community College.
 - **WMNR**: [Link](https://www.wmnr.org/listen) | WMNR Fine Arts Radio is a public radio station, licensed to the Town of Monroe (Connecticut). We are on air 24/7, providing classical and classic music via FM signal to much of Connecticut and nearby portions of New York. Our live stream is enjoyed around the world.
@@ -197,10 +193,6 @@ These are my favorite stations from the curated list below. They represent a div
 - **1.FM - Deep Techno & House**: [Link](https://www.1.fm/stations) | Plays deep techno and house music.
 - **Cashmere Radio**: [Link](http://cashmereradio.com) | A Berlin-based station with diverse, experimental electronic music.
 - **Dance Wave**: [Link](http://dancewave.com) | Focuses on upbeat electronic dance music.
-- **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop) | Plays a relaxed mix of hip-hop influenced electronic beats.
-- **FluxFM - Hippie Trippy Garden**: [Link](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118) | Features psychedelic and experimental electronic music.
-- **FluxFM - Sound Of Berlin**: [Link](http://fluxfm.de/sound-of-berlin) | Showcases the electronic music scene of Berlin.
-- **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house) | Features chill beach house and ambient electronic music.
 - **Frisky Deep**: [Link](https://www.friskyradio.com/) | Specializes in deep house and similar electronic styles.
 - **Frisky Radio**: [Link](https://www.friskyradio.com/) | A broader mix of various electronic genres.
 - **LYL Radio**: [Link](https://lyl.live/) | An independent station known for diverse and eclectic electronic selections.
@@ -254,9 +246,6 @@ These are my favorite stations from the curated list below. They represent a div
 ---
 
 ### Lounge & Chill 🍹🌅🌴
-- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations) | Vibe out to ambient and lounge music. Costa Del Mar is an easy listening station inspired by the sea.
-- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations) | Dedicated exclusively to saxophone music, featuring smooth jazz.
-- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/) | Focuses on LoFi music, ideal for background listening.
 - **Ambient Sleeping Pill**: [Link](https://s.stereoscenic.com/asp-h.m3u) | Streams music for sleep, meditation, or study, with a focus on ambient, ad-free, and beat-free sounds.
 - **Blue Marlin Ibiza**: [Link](http://www.bluemarlinibiza.com/radio/live) | Features Balearic beats, house, and electronic music, capturing the vibrant yet relaxed atmosphere of Ibiza.
 - **FreeCodeCamp**: [Link](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3) | 24/7 music designed to help with focus while coding.
@@ -417,6 +406,9 @@ These are my favorite stations from the curated list below. They represent a div
 
 These are some channels I’ve heard are good, but I haven't had the chance to check them all out yet. Feel free to explore and see what suits your taste!
 
+- **1.FM - Costa Del Mar**: [Link](https://www.1.fm/stations) | Vibe out to ambient and lounge music. Costa Del Mar is an easy listening station inspired by the sea.
+- **1.FM - Sax4Love**: [Link](https://www.1.fm/stations) | Dedicated exclusively to saxophone music, featuring smooth jazz.
+- **24/7 LoFi Radio**: [Link](https://www.247lofiradio.com/) | Focuses on LoFi music, ideal for background listening.
 - **1FM Chillout Lounge**: [Link](https://www.1.fm/stations) | Plays chillout, ambient, and relaxing music.
 - **113.fm Hits 1997 – Ads**: [Link](https://www.113.fm/) | Plays popular music hits from 1997 along with occasional ads.
 - **All Jazz Radio**: [Link](https://www.madmusicradio.com/wjzz) | All jazz.
@@ -428,10 +420,17 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **Blue Marlin Ibiza – Dance/Elect**: [Link](https://www.bluemarlinibiza.com/radio/) | Plays electronic dance music and live DJ mixes from the Blue Marlin Ibiza.
 - **Bondi Beach Radio – Sydney**: [Link](https://bondiradio.com.au/) | Broadcasting from Sydney’s Bondi Beach, featuring a mix of music and local news.
 - **ChillTraxx – World’s Chillout Channel**: [Link](https://www.chilltrax.com/) | Plays relaxing chillout and downtempo music.
+- **Calm Radio - Symphony**: [Link](https://calmradio.com/channel-guide/classical-music) | Dedicated to symphonies and orchestral masterpieces.
+- **Calm Radio - Classical Mix**: [Link](https://calmradio.com/channel-guide/classical-music) | A mix of classical genres including symphonies, concertos, and more.
+- **Calm Radio - Opera**: [Link](https://calmradio.com/channel-guide/classical-music) | Focused on operatic performances and classical vocals.
 - **CKUT 90.3 Montreal College Community Radio**: [Link](http://ckut.ca) | A community radio station offering diverse programming from McGill University in Montreal.
 - **Country Radio – USA**: [Link](https://country-radio.com/) | Plays country music, including classic hits and contemporary tracks.
 - **Dublin Digital Radio – Ireland**: [Link](https://listen.dublindigitalradio.com/home) | An eclectic radio station from Dublin offering a mix of indie, electronic, and experimental music.
 - **Eurodance Radio**: [Link](https://www.eurodance-radio.com/) | Plays Eurodance music, combining elements of house, techno, and pop.
+- **FluxFM - ChillHop**: [Link](http://fluxfm.de/chillhop) | Plays a relaxed mix of hip-hop influenced electronic beats.
+- **FluxFM - Hippie Trippy Garden**: [Link](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118) | Features psychedelic and experimental electronic music.
+- **FluxFM - Sound Of Berlin**: [Link](http://fluxfm.de/sound-of-berlin) | Showcases the electronic music scene of Berlin.
+- **FluxFM - Berlin Beach House Radio**: [Link](http://fluxfm.de/berlin-beach-house) | Features chill beach house and ambient electronic music.
 - **Fine Music Radio 101.3 FM – Cape Town**: [Link](https://www.fmr.co.za/) | A South African radio station featuring classical music and jazz.
 - **Folk Alley – Ohio**: [Link](https://folkalley.com/) | Plays folk music from Ohio, including contemporary and traditional songs.
 - **Frisky Radio – Chill**: [Link](http://friskyradio.com) | Specializes in chill electronic music.
@@ -501,7 +500,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **WQXR Q2 – New York Public Radio**: [Link](http://wqxr.org) | A part of the New York Public Radio network, offering 24/7 classical music content for its audience.
 - **WWOZ 90.7 – New Orleans**: [Link](https://www.wwoz.org/) | A New Orleans-based station broadcasting jazz, blues, and local music, reflecting the vibrant culture of the city.
 - **WXYC 89.3FM – Chapel Hill, NC Freeform College Radio**: [Link](https://wxyc.org/) | A freeform radio station from the University of North Carolina at Chapel Hill, offering a diverse range of music and programming.
-
 
 </details>
 
