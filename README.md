@@ -19,6 +19,8 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [Your Suggestions](#your-suggestions)
 - [Acknowledgements](#acknowledgements)
 
+---
+
 ### Apps for Streaming
 #### iOS
 - [CuterDio](https://cuterdio.com/en): Lightweight app using Radio-Browser for station discovery.
@@ -38,7 +40,6 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [Foobar2000](https://www.foobar2000.org/): Customizable media player supporting various streaming formats.
 
 ---
-
 
 ## Internat Radio Platforms, Tools and Stations
 <details>
