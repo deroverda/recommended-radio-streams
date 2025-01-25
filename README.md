@@ -226,7 +226,7 @@ These are my favorite stations from the curated list below. They represent a div
 - **Adroit Jazz Underground**: [Link](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/) | Focuses on underground and less mainstream jazz.
 - **Concertzender - Jazznotjazz**: [Link](https://www.concertzender.nl/programma_genre/oude-muziek/) | Plays a mix of jazz and non-jazz genres with a focus on alternative jazz sounds.
 - **Jazz Con Class**: [Link](http://jazzconclass.com) | Hosted by Jose Reyes, this 24/7 station celebrates traditional/classic Jazz from the late 40s to early 70s, aiming to revive overlooked Jazz music.
-- **KEWU-FM (89.5 MHz Jazz 89.5)**: [Link](https://www.ewu.edu/kewu/) | A public radio station dedicated to jazz.
+- **KEWU-FM 89.5**: [Link](https://streamer.radio.co/s3ba633066/listen) | A public radio station dedicated to jazz.
 - **KSDS Jazz 88.3 FM**: [Link](https://www.jazz88.org/) | A public radio station broadcasting both classic and contemporary jazz.
 - **Octave Radio**: [Link](https://octaverecords.out.airtime.pro/octaverecords_a?_ga=2.139116787.1781832620.1687634712-199058362.1687634712) | A station that occasionally plays jazz, also featured in the Electronic category.
 - **Radio Suisse Jazz**: [Link](http://radiosuissejazz.ch) | Features swinging standards from the "Great American Songbook," bebop, and Latin, Black, and World Music for an ideal non-stop mix.
