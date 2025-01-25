@@ -12,7 +12,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ## Table of Contents
 - [Recommended Apps for Streaming](#apps-for-streaming)
-- [Internet Radio Platforms and Stations](internet-radio-platforms-and-stations)
+- [Internet Radio Platforms and Stations](#internet-radio-platforms-and-stations)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
 - [Things to Do](#things-to-do)
