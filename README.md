@@ -43,17 +43,26 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## Internat Radio Platforms, Tools and Stations
+## Internet Radio Platforms and Stations
 <details>
-  <summary>Click to expand</summary>
+  <summary>Comprehensive list of internet radio platforms, stations, and directories</summary>
 
 
-## **General Internet Radio Platforms & Aggregators**
-- [ilovemusic](https://ilovemusic.de): German internet radio platform.
-- [radcap](https://www.radcap.ru): Russian radio station with diverse genres.
-- [0nRadio](https://0nradio.com): A directory of thematic radio stations.
-- [1a Radio](https://www.1a-webradio.de): German radio streams featuring various genres.
-- [Internet Radio](https://www.internet-radio.com): Broad directory for free internet radio.
+## **Radio Index / Discovery**
+- [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations): A Wikipedia list of notable internet radio stations.
+- [Radio Browser](https://www.radio-browser.info): A community-driven directory of internet radio stations.
+- [FMStream](https://fmstream.org/index.php?c=FT): Internet radio index.
+- [Tvradiotuner](https://tvradiotuner.com): Internet radio directory with a mix of channels.
+- [Radio URL Search](https://streamurl.link): A tool to find stream URLs for internet radio stations.
+- [TheOneStopRadio](https://theonestopradio.com): Aggregator for online radio streams.
+- [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists): A collection of curated M3U playlists for various genres.
+
+## **Geographic Radio Exploration**
+- [Radio Map EU](https://radiomap.eu): Geographic tool for EU-based stations.
+- [Worldwide Radio Globe](https://radio.garden): Explore global radio stations interactively via a 3D map.
+- [World Radio Map](https://worldradiomap.com): Maps stations globally.
+
+## **Radio Platforms & Players**
 - [Live Online Radio](https://liveonlineradio.net): Search and listen to global live online radio broadcasts.
 - [Online Radio Box](https://onlineradiobox.com): Worldwide directory of online radio stations.
 - [Radio.net](https://www.radio.net): Discover and listen to various radio channels.
@@ -66,66 +75,46 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [TuneYou](https://www.tuneyou.com): Access over 50,000 global radio stations.
 - [Get Me Radio](https://www.getmeradio.com): A curated directory with app support.
 - [Zeno.fm](https://zeno.fm): Streaming platform for radio and podcasts.
-- [vTuner](https://www.vtuner.com): Guide for accessing internet radio.
+- [openradio.app](https://openradio.app): Creating live radio stations from the world.
+- [Radio Station USA](https://www.radiostationusa.fm): Live radio stations from the world.
+- [Online Radio EU](https://onlineradio.eu/): Discover online radio stations.
+- [All Radio](https://allradio.net): Access free internet radio channels worldwide.
+- [VO Radio](https://vo-radio.com): Live radio stations from across the globe.
+- [Radio Volna](https://radio-volna.com): Access free internet radio channels worldwide.
 
----
-
-## **Radio Aggregators / Directories**
-- [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations): A Wikipedia list of notable internet radio stations.
-- [GWES EAS Relay Network](https://gwes-eas.network/listen): Emergency alert relay network for radio.
-- [TheOneStopRadio](https://theonestopradio.com): Aggregator for online radio streams.
-- [Radio Browser](https://www.radio-browser.info): A community-driven directory of internet radio stations.
-- [FMStream](https://fmstream.org): A directory for FM and online radio streams.
-- [Tvradiotuner](https://tvradiotuner.com): Internet radio directory with a mix of channels.
-- [Radio URL Search](https://streamurl.link): A tool to find stream URLs for internet radio stations.
-
-
----
-
-## **Interactive Maps**
-- [Radio Map EU](https://radiomap.eu): Geographic tool for EU-based stations.
-- [Worldwide Radio Globe](https://radio.garden): Explore global radio stations interactively via a 3D map.
-- [World Radio Map](https://worldradiomap.com): Maps stations globally.
-
----
-
-## **Dedicated Players & Hosting Platforms**
+## **Curated, Customizable Radio**
 - [Laut.fm](https://laut.fm): A hosting platform with curated stations.
 - [AccuRadio](https://www.accuradio.com): Customizable radio with hundreds of channels.
 - [iHeartRadio](https://www.iheart.com): Music, talk shows, and podcasts.
 - [RadioTunes](https://www.radiotunes.com): Offers curated music stations.
-- [Shoutcast](http://directory.shoutcast.com): A platform for hosting your own radio station.
-- [Live365](https://live365.com/listen): Platform for creating and streaming radio.
-- [QMPlay2](https://github.com/zaps166/QMPlay2): A multimedia player supporting internet radio.
-- [rivestream](https://www.rivestream.com): A directory and platform for internet radio streams.
+- [Radiolise](https://radiolise.com): Live radio streams across multiple genres.
+- [Rivestream](https://www.rivestream.com): A directory and platform for internet radio streams.
 
----
-
-## **Niche & Specialized Stations**
+## **Niche, Specialized Stations, Experimental & Community Projects**
 - [AnonRadio](https://anonradio.net): A community-based Unix system radio.
 - [Chiru.no](https://chiru.no): Focuses on Japanese pop culture music.
-- [CoreRadio](https://coreradio.online/): Underground and experimental music.
+- [CoreRadio](https://coreradio.online): Underground and experimental music.
 - [deep-cut.fm](https://deep-cut.fm): Indie and alternative music streams.
 - [IndieShuffle](https://www.indieshuffle.com): Listener-curated indie music.
 - [Radio Dubbeh](https://radio.dubbeh.net): Plays eclectic genres for discovery.
 - [JetSetRadio](https://jetsetradio.live/): A fan-made station inspired by the Jet Set Radio video game series.
 - [Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl): Curated list of stations focusing on demoscene and video game music.
-
----
-
-## **DIY & Streaming Tools**
-- [Icecast](http://dir.xiph.org): Open-source multimedia and streaming tool.
-- [Rcast.net](https://www.rcast.net/dir): Platform for hosting custom streams.
-- [ScrobbleRadio](https://scrobblerad.io): Discover new music through scrobbling internet radio streams.
-- [Radiolise](https://radiolise.com): Live radio streams across multiple genres.
-- [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists): A collection of curated M3U playlists for various genres.
-
----
-
-## **Experimental & Community Projects**
 - [System Bus Radio](https://github.com/fulldecent/system-bus-radio): Streams audio using computers' system buses.
 - [WebSDR](http://www.websdr.org): Software-defined radios for exploring frequencies.
 - [TildeRadio](https://tilderadio.tildeverse.org): Community-powered internet radio.
+- [ilovemusic](https://ilovemusic.de): German internet radio platform.
+- [Radcap](https://www.radcap.ru): Russian radio station with diverse genres.
+- [1a Radio](https://www.1a-webradio.de): German radio streams featuring various genres.
+- [GWES EAS Relay Network](https://gwes-eas.network/listen): Emergency alert relay network for radio.
+- [0nRadio](https://0nradio.com): A directory of thematic radio stations.
+
+## **Hosting & DIY Streaming Tools**
+- [Shoutcast](http://directory.shoutcast.com): A platform for hosting your own radio station.
+- [Live365](https://live365.com/listen): Platform for creating and streaming radio.
+- [Icecast](http://dir.xiph.org): A directory of internet radio stations and other live streams using the Icecast Streaming Server.
+- [QMPlay2](https://github.com/zaps166/QMPlay2): A multimedia player supporting internet radio.
+- [Rcast.net](https://www.rcast.net/dir): Discover, share, and listen to radio stations from all over the world.
+- [ScrobbleRadio](https://scrobblerad.io): Discover new music through scrobbling internet radio streams.
 
 </details>
 
@@ -133,7 +122,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ## My Personal Curated List
 <details>
-  <summary>Click to expand</summary>
+  <summary>Click to expand and explore the internet radio stations I'm currently listening to</summary>
 
 ---
 
