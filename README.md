@@ -44,12 +44,12 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## **Internet Radio Platforms and Stations**
+## Internet Radio Platforms and Stations**
 <details>
   <summary>Comprehensive list of internet radio platforms, stations, and directories</summary>
 
 
-## **Radio Index / Discovery**
+### Radio Index / Discovery**
 - [List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations): A Wikipedia list of notable internet radio stations.
 - [Radio Browser](https://www.radio-browser.info): A community-driven directory of internet radio stations.
 - [FMStream](https://fmstream.org/index.php?c=FT): Internet radio index.
