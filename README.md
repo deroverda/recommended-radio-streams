@@ -58,12 +58,12 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [TheOneStopRadio](https://theonestopradio.com): Aggregator for online radio streams.
 - [m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists): A collection of curated M3U playlists for various genres.
 
-## Geographic Radio Exploration
+### Geographic Radio Exploration
 - [Radio Map EU](https://radiomap.eu): Geographic tool for EU-based stations.
 - [Worldwide Radio Globe](https://radio.garden): Explore global radio stations interactively via a 3D map.
 - [World Radio Map](https://worldradiomap.com): Maps stations globally.
 
-## Radio Platforms & Players
+### Radio Platforms & Players
 - [Live Online Radio](https://liveonlineradio.net): Search and listen to global live online radio broadcasts.
 - [Online Radio Box](https://onlineradiobox.com): Worldwide directory of online radio stations.
 - [Radio.net](https://www.radio.net): Discover and listen to various radio channels.
@@ -83,7 +83,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [VO Radio](https://vo-radio.com): Live radio stations from across the globe.
 - [Radio Volna](https://radio-volna.com): Access free internet radio channels worldwide.
 
-## Curated, Customizable Radio
+### Curated, Customizable Radio
 - [Laut.fm](https://laut.fm): A hosting platform with curated stations.
 - [AccuRadio](https://www.accuradio.com): Customizable radio with hundreds of channels.
 - [iHeartRadio](https://www.iheart.com): Music, talk shows, and podcasts.
@@ -91,7 +91,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [Radiolise](https://radiolise.com): Live radio streams across multiple genres.
 - [Rivestream](https://www.rivestream.com): A directory and platform for internet radio streams.
 
-## Niche, Specialized Stations, Experimental & Community Projects
+### Niche, Specialized Stations, Experimental & Community Projects
 - [AnonRadio](https://anonradio.net): A community-based Unix system radio.
 - [Chiru.no](https://chiru.no): Focuses on Japanese pop culture music.
 - [CoreRadio](https://coreradio.online): Underground and experimental music.
@@ -109,7 +109,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 - [GWES EAS Relay Network](https://gwes-eas.network/listen): Emergency alert relay network for radio.
 - [0nRadio](https://0nradio.com): A directory of thematic radio stations.
 
-## Hosting & DIY Streaming Tools
+### Hosting & DIY Streaming Tools
 - [Shoutcast](http://directory.shoutcast.com): A platform for hosting your own radio station.
 - [Live365](https://live365.com/listen): Platform for creating and streaming radio.
 - [Icecast](http://dir.xiph.org): A directory of internet radio stations and other live streams using the Icecast Streaming Server.
