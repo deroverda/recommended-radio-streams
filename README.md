@@ -49,7 +49,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ## Radio Index / Discovery
 - **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**: Notable internet radio stations (Wikipedia).
-- **[Radio Browser](https://www.radio-browser.info)**: Community-driven directory of internet radio stations.
+- ⭐ **[Radio Browser](https://www.radio-browser.info)**: Community-driven directory of internet radio stations.
 - **[FMStream](https://fmstream.org/index.php?c=FT)**: Index of internet radio stations across genres.
 - **[Tvradiotuner](https://tvradiotuner.com)**: Directory with diverse radio and TV channels.
 - **[Radio URL Search](https://streamurl.link)**: Tool to find direct stream URLs for radio stations.
