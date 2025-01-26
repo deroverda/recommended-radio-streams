@@ -44,7 +44,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## Internet Radio Platforms and Stations**
+## Internet Radio Platforms and Stations
 <details>
   <summary>Comprehensive list of internet radio platforms, stations, and directories</summary>
 
