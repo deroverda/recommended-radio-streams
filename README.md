@@ -344,89 +344,6 @@ These are my favorite stations from the curated list below. They represent a div
 
 ---
 
-### HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.
-Certainly! Below are **descriptions** for the **Super Hi-Res channels** in your README. These descriptions can be added to enhance the user experience and provide more context about each station.
-
----
-
-### **HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.**
-
-- **96bFM**: [Link](https://95bfm.com) | A New Zealand-based station offering high-quality audio streams with a focus on indie, alternative, and experimental music.
-- **Easy Radio**: [Link](https://www.easyradio.bg) | A Bulgarian station providing lossless audio streams of pop, rock, and electronic music.
-- **JB Radio**: [Link](https://jb-radio.net) | A Japanese station specializing in high-fidelity audio streams of jazz, classical, and world music.
-- **LapFox Radio**: [Link](https://lapfoxradio.com) | A niche station offering high-quality streams of electronic, chiptune, and experimental music.
-- **Le Bon Mix**: [Link](https://www.lebonmix.radio) | A French station delivering CD-quality streams of house, disco, and funk music.
-- **Magic Radio**: [Link](https://magic-radio.net) | A station offering high-resolution audio streams of pop, rock, and classic hits.
-- **Mother Earth Radio**: [Link](https://motherearthradio.de/en/) | A German station providing lossless audio streams of ambient, nature-inspired, and acoustic music.
-- **Open Sky Radio**: [Link](https://opensky.radio) | A station offering high-fidelity streams of ambient, downtempo, and chillout music.
-- **Radio 90FM Valencia**: [Link](https://www.radio90.fm) | A Spanish station broadcasting high-quality streams of pop, rock, and local music.
-- **Radio Bias**: [Link](https://biasradio.com) | A station offering CD-quality audio streams of indie, alternative, and underground music.
-- **Radio Calico**: [Link](https://www.radio-calico.com) | A station providing high-resolution streams of jazz, blues, and soul music.
-- **Radio Jeunes Rheims**: [Link](https://www.rjrradio.fr) | A French station offering high-quality audio streams of pop, rock, and electronic music.
-- **Radio Krov**: [Link](https://www.hiresaudio.online/radio-krov/) | A station specializing in high-fidelity streams of classical and orchestral music.
-- **Radio Random**: [Link](https://radiorandom.org) | A station offering lossless audio streams of eclectic and experimental music.
-- **Radio Sputnik**: [Link](https://audiophile.fm/radio-sputnik) | A station providing high-quality streams of ambient, electronic, and experimental music.
-- **SuperStereo: Signal 1**: [Link](https://superstereohires.com/streams/) | A high-fidelity station offering a mix of pop, rock, and electronic music.
-- **SuperStereo: Signal 1+**: [Link](https://superstereohires.com/streams/) | A high-resolution stream featuring a curated selection of disco, soul, and funk.
-- **SuperStereo: Signal 2**: [Link](https://superstereohires.com/streams/) | A station offering CD-quality audio streams of jazz, blues, and soul.
-- **SuperStereo: Signal 3**: [Link](https://superstereohires.com/streams/) | A high-fidelity stream featuring ambient, downtempo, and chillout music.
-- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html) | A high-resolution station offering a mix of world music and exotic sounds.
-- **SuperStereo: Signal 4**: [Link](https://superstereohires.com/streams/) | A station providing lossless audio streams of classical and orchestral music.
-- **SuperStereo: Signal 4+**: [Link](https://superstereohires.com/streams/) | A high-fidelity stream featuring a mix of pop, rock, and electronic music.
-- **SuperStereo: Signal 5**: [Link](https://superstereohires.com/streams/) | A station offering CD-quality audio streams of jazz, blues, and soul.
-- **SuperStereo: Signal 6**: [Link](https://superstereohires.com/streams/) | A high-resolution station featuring ambient, downtempo, and chillout music.
-- **SuperStereo: Signal 7**: [Link](https://icecast.centaury.cl/superstereo/index7.html) | A station providing high-fidelity streams of classical and orchestral music.
-- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk) | A high-quality station offering streams of techno, trance, and electronic dance music.
-- **The Cheese**: [Link](https://thecheese.co.nz) | A New Zealand-based station providing lossless audio streams of indie, alternative, and underground music.
-- **Violent Forces Radio: '80s Thrash**: [Link](https://violentforcesradio.weebly.com) | A high-fidelity station specializing in 1980s thrash metal and hard rock.
-- **Violent Forces Radio: General Thrash**: [Link](https://violentforcesradio.weebly.com) | A station offering CD-quality streams of thrash metal and heavy metal.
-- **WBOR Radio**: [Link](https://wbor.org) | A high-resolution station featuring a mix of indie, alternative, and experimental music.
-
----
-
-### HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.
-
-- **96bFM**: [Link](https://95bfm.com) | A New Zealand-based station offering high-quality audio streams with a focus on indie, alternative, and experimental music.
-- **Easy Radio**: [Link](https://www.easyradio.bg) | A Bulgarian station providing lossless audio streams of pop, rock, and electronic music.
-- **JB Radio**: [Link](https://jb-radio.net) | A Japanese station specializing in high-fidelity audio streams of jazz, classical, and world music.
-- **LapFox Radio**: [Link](https://lapfoxradio.com) | A niche station offering high-quality streams of electronic, chiptune, and experimental music.
-- **Le Bon Mix**: [Link](https://www.lebonmix.radio) | A French station delivering CD-quality streams of house, disco, and funk music.
-- **Magic Radio**: [Link](https://magic-radio.net) | A station offering high-resolution audio streams of pop, rock, and classic hits.
-- **Mother Earth Radio**: [Link](https://motherearthradio.de/en/) | A German station providing lossless audio streams of ambient, nature-inspired, and acoustic music.
-- **Open Sky Radio**: [Link](https://opensky.radio) | A station offering high-fidelity streams of ambient, downtempo, and chillout music.
-- **Radio 90FM Valencia**: [Link](https://www.radio90.fm) | A Spanish station broadcasting high-quality streams of pop, rock, and local music.
-- **Radio Bias**: [Link](https://biasradio.com) | A station offering CD-quality audio streams of indie, alternative, and underground music.
-- **Radio Calico**: [Link](https://www.radio-calico.com) | A station providing high-resolution streams of jazz, blues, and soul music.
-- **Radio Jeunes Rheims**: [Link](https://www.rjrradio.fr) | A French station offering high-quality audio streams of pop, rock, and electronic music.
-- **Radio Krov**: [Link](https://www.hiresaudio.online/radio-krov/) | A station specializing in high-fidelity streams of classical and orchestral music.
-- **Radio Random**: [Link](https://radiorandom.org) | A station offering lossless audio streams of eclectic and experimental music.
-- **Radio Sputnik**: [Link](https://audiophile.fm/radio-sputnik) | A station providing high-quality streams of ambient, electronic, and experimental music.
-- **SuperStereo: Signal 1**: [Link](https://superstereohires.com/streams/) | A high-fidelity station offering a mix of pop, rock, and electronic music.
-- **SuperStereo: Signal 1+**: [Link](https://superstereohires.com/streams/) | A high-resolution stream featuring a curated selection of disco, soul, and funk.
-- **SuperStereo: Signal 2**: [Link](https://superstereohires.com/streams/) | A station offering CD-quality audio streams of jazz, blues, and soul.
-- **SuperStereo: Signal 3**: [Link](https://superstereohires.com/streams/) | A high-fidelity stream featuring ambient, downtempo, and chillout music.
-- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html) | A high-resolution station offering a mix of world music and exotic sounds.
-- **SuperStereo: Signal 4**: [Link](https://superstereohires.com/streams/) | A station providing lossless audio streams of classical and orchestral music.
-- **SuperStereo: Signal 4+**: [Link](https://superstereohires.com/streams/) | A high-fidelity stream featuring a mix of pop, rock, and electronic music.
-- **SuperStereo: Signal 5**: [Link](https://superstereohires.com/streams/) | A station offering CD-quality audio streams of jazz, blues, and soul.
-- **SuperStereo: Signal 6**: [Link](https://superstereohires.com/streams/) | A high-resolution station featuring ambient, downtempo, and chillout music.
-- **SuperStereo: Signal 7**: [Link](https://icecast.centaury.cl/superstereo/index7.html) | A station providing high-fidelity streams of classical and orchestral music.
-- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk) | A high-quality station offering streams of techno, trance, and electronic dance music.
-- **The Cheese**: [Link](https://thecheese.co.nz) | A New Zealand-based station providing lossless audio streams of indie, alternative, and underground music.
-- **Violent Forces Radio: '80s Thrash**: [Link](https://violentforcesradio.weebly.com) | A high-fidelity station specializing in 1980s thrash metal and hard rock.
-- **Violent Forces Radio: General Thrash**: [Link](https://violentforcesradio.weebly.com) | A station offering CD-quality streams of thrash metal and heavy metal.
-- **WBOR Radio**: [Link](https://wbor.org) | A high-resolution station featuring a mix of indie, alternative, and experimental music.
-
-
----
-
-### **Next Steps**
-- Replace the existing **HiRes and CD-quality internet radio stations** section with the updated version above.
-- Ensure all links are functional and descriptions are accurate.
-
-Let me know if you need further assistance! 🎧
----
-
 ### Misc 🎙️
 - **Her.st - Propaganda Broadcast**: [Link](https://her.st/radio/) | This station is a 24/7 stream of Her.st Propaganda Broadcast! Conspiracy Theories, Philosophy, and more! Coast to Coast AM archives, Alan Watts lectures, Terence McKenna lectures, and more!
 - **Pi ano**: [Link](http://stream.p-node.org/piano) |  Piano only. 
@@ -541,6 +458,40 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **WQXR Q2 – New York Public Radio**: [Link](http://wqxr.org) | A part of the New York Public Radio network, offering 24/7 classical music content for its audience.
 - **WWOZ 90.7 – New Orleans**: [Link](https://www.wwoz.org/) | A New Orleans-based station broadcasting jazz, blues, and local music, reflecting the vibrant culture of the city.
 - **WXYC 89.3FM – Chapel Hill, NC Freeform College Radio**: [Link](https://wxyc.org/) | A freeform radio station from the University of North Carolina at Chapel Hill, offering a diverse range of music and programming.
+
+### **HiRes and CD-quality internet radio stations - Enjoy music in the highest possible quality, streaming in lossless HiFi.**
+
+- **96bFM**: [Link](https://95bfm.com) | A New Zealand-based station offering high-quality audio streams with a focus on indie, alternative, and experimental music.
+- **Easy Radio**: [Link](https://www.easyradio.bg) | A Bulgarian station providing lossless audio streams of pop, rock, and electronic music.
+- **JB Radio**: [Link](https://jb-radio.net) | A Japanese station specializing in high-fidelity audio streams of jazz, classical, and world music.
+- **LapFox Radio**: [Link](https://lapfoxradio.com) | A niche station offering high-quality streams of electronic, chiptune, and experimental music.
+- **Le Bon Mix**: [Link](https://www.lebonmix.radio) | A French station delivering CD-quality streams of house, disco, and funk music.
+- **Magic Radio**: [Link](https://magic-radio.net) | A station offering high-resolution audio streams of pop, rock, and classic hits.
+- **Mother Earth Radio**: [Link](https://motherearthradio.de/en/) | A German station providing lossless audio streams of ambient, nature-inspired, and acoustic music.
+- **Open Sky Radio**: [Link](https://opensky.radio) | A station offering high-fidelity streams of ambient, downtempo, and chillout music.
+- **Radio 90FM Valencia**: [Link](https://www.radio90.fm) | A Spanish station broadcasting high-quality streams of pop, rock, and local music.
+- **Radio Bias**: [Link](https://biasradio.com) | A station offering CD-quality audio streams of indie, alternative, and underground music.
+- **Radio Calico**: [Link](https://www.radio-calico.com) | A station providing high-resolution streams of jazz, blues, and soul music.
+- **Radio Jeunes Rheims**: [Link](https://www.rjrradio.fr) | A French station offering high-quality audio streams of pop, rock, and electronic music.
+- **Radio Krov**: [Link](https://www.hiresaudio.online/radio-krov/) | A station specializing in high-fidelity streams of classical and orchestral music.
+- **Radio Random**: [Link](https://radiorandom.org) | A station offering lossless audio streams of eclectic and experimental music.
+- **Radio Sputnik**: [Link](https://audiophile.fm/radio-sputnik) | A station providing high-quality streams of ambient, electronic, and experimental music.
+- **SuperStereo: Signal 1**: [Link](https://superstereohires.com/streams/) | A high-fidelity station offering a mix of pop, rock, and electronic music.
+- **SuperStereo: Signal 1+**: [Link](https://superstereohires.com/streams/) | A high-resolution stream featuring a curated selection of disco, soul, and funk.
+- **SuperStereo: Signal 2**: [Link](https://superstereohires.com/streams/) | A station offering CD-quality audio streams of jazz, blues, and soul.
+- **SuperStereo: Signal 3**: [Link](https://superstereohires.com/streams/) | A high-fidelity stream featuring ambient, downtempo, and chillout music.
+- **SuperStereo: Signal 3+**: [Link](https://icecast.centaury.cl/superstereo/index3plus.html) | A high-resolution station offering a mix of world music and exotic sounds.
+- **SuperStereo: Signal 4**: [Link](https://superstereohires.com/streams/) | A station providing lossless audio streams of classical and orchestral music.
+- **SuperStereo: Signal 4+**: [Link](https://superstereohires.com/streams/) | A high-fidelity stream featuring a mix of pop, rock, and electronic music.
+- **SuperStereo: Signal 5**: [Link](https://superstereohires.com/streams/) | A station offering CD-quality audio streams of jazz, blues, and soul.
+- **SuperStereo: Signal 6**: [Link](https://superstereohires.com/streams/) | A high-resolution station featuring ambient, downtempo, and chillout music.
+- **SuperStereo: Signal 7**: [Link](https://icecast.centaury.cl/superstereo/index7.html) | A station providing high-fidelity streams of classical and orchestral music.
+- **TEKnival Radio**: [Link](https://www.teknivalradio.co.uk) | A high-quality station offering streams of techno, trance, and electronic dance music.
+- **The Cheese**: [Link](https://thecheese.co.nz) | A New Zealand-based station providing lossless audio streams of indie, alternative, and underground music.
+- **Violent Forces Radio: '80s Thrash**: [Link](https://violentforcesradio.weebly.com) | A high-fidelity station specializing in 1980s thrash metal and hard rock.
+- **Violent Forces Radio: General Thrash**: [Link](https://violentforcesradio.weebly.com) | A station offering CD-quality streams of thrash metal and heavy metal.
+- **WBOR Radio**: [Link](https://wbor.org) | A high-resolution station featuring a mix of indie, alternative, and experimental music.
+
 
 </details>
 
