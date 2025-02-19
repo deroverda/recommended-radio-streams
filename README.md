@@ -234,7 +234,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 - **[SuperStereo 1+ - Disco, Soul & Funk](https://www.hiresaudio.online/category/radio/)**: Disco, soul, and funk classics.
 - **[Soho Radio](https://sohoradiolondon.com/)**: London-based station with music and talk.
 - **[Technicolor Web Of Sound](https://www.techwebsound.com/)**: 1960s psychedelic rock and pop.
-- **[The Dump](http://thedump.com)**: Eclectic mix of obscure genres.
+- **[The Dump](https://www.thedumpradio.com/)**: Eclectic mix of obscure genres.
 - **[The Lake Radio](http://thelakeradio.com)**: Random music and sounds, 24/7.
 - **[The SoCal Sound](http://thesocalsound.org)**: Contemporary California rock, pop, and indie.
 - **[The Penthouse](https://thepenthouse.fm/)**: Soul, R&B, pop, and classic music.
