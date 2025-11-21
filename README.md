@@ -45,6 +45,22 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 ### Cross-Platform
 - **[Foobar2000](https://www.foobar2000.org/)**: Highly customizable media player supporting multiple streaming formats.
 
+
+## Apps for Streaming
+
+| Name | Platform | Description |
+| :--- | :--- | :--- |
+| **[CuterDio](https://cuterdio.com/en)** | iOS | Lightweight app using Radio-Browser for discovery. |
+| **[Triode](https://triode.app/)** | iOS/macOS | Minimalist app for streaming stations anywhere. |
+| **[Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB)** | iOS/tvOS | Free with Radio-Browser support. |
+| **[RadioDroid](https://github.com/segler-alex/RadioDroid)** | Android | Open-source with Radio-Browser integration. |
+| **[Transistor](https://codeberg.org/y20k/transistor)** | Android | Minimalist app for direct stream playback. |
+| **[RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)** | Android | Integrates with UPnP devices. |
+| **[Lyrion Music Server](https://github.com/LMS-Community)** | Desktop | Open-source server for local music & radio. |
+| **[Foobar2000](https://www.foobar2000.org/)** | Cross-Plat | Highly customizable media player. |
+
+
+
 ---
 
 ## Internet Radio Platforms and Stations
