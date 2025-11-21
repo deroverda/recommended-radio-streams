@@ -331,30 +331,6 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 
 ---
 
-### Artist Specific 👑  
-- **[2pac (Exclusive Radio)](https://streaming.exclusive.radio/er/2pac/icecast.audio)**  
-- **[ABBA (Exclusive Radio)](https://streaming.exclusive.radio/er/abba/icecast.audio)**  
-- **[Aretha Franklin (Exclusive Radio)](https://streaming.exclusive.radio/er/arethafranklin/icecast.audio)**  
-- **[BB King (Exclusive Radio)](https://streaming.exclusive.radio/er/bbking/icecast.audio)**  
-- **[Bob Marley (Exclusive Radio)](https://streaming.exclusive.radio/er/bobmarley/icecast.audio)**  
-- **[Creedence Clearwater Revival (Exclusive Radio)](https://streaming.exclusive.radio/er/creedence/icecast.audio)**  
-- **[Daft Punk (Exclusive Radio)](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)**  
-- **[Ella Fitzgerald (Exclusive Radio)](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)**  
-- **[Eric Clapton (Exclusive Radio)](https://streaming.exclusive.radio/er/ericclapton/icecast.audio)**  
-- **[Fleetwood Mac (Exclusive Radio)](https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio)**  
-- **[Jimi Hendrix (Exclusive Radio)](https://streaming.exclusive.radio/er/hendrix/icecast.audio)**  
-- **[John Coltrane (Exclusive Radio)](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)**  
-- **[Steely Dan (Exclusive Radio)](https://streaming.exclusive.radio/er/steelydan/icecast.audio)**  
-- **[Supertramp (Exclusive Radio)](https://streaming.exclusive.radio/er/supertramp/icecast.audio)**  
-- **[The Beatles (Exclusive Radio)](http://streaming.exclusive.radio/er/beatles/icecast.audio)**  
-- **[The Police (Exclusive Radio)](https://streaming.exclusive.radio/er/policehits/icecast.audio)**  
-- **[Van Morrison (Exclusive Radio)](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)**  
-- **[Red Hot Chili Peppers (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER129)**  
-- **[Eminem (Australian Digital Radio)](http://abm21.com.au:8000/CONTAINER158)**: Slim Shady tracks.  
-- **[⭐Grateful Dead Radio - WGDR](https://www.madmusicradio.com/wgdr)**  
-- **[Grateful Dead](http://108.163.245.230:8100/stream)**: Unknown station.  
-- **[Rolling Stones (Virgin Radio Rockstar)](https://icy.unitedradio.it/VirginSpecialEvent.mp3)**
-
 
 ### Artist Specific 👑
 
