@@ -553,7 +553,10 @@ Here are some great radio stations suggested by the community:
 - **[La Patate Douce](http://listen.radioking.com/radio/285742/stream/331753)**: Independent webradio with Disco-Funk, Afro-Soul, and House nuggets. [suggested by @psychic_gibbon]
 - **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: Japan-based station featuring jazz, bossa nova, and talk shows. [suggested by @naniwadanahi]
 - **[West Limerick 102FM](https://westlimerick102fm.ie/)**: Community-run Irish station broadcasting all kinds of music and local news. [suggested by @OBrien-Michael]
-- **[Joint Radio](https://www.jointil.com/radio/)**: Stations playing Reggae, Blues, Rock, and Trance music. [suggested by @JointRadio] 
+- **[Joint Radio](https://www.jointil.com/radio/)**: Stations playing Reggae, Blues, Rock, and Trance music. [suggested by @JointRadio]
+- **[Smooth Sailing Radio](https://smoothsailingradio.com/listen)**: Leans a bit into mainstream 80s RnB but is definitely solidly yacht rock [suggested by @WavingOrDrowning]
+- **[Nonstopcasiopea](https://nonstopcasiopea.com/)**: Nonstop Casiopea and some T-Square, with smooth jazzy-funk vibes reminiscent of Persona and Mario Kart. Minimal ads, mostly in Japanese, often indistinguishable from news. [suggested by @yubroyi]
+
 
 </details>
 
