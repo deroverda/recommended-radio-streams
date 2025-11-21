@@ -355,6 +355,20 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 - **[Grateful Dead](http://108.163.245.230:8100/stream)**: Unknown station.  
 - **[Rolling Stones (Virgin Radio Rockstar)](https://icy.unitedradio.it/VirginSpecialEvent.mp3)**
 
+
+### Artist Specific 👑
+
+| | | |
+| :--- | :--- | :--- |
+| **[2Pac](https://streaming.exclusive.radio/er/2pac/icecast.audio)** | **[ABBA](https://streaming.exclusive.radio/er/abba/icecast.audio)** | **[Aretha Franklin](https://streaming.exclusive.radio/er/arethafranklin/icecast.audio)** |
+| **[BB King](https://streaming.exclusive.radio/er/bbking/icecast.audio)** | **[The Beatles](http://streaming.exclusive.radio/er/beatles/icecast.audio)** | **[Eric Clapton](https://streaming.exclusive.radio/er/ericclapton/icecast.audio)** |
+| **[John Coltrane](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)** | **[Creedence Clearwater Revival](https://streaming.exclusive.radio/er/creedence/icecast.audio)** | **[Daft Punk](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)** |
+| **[Eminem (Slim Shady)](http://abm21.com.au:8000/CONTAINER158)** | **[Ella Fitzgerald](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)** | **[Fleetwood Mac](https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio)** |
+| **[Grateful Dead (WGDR)](https://www.madmusicradio.com/wgdr)** | **[Jimi Hendrix](https://streaming.exclusive.radio/er/hendrix/icecast.audio)** | **[Bob Marley](https://streaming.exclusive.radio/er/bobmarley/icecast.audio)** |
+| **[Van Morrison](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)** | **[The Police](https://streaming.exclusive.radio/er/policehits/icecast.audio)** | **[Red Hot Chili Peppers](http://abm22.com.au:8000/CONTAINER129)** |
+| **[The Rolling Stones](https://icy.unitedradio.it/VirginSpecialEvent.mp3)** | **[Steely Dan](https://streaming.exclusive.radio/er/steelydan/icecast.audio)** | **[Supertramp](https://streaming.exclusive.radio/er/supertramp/icecast.audio)** |
+
+
 ---
 
 ### Misc 🎙️  
