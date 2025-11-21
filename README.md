@@ -510,6 +510,22 @@ This section tracks the progress of updates to this repository. Completed tasks 
 - **Fix broken Hi-Res links:** ████████████ 100% Complete  
 
 
+## Things to Do
+<details>
+  <summary>Click to expand progress tracking</summary>
+
+*Progress last updated: Jan 2025*
+
+This section tracks the progress of updates to this repository. Completed tasks are marked as 100%.
+
+- **Review and update broken links:** ███████████░ 99% Complete
+- **Add descriptions to all channels:** ██████████░░ 90% Complete
+- **Fix broken Hi-Res links:** ████████████ 100% Complete  
+
+</details>
+
+
+
 ## Contributing
 
 I welcome contributions! If you know of any great radio stations that should be added, or if you spot any issues (like dead links), feel free to open an issue. 
