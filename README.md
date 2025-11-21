@@ -6,7 +6,11 @@
 
 ---
 
-A curated list of great online radio stations, featuring personal favorites and recommendations across genres like electronic, jazz, reggae, Lo-Fi, classical, rap, and classic rock. It also includes app suggestions to make tuning in simple. Contributions are encouraged - share your favorite stations, report broken links, or suggest improvements to help this list become a valuable resource for all music fans.
+A curated list of online radio stations across genres like electronic, jazz, reggae, Lo-Fi, classical, rap, and classic rock.  
+Includes recommended apps for iOS, Android, and desktop to make tuning in simple.
+
+**Contributions welcome:** share your favorite stations, report broken links, or suggest improvements.
+
 
 ---
 
@@ -47,7 +51,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 <details>
   <summary>Comprehensive list of internet radio platforms, stations, and directories</summary>
 
-## Radio Index / Discovery
+## Radio Directories & Indexes
 - **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**: Notable internet radio stations (Wikipedia).
 - ⭐ **[Radio Browser](https://www.radio-browser.info)**: Community-driven directory of internet radio stations.
 - **[FMStream](https://fmstream.org/index.php?c=FT)**: Index of internet radio stations across genres.
@@ -58,14 +62,14 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## Geographic Radio Exploration
+## Radio Maps & Global Exploration
 - **[Radio Map EU](https://radiomap.eu)**: Interactive map for discovering EU-based stations.
 - **[Worldwide Radio Globe](https://radio.garden)**: Interactive 3D globe for exploring global stations.
 - **[World Radio Map](https://worldradiomap.com)**: Global map of radio stations by location.
 
 ---
 
-## Radio Platforms & Players
+## Streaming Platforms & Players
 - **[Live Online Radio](https://liveonlineradio.net)**: Platform to search and stream global radio broadcasts.
 - **[Online Radio Box](https://onlineradiobox.com)**: Comprehensive worldwide directory of online radio stations.
 - **[Radio.net](https://www.radio.net)**: Discover and stream various radio channels globally.
@@ -87,7 +91,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## Curated, Customizable Radio
+## Curated & Customizable Stations
 - **[Laut.fm](https://laut.fm)**: Hosting platform with curated stations.
 - **[AccuRadio](https://www.accuradio.com)**: Customizable radio with hundreds of channels.
 - **[iHeartRadio](https://www.iheart.com)**: Stream music, talk shows, and podcasts.
@@ -97,7 +101,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## Niche, Specialized Stations, Experimental & Community Projects
+## Experimental, Niche & Community Stations
 - **[AnonRadio](https://anonradio.net)**: Community-based Unix system radio.
 - **[Chiru.no](https://chiru.no)**: Japanese pop culture (J-pop, anime) music streams.
 - **[CoreRadio](https://coreradio.online)**: Focuses on underground and experimental music.
@@ -117,7 +121,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-## Hosting & DIY Streaming Tools
+## DIY & Hosting Tools
 - **[Shoutcast](http://directory.shoutcast.com)**: Platform for hosting custom radio stations.
 - **[Live365](https://live365.com/listen)**: Platform for creating and streaming custom radio.
 - **[Icecast](http://dir.xiph.org)**: Open-source directory for Icecast-powered streams.
@@ -511,6 +515,8 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 ## Things to Do
 
+*Progress last updated: Jan 2025*
+
 This section tracks the progress of updates to this repository. Completed tasks are marked as 100%.
 
 - **Review and update broken links:** ███████████░ 99% Complete  
@@ -533,6 +539,9 @@ I’ll review it and update the list accordingly. 😊
 ## Your Suggestions
 Here are some great radio stations suggested by the community:
 
+<details>
+  <summary>Click to expand community suggestions</summary>
+
 - **[CRTV Internet Radio](https://erncrtv.com/)**: Western primary for the Global Weather and EAS Society EAS Relay Network. Relays EAS alerts except non-Missoula test alerts. [suggested by @macccorehenni]
 - **[NTS Radio 1](https://www.nts.live/1)**: Global radio platform broadcasting music from over 50 cities, live 24/7. [suggested by @Potential-Ant-6320]
 - **[NTS Radio 2](https://www.nts.live/2)**: Global radio platform broadcasting music from over 50 cities, live 24/7. [suggested by @Potential-Ant-6320]
@@ -543,8 +552,10 @@ Here are some great radio stations suggested by the community:
 - **[Radio Meuh](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)**: Independent station from the French Alps playing fresh global music. [suggested by @psychic_gibbon]
 - **[La Patate Douce](http://listen.radioking.com/radio/285742/stream/331753)**: Independent webradio with Disco-Funk, Afro-Soul, and House nuggets. [suggested by @psychic_gibbon]
 - **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: Japan-based station featuring jazz, bossa nova, and talk shows. [suggested by @naniwadanahi]
-- **[West Limerick 102FM](https://westlimerick102fm.ie/)** is a community run Irish station broadcasting all kinds of music and local news. [suggested by @OBrien-Michael]
-- **[Joint Radio](https://www.jointil.com/radio/)** Stations Playing Reggae Blues Rock Trance Music. [suggested by @JointRadio]
+- **[West Limerick 102FM](https://westlimerick102fm.ie/)**: Community-run Irish station broadcasting all kinds of music and local news. [suggested by @OBrien-Michael]
+- **[Joint Radio](https://www.jointil.com/radio/)**: Stations playing Reggae, Blues, Rock, and Trance music. [suggested by @JointRadio] 
+
+</details>
 
 
 ## Acknowledgements
