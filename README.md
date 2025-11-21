@@ -123,82 +123,6 @@ A curated list of great online radio stations, featuring personal favorites and 
 - **[Icecast](http://dir.xiph.org)**: Open-source directory for Icecast-powered streams.
 - **[QMPlay2](https://github.com/zaps166/QMPlay2)**: Multimedia player with internet radio support.
 - **[Rcast.net](https://www.rcast.net/dir)**: Discover and share global radio stations.
-- **[ScrobbleRadio](https://scrobblerad.io)**: Discover music via scrobbling radio streams (Last.fm integration).## Radio Index / Discovery
-- **[List of Internet Radio Stations](https://en.wikipedia.org/wiki/List_of_Internet_radio_stations)**: Notable internet radio stations (Wikipedia).
-- **[Radio Browser](https://www.radio-browser.info)**: Community-driven directory of internet radio stations.
-- **[FMStream](https://fmstream.org/index.php?c=FT)**: Index of internet radio stations across genres.
-- **[Tvradiotuner](https://tvradiotuner.com)**: Directory with diverse radio and TV channels.
-- **[Radio URL Search](https://streamurl.link)**: Tool to find direct stream URLs for radio stations.
-- **[TheOneStopRadio](https://theonestopradio.com)**: Aggregator for online radio streams.
-- **[m3u-radio-music-playlist](https://junguler.github.io/m3u-radio-music-playlists)**: Curated M3U playlists for music genres.
-
----
-
-## Geographic Radio Exploration
-- **[Radio Map EU](https://radiomap.eu)**: Interactive map for discovering EU-based stations.
-- **[Worldwide Radio Globe](https://radio.garden)**: Interactive 3D globe for exploring global stations.
-- **[World Radio Map](https://worldradiomap.com)**: Global map of radio stations by location.
-
----
-
-## Radio Platforms & Players
-- **[Live Online Radio](https://liveonlineradio.net)**: Platform to search and stream global radio broadcasts.
-- **[Online Radio Box](https://onlineradiobox.com)**: Comprehensive worldwide directory of online radio stations.
-- **[Radio.net](https://www.radio.net)**: Discover and stream various radio channels globally.
-- **[Radioguide.fm](https://www.radioguide.fm)**: Directory of FM, AM, and internet radio stations.
-- **[Streema](https://streema.com)**: Search engine for radio stations and TV broadcasts.
-- **[Pea.fm](https://pea.fm)**: Free access to global internet radio channels.
-- **[Hit Tuner](http://www.hit-tuner.net)**: German-based directory with diverse music genres.
-- **[MyTuner](https://mytuner-radio.com)**: Aggregator for global radio, podcasts, and music.
-- **[Radioline](https://www.radioline.co)**: Stream radio and podcasts across genres.
-- **[TuneYou](https://www.tuneyou.com)**: Access 50,000+ radio stations worldwide.
-- **[Get Me Radio](https://www.getmeradio.com)**: Curated directory with mobile app support.
-- **[Zeno.fm](https://zeno.fm)**: Platform for streaming radio and podcasts.
-- **[openradio.app](https://openradio.app)**: Create and explore live radio stations worldwide.
-- **[Radio Station USA](https://www.radiostationusa.fm)**: Live radio stations across the USA.
-- **[Online Radio EU](https://onlineradio.eu/)**: Discover online radio stations in Europe.
-- **[All Radio](https://allradio.net)**: Free access to global internet radio channels.
-- **[VO Radio](https://vo-radio.com)**: Live radio streams from across the globe.
-- **[Radio Volna](https://radio-volna.com)**: Free internet radio channels worldwide.
-
----
-
-## Curated, Customizable Radio
-- **[Laut.fm](https://laut.fm)**: Hosting platform with curated stations.
-- **[AccuRadio](https://www.accuradio.com)**: Customizable radio with hundreds of channels.
-- **[iHeartRadio](https://www.iheart.com)**: Stream music, talk shows, and podcasts.
-- **[RadioTunes](https://www.radiotunes.com)**: Curated music stations across genres.
-- **[Radiolise](https://radiolise.com)**: Explore live radio streams across multiple genres.
-- **[Rivestream](https://www.rivestream.com)**: Directory and platform for internet radio streams.
-
----
-
-## Niche, Specialized Stations, Experimental & Community Projects
-- **[AnonRadio](https://anonradio.net)**: Community-based Unix system radio.
-- **[Chiru.no](https://chiru.no)**: Japanese pop culture (J-pop, anime) music streams.
-- **[CoreRadio](https://coreradio.online)**: Focuses on underground and experimental music.
-- **[deep-cut.fm](https://deep-cut.fm)**: Indie and alternative music streams.
-- **[IndieShuffle](https://www.indieshuffle.com)**: Listener-curated indie music discovery.
-- **[Radio Dubbeh](https://radio.dubbeh.net)**: Eclectic music genres for discovery.
-- **[JetSetRadio](https://jetsetradio.live/)**: Fan-made station inspired by Jet Set Radio video games.
-- **[Demoscene & Video Game Music Streaming Radio Links](https://mw.rat.bz/davgmsrl)**: Curated demoscene & video game music radio links.
-- **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)**: Streams audio via computer system buses.
-- **[WebSDR](http://www.websdr.org)**: Explore global radio frequencies via software-defined radios.
-- **[TildeRadio](https://tilderadio.tildeverse.org)**: Community-powered internet radio.
-- **[ilovemusic](https://ilovemusic.de)**: German platform for eclectic music streams.
-- **[Radcap](https://www.radcap.ru)**: Russian radio station with diverse genres.
-- **[1a Radio](https://www.1a-webradio.de)**: German radio streams across various genres.
-- **[GWES EAS Relay Network](https://gwes-eas.network/listen)**: Emergency alert system relay for radio broadcasts.
-- **[0nRadio](https://0nradio.com)**: Directory of thematic radio stations.
-
----
-
-## Hosting & DIY Streaming Tools
-- **[Shoutcast](http://directory.shoutcast.com)**: Platform for hosting custom radio stations.
-- **[Live365](https://live365.com/listen)**: Platform for creating and streaming custom radio.
-- **[Icecast](http://dir.xiph.org)**: Open-source directory for Icecast-powered streams.
-- **[QMPlay2](https://github.com/zaps166/QMPlay2)**: Multimedia player with internet radio support.
-- **[Rcast.net](https://www.rcast.net/dir)**: Discover and share global radio stations.
 - **[ScrobbleRadio](https://scrobblerad.io)**: Discover music via scrobbling radio streams (Last.fm integration).
 
 </details>
@@ -264,7 +188,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 ### Classical 🎻
 - **[WFMT Chicago](https://www.wfmt.com/)**: Classical music since 1951, diverse programming.
 - **[WBJC Baltimore](https://www.wbjc.com/)**: Classical voice of Baltimore City Community College.
-- **[WMNR](https://www.wmnr.org/listen)**: Public radio with classical/classic music (Connecticut-based).
+- **[WMNR](https://www.wmnr.org/listen)**: Public radio with classical (Connecticut-based).
 - **[Concertzender Baroque](https://www.concertzender.nl/programma_genre/oude-muziek/)**: Baroque classical music.
 - **[Only Mozart (Australian Digital Radio)](http://abm21.com.au:8000/CONTAINER10)**: Dedicated to Mozart’s compositions.
 
@@ -352,7 +276,7 @@ A curated list of great online radio stations, featuring personal favorites and 
 
 ---
 
-### Reggae & Dub 🇯🇲 🟩🟨🟥
+### Reggae & Dub 🇯🇲 🟩⬛🟨
 - **[Alpha Boys School Radio](http://alphaboysschoolradio.com)**: Music by Alpha School alumni (Kingston, Jamaica).
 - **[Dr Dick's Dub Shack](http://drdicksdubshack.com)**: Bermuda-based dub and bass music.
 - **[King Dub Radio](http://london-dedicated.myautodj.com:8862/stream)**: Roots, culture, and digital dub.
