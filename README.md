@@ -499,16 +499,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 
 --- 
 
-## Things to Do
-
-*Progress last updated: Jan 2025*
-
-This section tracks the progress of updates to this repository. Completed tasks are marked as 100%.
-
-- **Review and update broken links:** ███████████░ 99% Complete  
-- **Add descriptions to all channels:** ██████████░░ 90% Complete  
-- **Fix broken Hi-Res links:** ████████████ 100% Complete  
-
 
 ## Things to Do
 <details>
