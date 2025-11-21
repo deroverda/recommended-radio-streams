@@ -28,26 +28,6 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 
 ## Apps for Streaming
 
-### iOS
-- **[CuterDio](https://cuterdio.com/en)**: Lightweight app using Radio-Browser for station discovery.
-- **[Triode](https://triode.app/)**: Minimalist app for streaming stations anywhere.
-- **[Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB)**: Free app with Radio-Browser support; available on macOS, iPadOS, watchOS, and tvOS.
-
-### Android
-- **[RadioDroid](https://github.com/segler-alex/RadioDroid)**: Open-source app with Radio-Browser integration.
-- **[Transistor](https://codeberg.org/y20k/transistor)**: Minimalist radio app for direct audio stream playback.
-- **[RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)**: Plays internet radio and integrates with UPnP devices.
-- **[RadioTime](https://play.google.com/store/apps/details?id=com.radiotime.app)**: Access 35,000+ stations worldwide.
-
-### Desktop
-- **[Lyrion Music Server](https://github.com/LMS-Community)**: Open-source server for local music, internet radio, and streaming services.
-
-### Cross-Platform
-- **[Foobar2000](https://www.foobar2000.org/)**: Highly customizable media player supporting multiple streaming formats.
-
-
-## Apps for Streaming
-
 | Name | Platform | Description |
 | :--- | :--- | :--- |
 | **[CuterDio](https://cuterdio.com/en)** | iOS | Lightweight app using Radio-Browser for discovery. |
