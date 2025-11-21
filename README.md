@@ -619,6 +619,9 @@ Here are some great radio stations suggested by the community:
 - **[Radio Meuh](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)**: Independent station from the French Alps playing fresh global music. [suggested by @psychic_gibbon]
 - **[La Patate Douce](http://listen.radioking.com/radio/285742/stream/331753)**: Independent webradio with Disco-Funk, Afro-Soul, and House nuggets. [suggested by @psychic_gibbon]
 - **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: Japan-based station featuring jazz, bossa nova, and talk shows. [suggested by @naniwadanahi]
+- **[West Limerick 102FM](https://westlimerick102fm.ie/)** is a community run Irish station broadcasting all kinds of music and local news. [suggested by @OBrien-Michael]
+- **[Joint Radio](https://www.jointil.com/radio/)** Stations Playing Reggae Blues Rock Trance Music. [suggested by @JointRadio]
+
 
 ## Acknowledgements
 
