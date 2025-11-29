@@ -2,6 +2,7 @@
 
 [![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
 [![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
+[![GitHub Stars](https://img.shields.io/github/stars/deroverda/recommended-radio-streams?style=flat-square&color=yellow)](https://github.com/deroverda/recommended-radio-streams/stargazers)
 
 
 ---
