@@ -1,0 +1,28 @@
+name: Check Stream Links
+
+# This defines WHEN the workflow runs
+on:
+  push:
+    branches: [ "main" ] # Runs every time you push a change to the main branch
+  schedule:
+    - cron: '0 0 * * 1' # Runs automatically once a week (every Monday at midnight UTC)
+  workflow_dispatch: # Allows you to manually trigger the check from the Actions tab
+
+# This defines WHAT the workflow does
+jobs:
+  lychee:
+    name: Link Checker
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run Link Checker (lychee)
+        # This uses the external lycheeverse/lychee-action tool
+        uses: lycheeverse/lychee-action@v1
+        with:
+          # Arguments tell the tool what to check:
+          # --max-retries 2: Tries a link twice if it fails
+          # '**/*.md': Checks all files ending in .md (your README.md)
+          args: --max-retries 2 --exclude 'localhost' '**/*.md'
+          max-concurrency: 5
