@@ -1,4 +1,4 @@
-![Logo](https://github.com/deroverda/recommended-radio-streams/blob/main/logo_resized_enhanced.png?raw=true)
+<img src="https://github.com/deroverda/recommended-radio-streams/blob/main/banner_new.png?raw=true" width="400">
 
 [![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
 [![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
