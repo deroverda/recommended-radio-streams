@@ -363,10 +363,11 @@ For example:
 ---
 
 ### Radio Channels Worth Checking Out 🧭 <a id="radio-channels-worth-checking-out"></a>
-<details>
-  <summary>Click to expand</summary>
 
 These stations have **NOT** been individually vetted but have been link-checked by the maintainer, but they are great finds from the internet.
+
+<details>
+  <summary>Click to expand</summary>
 
 ---
 
