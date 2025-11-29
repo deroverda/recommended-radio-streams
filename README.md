@@ -183,6 +183,7 @@ For running your *own* station or streaming setup.
 - **[Netil Radio](https://netilradio.out.airtime.pro/netilradio_a)**: London community radio from a shipping container.
 - **[Fluid Radio](http://uk4-vn.webcast-server.net:9270/)**: Ambient, modern classical, and acoustic.
 - **[Zeno.FM GTA Radio](https://zeno.fm/radio/gta-radio-grand-theft-auto/)**: GTA-themed music and playlists.
+- **[WNCW 88.7](https://wncw.org/)**: Eclectic mix including folk, bluegrass, and world music.
 
 ---
 
@@ -327,6 +328,13 @@ For running your *own* station or streaming setup.
 - **[Hollow Earth Radio](http://centova.rockhost.com:8001/stream)**: Music from marginalized communities.  
 - **[Radio Caprice - Middle Eastern Music](http://79.111.119.111:8004/middleeast)**: Middle Eastern tracks.  
 - **[Worldwide FM](https://worldwidefm.out.airtime.pro/worldwidefm_b)**: Progressive global voices and culture.  
+
+**Live Recordings**
+- **[ISKC Radio Group](https://mediaserv68.live-streams.nl:18012/OnlyLive)**: Live Rock music only 24/7.
+- **[laut.fm - Alive](https://stream.laut.fm/alive)**: Well-known hits and lesser-known concert favorites by rock legends, but also less famous artists.
+- **[laut.fm - Rocklive](https://stream.laut.fm/rocklive)**: Live Rock Pop.
+
+
 
 ---
 
