@@ -99,7 +99,6 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 
 ## Experimental, Niche & Community Stations
 - **[AnonRadio](https://anonradio.net)**: Community-based Unix system radio.
-- **[Chiru.no](https://chiru.no)**: Japanese pop culture (J-pop, anime) music streams.
 - **[CoreRadio](https://coreradio.online)**: Focuses on underground and experimental music.
 - **[deep-cut.fm](https://deep-cut.fm)**: Indie and alternative music streams.
 - **[IndieShuffle](https://www.indieshuffle.com)**: Listener-curated indie music discovery.
@@ -181,7 +180,7 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 - **[Do!! You!!! Radio](https://doyouworld.out.airtime.pro/doyouworld_a)**: London community station (family-friendly).
 - **[Netil Radio](https://netilradio.out.airtime.pro/netilradio_a)**: London community radio from a shipping container.
 - **[Fluid Radio](http://uk4-vn.webcast-server.net:9270/)**: Ambient, modern classical, and acoustic.
-- **[Zeno.FM GTA Radio](https://stream.zeno.fm/qe1hrwvkg48uv)**: GTA-themed music and playlists.
+- **[Zeno.FM GTA Radio](https://zeno.fm/radio/gta-radio-grand-theft-auto/)**: GTA-themed music and playlists.
 
 ---
 
@@ -208,14 +207,13 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 - **[Skylab Radio](http://skylabradio.com)**: Spacey ambient and experimental sounds.
 - **[Datafruits](https://datafruits.fm/)**: Chiptune and video game-inspired electronic.
 - **[dublab](http://dublab.com)**: Experimental and underground electronic.
-- **[TEKnival Radio](https://www.teknivalradio.co.uk/lander)**: Hard-edged techno and rave.
+- **[TEKnival Radio](https://teknivalradio.com/index.php/streams/)**: Hard-edged techno and rave.
 - **[Rainwave - All](http://rainwave.cc/all)**: Video game music mixes (including electronic).
 - **[Rainwave - Chiptunes](https://rainwave.cc/chiptune/)**: Chiptune tracks from games.
 - **[Italoradio.fm](https://italoradio.fm/)**: Italo-disco music.
 - **[Radio ItaloPower!](http://italopower.com)**: Italo-disco hits and rarities.
 - **[Radio BipTunia](https://biptunia.com/)**: Experimental and quirky electronic.
 - **[Shonan Beach FM](https://www.beachfm.co.jp/)**: Japanese chilled electronic/beach vibes.
-- **[Fnoob Techno](https://fnoobtechno.com/)**: Dedicated techno station.
 - **[Tech House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER18)**: Tech house focus.
 - **[Acid House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER1)**: Acid house tracks.
 
@@ -261,7 +259,7 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 - **[Nordic Lodge](https://www.nordiclodgeradio.com/)**: Chill-out ambient and relaxed beats.
 - **[Radio Schizoid - Chillout](http://94.130.113.214:8000/chill)**: Psychedelic chillout/ambient.
 - **[Smooth Chill](https://media-ssl.musicradio.com/ChillMP3)**: Mellow unwind music.
-- **[The Quiet Village](https://cp3.shoutcheap.com:2199/tunein/mark1234.pls)**: Tiki bar soundtrack (Exotica, Hawaiian, Lounge).
+- **[The Quiet Village](https://www.digitiki.com/radio.html)**: Tiki bar soundtrack (Exotica, Hawaiian, Lounge).
 
 ---
 
@@ -315,7 +313,7 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 
 **Asian** 🇯🇵  
 - **[J-Club Club Bandstand](http://jclubradio.com)**: Classic/contemporary Japanese music.  
-- **[J-Pop Sakura 懐かしい asia DREAM radio](https://cast1.torontocast.com:2170/;.mp3)**: J-pop nostalgia.  
+- **[J-Pop Sakura 懐かしい asia DREAM radio](https://mytuner-radio.com/radio/j-pop-sakura-huai-kashii-448027/)**: J-pop nostalgia.  
 - **[listen.moe](https://listen.moe/kpop/stream)**: K-pop streams.  
 - **[Pyongyang Radio FM](https://listen7.myradio24.com/69366)**: North Korea’s state-run broadcaster.  
 
@@ -336,7 +334,7 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 | **[BB King](https://streaming.exclusive.radio/er/bbking/icecast.audio)** | **[The Beatles](http://streaming.exclusive.radio/er/beatles/icecast.audio)** | **[Eric Clapton](https://streaming.exclusive.radio/er/ericclapton/icecast.audio)** |
 | **[John Coltrane](http://streaming.exclusive.radio/er/johncoltrane/icecast.audio)** | **[Creedence Clearwater Revival](https://streaming.exclusive.radio/er/creedence/icecast.audio)** | **[Daft Punk](https://www.surfmusik.de/m3u/exclusively-daft-punk,20696.m3u)** |
 | **[Eminem (Slim Shady)](http://abm21.com.au:8000/CONTAINER158)** | **[Ella Fitzgerald](https://streaming.exclusive.radio/er/ellafitzgerald/icecast.audio)** | **[Fleetwood Mac](https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio)** |
-| **[Grateful Dead (WGDR)](https://www.madmusicradio.com/wgdr)** | **[Jimi Hendrix](https://streaming.exclusive.radio/er/hendrix/icecast.audio)** | **[Bob Marley](https://streaming.exclusive.radio/er/bobmarley/icecast.audio)** |
+| **[Jimi Hendrix](https://streaming.exclusive.radio/er/hendrix/icecast.audio)** | **[Bob Marley](https://streaming.exclusive.radio/er/bobmarley/icecast.audio)** |
 | **[Van Morrison](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)** | **[The Police](https://streaming.exclusive.radio/er/policehits/icecast.audio)** | **[Red Hot Chili Peppers](http://abm22.com.au:8000/CONTAINER129)** |
 | **[The Rolling Stones](https://icy.unitedradio.it/VirginSpecialEvent.mp3)** | **[Steely Dan](https://streaming.exclusive.radio/er/steelydan/icecast.audio)** | **[Supertramp](https://streaming.exclusive.radio/er/supertramp/icecast.audio)** |
 
@@ -350,7 +348,6 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 ---  
 
 ### Emergency/ATC 🚨✈️  
-- **[Maricopa County Police & DPS Scanner (Phoenix, AZ)](http://brickcamp.biz:8097/city-scan)**: Police, fire, and highway patrol communications.  
 - **[Pittsburgh Police, Fire, EMS](https://broadcastify.cdnstream1.com/21738)**: Live emergency services scanner.  
 - **[LiveATC KJFK Tower 2 (New York)](https://www.liveatc.net/play/kjfk9_s.pls)**: Air traffic control communications for JFK Airport.  
 
@@ -370,7 +367,7 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **[24/7 LoFi Radio](https://www.247lofiradio.com/)**: LoFi music for background listening.
 - **[1FM Chillout Lounge](https://www.1.fm/stations)**: Chillout, ambient, and relaxing music.
 - **[113.fm Hits 1997 – Ads](https://www.113.fm/)**: Popular music hits from 1997 with occasional ads.
-- **[All Jazz Radio](https://www.madmusicradio.com/wjzz)**: Dedicated to jazz music.
+- **[Mad Music Radio](https://wgdr.rocks/)**: Mad Music Radio provides five commercial-free, handpicked internet radio stations featuring classic rock, golden oldies, soulful blues, smooth jazz, and Grateful Dead deep cuts.
 - **[Ambient Sleeping Pill](https://ambientsleepingpill.com/)**: Ad-free, beat-free ambient music for sleep, meditation, or study.
 - **[Antenne Bayern](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and more.
 - **[Antenne Bayern – CoffeeHouse](https://www.antenne.de/webradio/coffeemusic)**: Soft, relaxing music for a coffeehouse vibe.
@@ -478,16 +475,6 @@ These are some channels I’ve heard are good, but I haven't had the chance to c
 - **[Radio Krov](https://www.hiresaudio.online/radio-krov/)**: High-fidelity classical and orchestral music.
 - **[Radio Random](https://radiorandom.org)**: Lossless eclectic and experimental music.
 - **[Radio Sputnik](https://audiophile.fm/radio-sputnik)**: High-quality ambient, electronic, and experimental music.
-- **[SuperStereo: Signal 1](https://superstereohires.com/streams/)**: High-fidelity pop, rock, and electronic music.
-- **[SuperStereo: Signal 1+](https://superstereohires.com/streams/)**: High-resolution disco, soul, and funk.
-- **[SuperStereo: Signal 2](https://superstereohires.com/streams/)**: CD-quality jazz, blues, and soul.
-- **[SuperStereo: Signal 3](https://superstereohires.com/streams/)**: High-fidelity ambient, downtempo, and chillout.
-- **[SuperStereo: Signal 3+](https://icecast.centaury.cl/superstereo/index3plus.html)**: High-resolution world music and exotic sounds.
-- **[SuperStereo: Signal 4](https://superstereohires.com/streams/)**: Lossless classical and orchestral music.
-- **[SuperStereo: Signal 4+](https://superstereohires.com/streams/)**: High-fidelity pop, rock, and electronic music.
-- **[SuperStereo: Signal 5](https://superstereohires.com/streams/)**: CD-quality jazz, blues, and soul.
-- **[SuperStereo: Signal 6](https://superstereohires.com/streams/)**: High-resolution ambient, downtempo, and chillout.
-- **[SuperStereo: Signal 7](https://icecast.centaury.cl/superstereo/index7.html)**: High-fidelity classical and orchestral music.
 - **[TEKnival Radio](https://www.teknivalradio.co.uk)**: High-quality techno, trance, and electronic dance music.
 - **[The Cheese](https://thecheese.co.nz)**: Lossless indie, alternative, and underground music from New Zealand.
 - **[Violent Forces Radio: '80s Thrash](https://violentforcesradio.weebly.com)**: High-fidelity 1980s thrash metal and hard rock.
