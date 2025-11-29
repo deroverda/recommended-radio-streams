@@ -303,9 +303,11 @@ For running your *own* station or streaming setup.
 - **[Alefa Music - Afrobeat](https://alefamusic.net/)**: Malagasy salegy rhythms (founded 2006).  
 - **[Jazz Afro](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)**: Afro-jazz fusion.
 - **[Le Grigri](http://legrigri.com)**: African and Caribbean music.
+- **[Nehanda Radio](https://eu4.fastcast4u.com/proxy/lancguma?mp=/1)**: Zimbabwian music.
 - **[Oroko Radio](https://oroko.live/)**: Afro indie, folk, and soul.  
 - **[Pan African Space Station](https://panafricanspacestation.org.za/)**: Live radio and performance hub.  
 - **[Radio Caprice - Afrobeat](http://www.radcap.ru/)**: Afrobeat classics.
+- 
   
 
 **Latin/Caribbean** 🌴🎺  
@@ -328,7 +330,10 @@ For running your *own* station or streaming setup.
 - **[Mondo Bongo Radio](http://mondobongoradio.com)**: World music, exotica, and soul.
 - **[Radio Caprice - Middle Eastern Music](http://79.111.119.111:8004/middleeast)**: Middle Eastern tracks.
 - **[Radio France](http://www.radiofrance.fr/live)**: French public radio with diverse programming.
+- **[Rebetiko Sealabs](https://rebetiko.sealabs.net/radio)**: Rebetiko is the urban popular song of Greeks, primarily of the poor, that existed from the late 19th century to the 1950s.
 - **[Worldwide FM](https://worldwidefm.out.airtime.pro/worldwidefm_b)**: Progressive global voices and culture.
+- **[Dansbandskanalen](https://stream.dbmedia.se./dbkdab)**: Dance band (traditional Swedish 'dansband' style) music, country, and Swedish favorites.
+- **[Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/;)**: A non-commercial, 24/7 radio station run by two Dutch enthusiasts, dedicated to streaming a vast library of Swedish folk music for a global audience.
 
 ---
 
