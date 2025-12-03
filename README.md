@@ -95,7 +95,8 @@ These sites let you listen directly via web players.
 - **[181.fm](https://www.181.fm/)** — Curated genre stations
 - **[AccuRadio](https://www.accuradio.com)** — Personalized station builder  
 - **[iHeartRadio](https://www.iheart.com)** — Massive commercial radio platform  
-- **[Laut.fm](https://laut.fm)** — Community & curated stations  
+- **[Laut.fm](https://laut.fm)** — Community & curated stations
+- **[IndieShuffle](https://www.indieshuffle.com)** — Listener-curated indie
 
 ---
 
@@ -112,7 +113,7 @@ For running your *own* station or streaming setup.
 
 ---
 
-## 🧪 Experimental, Niche & Community (Fun Extras)
+## 🧪 Experimental & Nerdy Radio Projects
 
 <details>
   <summary>Click to expand nerdy, experimental, and community-driven radio links</summary>
@@ -120,17 +121,11 @@ For running your *own* station or streaming setup.
 - **[JetSetRadio.live](https://jetsetradio.live/)** — Fan-made Jet Set Radio stream  
 - **[deep-cut.fm](https://deep-cut.fm)** — Indie/alternative curated radio  
 - **[CoreRadio](https://coreradio.online)** — Underground/experimental  
-- **[TildeRadio](https://tilderadio.tildeverse.org)** — Community-powered radio  
-- **[IndieShuffle](https://www.indieshuffle.com)** — Listener-curated indie  
+- **[TildeRadio](https://tilderadio.tildeverse.org)** — Community-powered radio   
 - **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)** — Wild experiment that broadcasts sound via computer hardware  
 - **[Demoscene & VGM links](https://mw.rat.bz/davgmsrl)** — Huge list of video game + demoscene streams  
-- **[WebSDR](http://www.websdr.org)** — Live software-defined radio receivers worldwide  
-- **[Radio Dubbeh](https://radio.dubbeh.net)** — Eclectic/genre-mixing  
-- **[ilovemusic](https://ilovemusic.de)** — German eclectic radio platform  
-- **[Radcap](https://www.radcap.ru)** — Russian stations across themes  
-- **[1a Radio](https://www.1a-webradio.de)** — German network of stations  
-- **[GWES EAS Relay Network](https://gwes-eas.network/listen)** — Emergency alert relay network  
-- **[0nRadio](https://0nradio.com)** — Thematic online stations  
+- **[WebSDR](http://www.websdr.org)** — Live software-defined radio receivers worldwide     
+- **[GWES EAS Relay Network](https://gwes-eas.network/listen)** — Emergency alert relay network   
 
 </details>
 
@@ -170,6 +165,7 @@ For running your *own* station or streaming setup.
 - **[Birch Street Radio](https://jenny.torontocast.com:8172/stream)**: Adult alternative, classic rock, folk, Americana.
 - **[Do!! You!!! Radio](https://doyouworld.out.airtime.pro/doyouworld_a)**: London community station (family-friendly).
 - **[KBON](https://www.kbon.com/)**: Louisiana-based local music mix.
+- **[ilovemusic](https://ilovemusic.de)** — German eclectic radio platform
 - **[KEXP](https://www.kexp.org/listen/)**: Exceptional music curation.
 - **[KTKE 101.5 FM](https://www.truckeetahoeradio.com/)**: Mix of music and talk shows.
 - **[Netil Radio](https://netilradio.out.airtime.pro/netilradio_a)**: London community radio from a shipping container.
@@ -186,6 +182,7 @@ For running your *own* station or streaming setup.
 - **[Totally Wired Radio](http://totallywiredradio.com)**: Indie, punk, and alternative music.
 - **[WNCW 88.7](http://wncw.org/)**: Eclectic mix including folk, bluegrass, and world music.
 - **[Zeno.FM GTA Radio](https://zeno.fm/radio/gta-radio-grand-theft-auto/)**: GTA-themed music and playlists.
+  
 
 ---
 
@@ -337,6 +334,7 @@ For running your *own* station or streaming setup.
 - **[Pyongyang Radio FM](https://listen7.myradio24.com/69366)**: North Korea’s state-run broadcaster.  
 
 **Other** 🌀 (Regional stations)
+- **[1A Radio](https://www.1a-webradio.de/)** — German multi-station network with pop, dance, oldies, charts, and theme channels.
 - **[CeolFM](http://ceol.fm:8000/live)**: Traditional Irish music. Jigs, reels, hornpipes, slip jigs, trad session tunes...  
 - **[Celtic Music Radio](https://www.celticmusicradio.net/)**: Traditional folk, Americana, and world music.  
 - **[Hollow Earth Radio](http://centova.rockhost.com:8001/stream)**: Music from marginalized communities.
@@ -348,6 +346,8 @@ For running your *own* station or streaming setup.
 - **[Worldwide FM](https://worldwidefm.out.airtime.pro/worldwidefm_b)**: Progressive global voices and culture.
 - **[Dansbandskanalen](https://stream.dbmedia.se./dbkdab)**: Dance band (traditional Swedish 'dansband' style) music, country, and Swedish favorites.
 - **[Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/;)**: A non-commercial, 24/7 radio station run by two Dutch enthusiasts, dedicated to streaming a vast library of Swedish folk music for a global audience.
+
+
 
 ---
 
@@ -531,6 +531,9 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[The Cheese](https://thecheese.co.nz)**: Lossless indie, alternative, and underground music from New Zealand.
 - **[Violent Forces Radio: General Trash & '80s Thrash](https://violentforcesradio.weebly.com)**: General trash and 1980's trash.
 - **[WBOR Radio](https://wbor.org)**: High-resolution indie, alternative, and experimental music.
+
+### Multi-Station Networks 🌐
+- **[0nRadio](https://0nradio.com/)** — Large collection of themed online stations across pop, chill, jazz, ambient, and more.
 
 
 </details>
