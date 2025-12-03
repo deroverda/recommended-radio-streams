@@ -17,7 +17,8 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 
 ## Table of Contents
 - [Recommended Apps for Streaming](#apps-for-streaming)
-- [Internet Radio Platforms and Stations](#internet-radio-platforms-and-stations)
+- [Internet Radio Platforms & Tools](#internet-radio-platforms-and-stations)
+- [Link Structure & Finding the Direct Stream](#link-structure)
 - [My Personal Curated List](#my-personal-curated-list)
 - [Radio Channels Worth Checking Out](#radio-channels-worth-checking-out)
 - [Contributing](#contributing)
@@ -135,6 +136,17 @@ For running your *own* station or streaming setup.
 
 ---
 
+## 🔗 Link Structure & Finding the Direct Stream <a id="link-structure"></a>
+
+**Why do some links go to a website instead of playing music?** To keep this list distinct and reliable, many links point to the station's **official homepage**. Direct streaming links (URLs ending in `.mp3` or `.m3u`) change frequently and break often. The homepage will always have the most up-to-date "Listen Live" button.
+
+**How do I play these in a dedicated player (VLC, Foobar, Music App)?** If you prefer listening outside your browser, you will need the **Direct Stream URL**. Here is how to find it:
+1.  **Check the site:** Look for links labeled "Winamp," "PLS," "M3U," or "Direct Stream."
+2.  **Use a Directory:** Search for the station on [Radio-Browser.info](https://www.radio-browser.info). They usually host the raw stream links.
+3.  **Advanced Method:** Open the web player, right-click and select **Inspect** (or press `F12`) to open the Developer Tools. Go to the **Network** tab, filter by "Media" or "XHR," and then start the player. The stream URL will appear in the list. Look for requests ending in: **`.mp3`**, **`.aac`**, **`.m4a`**, **`.ogg`**, **`.m3u`**, or **`.pls`**, or starting with **`icecast`** or **`shoutcast`**.
+
+---
+
 ## My Personal Curated List <a id="my-personal-curated-list"></a>
 
 ### ⭐ Top Picks (Start Here)
@@ -144,7 +156,7 @@ For running your *own* station or streaming setup.
 - **[Hunter FM LoFi](https://live.hunter.fm/lofi_high)**: Perfect beats for studying, working, or relaxing.
 - **[KEWU-FM 89.5](https://streamer.radio.co/s3ba633066/listen)**: Public radio station dedicated to jazz.
 - **[La Patate Douce](http://listen.radioking.com/radio/285742/stream/331753)**: Groovy vibes and soulful tunes.
-- **[Le Grigri](https://www.radioking.com/play/legrigri/273715)**: Experimental, jazz, african, groove music 24/7. Broadcasting From france.
+- **[Le Grigri](https://www.radioking.com/play/legrigri/273715)**: Experimental, jazz, african, groove music 24/7. Broadcasting From France.
 - **[Moon Phase Radio](https://cp12.serverse.com/proxy/moonphase/stream)**: Commercial-free ambient & downtempo (since 2010).
 - **[Nightwave Plaza](http://radio.plaza.one/mp3)**: 24/7 vaporwave and future funk station.
 - **[Nugs Radio](http://nugs.net)**: Live recordings of rock and jam bands.
@@ -310,7 +322,6 @@ For running your *own* station or streaming setup.
 - **[Oroko Radio](https://oroko.live/)**: Afro indie, folk, and soul.  
 - **[Pan African Space Station](https://panafricanspacestation.org.za/)**: Live radio and performance hub.  
 - **[Radio Caprice - Afrobeat](http://www.radcap.ru/)**: Afrobeat classics.
-- 
   
 
 **Latin/Caribbean** 🌴🎺  
@@ -428,8 +439,7 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[Frisky Radio – Deep](https://www.friskyradio.com/)**: Deep house and ambient electronic music.
 - **[Frisky Radio – Underground Electronic](http://friskyradio.com)**: Underground electronic genres like techno and deep house.
 - **[KissFM 2.0 Trance](http://kissfm.com)**: Trance and electronic dance music.
-- **[Rinse FM – UK](http://rinse.fm)**: Underground dance and urban music from London.
-- **[Rinse FM (Rinse France) – Dance/Urban – London](http://rinse.fm)**: French version of Rinse FM with dance and urban music.
+- **[Rinse FM](http://rinse.fm)**: Underground dance and urban music from London.
 
 ### Classical & Opera 🎻
 - **[Calm Radio - Symphony](https://calmradio.com/channel-guide/classical-music)**: Symphonies and orchestral masterpieces.
@@ -466,9 +476,7 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[KEXP 90.3 FM – Seattle](http://kexp.org)**: Indie, alternative, and world music.
 - **[KUSF 90.3 FM – San Francisco](https://www.kusf.org)**: Student-run station with diverse programming.
 - **[KUTX 98.9 FM – Austin](http://kutx.org)**: Austin-based station with indie rock and Americana.
-- **[KUTX 98.9 – Austin UT](http://kutx.org)**: Music programming from the University of Texas at Austin.
 - **[KZSC 88.1 FM – Santa Cruz](http://kzsc.org)**: Community radio with diverse music from Santa Cruz.
-- **[KZSU 90.1 FM – Stanford](https://kzsu.stanford.edu/)**: College radio with experimental and alternative programming.
 - **[KZSU Stanford 90.1 FM – Stanford, CA](http://kzsu.stanford.edu)**: Stanford’s student-run station with music and talk.
 - **[The Current – Minnesota Public Radio](http://thecurrent.org)**: Indie rock, pop, and folk with a focus on new artists.
 - **[The Edge Radio – New Zealand](http://theedge.co.nz)**: Contemporary pop, rock, and alternative music.
@@ -485,7 +493,6 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[Radio Marija – Lithuania](https://www.marijosradijas.lt/)**: Religious programming from Lithuania.
 - **[Radio Popolare – Milan, Italy](http://radiopopolare.it)**: News, talk, and music from Milan.
 - **[Radio Reverb 97.2 – Brighton UK Community Radio](http://radioreverb.com)**: Community radio with music and talk.
-- **[Radio Reverb 97.2 FM – Brighton](https://www.radioreverb.com/)**: Similar community radio programming.
 - **[Resonance 104.4FM – London – Diverse Community Radio](https://www.resonancefm.com/)**: Diverse music and cultural programming from London.
 - **[RTE Radio 1 – Ireland](http://rte.ie)**: Ireland’s national public radio with news, talk, and music.
 - **[Taui FM – Tahiti](https://theonestopradio.com/radio/taui-fm)**: Local and international music from Tahiti.
@@ -522,8 +529,7 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[Radio Sputnik](https://audiophile.fm/radio-sputnik)**: High-quality ambient, electronic, and experimental music.
 - **[TEKnival Radio](https://www.teknivalradio.co.uk)**: High-quality techno, trance, and electronic dance music.
 - **[The Cheese](https://thecheese.co.nz)**: Lossless indie, alternative, and underground music from New Zealand.
-- **[Violent Forces Radio: '80s Thrash](https://violentforcesradio.weebly.com)**: High-fidelity 1980s thrash metal and hard rock.
-- **[Violent Forces Radio: General Thrash](https://violentforcesradio.weebly.com)**: CD-quality thrash metal and heavy metal.
+- **[Violent Forces Radio: General Trash & '80s Thrash](https://violentforcesradio.weebly.com)**: General trash and 1980's trash.
 - **[WBOR Radio](https://wbor.org)**: High-resolution indie, alternative, and experimental music.
 
 
@@ -561,7 +567,7 @@ Here are some great radio stations suggested by the community:
 - **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: Japan-based station featuring jazz, bossa nova, and talk shows. [suggested by @naniwadanahi]
 - **[West Limerick 102FM](https://westlimerick102fm.ie/)**: Community-run Irish station broadcasting all kinds of music and local news. [suggested by @OBrien-Michael]
 - **[Joint Radio](https://www.jointil.com/radio/)**: Stations playing Reggae, Blues, Rock, and Trance music. [suggested by @JointRadio]
-- **[Smooth Sailing Radio](https://smoothsailingradio.com/listen)**: Leans a bit into mainstream 80s RnB but is definitely solidly yacht rock [suggested by @WavingOrDrowning]
+- **[Smooth Sailing Radio](https://smoothsailingradio.com/listen)**: Leans a bit into mainstream 80s RnB but is definitely solidly yacht rock. [suggested by @WavingOrDrowning]
 - **[Nonstopcasiopea](https://nonstopcasiopea.com/)**: Nonstop Casiopea and some T-Square, with smooth jazzy-funk vibes reminiscent of Persona and Mario Kart. Minimal ads, mostly in Japanese, often indistinguishable from news. [suggested by @yubroyi]
 
 
