@@ -42,7 +42,10 @@ Pick an app based on your device. These are the most reliable and radio-nerd–a
 
 ### **Desktop**
 - **[Lyrion Music Server](https://github.com/LMS-Community)** — Powerful open-source music + radio server  
-- **[Foobar2000](https://www.foobar2000.org/)** — Extremely customizable, lightweight player  
+- **[Foobar2000](https://www.foobar2000.org/)** — Extremely customizable, lightweight player
+
+### **Web**
+- **[Radiolise](http://unencrypted.radiolise.com/)** — Web app that lets you enjoy your favorite TV and radio stations. It uses the Community Radio Browser project for the search.
 
 ---
 
