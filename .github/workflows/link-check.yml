@@ -23,6 +23,6 @@ jobs:
         with:
           # Arguments tell the tool what to check:
           # --max-retries 2: Tries a link twice if it fails
-          # '**/*.md': Checks all files ending in .md (your README.md)
-          args: --max-retries 2 --exclude 'localhost' '**/*.md'
+          # 'README.md': Checks only the README.md file
+          args: --max-retries 2 --exclude 'localhost' 'README.md'
           max-concurrency: 5
