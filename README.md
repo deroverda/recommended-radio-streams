@@ -169,7 +169,7 @@ For running your *own* station or streaming setup.
 - **[The SoCal Sound](http://thesocalsound.org/)**: Contemporary California rock, pop, and indie.
 - **[Time Capsule Show](https://ckut.ca/timecapsule/)**: Time-traveling journey through music history.
 - **[Totally Wired Radio](http://totallywiredradio.com)**: Indie, punk, and alternative music.
-- **[WNCW 88.7](https://wncw.org/)**: Eclectic mix including folk, bluegrass, and world music.
+- **[WNCW 88.7](http://wncw.org/)**: Eclectic mix including folk, bluegrass, and world music.
 - **[Zeno.FM GTA Radio](https://zeno.fm/radio/gta-radio-grand-theft-auto/)**: GTA-themed music and playlists.
 
 ---
@@ -477,7 +477,6 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[Bondi Beach Radio – Sydney](https://bondiradio.com.au/)**: Music and local news from Sydney’s Bondi Beach.
 - **[Galaxie Radio – Haiti](http://galaxieradio.com)**: Reggae, kompa, and other Haitian genres.
 - **[Galaxie 104.5](http://radiogalaxie.com)**: Similar Haitian music programming.
-- **[KCLR96FM – Kilkenny, Ireland](http://kclr96fm.com)**: Regional station offering music and local news.
 - **[KIX Belgium – Talk and Radio](https://www.radiokix.be/)**: Talk and music programming from Belgium.
 - **[Radio Galaxie 104.5](http://radiogalaxie.com)**: Haitian music programming.
 - **[Radio Marija – Lithuania](https://www.marijosradijas.lt/)**: Religious programming from Lithuania.
