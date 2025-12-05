@@ -1,8 +1,17 @@
-<img src="https://github.com/deroverda/recommended-radio-streams/blob/main/banner_new.png?raw=true" width="400">
+<div align="center">
 
-[![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
-[![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
+<img src="https://github.com/deroverda/recommended-radio-streams/blob/main/banner_new.png?raw=true" width="400" alt="Project Banner">
+
+<br>
+<br>
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![GitHub Stars](https://img.shields.io/github/stars/deroverda/recommended-radio-streams?style=flat-square&color=yellow)](https://github.com/deroverda/recommended-radio-streams/stargazers)
+[![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
+[![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+</div>
 
 
 ---
@@ -27,26 +36,49 @@ Includes recommended apps for iOS, Android, and desktop to make tuning in simple
 
 ---
 
-## 📱 Apps for Streaming <a id="apps-for-streaming"></a>
+## 📱 Apps & Tools <a id="apps-for-streaming"></a>
 
 Pick an app based on your device. These are the most reliable and radio-nerd–approved players.
 
 ### **iOS**
-- **[CuterDio](https://cuterdio.com/en)** — Lightweight, uses Radio-Browser for discovery  
-- **[Triode](https://triode.app/)** — Beautiful minimalist premium player  
-- **[Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB)** — Free, simple, works with Radio-Browser  
+- **[CuterDio](https://cuterdio.com/en)** — Lightweight, uses Radio-Browser for discovery
+- **[Triode](https://triode.app/)** — Beautiful minimalist premium player
+- **[Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB)** — Free, simple, works with Radio-Browser
 
 ### **Android**
-- **[RadioDroid](https://github.com/segler-alex/RadioDroid)** — Best open-source Radio-Browser client  
-- **[Transistor](https://codeberg.org/y20k/transistor)** — Minimalist player for direct streams  
-- **[RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)** — Great if you use UPnP devices  
+- **[RadioDroid](https://github.com/segler-alex/RadioDroid)** — Best open-source Radio-Browser client
+- **[Transistor](https://codeberg.org/y20k/transistor)** — Minimalist player for direct streams
+- **[RadioUpnp](https://play.google.com/store/apps/details?id=com.watea.radio_upnp)** — Great if you use UPnP devices
 
 ### **Desktop**
-- **[Lyrion Music Server](https://github.com/LMS-Community)** — Powerful open-source music + radio server  
+- **[Lyrion Music Server](https://github.com/LMS-Community)** — Powerful open-source music + radio server
 - **[Foobar2000](https://www.foobar2000.org/)** — Extremely customizable, lightweight player
+- **[QMPlay2](https://github.com/zaps166/QMPlay2)** — Fast, Qt-based media player with built-in radio support
 
-### **Web**
-- **[Radiolise](http://unencrypted.radiolise.com/)** — Web app that lets you enjoy your favorite TV and radio stations. It uses the Community Radio Browser project for the search.
+### **Web & Utilities**
+- **[Radiolise](https://radiolise.com)** — Web app that lets you enjoy your favorite TV and radio stations
+- **[ScrobbleRadio](https://scrobblerad.io)** — Tool to scrobble internet radio listening to Last.fm
+
+---
+
+## 🔗 Link Structure & Finding the Direct Stream <a id="link-structure"></a>
+
+> **💡 Pro Tip:** Most apps listed above have built-in directories. **Try searching for the station inside the app first.** Use the methods below only if you cannot find the station in your app's search.
+
+**Why do some links go to a website instead of playing music?**
+To keep this list distinct and reliable, many links point to the station's **official homepage**. Direct streaming links (URLs ending in `.mp3` or `.m3u`) change frequently and break often. The homepage will always have the most up-to-date "Listen Live" button.
+
+**How do I find the Direct Stream URL?**
+If a station isn't in your app's database, or if you use a classic player like VLC/Foobar, you need the raw URL. Here is how to find it:
+
+1.  **Check the site:** Look for links labeled "Winamp," "PLS," "M3U," or "Direct Stream."
+2.  **Use a Directory:** Search for the station on [Radio-Browser.info](https://www.radio-browser.info). They usually host the raw stream links.
+3.  **The Firefox Method (Recommended):**
+    * Install **[The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/)** add-on.
+    * **Crucial Step:** Go to the add-on *Options* and **untick** `Ignore direct links to media files`.
+    * Play the radio on the website.
+    * Click the add-on icon and select **"Copy all visible URLs"**.
+4.  **The "Hacker" Method:** Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and then start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, or starting with `icecast`/`shoutcast`.
 
 ---
 
@@ -56,19 +88,21 @@ Pick an app based on your device. These are the most reliable and radio-nerd–a
 
 The best places to *discover* new stations.
 
-- ⭐ **[Radio Browser](https://www.radio-browser.info)** — The best community-driven radio directory  
-- **[FMStream](https://fmstream.org/index.php?c=FT)** — Clean index of stations worldwide  
-- **[Online Radio Box](https://onlineradiobox.com)** — Large global directory  
-- **[Radio.net](https://www.radio.net)** — Mainstream radio directory  
-- **[Live Online Radio](https://liveonlineradio.net)** — Browse by region & genre  
-- **[Radioguide.fm](https://www.radioguide.fm)** — AM/FM + internet stations  
-- **[Pea.fm](https://pea.fm)** — Simple international directory  
-- **[Radio Station USA](https://www.radiostationusa.fm)** — US-focused directory  
-- **[Online Radio EU](https://onlineradio.eu/)** — Europe-focused directory  
-- **[Radio Volna](https://radio-volna.com)** — Worldwide radio list  
-- **[All Radio](https://allradio.net)** — General-purpose directory  
-- **[Get Me Radio](https://www.getmeradio.com)** — Directory with app support  
-- **[TuneYou](https://www.tuneyou.com)** — 50,000+ online stations  
+- ⭐ **[Radio Browser](https://www.radio-browser.info)** — The best community-driven radio directory
+- **[Icecast Directory](http://dir.xiph.org)** — The "yellow pages" of independent internet radio
+- **[Shoutcast Directory](http://directory.shoutcast.com)** — Classic directory of thousands of stations
+- **[FMStream](https://fmstream.org/index.php?c=FT)** — Clean index of stations worldwide
+- **[Online Radio Box](https://onlineradiobox.com)** — Large global directory
+- **[Radio.net](https://www.radio.net)** — Mainstream radio directory
+- **[Live Online Radio](https://liveonlineradio.net)** — Browse by region & genre
+- **[Radioguide.fm](https://www.radioguide.fm)** — AM/FM + internet stations
+- **[Pea.fm](https://pea.fm)** — Simple international directory
+- **[Radio Station USA](https://www.radiostationusa.fm)** — US-focused directory
+- **[Online Radio EU](https://onlineradio.eu/)** — Europe-focused directory
+- **[Radio Volna](https://radio-volna.com)** — Worldwide radio list
+- **[All Radio](https://allradio.net)** — General-purpose directory
+- **[Get Me Radio](https://www.getmeradio.com)** — Directory with app support
+- **[TuneYou](https://www.tuneyou.com)** — 50,000+ online stations
 
 ---
 
@@ -76,69 +110,57 @@ The best places to *discover* new stations.
 
 See radio geographically — great for discovering hyper-local content.
 
-- **[Radio Garden](https://radio.garden)** — Legendary interactive 3D globe  
-- **[Radio Map EU](https://radiomap.eu)** — Europe-based station map  
-- **[World Radio Map](https://worldradiomap.com)** — Browse by country & city  
+- **[Radio Garden](https://radio.garden)** — Legendary interactive 3D globe
+- **[Radio Map EU](https://radiomap.eu)** — Europe-based station map
+- **[World Radio Map](https://worldradiomap.com)** — Browse by country & city
 
 ---
 
-### 🎛 Radio Platforms & Streaming Services
+### 🎛 Radio Platforms & Curated Networks
 
-These sites let you listen directly via web players.
+Aggregators (places to listen) and Networks (places that create content).
 
-- **[Zeno.fm](https://zeno.fm)** — Thousands of independent stations  
-- **[MyTuner](https://mytuner-radio.com)** — Radio + podcasts  
-- **[Radioline](https://www.radioline.co)** — Radio + podcast platform  
-- **[openradio.app](https://openradio.app)** — Create/discover live radio  
-- **[Rivestream](https://www.rivestream.com)** — Internet radio streams  
+- **[Zeno.fm](https://zeno.fm)** — Thousands of independent stations
+- **[MyTuner](https://mytuner-radio.com)** — Radio + podcasts
+- **[Radioline](https://www.radioline.co)** — Radio + podcast platform
+- **[openradio.app](https://openradio.app)** — Create/discover live radio
+- **[Rivestream](https://www.rivestream.com)** — Internet radio streams
 - **[RadioTunes](https://www.radiotunes.com)** — Curated genre stations
 - **[181.fm](https://www.181.fm/)** — Curated genre stations
-- **[AccuRadio](https://www.accuradio.com)** — Personalized station builder  
-- **[iHeartRadio](https://www.iheart.com)** — Massive commercial radio platform  
+- **[AccuRadio](https://www.accuradio.com)** — Personalized station builder
+- **[iHeartRadio](https://www.iheart.com)** — Massive commercial radio platform
 - **[Laut.fm](https://laut.fm)** — Community & curated stations
 - **[IndieShuffle](https://www.indieshuffle.com)** — Listener-curated indie
 
 ---
 
-### 🎙 DIY Broadcasting & Hosting Tools
+### 🎙 DIY Broadcasting & Hosting
 
-For running your *own* station or streaming setup.
+For running your *own* station.
 
+- **[AzuraCast](https://www.azuracast.com/)** — Self-hosted web radio management suite (Best for DIY)
+- **[Live365](https://live365.com/listen)** — Create/manage your own internet radio
+- **[Rcast.net](https://www.rcast.net/dir)** — Share and discover streams
 - **[Shoutcast](http://directory.shoutcast.com)** — Classic radio hosting platform  
-- **[Icecast](http://dir.xiph.org)** — Open-source streaming server  
-- **[Live365](https://live365.com/listen)** — Create/manage your own internet radio  
-- **[Rcast.net](https://www.rcast.net/dir)** — Share and discover streams  
-- **[QMPlay2](https://github.com/zaps166/QMPlay2)** — Player with built-in radio support  
-- **[ScrobbleRadio](https://scrobblerad.io)** — Scrobble radio listening to Last.fm  
+- **[Icecast](http://dir.xiph.org)** — Open-source streaming server
 
 ---
 
 ## 🧪 Experimental & Nerdy Radio Projects
 
 <details>
-  <summary>Click to expand nerdy, experimental, and community-driven radio links</summary>
+  <summary>Click to expand nerdy, experimental, and community-driven radio links</summary>
 
-- **[JetSetRadio.live](https://jetsetradio.live/)** — Fan-made Jet Set Radio stream  
-- **[deep-cut.fm](https://deep-cut.fm)** — Indie/alternative curated radio  
-- **[CoreRadio](https://coreradio.online)** — Underground/experimental  
-- **[TildeRadio](https://tilderadio.tildeverse.org)** — Community-powered radio   
-- **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)** — Wild experiment that broadcasts sound via computer hardware  
-- **[Demoscene & VGM links](https://mw.rat.bz/davgmsrl)** — Huge list of video game + demoscene streams  
-- **[WebSDR](http://www.websdr.org)** — Live software-defined radio receivers worldwide     
-- **[GWES EAS Relay Network](https://gwes-eas.network/listen)** — Emergency alert relay network   
+- **[JetSetRadio.live](https://jetsetradio.live/)** — Fan-made Jet Set Radio stream
+- **[deep-cut.fm](https://deep-cut.fm)** — Indie/alternative curated radio
+- **[CoreRadio](https://coreradio.online)** — Underground/experimental
+- **[TildeRadio](https://tilderadio.tildeverse.org)** — Community-powered radio
+- **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)** — Wild experiment that broadcasts sound via computer hardware
+- **[Demoscene & VGM links](https://mw.rat.bz/davgmsrl)** — Huge list of video game + demoscene streams
+- **[WebSDR](http://www.websdr.org)** — Live software-defined radio receivers worldwide
+- **[GWES EAS Relay Network](https://gwes-eas.network/listen)** — Emergency alert relay network
 
 </details>
-
----
-
-## 🔗 Link Structure & Finding the Direct Stream <a id="link-structure"></a>
-
-**Why do some links go to a website instead of playing music?** To keep this list distinct and reliable, many links point to the station's **official homepage**. Direct streaming links (URLs ending in `.mp3` or `.m3u`) change frequently and break often. The homepage will always have the most up-to-date "Listen Live" button.
-
-**How do I play these in a dedicated player (VLC, Foobar, Music App)?** If you prefer listening outside your browser, you will need the **Direct Stream URL**. Here is how to find it:
-1.  **Check the site:** Look for links labeled "Winamp," "PLS," "M3U," or "Direct Stream."
-2.  **Use a Directory:** Search for the station on [Radio-Browser.info](https://www.radio-browser.info). They usually host the raw stream links.
-3.  **Advanced Method:** Open the web player, right-click and select **Inspect** (or press `F12`) to open the Developer Tools. Go to the **Network** tab, filter by "Media" or "XHR," and then start the player. The stream URL will appear in the list. Look for requests ending in: **`.mp3`**, **`.aac`**, **`.m4a`**, **`.ogg`**, **`.m3u`**, or **`.pls`**, or starting with **`icecast`** or **`shoutcast`**.
 
 ---
 
