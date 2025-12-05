@@ -546,7 +546,7 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[KUTX 98.9 FM – Austin](http://kutx.org)**: Austin-based station with indie rock and Americana.
 - **[KZSC 88.1 FM – Santa Cruz](http://kzsc.org)**: Community radio with diverse music from Santa Cruz.
 - **[KZSU Stanford 90.1 FM – Stanford, CA](http://kzsu.stanford.edu)**: Stanford’s student-run station with music and talk.
-- **[Loose FM - London](http://loosefm.out.airtime.pro/loosefm_a)**: Radio community platform, eclectic, experimental, ecstatic sound & culture. **currently down**
+- **[Loose FM - London](https://loosefm.radiocult.fm/stream)**: Radio community platform, eclectic, experimental, ecstatic sound & culture.
 - **[Nebulah Radio - Brest, France](http://nebulahr.out.airtime.pro/nebulahr_a)**: Webradio curated by Mascarade Records. Eclectic sounds and worldwide vibes.
 - **[Ness radio](https://radio.nessradio.net:8212/nessradio)**: Alternative musical program (focus on discovery and community).
 - **[NEU Radio - Bologna, Italy](https://nr9.newradio.it:19205/stream)**: Cultural and musical hub (afrobeats to indie rock, live streaming, podcasts).
@@ -556,9 +556,9 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[Palanga Street Radio - Vilnius, Lithuania](https://stream.palanga.live:8443/palanga128.mp3)**: DIY community radio, networking-arts platform, fosters cultural environment.
 - **[Pinata Radio - Montpellier, France](	https://listen.radioking.com/radio/96031/stream/525368)**: Independent and non-commercial web-radio, showcasing local scenes.
 - **[Radio Meuh - French Alps](http://radiomeuh.ice.infomaniak.ch/radiomeuh-high.mp3)**: Independent Internet radio station playing fresh songs from all four corners of the globe.
-- **[Radio Pinpon](https://listen.radioking.com/radio/142627/stream/1...)**: General freeform/eclectic programming. **need to fix this link**
+- **[Radio Pinpon](https://listen.radioking.com/radio/142627/stream/182797)**: General freeform/eclectic programming. 
 - **[Radio Sam Sam - South Paris](https://listen.radioking.com/radio/742276/stream/808768)**: World grooves, jazz beats & psyche folk shared with love.
-- **[Radio Sofa - Paris region](https://listen.radioking.com/radio/292531/stream/3.)**: Collective focused on radio broadcasting, events, and visual arts. **need to fix link**
+- **[Radio Sofa - Paris region](https://listen.radioking.com/radio/292531/stream/338878)**: Collective focused on radio broadcasting, events, and visual arts.
 - **[The Current – Minnesota Public Radio](http://thecurrent.org)**: Indie rock, pop, and folk with a focus on new artists.
 - **[The Edge Radio – New Zealand](http://theedge.co.nz)**: Contemporary pop, rock, and alternative music.
 - **[WRIR 97.3 – Richmond, VA](http://wrir.org)**: Community radio with diverse music and talk.
@@ -633,27 +633,18 @@ I welcome contributions! If you know of any great radio stations that should be 
 
 I’ll review it and update the list accordingly. 😊
 
-
 ## Your Suggestions <a id="your-suggestions"></a>
-Here are some great radio stations suggested by the community:
+Here are some unique finds suggested by the community that don't fit into the main categories yet:
 
 <details>
   <summary>Click to expand community suggestions</summary>
 
-- **[CRTV Internet Radio](https://erncrtv.com/)**: Western primary for the Global Weather and EAS Society EAS Relay Network. Relays EAS alerts except non-Missoula test alerts. [suggested by @macccorehenni]
-- **[NTS Radio 1](https://www.nts.live/1)**: Global radio platform broadcasting music from over 50 cities, live 24/7. [suggested by @Potential-Ant-6320]
-- **[NTS Radio 2](https://www.nts.live/2)**: Global radio platform broadcasting music from over 50 cities, live 24/7. [suggested by @Potential-Ant-6320]
+- **[CRTV Internet Radio](https://erncrtv.com/)**: Western primary for the Global Weather and EAS Society EAS Relay Network. [suggested by @macccorehenni]
 - **[GWES EAS Relay Network](https://gwes-eas.network/listen/)**: Sister stations in the ERN network, including CRTV. [suggested by @Potential-Ant-6320]
 - **[KPISS](https://kpiss.fm/)**: Eclectic DJ-supported internet radio with specialty shows. Formerly based in Brooklyn, now online-only. [suggested by @dotheemptyhouse]
-- **[Radio Nova](http://novazz.ice.infomaniak.ch/novazz-128.mp3)**: Eclectic blend of sounds for thinking, dancing, and turning up the volume. [suggested by @Ukplugs4eva]
-- **[FIP](http://icecast.radiofrance.fr/fip-hifi.aac)**: Features chanson, classical, jazz, pop rock, world music, and blues with smooth transitions. [suggested by @Ukplugs4eva]
-- **[Radio Meuh](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)**: Independent station from the French Alps playing fresh global music. [suggested by @psychic_gibbon]
-- **[La Patate Douce](http://listen.radioking.com/radio/285742/stream/331753)**: Independent webradio with Disco-Funk, Afro-Soul, and House nuggets. [suggested by @psychic_gibbon]
 - **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: Japan-based station featuring jazz, bossa nova, and talk shows. [suggested by @naniwadanahi]
 - **[West Limerick 102FM](https://westlimerick102fm.ie/)**: Community-run Irish station broadcasting all kinds of music and local news. [suggested by @OBrien-Michael]
 - **[Joint Radio](https://www.jointil.com/radio/)**: Stations playing Reggae, Blues, Rock, and Trance music. [suggested by @JointRadio]
-- **[Smooth Sailing Radio](https://smoothsailingradio.com/listen)**: Leans a bit into mainstream 80s RnB but is definitely solidly yacht rock. [suggested by @WavingOrDrowning]
-- **[Nonstopcasiopea](https://nonstopcasiopea.com/)**: Nonstop Casiopea and some T-Square, with smooth jazzy-funk vibes reminiscent of Persona and Mario Kart. Minimal ads, mostly in Japanese, often indistinguishable from news. [suggested by @yubroyi]
 
 
 </details>
@@ -661,4 +652,6 @@ Here are some great radio stations suggested by the community:
 
 ## Acknowledgements <a id="acknowledgements"></a>
 
-Special thanks to the users who submitted many of these radio suggestions on the internet. Also, thanks to [FMHY](https://fmhy.pages.dev/) for listing alternative radio apps, aggregators and platforms. 
+- **Contributors:** Thanks to `@Ukplugs4eva`, `@psychic_gibbon`, `@yubroyi`, and `@WavingOrDrowning` for suggesting excellent stations now featured in the main list.
+- **Community:** Special thanks to all users who have submitted radio suggestions across the internet.
+- **Resources:** Thanks to **[FMHY](https://fmhy.pages.dev/)** for listing alternative radio apps, aggregators, and platforms.
