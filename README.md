@@ -291,6 +291,7 @@ For running your *own* station or streaming setup.
 - **[Alpha Boys School Radio](http://alphaboysschoolradio.com)**: Music by Alpha School alumni (Kingston, Jamaica).
 - **[Dr Dick's Dub Shack](http://drdicksdubshack.com)**: Bermuda-based dub and bass music.
 - **[King Dub Radio](http://london-dedicated.myautodj.com:8862/stream)**: Roots, culture, and digital dub.
+- **[badam radio](https://play.radioking.io/badam-radioseb)**: Reggae dub dancehall roots.
 
 ---
 
@@ -405,20 +406,51 @@ These stations have **NOT** been individually vetted but have been link-checked 
 
 ### Ambient & Lo-Fi 🧘
 - **[24/7 LoFi Radio](https://www.247lofiradio.com/)**: LoFi music for background listening.
-- **[Ambient Sleeping Pill](https://ambientsleepingpill.com/)**: Ad-free, beat-free ambient music for sleep, meditation, or study.
-- **[1FM Chillout Lounge](https://www.1.fm/stations)**: Chillout, ambient, and relaxing music.
-- **[1.FM - Costa Del Mar](https://www.1.fm/stations)**: Ambient and lounge music inspired by the sea.
+- **[AM Ambient](https://radio.stereoscenic.com/ama-s)**: Bright and positive ambient music, the day-time counterpart to Ambient Sleeping Pill.
+- **[Ambient FM](https://phoebe.streamerr.co:4140/ambient.mp3)**: Solar-powered, human-crafted soundscapes echoing the high desert.
+- **[Ambinature Radio](https://nature-rex.radioca.st/stream)**: Natural relaxation sounds for sleep, relaxation, and meditation (no music).
+- **[Chillsky Chillhop Radio](https://chill.radioca.st/stream)**: Lofi Hip Hop & Chilled beats 24/7, advert free.
+- **[Dinamo.FM Sleep](https://channels.dinamo.fm/sleep-mp3)**: Lullaby for adults, ambient electronica.
+- **[intra Nature Radio](https://example.com/intranature)**: Meditation and Nature Sounds. *currently down*
+- **[Loca FM Ambient](https://s2.we4stream.com/listen/loca_ambient/live)**: Spanish electronic music station focusing on ambient.
+- **[Lofi Girl](https://boxradio-edge-10.streamafrica.net/lofi)**: Soothing lofi music and gentle, relaxing rhythms for concentration.
+- **[Mynoise - Zen Garden](https://zengarden-mynoise.radioca.st/stream)**: A blend of calm nature sounds and relaxing tone.
 - **[Antenne Bayern – CoffeeHouse](https://www.antenne.de/webradio/coffeemusic)**: Soft, relaxing music for a coffeehouse vibe.
+
+### 💽 Downtempo & Experimental
+- **[Love Will Save The Day FM](https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a)**: (Eclectic, often electronic/downtempo related to the name).
+- **[Paddygrooves - Island of the Gods](https://a12.siar.us/radio/8230/radio.mp3)**: A smokin' thang radio broadcasting from the island of the Gods (Often downtempo/world groove).
+
+### ⚡ Funk, Soul & Rare Groove
+- **[FUNKY RADIO - Only Funk Music](https://funkyradio.streamingmedia.it/play.mp3)**: Classic funk 60s 70s 80s without commercials (Rare and unreleased cuts from vinyl).
+- **[International Rare Groove](https://www.irgradio.net/)**: Funk, Soul, Reggae, Afro Beat, World, French Spicies, Electro (Global groove).
+- **[Mojo club](https://mojo.stream.laut.fm/mojo)**: Deep funk & latin beats or fresh dancefloor jazz, remixes and forgotten favorites.
+
+### 🎶 Jazz Fusion & Progressive Rock
+- **[Delicious Agony - Prog Rock](http://deliciousagony.streamguys1.com/)**: Progressive Rock Station on the Internet.
+- **[iFusion Radio](https://listen.radioking.com/radio/523747/stream/582004)**: Jazz fusion, jazz, progressive rock.
+- **[Krautrock World](http://krautrockworld.com:8000/live)**: For all fans of krautrock, psychedelic and progressive rock. *channel down*
+- **[Morow - Prog Rock](https://stream.fr.morow.com/morow_med.aacp)**: Prog Rock Radio, streaming from Paris, France.
+- **[Prog Palace Radio](https://cheetah.streemlion.com:4775/stream)**: Progressive Rock, Progressive Metal, and Power Metal Station.
+- **[Psychedelicized](https://cast1.asurahosting.com/proxy/psychedelicized/stream)**: Supplies music for your head (Psychedelic Internet Radio).
+
 
 ### Jazz & Blues 🎷
 - **[1.FM - Sax4Love](https://www.1.fm/stations)**: Smooth jazz exclusively featuring saxophone music.
+- **[Aardvark Blues FM](https://ais-sa5.cdnstream1.com/b77280_128mp3)**: The very best in Blues and Modern Blues (ad-free).
+- **[Ábaco Libros y Café Radio](https://radio30.virtualtronics.com/proxy/abaco)**: World's leading classic jazz radio.
 - **[Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/)**: Jazz and experimental music inspired by the Beat Generation.
+- **[Blue Bossa Nova Radio](https://usa10.fastcast4u.com/bluebossanova)**: Sweetest Jazz 'n Bossa from Rio de Janeiro, Brazil.
+- **[FIP Jazz](http://www.fip.fr/jazz)**: Jazz in all its forms, free, unlimited, and ad-free streaming.
 - **[Fine Music Radio 101.3 FM – Cape Town](https://www.fmr.co.za/)**: Classical music and jazz from South Africa.
 - **[Jazz 88 – San Diego](https://jazz88.org)**: Jazz station broadcasting from San Diego.
 - **[Jazz & Blues Radio – United States](https://www.radio.se/s/jazzradio-blues)**: A mix of jazz and blues music.
 - **[Jazz24](https://www.jazz24.org/)**: Smooth and contemporary jazz.
+- **[Jazz Éire](http://jazzeire.com/)**: The best of jazz music in Ireland and worldwide. *channel down*
 - **[JazzFM – UK](http://jazzfm.com)**: British station focused on jazz, blues, and soul.
+- **[JAZZ Afro](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)**: The best of yesterday and today's Afro Jazz scene.
 - **[Mondo Radio – Pop and Jazz](http://mondoradio.com)**: A mix of pop and jazz music.
+- **[Radio Caprice - Piano Blues](http://www.radcap.ru/)**: Piano Blues/Boogie-Woogie stream.
 - **[Radio Dismuke – 1920’s 1930’s Jazz and Pop](http://dismuke.org)**: Jazz and pop classics from the 1920s-1930s.
 - **[Radio Swiss Jazz](https://www.radioswissjazz.ch/en)**: Swiss station focused on jazz.
 - **[Smooth Jazz Chicago](http://smoothjazzchicago.com)**: Smooth jazz with classic and contemporary tracks.
@@ -429,16 +461,20 @@ These stations have **NOT** been individually vetted but have been link-checked 
 ### Electronic & Dance 🎧
 - **[Blue Marlin Ibiza – Dance/Elect](https://www.bluemarlinibiza.com/radio/)**: Electronic dance music and live DJ mixes from Ibiza.
 - **[ChillTraxx – World’s Chillout Channel](https://www.chilltrax.com/)**: Relaxing chillout and downtempo music.
+- **[Dinamo.FM Caffe](http://channels.dinamo.fm/caffe-mp3)**: A perfect blend of downtempo, lounge, chill out and nu-jazz with a dinamo twist.
 - **[Dublin Digital Radio – Ireland](https://listen.dublindigitalradio.com/home)**: Indie, electronic, and experimental music from Dublin.
 - **[Eurodance Radio](https://www.eurodance-radio.com/)**: Eurodance music blending house, techno, and pop.
+- **[Expansions (NTS)](https://stream-mixtape-geo.ntslive.net/mixtape3)**: Infinite Mixtapes.
+- **[FluxFM - Berlin Beach House Radio](http://fluxfm.de/berlin-beach-house)**: Chill beach house and ambient electronic music.
 - **[FluxFM - ChillHop](http://fluxfm.de/chillhop)**: Relaxed hip-hop influenced electronic beats.
 - **[FluxFM - Hippie Trippy Garden](https://www.fluxfm.de/posts/401dece5-d1f7-4d5b-9a50-5a1481758118)**: Psychedelic and experimental electronic music.
 - **[FluxFM - Sound Of Berlin](http://fluxfm.de/sound-of-berlin)**: Showcases Berlin’s electronic music scene.
-- **[FluxFM - Berlin Beach House Radio](http://fluxfm.de/berlin-beach-house)**: Chill beach house and ambient electronic music.
 - **[Frisky Radio – Chill](http://friskyradio.com)**: Chill electronic music.
 - **[Frisky Radio – Deep](https://www.friskyradio.com/)**: Deep house and ambient electronic music.
 - **[Frisky Radio – Underground Electronic](http://friskyradio.com)**: Underground electronic genres like techno and deep house.
 - **[KissFM 2.0 Trance](http://kissfm.com)**: Trance and electronic dance music.
+- **[Radio DY10](https://flux.radiody10.com/airtime_128)**: Dance music, tropical sounds, balearic & trippy electronic from Nantes.
+- **[Refuge Worldwide](https://streaming.radio.co/s3699c5e49/listen)**: Berlin's hub for global music (ambient to techno).
 - **[Rinse FM](http://rinse.fm)**: Underground dance and urban music from London.
 
 ### Classical & Opera 🎻
@@ -449,35 +485,58 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[WGBH 99.5 FM – Classical Music](http://wgbh.org)**: Classical music and opera, including local and international performances.
 - **[WQXR Q2 – New York Public Radio](http://wqxr.org)**: 24/7 classical music.
 
-### Rock & Pop (Classic & Modern) 🎸
-- **[113.fm Hits 1997 – Ads](https://www.113.fm/)**: Popular music hits from 1997 with occasional ads.
-- **[Mad Music Radio](https://wgdr.rocks/)**: Classic rock, golden oldies, soulful blues, smooth jazz, and Grateful Dead deep cuts.
-- **[Antenne Bayern](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and more.
-- **[Radio Caroline 259 Gold](http://radiocaroline.co.uk)**: Classic hits inspired by pirate radio.
-- **[Radio Nova – Ireland](https://www.nova.ie/)**: Rock, alternative, and talk programming.
-- **[Radio Subasio – Italy](http://radiosubasio.com)**: Contemporary and classic Italian pop and rock.
-- **[Retro Soul Radio UK](https://www.retrosoulradio.co.uk)**: Classic and contemporary soul music.
-- **[Sky Radio 101Fm – Dutch/Netherlands – US Pop](https://www.skyradio.nl/)**: US pop and contemporary hits from the Netherlands.
-- **[Time Capsule Audio Network](http://timecapsuleaudio.com)**: Nostalgic classic music and soundtracks.
-- **[WLIR 92.7 – New York](http://wliwfm.org)**: Alternative rock, pop, and indie.
+### 🎸 Rock & Pop (Classic & Modern)
+* **[1000 Hits Best of Rock](http://1000hits.rocks/rock-and-roll-live.mp3)**: Classic rock, hard rock, and heavy metal 24/7.
+* **[113.fm Hits 1997 – Ads](https://www.113.fm/)**: Popular music hits from 1997 with occasional ads.
+* **[Antenne Bayern - Germany](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and more.
+* **[Boogaloo Radio - London](http://boogaloo.out.airtime.pro/boogaloo_a)**: World's 1st 24hr pub radio station, broadcasting live from The Boogaloo pub garden.
+* **[Dandeloin Radio](http://stream.dandeloinradio.com:8000/live)**: Internet radio inspired by legendary BBC DJ John Peel. Independent and original.
+* **[Flower Power Radio](http://live.flowerradio.com:8000/live)**: Hits from the 1950’s, 60’s and 70’s, including Rock ‘n’ Roll legends.
+* **[Groovy Reflections](http://radio-stream.groovyreflections.com/radio.mp3)**: Pop, Rock, Folk, Country, and Soul from the 60's and 70's (poppy, psychedelic, soulful).
+* **[Kerrang!](http://tx-live.antix-staging.com/live-01.mp3)**: Specialist digital rock music radio station (classic rock, hard rock, heavy metal).
+* **[Mad Music Radio](https://wgdr.rocks/)**: Classic rock, golden oldies, soulful blues, smooth jazz, and Grateful Dead deep cuts.
+* **[Majestic Jukebox](http://majesticjukebox.out.airtime.pro/majesticjukebox_a)**: 40's-80's Hits, EASY LISTENING, OLDIES, JAZZ, SWING, ROCK'n'ROLL, BLUES, COUNTRY.
+* **[Radio Caroline 259 Gold](http://radiocaroline.co.uk)**: Classic hits inspired by pirate radio.
+* **[Radio Nova – Ireland](https://www.nova.ie/)**: Rock, alternative, and talk programming.
+* **[Radio Subasio – Italy](http://radiosubasio.com)**: Contemporary and classic Italian pop and rock.
+* **[Retro Soul Radio UK](https://www.retrosoulradio.co.uk)**: Classic and contemporary soul music.
+* **[Sky Radio 101Fm – Dutch/Netherlands – US Pop](https://www.skyradio.nl/)**: US pop and contemporary hits from the Netherlands.
+* **[Time Capsule Audio Network](http://timecapsuleaudio.com)**: Nostalgic classic music and soundtracks.
+* **[WLIR 92.7 – New York](http://wliwfm.org)**: Alternative rock, pop, and indie.
+* **[Xray FM - Pacific Northwest](https://xray.fm/listen)**: Independent, not-for-profit station, diverse music with a focus on new, local, independent, and experimental recordings.
 
 ### Folk & Country 🤠
 - **[Country Radio – USA](https://country-radio.com/)**: Country music, including classic and contemporary hits.
+- **[CeolFM - Irish Traditional](http://ceolfm.cdnstream1.com/2648_128)**: The highest quality traditional Irish music (Jigs, reels, hornpipes, etc.).
 - **[Folk Alley – Ohio](https://folkalley.com/)**: Folk music from Ohio, including contemporary and traditional songs.
 - **[Irish Pub Radio](http://irishpubradio.com)**: Traditional Irish music for an authentic pub vibe.
 - **[MacSlon’s Irish Pub Radio](http://www.macslons-irish-pub-radio.com/)**: Irish folk and traditional music for a pub vibe.
 
-### College & Freeform (US/Global) 🏛️
-- **[Berlin Community Radio](https://tunein.com/radio/Berlin-Community-Radio-s209811/)**: Diverse programming from Berlin.
+### 🏛️ College & Freeform (US/Global)
+- **[20ft Radio - Kyiv, Ukraine](https://20ft-radio.radiocult.fm/stream)**: Broadcasts music from the former ribbon-weaving factory “Strichka”.
+- **[Aaja Music - London](https://aaja.radiocult.fm/stream)**: Full spectrum music bar, record label, and live streaming space.
+- **[Berlin Community Radio - Germany](https://tunein.com/radio/Berlin-Community-Radio-s209811/)**: Diverse programming from Berlin.
 - **[CKUT 90.3 Montreal College Community Radio](http://ckut.ca)**: Diverse programming from McGill University in Montreal.
+- **[Internet Public Radio - Guadalajara, MX](http://stream.internetpublicradio.org:8000/live)**: Independent platform curated by local and international DJs, musicians and artists.
 - **[KCRW 89.9 FM – Los Angeles](https://www.kcrw.com/)**: Public radio with music, talk, and culture programming.
 - **[KDHX 88.1 FM – St. Louis](http://kdhx.org)**: Community radio with diverse music and local programming.
-- **[KEXP – Seattle, University of Washington](http://kexp.org)**: Indie and alternative music from Seattle.
-- **[KEXP 90.3 FM – Seattle](http://kexp.org)**: Indie, alternative, and world music.
 - **[KUSF 90.3 FM – San Francisco](https://www.kusf.org)**: Student-run station with diverse programming.
 - **[KUTX 98.9 FM – Austin](http://kutx.org)**: Austin-based station with indie rock and Americana.
 - **[KZSC 88.1 FM – Santa Cruz](http://kzsc.org)**: Community radio with diverse music from Santa Cruz.
 - **[KZSU Stanford 90.1 FM – Stanford, CA](http://kzsu.stanford.edu)**: Stanford’s student-run station with music and talk.
+- **[Loose FM - London](http://loosefm.out.airtime.pro/loosefm_a)**: Radio community platform, eclectic, experimental, ecstatic sound & culture. **currently down**
+- **[Nebulah Radio - Brest, France](http://nebulahr.out.airtime.pro/nebulahr_a)**: Webradio curated by Mascarade Records. Eclectic sounds and worldwide vibes.
+- **[Ness radio](https://radio.nessradio.net:8212/nessradio)**: Alternative musical program (focus on discovery and community).
+- **[NEU Radio - Bologna, Italy](https://nr9.newradio.it:19205/stream)**: Cultural and musical hub (afrobeats to indie rock, live streaming, podcasts).
+- **[Noods Radio - Bristol, UK](https://noods-radio.radiocult.fm/stream)**: Independent Bristol-based radio, home to misfits, dancers, collectors, and selectors.
+- **[NTS (stream 2)](https://stream-mixtape-geo.ntslive.net/mixtape4)**: Global radio platform broadcasting underground music live, 24/7 (Stream 2).
+- **[Oroko Radio - Accra, Ghana](https://oroko-radio.radiocult.fm/stream)**: Online Radio Station broadcasting (connect, inspire, and empower through conversation).
+- **[Palanga Street Radio - Vilnius, Lithuania](https://stream.palanga.live:8443/palanga128.mp3)**: DIY community radio, networking-arts platform, fosters cultural environment.
+- **[Pinata Radio - Montpellier, France](	https://listen.radioking.com/radio/96031/stream/525368)**: Independent and non-commercial web-radio, showcasing local scenes.
+- **[Radio Meuh - French Alps](http://radiomeuh.ice.infomaniak.ch/radiomeuh-high.mp3)**: Independent Internet radio station playing fresh songs from all four corners of the globe.
+- **[Radio Pinpon](https://listen.radioking.com/radio/142627/stream/1...)**: General freeform/eclectic programming. **need to fix this link**
+- **[Radio Sam Sam - South Paris](https://listen.radioking.com/radio/742276/stream/808768)**: World grooves, jazz beats & psyche folk shared with love.
+- **[Radio Sofa - Paris region](https://listen.radioking.com/radio/292531/stream/3.)**: Collective focused on radio broadcasting, events, and visual arts. **need to fix link**
 - **[The Current – Minnesota Public Radio](http://thecurrent.org)**: Indie rock, pop, and folk with a focus on new artists.
 - **[The Edge Radio – New Zealand](http://theedge.co.nz)**: Contemporary pop, rock, and alternative music.
 - **[WRIR 97.3 – Richmond, VA](http://wrir.org)**: Community radio with diverse music and talk.
@@ -497,6 +556,7 @@ These stations have **NOT** been individually vetted but have been link-checked 
 - **[RTE Radio 1 – Ireland](http://rte.ie)**: Ireland’s national public radio with news, talk, and music.
 - **[Taui FM – Tahiti](https://theonestopradio.com/radio/taui-fm)**: Local and international music from Tahiti.
 - **[WDR 1Live Plan B](http://wdr.de)**: German station with music, talk, and entertainment.
+
 
 ### News, Talk & Public Radio 🎙️
 - **[KNBR 104.5 – KFOG S.F. Talk/Music](http://knbr.com)**: San Francisco station blending talk and music.
