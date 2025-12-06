@@ -39,40 +39,24 @@ A **personally maintained and hand-vetted directory** of the best internet radio
 
 ## 🎧 Apps & Players <a id="apps-players"></a>
 
-
 Pick an app based on your device. These are the most reliable and radio-nerd–approved players.
 
-### **Android**
-- ⭐ **[RadioDroid](https://github.com/segler-alex/RadioDroid)**: Best open-source Radio-Browser client.
-- **[Transistor](https://codeberg.org/y20k/transistor)**: Minimalist player for direct streams.
-- **[Open Radio](https://play.google.com/store/apps/details?id=com.yuriy.openradio)**: Simple and intuitive interface.
+### **📱 Mobile (Android & iOS)**
+- **Android:** ⭐ **[RadioDroid](https://github.com/segler-alex/RadioDroid)** (Best open-source), **[Transistor](https://codeberg.org/y20k/transistor)** (Minimalist), **[Open Radio](https://play.google.com/store/apps/details?id=com.yuriy.openradio)** (Simple).
+- **iOS:** ⭐ **[Frog Radio](https://apps.apple.com/us/app/frogradio/id1442306286)** (50k+ Database), **[CuterDio](https://cuterdio.com/en)** (Lightweight), **[Triode](https://triode.app/)** (Premium), **[Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB)** (Free).
 
-### **iOS**
-- ⭐ **[Frog Radio](https://apps.apple.com/us/app/frogradio/id1442306286)**: Radio player with access to a database of 50,000+ stations.
-- **[CuterDio](https://cuterdio.com/en)**: Lightweight, uses Radio-Browser for discovery.
-- **[Triode](https://triode.app/)**: Beautiful minimalist premium player.
-- **[Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566?l=en-GB)**: Free, simple, works with Radio-Browser.
+### **💻 Desktop (Win, Mac, Linux)**
+- **Cross-Platform:** **[QMPlay2](https://github.com/zaps166/QMPlay2)** (Win/Mac/Lin), **[LMS](https://github.com/LMS-Community)** (Server).
+- **Windows:** ⭐ **[Foobar2000](https://www.foobar2000.org/)** (Highly customizable).
+- **macOS:** ⭐ **[Frog Radio](https://frogradio.net/)**, **[CuterDio](https://cuterdio.com/en)**.
+- **Linux:** ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)** (Gnome/GTK), **[Tuner](https://github.com/louis77/tuner)** (Minimalist).
 
-### **Linux**
-- ⭐ **[Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave)**: Radio player with access to a database of 50,000+ stations.
-- **[Tuner](https://github.com/louis77/tuner)**: Minimalist radio station player - V2.
-
-### **macOS**
-- ⭐ **[Frog Radio](https://frogradio.net/)**: Radio player with access to a database of 45,000+ stations.
-- **[CuterDio](https://cuterdio.com/en)**: Lightweight, uses Radio-Browser for discovery.
-- **[QMPlay2](https://github.com/zaps166/QMPlay2)**: Fast, Qt-based media player with built-in radio support.
-
-### **Web & Utilities**
-- ⭐ **[Radiolise](https://radiolise.com)**: Web app that lets you enjoy your favorite TV and radio stations.
-- **[ScrobbleRadio](https://scrobblerad.io)**: Track your internet radio listening, scrobble to Last.fm, Libre.fm, or ListenBrainz.
-
-### **Windows**
-- ⭐ **[Foobar2000](https://www.foobar2000.org/)**: Extremely customizable, lightweight player.
-- **[LMS](https://github.com/LMS-Community)**: Open-source music and radio server; supports multiple platforms.
-- **[QMPlay2](https://github.com/zaps166/QMPlay2)**: Fast, Qt-based media player with built-in radio support.
-
+### **🌐 Web & Utilities**
+- **[Radiolise](https://radiolise.com)**: Web app for TV and radio stations.
+- **[ScrobbleRadio](https://scrobblerad.io)**: Track listening to Last.fm, Libre.fm, or ListenBrainz.
 
 ---
+
 
 ## 📻 The Station Directory <a id="station-directory"></a>
 
