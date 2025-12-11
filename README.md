@@ -77,6 +77,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 *Hand-vetted favorites. Start your journey here.*
 
 - **[Dr Dick's Dub Shack](http://drdicksdubshack.com)**: Bermuda-based dub and bass music.
+- **[Classic Vinyl HD](https://icecast.walmradio.com:8443/classic)**: Classic tracks sourced from vinyl. 
 - **[FIP](https://stream.radiofrance.fr/fip/fip.m3u8)**: Eclectic music with 8 thematic webradios (free, ad-free).
 - **[Head Wax Radio](https://headwaxradio.radioca.st/stream)**: Future jazz and mindful music from Dublin, Ireland.
 - **[Hunter FM LoFi](https://live.hunter.fm/lofi_high)**: Perfect beats for studying, working, or relaxing.
@@ -135,6 +136,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Birch Street Radio](https://jenny.torontocast.com:8172/stream)**: Adult alternative, classic rock, folk, Americana.
 - **[CKUT 90.3 Montreal](http://ckut.ca)**: Diverse programming from McGill University in Montreal.
 - **[The Current – Minnesota Public Radio](http://thecurrent.org)**: Indie rock, pop, and folk with a focus on new artists.
+- **[Dandelion Radio](http://stream.dandelionradio.com:8000/live)**: Independent internet radio inspired by BBC's John Peel.
 - **[Do!! You!!! Radio](https://doyouworld.out.airtime.pro/doyouworld_a)**: London community station (family-friendly).
 - **[The Dump](https://www.thedumpradio.com/)**: Eclectic mix of obscure genres.
 - **[ilovemusic](https://ilovemusic.de)**: German eclectic radio platform.
@@ -173,6 +175,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WRIR 97.3 – Richmond, VA](http://wrir.org)**: Community radio with diverse music and talk.
 - **[WTJU 91.1 – University of Virginia](http://wtju.net)**: College radio with indie, jazz, and more.
 - **[WXYC 89.3FM – Chapel Hill](https://wxyc.org/)**: Freeform radio with diverse music from UNC Chapel Hill.
+- **[Xray FM - Pacific Northwest](https://xray.fm/listen)**: Indie non-profit playing new and experimental music.
 
 ### ⚡ Electronic, Dance & Downtempo
 - **[Acid House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER1)**: Acid house tracks.
@@ -189,7 +192,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Expansions (NTS)](https://stream-mixtape-geo.ntslive.net/mixtape3)**: Infinite Mixtapes.
 - **[Fluid Radio](http://uk4-vn.webcast-server.net:9270/)**: Ambient, modern classical, and acoustic.
 - **[FluxFM - Techno Underground](http://streams.fluxfm.de/technoug/mp3-128/audio/play.m3u)**: Berlin's soundscape focusing on techno, house, and underground electronic beats.
-- **[FluxFM - FluxLounge](http://streams.fluxfm.de/lounge/mp3-320/audio/play.m3u)**: Mellow soft pop and gentle singer-songwriter tunes, perfect for background listening.
 - **[FluxFM - ChillHop](http://streams.fluxfm.de/chillhop/mp3-320/audio/play.m3u)**: Relaxed hip-hop influenced electronic beats and laid-back rhythms.
 - **[FluxFM - Hippie Trippy Garden](http://streams.fluxfm.de/event02/mp3-320/radiode/play.m3)**: Psychedelic, krautrock, and experimental music for a trippy, alternative vibe.
 - **[FluxFM - Berlin Beach House Radio](http://streams.fluxfm.de/bbeachhouse/mp3-320/audio/play.m3u)**: Chill house and ambient electronic music with a relaxed, Balearic beach atmosphere.
@@ -197,7 +199,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Frisky Radio - Deep](http://deep.friskyradio.com/friskydeep_aachi)**: Deep house and ambient electronic music.
 - **[Frisky Radio - Frisky](https://stream.frisky.friskyradio.com/mp3_low)**: Underground electronic music: techno and deep house.
 - **[Italoradio.fm](https://italoradio.fm/)**: Italo-disco music.
-- **[Ignore Radio Shoegaze](https://ignore.radio/)**: 24-hour curated shoegaze, dreampop, and electronic soundtracks.
 - **[KissFM 2.0 Trance](http://kissfm.com)**: Trance and electronic dance music.
 - **[Le Mellotron](http://lemellotron.com)**: World music, jazz, and electronic.
 - **[Love Will Save The Day FM](https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a)**: Eclectic, often electronic/downtempo related to the name.
@@ -233,13 +234,14 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Retro Soul Radio UK](https://www.retrosoulradio.co.uk)**: Classic and contemporary soul.
 
 ### 🎷 Jazz & Blues
-- **[101 SMOOTH JAZZ](http://101smoothjazz.com/)**: Mix of instrumental smooth jazz.
+- **[101 SMOOTH JAZZ](http://www.101smoothjazz.com/101-smoothjazz.m3u)**: Mix of instrumental smooth jazz.
 - **[1.FM - Smooth Jazz](https://strm112.1.fm/smoothjazz_mobile_mp3?aw_0_req.gdpr=true)**: Contemporary jazz and soothing melodies.
 - **[Ábaco Libros y Café Radio](https://radio30.virtualtronics.com/proxy/abaco)**: World's leading classic jazz radio.
 - **[Aardvark Blues FM](https://ais-sa5.cdnstream1.com/b77280_128mp3)**: The very best in Blues and Modern Blues (ad-free).
 - **[Adroit Jazz Underground](https://mytuner-radio.com/sv/radio/adroit-jazz-underground-492026/)**: Underground jazz focus.
 - **[Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/)**: Jazz and experimental music inspired by the Beat Generation.
 - **[Blue Bossa Nova Radio](https://usa10.fastcast4u.com/bluebossanova)**: Sweetest Jazz 'n Bossa from Rio de Janeiro, Brazil.
+- **[Blues Revue](http://live.str3am.com:2240/live)**: Dedicated blues program hosted by Harvey Stauffer.
 - **[Concertzender - World of Jazz](http://streams.greenhost.nl:8080/jazz)**: Jazz, Fusion, and alternative non-jazz genres.
 - **[Fine Music Radio 101.3 FM – Cape Town](https://www.fmr.co.za/)**: Classical music and jazz from South Africa.
 - **[FIP Jazz](http://www.fip.fr/jazz)**: Jazz in all its forms, free, unlimited, and ad-free streaming.
@@ -274,11 +276,9 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 ### 🎸 Rock, Pop, Folk & Oldies
 - **[Ace Cafe Radio](	https://listen.radioking.com/radio/69079/stream/106852)**: Rock ‘n’ Roll, bikes, and cars from London's legendary Ace Cafe.
 - **[Antenne Bayern - Germany](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and more.
-- **[Blues Revue](http://live.str3am.com:2240/live)**: Dedicated blues program hosted by Harvey Stauffer.
 - **[Boogaloo Radio - London](https://streams.radio.co/sb88c742f0/listen)**: The world's first 24-hour pub radio. 
 - **[Classic Vinyl HD](https://walmradio.com/classic/)**: Classic rock and vinyl hits.
 - **[Country Radio – USA](https://country-radio.com/)**: Country music, including classic and contemporary hits.
-- **[Dandelion Radio](http://stream.dandelionradio.com:8000/live)**: Independent internet radio inspired by BBC's John Peel.
 - **[Delicious Agony - Prog Rock](http://deliciousagony.streamguys1.com/)**: Progressive Rock Station on the Internet.
 - **[Doctor Pundit - Yacht Rock Jams](https://www.doctorpundit.com/media/)**: Smooth Yacht Rock hits.
 - **[Flower Power Radio](https://nl1.streamingpulse.com/ssl/flowerpowerradio)**: Hits from the 1950s, '60s, and '70s, including Rock 'n' Roll legends.
@@ -303,11 +303,9 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Ultimate Oldies Radio](http://ultimateoldiesradio.com)**: 50s-70s music history.
 - **[Vintage Obscura Radio](http://vintageobscura.com)**: Forgotten gems across genres.
 - **[WLIR 92.7 – New York](http://wliwfm.org)**: Alternative rock, pop, and indie.
-- **[Xray FM - Pacific Northwest](https://xray.fm/listen)**: Indie non-profit playing new and experimental music.
 - **[WYRM (Yacht Rock Miami)](https://usa20.fastcast4u.com:4100/1753014835)**: Mellow Yacht Rock sound.
 
 ### 🌍 World & Regional
-- **[1A Radio](https://www.1a-webradio.de/)**: 🇩🇪 German network (pop, dance, oldies, charts, and themes.)
 - **[Afro FM](https://zeno.fm/radio/fm-afro/)**: 🌍 African music mix.
 - **[Afro House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER53)**: 🇦🇺 Afro house beats broadcasting from Australia.
 - **[Alefa Music - Afrobeat](https://alefamusic.net/)**: 🇲🇬 Malagasy salegy rhythms (founded 2006).
@@ -360,11 +358,9 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Nugs Radio](http://nugs.net)**: Live recordings of rock and jam bands.
 
 
-### 🎙️ News, Talk & Scanners
+### 🎙️ News & Talk
 - **[Her.st - Propaganda Broadcast](https://her.st/radio/)**: A nonstop stream of conspiracy, philosophy, and classic talk/lecture archives.
 - **[KNBR 104.5 – KFOG S.F. Talk/Music](http://knbr.com)**: San Francisco station blending talk and music.
-- **[LiveATC](https://www.liveatc.net/)**: Live air traffic - from their headsets to you.     
-- **[Pittsburgh Police, Fire, EMS](https://broadcastify.cdnstream1.com/21738)**: Live emergency services scanner.
 - **[Radio France Internationale – World News](http://rfi.org)**: Global news programming.
 - **[Radio Free Europe/Radio Liberty](https://www.rferl.org/)**: News for countries with limited media freedoms.
 - **[Radio Nacional de Espana (RNE)](https://www.rtve.es/radio)**: Spain's national radio with news, music, and culture.
@@ -408,7 +404,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Frisky Radio](https://www.friskyradio.com/)**: A global network dedicated to underground electronic music, offering separate streams for Deep House, Chill, and various techno/trance genres.
 - **[Isla Negra](https://radioislanegra.org/)**: A non-profit project from Chile with two distinct high-quality channels: *Slowbeat* and *Upbeat*.
 - **[Joint Radio](https://www.jointil.com/radio/)**: Offers three dedicated, curated channels: Joint Reggae, Joint Blues, and Joint Beat (Trance/Electronic).
-- **[Linn Radio](https://www.linn.co.uk/lifestyle/radio)**: High-fidelity (320kbps) streams from Linn Records, featuring dedicated Classical, Jazz, and Variety channels.
+- **[Linn Radio](https://www.linn.co.uk/linn-radio)**: High-fidelity (320kbps) streams from Linn Records, featuring dedicated Classical, Jazz, and Variety channels.
 - **[NTS Radio](https://www.nts.live/)**: Global radio platform with live channels and dozens of "Infinite Mixtape" genre streams.
 - **[0nRadio](https://0nradio.com/)**: Extensive themed stations spanning pop, chill, jazz, and ambient.
 - **[Pumpkin FM](http://pumpkinfm.com)**: Old Time Radio network with channels for 1940s, BritCom, Radio England, and more.
@@ -439,6 +435,8 @@ example: The Beatles → http://streaming.exclusive.radio/er/beatles/icecast.aud
 - **[Deepcut.live](https://deepcut.live/)**: A social platform where users DJ together in real-time rooms (a modern successor to Turntable.fm).
 - **[GWES EAS Relay](https://gwes-eas.network/listen)**: Emergency Alert System relay network.
 - **[JetSetRadio.live](https://jetsetradio.live/)**: Fan-made recreation of the Sega classic.
+- **[LiveATC](https://www.liveatc.net/)**: Live air traffic - from their headsets to you.
+- **[Pittsburgh Police, Fire, EMS](https://broadcastify.cdnstream1.com/21738)**: Live emergency services scanner.
 - **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)**: Wild project that transmits AM radio signals directly from your computer's hardware bus (no speakers needed).
 - **[TildeRadio](https://tilderadio.tildeverse.org)**: Community-powered radio from the Tildeverse.
 - **[WebSDR](https://www.websdr.org)**: Control actual software-defined radios located around the world. Listen to shortwave and amateur radio live.
