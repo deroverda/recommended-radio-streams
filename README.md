@@ -499,15 +499,21 @@ example: The Beatles → http://streaming.exclusive.radio/er/beatles/icecast.aud
 
 ## 🤝 Contributing <a id="contributing"></a>
 
-I welcome contributions! This list is kept alive by the community.
+I welcome contributions! Whether it's a new station, a reliable app, or a discovery tool, this list is kept alive by the community.
 
 **How to submit a station:**
+
 1.  **Check:** Ensure the stream works globally (not geo-blocked).
-2.  **Format:** If you can, please provide the link in this format:
+2.  **Link Type:** Please provide the **Official Website** link if possible. Direct stream URLs (like `.m3u` or `.mp3`) are accepted, but official sites are preferred as they are less likely to break.
+3.  **Format:** If you can, please provide the link in this format:
     ```markdown
     - **[Station Name](Link URL)**: Description (Genre/Country)
     ```
-3.  **Submit:** [Open an Issue](https://github.com/deroverda/recommended-radio-streams/issues) or create a Pull Request.
+
+**Got an App, Tool, or Database?**
+Feel free to submit those too! Just ensure the app is actively maintained and relevant to internet radio.
+
+**To Submit:** [Open an Issue](https://github.com/deroverda/recommended-radio-streams/issues) or create a Pull Request.
 
 > **💡 Curation Note:** This collection focuses on **human-curated, unique, and high-quality broadcasts**. To keep the list valuable, I generally avoid generic automated "Top 40" loops or low-bitrate streams.
 
