@@ -274,7 +274,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[King Dub Radio](http://london-dedicated.myautodj.com:8862/stream)**: Roots, culture, and digital dub.
 
 ### 🎸 Rock, Pop, Folk & Oldies
-- **[Ace Cafe Radio](	https://listen.radioking.com/radio/69079/stream/106852)**: Rock ‘n’ Roll, bikes, and cars from London's legendary Ace Cafe.
+- **[Ace Cafe Radio](https://listen.radioking.com/radio/69079/stream/106852)**: Rock ‘n’ Roll, bikes, and cars from London's legendary Ace Cafe.
 - **[Antenne Bayern - Germany](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and more.
 - **[Boogaloo Radio - London](https://streams.radio.co/sb88c742f0/listen)**: The world's first 24-hour pub radio. 
 - **[Classic Vinyl HD](https://walmradio.com/classic/)**: Classic rock and vinyl hits.
@@ -457,7 +457,7 @@ example: The Beatles → http://streaming.exclusive.radio/er/beatles/icecast.aud
 *Strange signals, automated broadcasts, and hardware hacks.*
 
 - **[CoreRadio](https://coreradio.online)**: Underground and experimental music.
-- **[CRTV Internet Radio](https://erncrtv.com/)**: Western primary for the Global Weather and EAS Society EAS Relay Network.
+- **[CRTV Internet Radio](https://erncrtv.com/)**: Western primary source for the Global Weather and EAS Society EAS Relay Network.
 - **[Deepcut.live](https://deepcut.live/)**: A social platform where users DJ together in real-time rooms (a modern successor to Turntable.fm).
 - **[GWES EAS Relay](https://gwes-eas.network/listen)**: Emergency Alert System relay network.
 - **[JetSetRadio.live](https://jetsetradio.live/)**: Fan-made recreation of the Sega classic.
@@ -487,13 +487,13 @@ example: The Beatles → http://streaming.exclusive.radio/er/beatles/icecast.aud
 --- 
 
 ## 🗺️ Directories & Discovery Tools <a id="directories"></a>
-*If you can't find it in the curated list above, use these tools to hunt it down.*
+*If you can't find a station in the list above, try searching these global databases.*
 
-### 🔍 The "Source of Truth" Databases
-- **[Radio Browser](https://www.radio-browser.info)**: The Wikipedia of radio. Open-source, community-driven, and the backend for most modern apps.
-- **[Radio Garden](https://radio.garden)**: The legendary 3D interactive globe. Best for visual discovery.
-- **[FMStream](https://fmstream.org/)**: The technical choice. Best for finding raw stream URLs (`.m3u`/`.pls`) for custom players.
-- **[Icecast Directory](https://dir.xiph.org)**: The "Yellow Pages" of independent internet radio.
+### 🔍 Comprehensive Databases
+- **[Radio Browser](https://www.radio-browser.info)**: The Wikipedia of radio. The largest open database. Community-maintained and used by most apps.
+- **[Radio Garden](https://radio.garden)**: Best for visual discovery. Explore the world's radio stations on an interactive globe.
+- **[FMStream](https://fmstream.org/)**: The technical choice. Best for finding raw stream URLs in different audio quality (`.m3u`/`.pls`) for custom players.
+- **[Icecast Directory](https://dir.xiph.org)**: The central hub for independent and self-hosted broadcasters.
 
 ---
 
@@ -505,7 +505,7 @@ I welcome contributions! This list is kept alive by the community.
 1.  **Check:** Ensure the stream works globally (not geo-blocked).
 2.  **Format:** If you can, please provide the link in this format:
     ```markdown
-    - **[Station Name](Link URL)** – Description (Genre/Country)
+    - **[Station Name](Link URL)**: Description (Genre/Country)
     ```
 3.  **Submit:** [Open an Issue](https://github.com/deroverda/recommended-radio-streams/issues) or create a Pull Request.
 
