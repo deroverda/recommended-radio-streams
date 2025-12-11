@@ -71,7 +71,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 ## 📻 The Station Directory <a id="station-directory"></a>
 
 > **📝 A Note on Links:**  
-> To keep this list reliable, many links point to the **official station website** or web player. Direct stream URLs (like `.m3u` or `.mp3`) change frequently, while official sites stay up. If you need the raw URL for a custom player, check the [guide below](#afinding-urls).
+> To keep this list reliable, many links point to the **official station website** or web player. Direct stream URLs (like `.m3u` or `.mp3`) change frequently, while official sites stay up. If you need the raw URL for a custom player, check the [guide below](#finding-urls).
 
 ### 🏆 The Starter Pack
 *Hand-vetted favorites. Start your journey here.*
