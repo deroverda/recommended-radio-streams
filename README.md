@@ -306,46 +306,45 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WYRM (Yacht Rock Miami)](https://usa20.fastcast4u.com:4100/1753014835)**: Mellow Yacht Rock sound.
 
 ### 🌍 World & Regional
-- **[Afro FM](https://zeno.fm/radio/fm-afro/)**: 🌍 African music mix.
-- **[Afro House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER53)**: 🇦🇺 Afro house beats broadcasting from Australia.
-- **[Alefa Music - Afrobeat](https://alefamusic.net/)**: 🇲🇬 Malagasy salegy rhythms (founded 2006).
-- **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: 🇯🇵 Japan-based station featuring jazz, bossa nova, and talk shows.
-- **[BBC Radio 6 Music](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)**: 🇬🇧 Alternative, indie, and eclectic music from the BBC.
-- **[Bondi Beach Radio – Sydney](https://bondiradio.com.au/)**: 🇦🇺 Music and local news from Sydney's Bondi Beach.
-- **[Celtic Music Radio](https://www.celticmusicradio.net/)**: 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Traditional folk, Americana, and world music.
-- **[CeolFM](http://ceol.fm:8000/live)**: 🇮🇪 Traditional Irish music (jigs, reels, hornpipes etc.)
-- **[Dansbandskanalen](https://stream.dbmedia.se./dbkdab)**: 🇸🇪 Swedish folk music (dansband).
-- **[Galaxie Radio – Haiti](http://galaxieradio.com)**: 🇭🇹 Reggae, kompa, and other Haitian genres.
-- **[Gladys Palmera Coleccion](http://gladyspalmera.com/coleccion)**: 🇪🇸 Latin and Spanish music mix.
-- **[Hollow Earth Radio](http://centova.rockhost.com:8001/stream)**: 🇺🇸 Music from marginalized communities (Seattle-based).
-- **[Isla Negra Slowbeat](https://radioislanegra.org/radio/8010/basic.aac)**: 🇨🇱 Handpicked, eclectic downtempo music from Valparaíso, Chile.
-- **[Isla Negra Upbeat](https://radioislanegra.org/listen/up/stream)**: 🇨🇱 100% pure high-quality upbeat music; non-commercial.
-- **[J-Club Club Bandstand](http://jclubradio.com)**: 🇯🇵 Classic/contemporary Japanese music.
-- **[J-Pop Sakura 懐かしい asia DREAM radio](https://mytuner-radio.com/radio/j-pop-sakura-huai-kashii-448027/)**: 🇯🇵 J-pop nostalgia.
-- **[Jazz Afro](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)**: 🌍 Afro-jazz fusion.
-- **[KIX Belgium – Talk and Radio](https://www.radiokix.be/)**: 🇧🇪 Talk and music programming from Belgium.
-- **[Lahmacun Radio](https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3)**: 🇭🇺 Budapest-based mix of music and talk.
-- **[Le Grigri](http://legrigri.com)**: 🇫🇷 African and Caribbean music curated in France.
-- **[listen.moe](https://listen.moe/kpop/stream)**: 🇰🇷 K-pop streams.
-- **[Mondo Bongo Radio](http://mondobongoradio.com)**: 🌍 World music, exotica, and soul.
-- **[Nehanda Radio](https://eu4.fastcast4u.com/proxy/lancguma?mp=/1)**: 🇿🇼 Zimbabwean music.
-- **[Oroko Radio](https://oroko.live/)**: 🇬🇭 Afro indie, folk, and soul from Accra, Ghana.
-- **[Pan African Space Station](https://panafricanspacestation.org.za/)**: 🇿🇦 Live radio and performance hub from South Africa.
-- **[Pyongyang Radio FM](https://listen7.myradio24.com/69366)**: 🇰🇵 North Korea's state-run broadcaster.
-- **[Radio Caprice - Afrobeat](http://www.radcap.ru/)**: 🇷🇺 Afrobeat classics (High-Res AAC).
-- **[Radio Caprice - Middle Eastern Music](http://79.111.119.111:8004/middleeast)**: 🇷🇺 Middle Eastern tracks (High-Res AAC).
-- **[Radio Marija – Lithuania](https://www.marijosradijas.lt/)**: 🇱🇹 Religious programming from Lithuania.
-- **[Radio Popolare – Milan, Italy](http://radiopopolare.it)**: 🇮🇹 News, talk, and music from Milan.
-- **[Radio Reverb 97.2 – Brighton UK Community Radio](http://radioreverb.com)**: 🇬🇧 Community radio with music and talk.
-- **[Rebetiko Sealabs](https://rebetiko.sealabs.net/radio)**: 🇬🇷 Greek urban folk music from late 1800s–1950s.
-- **[Resonance 104.4FM – London](https://www.resonancefm.com/)**: 🇬🇧 Diverse music and cultural programming from London.
-- **[REYFM](https://rey.fm/)**: 🇫🇷 Contemporary pop and Latin music.
-- **[RTE Radio 1 – Ireland](http://rte.ie)**: 🇮🇪 Ireland's national public radio with news, talk, and music.
-- **[Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/;)**: 🇸🇪 Continuous Dutch-run Swedish folk music stream.
-- **[Taui FM – Tahiti](https://theonestopradio.com/radio/taui-fm)**: 🇵🇫 Local and international music from Tahiti.
-- **[WDR 1Live Plan B](http://wdr.de)**: 🇩🇪 German station with music, talk, and entertainment.
-- **[West Limerick 102FM](https://westlimerick102fm.ie/)**: 🇮🇪 Community-run Irish station broadcasting all kinds of music and local news.
-- **[Worldwide FM](https://worldwidefm.out.airtime.pro/worldwidefm_b)**: 🇬🇧 Progressive global voices and culture.
+- **[Afro FM](https://zeno.fm/radio/fm-afro/)**: African music mix (🌍).
+- **[Afro House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER53)**: Afro house beats broadcasting from Australia (🇦🇺).
+- **[Alefa Music - Afrobeat](https://alefamusic.net/)**: Malagasy salegy rhythms (founded 2006) (🇲🇬).
+- **[AshiyaRadio〜アシヤ・ラヂヲ〜](https://s3.radio.co/sc8d895604/listen)**: Jazz, bossa nova, and talk shows (🇯🇵).
+- **[Bondi Beach Radio – Sydney](https://bondiradio.com.au/)**: Music and local news from Sydney's Bondi Beach (🇦🇺).
+- **[Celtic Music Radio](https://www.celticmusicradio.net/)**: Traditional folk, Americana, and world music (🏴󠁧󠁢󠁳󠁣󠁴󠁿).
+- **[CeolFM](http://ceol.fm:8000/live)**: Traditional Irish music (jigs, reels, hornpipes etc.) (🇮🇪).
+- **[Dansbandskanalen](https://stream.dbmedia.se./dbkdab)**: Swedish folk music (dansband) (🇸🇪).
+- **[Galaxie Radio – Haiti](http://galaxieradio.com)**: Reggae, kompa, and other Haitian genres (🇭🇹).
+- **[Gladys Palmera Coleccion](http://gladyspalmera.com/coleccion)**: Latin and Spanish music mix (🇪🇸).
+- **[Hollow Earth Radio](http://centova.rockhost.com:8001/stream)**: Music from marginalized communities (Seattle-based) (🇺🇸).
+- **[Isla Negra Slowbeat](https://radioislanegra.org/radio/8010/basic.aac)**: Handpicked, eclectic downtempo music from Valparaíso, Chile (🇨🇱).
+- **[Isla Negra Upbeat](https://radioislanegra.org/listen/up/stream)**: 100% pure high-quality upbeat music; non-commercial (🇨🇱).
+- **[J-Club Club Bandstand](http://jclubradio.com)**: Classic/contemporary Japanese music (🇯🇵).
+- **[J-Pop Sakura 懐かしい asia DREAM radio](https://mytuner-radio.com/radio/j-pop-sakura-huai-kashii-448027/)**: J-pop nostalgia (🇯🇵).
+- **[Jazz Afro](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)**: Afro-jazz fusion (🌍).
+- **[KIX Belgium – Talk and Radio](https://www.radiokix.be/)**: Talk and music programming from Belgium (🇧🇪).
+- **[Lahmacun Radio](https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3)**: Budapest-based mix of music and talk (🇭🇺).
+- **[Le Grigri](http://legrigri.com)**: African and Caribbean music curated in France (🇫🇷).
+- **[listen.moe](https://listen.moe/kpop/stream)**: K-pop streams (🇰🇷).
+- **[Mondo Bongo Radio](http://mondobongoradio.com)**: World music, exotica, and soul (🌍).
+- **[Nehanda Radio](https://eu4.fastcast4u.com/proxy/lancguma?mp=/1)**: Zimbabwean music (🇿🇼).
+- **[Oroko Radio](https://oroko.live/)**: Afro indie, folk, and soul from Accra, Ghana (🇬🇭).
+- **[Pan African Space Station](https://panafricanspacestation.org.za/)**: Live radio and performance hub from South Africa (🇿🇦).
+- **[Pyongyang Radio FM](https://listen7.myradio24.com/69366)**: North Korea's state-run broadcaster (🇰🇵).
+- **[Radio Caprice - Afrobeat](http://www.radcap.ru/)**: Afrobeat classics (High-Res AAC) (🇷🇺).
+- **[Radio Caprice - Middle Eastern Music](http://79.111.119.111:8004/middleeast)**: Middle Eastern tracks (High-Res AAC) (🇷🇺).
+- **[Radio Marija – Lithuania](https://www.marijosradijas.lt/)**: Religious programming from Lithuania (🇱🇹).
+- **[Radio Popolare – Milan, Italy](http://radiopopolare.it)**: News, talk, and music from Milan (🇮🇹).
+- **[Radio Reverb 97.2 – Brighton UK Community Radio](http://radioreverb.com)**: Community radio with music and talk (🇬🇧).
+- **[Rebetiko Sealabs](https://rebetiko.sealabs.net/radio)**: Greek urban folk music from late 1800s–1950s (🇬🇷).
+- **[Resonance 104.4FM – London](https://www.resonancefm.com/)**: Diverse music and cultural programming from London (🇬🇧).
+- **[REYFM](https://rey.fm/)**: Contemporary pop and Latin music (🇫🇷).
+- **[RTE Radio 1 – Ireland](http://rte.ie)**: Ireland's national public radio with news, talk, and music (🇮🇪).
+- **[Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/;)**: Continuous Dutch-run Swedish folk music stream (🇸🇪).
+- **[Taui FM – Tahiti](https://theonestopradio.com/radio/taui-fm)**: Local and international music from Tahiti (🇵🇫).
+- **[WDR 1Live Plan B](http://wdr.de)**: German station with music, talk, and entertainment (🇩🇪).
+- **[West Limerick 102FM](https://westlimerick102fm.ie/)**: Community-run Irish station broadcasting all kinds of music and local news (🇮🇪).
+- **[Worldwide FM](https://worldwidefm.out.airtime.pro/worldwidefm_b)**: Progressive global voices and culture (🇬🇧).
 
 ### 🎙️ 🎄 Christmas & Holiday Music
 - **[Christmas Vinyl](https://icecast.walmradio.com:8443/christmas)**: The golden age of Christmas music. 
