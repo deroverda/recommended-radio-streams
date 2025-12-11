@@ -371,22 +371,18 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 ---
 
 ## 💿 HiRes & CD-Quality Stations <a id="hires-lossless"></a>
-
 - **[Easy Radio](https://www.easyradio.bg)**: Lossless pop, rock, and electronic music from Bulgaria.
 - **[JB Radio](https://jb-radio.net)**: High-fidelity jazz, classical, and world music from Japan.
 - **[LapFox Radio](https://lapfoxradio.com)**: High-quality electronic, chiptune, and experimental music.
 - **[Le Bon Mix](https://www.lebonmix.radio)**: CD-quality house, disco, and funk from France.
 - **[Magic Radio](https://magic-radio.net)**: High-resolution pop, rock, and classic hits.
 - **[Open Sky Radio](https://opensky.radio)**: High-fidelity ambient, downtempo, and chillout music.
-- **[Radio 90FM Valencia](https://www.radio90.fm)**: High-quality pop, rock, and local music from Spain.
 - **[Radio Bias](https://biasradio.com)**: CD-quality indie, alternative, and underground music.
 - **[Radio Calico](https://www.radio-calico.com)**: High-resolution jazz, blues, and soul.
-- **[Radio Jeunes](https://www.rjrradio.fr)**: High-quality pop, rock, and electronic music from France.
+- **[Radio Jeunes](https://fmstream.org/index.php?s=Radio+Jeunes)**: High-quality pop, rock, and electronic music from France.
 - **[Radio Random](https://radiorandom.org)**: Lossless eclectic and experimental music.
 - **[Radio Sputnik](https://audiophile.fm/radio-sputnik)**: High-quality ambient, electronic, and experimental music.
 - **[The Cheese](https://thecheese.co.nz)**: Lossless indie, alternative, and underground music from New Zealand.
-- **[Violent Forces Radio](https://violentforcesradio.weebly.com)**: General trash and '80s thrash.
-- **[WBOR Radio](https://wbor.org)**: High-resolution indie, alternative, and experimental music.
 
 ## 🌐 Multi-Station Networks <a id="multi-station"></a>
 - **[1.FM Radio Network](https://radio.1cloud.fm/all-stations)**: A Swiss-based network offering 65+ commercial-free channels.
