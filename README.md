@@ -390,7 +390,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 
 ## 🌐 Multi-Station Networks <a id="multi-station"></a>
 - **[1.FM Radio Network](https://radio.1cloud.fm/all-stations)**: A Swiss-based network offering 65+ commercial-free channels.
-- **[1000 Hits](http://1000hits.rocks/)**: Network with multiple channels for Rock, 80s, Love Songs, and more.
 - **[113.fm](https://113fmradio.com/Browse)**: Community-driven network with 70+ channels across all decades and genres.
 - **[181.fm](https://www.181.fm/)**: A veteran internet radio network with reliable streams across standard genres (Rock, Country, Oldies).
 - **[1A Radio](https://www.1a-webradio.de/)**: German multi-station network with pop, dance, oldies, charts, and theme channels.
