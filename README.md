@@ -138,7 +138,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Do!! You!!! Radio](https://doyouworld.out.airtime.pro/doyouworld_a)**: London community station (family-friendly).
 - **[The Dump](https://www.thedumpradio.com/)**: Eclectic mix of obscure genres.
 - **[ilovemusic](https://ilovemusic.de)**: German eclectic radio platform.
-- **[Internet Public Radio](http://stream.internetpublicradio.org:8000/live)**: Independently curated by local and international DJs and artists.
+- **[Internet Public Radio](https://www.internetpublicradio.live/)**: Independently curated by local and international DJs and artists.
 - **[KBON](https://www.kbon.com/)**: Louisiana-based local music mix.
 - **[KCRW 89.9 FM – Los Angeles](https://www.kcrw.com/)**: Public radio with music, talk, and culture programming.
 - **[KDHX 88.1 FM – St. Louis](http://kdhx.org)**: Community radio with diverse music and local programming.
@@ -151,7 +151,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[KZSU Stanford 90.1 FM – Stanford, CA](http://kzsu.stanford.edu)**: Stanford's student-run station with music and talk.
 - **[The Lake Radio](http://thelakeradio.com)**: Random music and sounds, 24/7.
 - **[Loose FM - London](https://loosefm.radiocult.fm/stream)**: Radio community for eclectic and experimental sounds.
-- **[Nebulah Radio - Brest, France](http://nebulahr.out.airtime.pro/nebulahr_a)**: Mascarade Records' webradio with eclectic global sounds.
 - **[Ness radio](https://radio.nessradio.net:8212/nessradio)**: Alternative musical program (focus on discovery and community).
 - **[Netil Radio](https://netilradio.out.airtime.pro/netilradio_a)**: London community radio from a shipping container.
 - **[NEU Radio - Bologna](https://nr9.newradio.it:19205/stream)**: Cultural hub streaming afrobeats to indie rock, plus podcasts.
@@ -161,7 +160,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Pinata Radio - France](https://listen.radioking.com/radio/96031/stream/525368)**: Independent and non-commercial web-radio, showcasing local scenes.
 - **[Radio Free Phoenix](http://radiofreephoenix.com)**: General music and talk programming.
 - **[Radio Krimi](http://radiokrimi.com)**: Mystery-themed radio dramas.
-- **[Radio Meuh - French Alps](http://radiomeuh.ice.infomaniak.ch/radiomeuh-high.mp3)**: Independent internet radio playing global new music.
+- **[Radio Meuh](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)**: Independent internet radio playing global new music.
 - **[Radio Paradise - Main Mix](http://radioparadise.com/main-mix)**: Rock, world, and electronic blend.
 - **[Radio Pinpon](https://listen.radioking.com/radio/142627/stream/182797)**: General freeform/eclectic programming. 
 - **[Radio Sam Sam - South Paris](https://listen.radioking.com/radio/742276/stream/808768)**: World grooves, jazz beats & psyche folk shared with love.
@@ -273,24 +272,21 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[King Dub Radio](http://london-dedicated.myautodj.com:8862/stream)**: Roots, culture, and digital dub.
 
 ### 🎸 Rock, Pop, Folk & Oldies
-- **[1000 Hits Best of Rock](http://1000hits.rocks/rock-and-roll-live.mp3)**: Classic rock, hard rock, and heavy metal 24/7.
 - **[Ace Cafe Radio](	https://listen.radioking.com/radio/69079/stream/106852)**: Rock ‘n’ Roll, bikes, and cars from London's legendary Ace Cafe.
 - **[Antenne Bayern - Germany](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and more.
 - **[Blues Revue](http://live.str3am.com:2240/live)**: Dedicated blues program hosted by Harvey Stauffer.
-- **[Boogaloo Radio - London](http://boogaloo.out.airtime.pro/boogaloo_a)**: The world's first 24-hour pub radio. 
+- **[Boogaloo Radio - London](https://streams.radio.co/sb88c742f0/listen)**: The world's first 24-hour pub radio. 
 - **[Classic Vinyl HD](https://walmradio.com/classic/)**: Classic rock and vinyl hits.
 - **[Country Radio – USA](https://country-radio.com/)**: Country music, including classic and contemporary hits.
 - **[Dandelion Radio](http://stream.dandelionradio.com:8000/live)**: Independent internet radio inspired by BBC's John Peel.
 - **[Delicious Agony - Prog Rock](http://deliciousagony.streamguys1.com/)**: Progressive Rock Station on the Internet.
 - **[Doctor Pundit - Yacht Rock Jams](https://www.doctorpundit.com/media/)**: Smooth Yacht Rock hits.
-- **[Flower Power Radio](http://live.flowerradio.com:8000/live)**: Hits from the 1950s, '60s, and '70s, including Rock 'n' Roll legends.
+- **[Flower Power Radio](https://nl1.streamingpulse.com/ssl/flowerpowerradio)**: Hits from the 1950s, '60s, and '70s, including Rock 'n' Roll legends.
 - **[Folk Alley – Ohio](https://folkalley.com/)**: Folk music from Ohio, including contemporary and traditional songs.
-- **[Groovy Reflections](http://radio-stream.groovyreflections.com/radio.mp3)**: '60s–'70s Pop, Rock, Folk, Country, and Soul—poppy, psychedelic, soulful.
 - **[Irish Pub Radio](http://irishpubradio.com)**: Traditional Irish music for an authentic pub vibe.
-- **[Kerrang!](http://tx-live.antix-staging.com/live-01.mp3)**: Specialist digital rock music radio station (classic rock, hard rock, heavy metal).
 - **[MacSlon's Irish Pub Radio](http://www.macslons-irish-pub-radio.com/)**: Irish folk and traditional music for a pub vibe.
 - **[Mad Music Radio](https://wgdr.rocks/)**: Classic rock, oldies, blues, jazz, and Grateful Dead deep cuts.
-- **[Majestic Jukebox](http://majesticjukebox.out.airtime.pro/majesticjukebox_a)**: '40s–'80s hits across jazz, swing, rock, blues and country.
+- **[Majestic Jukebox](https://uk3.internet-radio.com/proxy/majesticjukebox/live)**: '40s–'80s hits across jazz, swing, rock, blues and country.
 - **[Morow - Prog Rock](https://stream.fr.morow.com/morow_med.aacp)**: Prog Rock Radio, streaming from Paris, France.
 - **[Psychedelicized](https://psychedelicized.com/)**: Obscure 60s–70s psychedelic, garage, prog, and freakbeat.
 - **[Pumpkin FM - 1940s radio](http://pumpkinfm.com/1940s-stream)**: Old Time Radio Network.
@@ -367,7 +363,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 ### 🎙️ News, Talk & Scanners
 - **[Her.st - Propaganda Broadcast](https://her.st/radio/)**: A nonstop stream of conspiracy, philosophy, and classic talk/lecture archives.
 - **[KNBR 104.5 – KFOG S.F. Talk/Music](http://knbr.com)**: San Francisco station blending talk and music.
-- **[LiveATC KJFK Tower 2 (New York)](https://www.liveatc.net/play/kjfk9_s.pls)**: Air traffic control communications for JFK Airport.    
+- **[LiveATC](https://www.liveatc.net/)**: Live air traffic - from their headsets to you.     
 - **[Pittsburgh Police, Fire, EMS](https://broadcastify.cdnstream1.com/21738)**: Live emergency services scanner.
 - **[Radio France Internationale – World News](http://rfi.org)**: Global news programming.
 - **[Radio Free Europe/Radio Liberty](https://www.rferl.org/)**: News for countries with limited media freedoms.
@@ -446,7 +442,7 @@ example: The Beatles → http://streaming.exclusive.radio/er/beatles/icecast.aud
 - **[System Bus Radio](https://github.com/fulldecent/system-bus-radio)**: Wild project that transmits AM radio signals directly from your computer's hardware bus (no speakers needed).
 - **[TildeRadio](https://tilderadio.tildeverse.org)**: Community-powered radio from the Tildeverse.
 - **[WebSDR](https://www.websdr.org)**: Control actual software-defined radios located around the world. Listen to shortwave and amateur radio live.
-- **[Wide-band WebSDR](https://websdr.ewi.utwente.nl:8901/)**: The famous University of Twente receiver. Scan the entire radio spectrum.
+- **[Wide-band WebSDR](http://websdr.ewi.utwente.nl:8901/)**: The famous University of Twente receiver. Scan the entire radio spectrum.
 
 ---
  
