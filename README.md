@@ -376,17 +376,17 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[BDPST Rock](http://bdpstrock.hu)**: Dedicated Rock stream (🇭🇺).
 - **[BluesWave Radio](https://blueswave.radio)**: Blues and Rock (🌍).
 - **[ČRo (Czech Radio) Network](https://rozhlas.cz)**: Czech Public Radio network offering Classical (D-dur, Vltava), Jazz, and Alternative/Youth (Radio Wave) channels (🇨🇿).
-- **[Dance Wave!](https://dancewave.online)**: Dance, House, Deep House, and Trance, including the Retro! Mix (🌍).<!--citation:4--><!--citation:5-->
+- **[Dance Wave!](https://dancewave.online)**: Dance, House, Deep House, and Trance, including the Retro! Mix (🌍).
 - **[Danubius Radio](http://danubiusradio.hu)**: Pop and Hits (🇭🇺).
 - **[Dhectar](https://dhectar.com)**: Techno and Electronic music (🌍).
 - **[Djam Radio](https://djam.radio)**: World Music (🇫🇷).
 - **[Easy Radio](https://easyradio.bg)**: Pop and Soft Rock (🇧🇬).
 - **[Fréquence 3](https://frequence3.fr)**: Mainstream Top 40 / Pop music in audiophile quality (🇫🇷).
 - **[Futura.FM](https://futura.fm)**: Music focused on the 80s (🌍).
-- **[High Fi Dream Radio](https://audiophile.fm/high-fi-dream-radio)**: Pop, Rock, and Dance (🌍).<!--citation:3-->
+- **[High Fi Dream Radio](https://audiophile.fm/high-fi-dream-radio)**: Pop, Rock, and Dance (🌍).
 - **[Intense Radio](https://intenseradio.net)**: Dance, Trance, House, and Techno (🇳🇱).
 - **[Jammin Vibez Network](https://jamminvibeznetwork.ca)**: Caribbean network offering Hi-Res Reggae, Dancehall, Soca, and Classic Oldies mixes (🇨🇦).
-- **[JB Radio](https://jb-radio.net)**: Rock, Pop, Electronic, and Indie (🌍).<!--citation:2-->
+- **[JB Radio](https://jb-radio.net)**: Rock, Pop, Electronic, and Indie (🌍).
 - **[LapFox Radio](https://lapfoxradio.com)**: Electronic and Chiptune music (🇺🇸).
 - **[Le Bon Mix](https://lebonmix.radio)**: Funk, Disco, Jazz, Soul, Rock, Reggae, Pop, and World Music (🇫🇷).
 - **[Magic Radio](https://magic-radio.net)**: Hits from the 80s (🌍).
@@ -411,7 +411,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Sveriges Radio: P2](https://sverigesradio.se)**: Dedicated Classical music stream (🇸🇪).
 - **[TEKnival Radio](https://teknivalradio.com)**: Dedicated Rave stream (🌍).
 - **[The Cheese](https://thecheese.co.nz)**: Pop, Rock, Disco, 70s, 80s, and 90s (🇳🇿).
-- **[TrancePulse](https://trance.ie)**: Trance and Dance (🌍).<!--citation:6--><!--citation:7-->
+- **[TrancePulse](https://trance.ie)**: Trance and Dance (🌍).
 - **[Violent Forces Radio](https://violentforcesradio.com)**: Dedicated Thrash Metal stream (🇺🇸).
 - **[Youventus Radio](http://youventusradio.hu)**: Pop and Classic Hits (🇭🇺).
 
