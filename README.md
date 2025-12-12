@@ -82,21 +82,20 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 
 ⭐ = Stations marked with a star are personal favorites or highly recommended by the community.  
 
-### 🏆 The Starter Pack <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd> <a id="starter-pack"></a>
+### 🏆 The Starter Pack <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">12 stations</kbd> <a id="starter-pack"></a>
 *Hand-vetted favorites.*
-- [Dr Dick's Dub Shack](https://drdicksdubshack.com): Bermuda-based dub and bass music.
-- [Classic Vinyl HD](https://icecast.walmradio.com:8443/classic): Classic tracks transferred from vinyl. 
-- [FIP](https://stream.radiofrance.fr/fip/fip.m3u8): Eclectic, expertly curated music with 8 thematic, ad-free webradios.
-- [Head Wax Radio](https://headwaxradio.radioca.st/stream): Future jazz and mindful music from Dublin, Ireland.
-- [Hunter FM LoFi](https://live.hunter.fm/lofi_high): Perfect beats for studying, working, or relaxing.
-- [KEWU-FM 89.5](https://streamer.radio.co/s3ba633066/listen): Public radio station dedicated to jazz.
-- [La Patate Douce](https://listen.radioking.com/radio/285742/stream/331753): Groovy vibes, soulful tunes, and deep jazz-funk from France.
-- [Le Grigri](https://www.radioking.com/play/legrigri/273715): 24/7 experimental jazz, African, and groove music from France.
-- [Moon Phase Radio](https://cp12.serverse.com/proxy/moonphase/stream): Commercial-free ambient, downtempo, and electronic (since 2010).
-- [Nightwave Plaza](https://radio.plaza.one/mp3): 24/7 vaporwave and future funk station.
-- [Nugs Radio](https://nugs.net): Live recordings of rock and jam bands.
-- [Radio Nula - Classics](https://strm.radionula.com/classics): Soul, funk, disco, hip-hop, and jazz.
-- [WFMU](https://wfmu.org): Legendary freeform radio (rock, experimental, eclectic).
+- [BBC Radio 6 Music](http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8): The global gold standard for alternative music, mixing deep cuts with new discoveries.
+- [dublab](http://dublab.com): A forward-thinking, non-profit community collective dedicated to experimental and underground music.
+- [FIP](https://stream.radiofrance.fr/fip/fip.m3u8): France's legendary eclectic station. Seamless, algorithm-defying transitions between jazz, rock, classical, and pop.
+- [KEXP](https://www.kexp.org/listen/): Seattle's listener-powered champion of indie rock, famous for their passionate DJs and live in-studio sessions.
+- [Nightwave Plaza](https://radio.plaza.one/mp3): A nostalgic 24/7 aesthetic station broadcasting the best in vaporwave, future funk, and city pop.
+- [NTS Radio](https://www.nts.live/): The internet's leading underground platform. Live broadcasting from major cities plus "Infinite Mixtapes" for every mood.
+- [Radio Paradise - Main Mix](http://radioparadise.com/main-mix): Meticulously mixed rock, world, and electronic. Listener-supported, ad-free, and audiophile-grade.
+- [Rainwave](https://rainwave.cc/): The premier video game music station. Listeners vote in real-time to decide which track plays next.
+- [SomaFM](https://somafm.com/): The pioneer of independent internet radio. Famous for ambient, downtempo, and "Groove Salad" vibes.
+- [WFMU](https://wfmu.org): The longest-running freeform station in the US. Chaotic, independent, and fiercely anti-commercial.
+- [Worldwide FM](http://worldwidefm.out.airtime.pro:8000/worldwidefm_a): An award-winning platform for underground music, culture, and stories from around the globe.
+- [WWOZ 90.7 – New Orleans](https://www.wwoz.org/): "The Heritage Station." Pure New Orleans jazz, funk, and soul, straight from the Crescent City.
 
 ### 🧘 Ambient, Lo-Fi & Chill <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">24 stations</kbd> <a id="ambient-lo-fi-chill"></a>
 - [24/7 Lo-Fi Radio](https://www.247lofiradio.com/): Lo-Fi music for background listening.
@@ -119,6 +118,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Loca FM Ambient](https://s2.we4stream.com/listen/loca_ambient/live): Spanish electronic music station focusing on ambient.
 - ⭐ [Lo-Fi Girl](https://boxradio-edge-10.streamafrica.net/lofi): Relaxing Lo-Fi beats for focus.
 - ⭐ [Mother Earth Radio](https://motherearthradio.de/en/): Nature-themed acoustic music.
+- [Moon Phase Radio](https://cp12.serverse.com/proxy/moonphase/stream): Commercial-free ambient, downtempo, and electronic (since 2010).
 - [Mynoise - Zen Garden](https://zengarden-mynoise.radioca.st/stream): A blend of calm nature sounds and relaxing tones.
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Chill-out ambient and relaxed beats.
 - [NTS - Slow Focus](https://stream-mixtape-geo.ntslive.net/mixtape): Ambient, drone, and ragas.
@@ -154,7 +154,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [ChillTraxx – World's Chillout Channel](https://www.chilltrax.com/): A global leader in relaxing chillout and downtempo electronic music.
 - [Dinamo.FM Caffe](http://channels.dinamo.fm/caffe-mp3): Downtempo, lounge, chill-out, and nu-jazz with a distinctly Turkish flavor.
 - [Dub Ninja](https://dub.ninja/): AI-mixed dub techno and ambient for deep focus and relaxation.
-- ⭐ [dublab](http://dublab.com): Experimental and underground electronic.
 - ⭐ [Dublin Digital Radio – Ireland](https://listen.dublindigitalradio.com/home): Indie, electronic, and experimental music from Dublin.
 - [Eurodance Radio](https://www.eurodance-radio.com/): The best of 90s Eurodance blending house, techno, and pop.
 - [Expansions (NTS)](https://stream-mixtape-geo.ntslive.net/mixtape3): NTS's infinite mixtape of eclectic and psychedelic global electronic sounds.
@@ -212,6 +211,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Fine Music Radio 101.3 FM – Cape Town](https://www.fmr.co.za/): Classical music and jazz from South Africa.
 - [FIP Jazz](http://www.fip.fr/jazz): Jazz in all its forms, free, unlimited, and ad-free streaming.
 - [Giants of Jazz Radio](https://streaming.radio.co/s297e618a7/listen): Classic jazz tracks from the ’40s–’70s masters.
+- [Head Wax Radio](https://headwaxradio.radioca.st/stream): Future jazz and mindful music from Dublin, Ireland.
 - [iFusion Radio](https://listen.radioking.com/radio/523747/stream/582004): Jazz fusion, progressive rock, and world music.
 - [Jazz & Blues Radio – United States](https://www.radio.se/s/jazzradio-blues): A mix of jazz and blues music.
 - [Jazz Con Class](http://jazzconclass.com): Classic jazz from the late ’40s–’70s (hosted by Jose Reyes).
@@ -222,6 +222,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [KEWU-FM 89.5](https://streamer.radio.co/s3ba633066/listen): Public radio station dedicated to straight-ahead jazz.
 - [KKJZ-HD88.1](https://kkjz.org/): Jazz and blues with educational programming from Cal State Long Beach.
 - [KSDS Jazz 88.3 FM](https://www.jazz88.org/): Classic and contemporary jazz from San Diego.
+- [La Patate Douce](https://listen.radioking.com/radio/285742/stream/331753): Groovy vibes, soulful tunes, and deep jazz-funk from France.
 - [Linn Jazz](https://www.muso.fm/api/proxy-stream?url=http%3A%2F%2Fradio.linn.co.uk%3A8000%2Fautodj): Web radio showcasing top jazz, from classics to originals.
 - [Mondo Radio – Pop and Jazz](http://mondoradio.com): A mix of pop, jazz, and adult contemporary music.
 - [NPO Radio 2](https://www.nporadio2.nl/soulenjazz/nieuws/npo-radio-2-soul-jazz/9c3a487f-f5dc-40e2-a93b-74048f88d810/zo-luister-je-naar-npo-radio-2-soul-jazz): Dutch public broadcaster featuring soul, jazz, and pop classics.
@@ -334,7 +335,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Taui FM – Tahiti](https://theonestopradio.com/radio/taui-fm): Local and international music from Tahiti (🇵🇫).
 - [WDR 1Live Plan B](http://wdr.de): German station with alternative music, talk, and entertainment (🇩🇪).
 - [West Limerick 102FM](https://westlimerick102fm.ie/): Community-run Irish station broadcasting all kinds of music and local news (🇮🇪).
-- ⭐ [Worldwide FM](http://worldwidefm.out.airtime.pro:8000/worldwidefm_a): Progressive global voices and culture (🇬🇧).
 
 
 ### 🏛️ College, Freeform & Community <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">58 stations</kbd> <a id="college-freeform-community"></a>
@@ -356,7 +356,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [KBON](https://www.kbon.com/): Louisiana-based local music mix.
 - ⭐ [KCRW 89.9 FM – Los Angeles](https://www.kcrw.com/): Public radio with music, talk, and culture programming.
 - [KDHX 88.1 FM – St. Louis](http://kdhx.org): Community radio with diverse music and local programming.
-- ⭐ [KEXP](https://www.kexp.org/listen/): Exceptional music curation.
 - ⭐ [KFJC 89.7 FM – Los Altos Hills](https://kfjc.org): Experimental, psychedelic, and obscure audio art.
 - [Kiosk Radio - Brussels](https://kioskradio.com/): Eclectic electronic and jazz from a wooden shack in the park.
 - [KPISS](https://kpiss.fm/): Eclectic DJ-supported internet radio with specialty shows.
