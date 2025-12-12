@@ -23,6 +23,6 @@ jobs:
         with:
           # Arguments tell the tool what to check:
           # --max-retries 2: Tries a link twice if it fails
+          # --max-concurrency 5: Limits simultaneous checks to avoid getting blocked
           # 'README.md': Checks only the README.md file
-          args: --max-retries 2 --exclude 'localhost' 'README.md'
-          max-concurrency: 5
+          args: --max-retries 2 --max-concurrency 5 --exclude 'localhost' 'README.md'
