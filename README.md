@@ -16,8 +16,6 @@
 
 A **personally maintained, hand‑vetted directory** of standout internet radio streams. Explore hundreds of reliable stations across 40+ genres, plus a guide to apps, tools, and stream‑finding methods so the music never stops.
 
-**Report an Issue:** Help keep this list current by reporting broken streams or suggesting new stations via [GitHub Issues](https://github.com/deroverda/recommended-radio-streams/issues)!
-
 ---
 ## Table of Contents
 
