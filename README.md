@@ -20,7 +20,21 @@ A **personally maintained, hand‑vetted directory** of standout internet radio 
 ---
 ## Table of Contents
 - [🎧 Apps & Players](#apps-players)
-- [📻 The Station Directory](#station-directory)
+- [📻 The Station Directory](#the-station-directory)
+    - [🏆 The Starter Pack](#starter-pack)
+    - [🧘 Ambient, Lo-Fi & Chill](#ambient-lo-fi-chill)
+    - [🎻 Classical & Opera](#classical-opera)
+    - [🏛️ College, Freeform & Community](#college-freeform-community)
+    - [⚡ Electronic](#electronic)
+    - [👾 Video Game & Chiptune](#video-game-chiptune)
+    - [🕺 Funk, Soul, Disco & Hip-Hop](#funk-soul-disco-hip-hop)
+    - [🎷 Jazz & Blues](#jazz-blues)
+    - [🦁 Reggae & Dub](#reggae-dub)
+    - [🎸 Rock, Pop, Folk & Oldies](#rock-pop-folk-oldies)
+    - [🌍 World & Regional](#world-regional)
+    - [🎄 Christmas Music & Holiday](#christmas-music-holiday)
+    - [🎤 Live Recordings](#live-recordings)
+    - [🎙️ News & Spoken Word](#news-spoken-word) 
 - [💿 HiRes Stations](#hires-lossless)
 - [🌐 Multi-Station Networks](#multi-station)
 - [🧪 Experimental, Nerdy & Scanners](#experimental)
@@ -60,13 +74,13 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [ScrobbleRadio](https://scrobblerad.io) `Free`: Track listening to Last.fm, Libre.fm, or ListenBrainz.
 
 ---
-## 📻 The Station Directory
+## 📻 The Station Directory <a id="station-directory"></a>
 > **📝 A Note on Links:**  
 > To keep this list reliable, many links point to the **official station website** or web player. Direct stream URLs (like `.m3u` or `.mp3`) change frequently, while official sites stay up. If you need the raw URL for a custom player, check the [guide below](#finding-urls).
 
 **⭐** = Stations marked with a star are personal favorites or highly recommended by the community.  
 
-### 🏆 The Starter Pack <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd>
+### 🏆 The Starter Pack <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd> <a id="starter-pack"></a>
 *Hand-vetted favorites.*
 
 - **[Dr Dick's Dub Shack](https://drdicksdubshack.com)**: Bermuda-based dub and bass music.
@@ -83,7 +97,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Radio Nula - Classics](https://strm.radionula.com/classics)**: Soul, funk, disco, hip-hop, and jazz.
 - **[WFMU](https://wfmu.org)**: Legendary freeform radio (rock, experimental, eclectic).
 
-### 🧘 Ambient, Lo-Fi & Chill <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">23 stations</kbd>
+### 🧘 Ambient, Lo-Fi & Chill <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">23 stations</kbd> <a id="ambient-lo-fi-chill"></a>
 - **[24/7 Lo-Fi Radio](https://www.247lofiradio.com/)**: Lo-Fi music for background listening.
 - **[AM Ambient](https://radio.stereoscenic.com/ama-s)**: Uplifting, beat-free ambient music for daytime listening.
 - **[Ambient FM](https://phoebe.streamerr.co:4140/ambient.mp3)**: Solar-powered ambient soundscapes inspired by desert environments.
@@ -108,7 +122,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Radio Schizoid - Chillout](http://94.130.113.214:8000/chill)**: Psychedelic chillout/ambient.
 - **[Smooth Chill](https://media-ssl.musicradio.com/ChillMP3)**: Mellow unwind music.
 
-### 🎻 Classical & Opera <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">15 stations</kbd>
+### 🎻 Classical & Opera <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">15 stations</kbd> <a id="classical-opera"></a>
 - **[Ancient FM](https://ancientfm.com/)**: Medieval and Renaissance music on period instruments (zero modern sounds).
 - **[BBC Radio 3](https://www.bbc.co.uk/sounds/play/live/bbc_radio_three)**: Classical, jazz, world music, and drama.
 - **[Calm Radio](https://calmradio.com/channel-guide/classical-music)**: A collection of channels including Symphony, Opera, and various Classical Mixes.
@@ -126,7 +140,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WMNR](https://www.wmnr.org/listen)**: Public radio with classical (Connecticut-based).
 - ⭐ **[WQXR Q2 – New York Public Radio](http://wqxr.org)**: 24/7 classical music.
 
-### 🏛️ College, Freeform & Community <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">51 stations</kbd>
+### 🏛️ College, Freeform & Community <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">51 stations</kbd> <a id="college-freeform-community"></a>
 *Eclectic mixes, human curation, and genre-defying broadcasts. Expect the unexpected.*
 - **[8 Ball Radio](https://8ballradio.nyc)**: NYC-based artist collective broadcasting public-access style freeform, electronic, and talk.
 - **[20ft Radio - Kyiv, Ukraine](https://20ft-radio.radiocult.fm/stream)**: Music broadcast from the former Strichka factory.
@@ -180,7 +194,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - ⭐ **[WXYC 89.3FM – Chapel Hill](https://wxyc.org/)**: Freeform radio with diverse music from UNC Chapel Hill.
 - **[Xray FM - Pacific Northwest](https://xray.fm/listen)**: Indie non-profit playing new and experimental music.
 
-### ⚡ Electronic <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">34 stations</kbd>
+### ⚡ Electronic <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">34 stations</kbd> <a id="electronic"></a>
 - **[Acid House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER1)**: Non-stop stream of classic and contemporary acid house tracks.
 - **[Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live)**: Balearic beats, house, and electronic lounge from Ibiza.
 - **[Cashmere Radio](http://cashmereradio.com)**: Berlin-based community radio for experimental electronic and freeform sounds.
@@ -216,7 +230,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Tech House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER18)**: Dedicated stream focused on high-energy tech house.
 - **[TEKnival Radio](https://teknivalradio.com/index.php/streams/)**: Hard-edged techno and rave.
 
-### 👾 Video Game & Chiptune <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd>
+### 👾 Video Game & Chiptune <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd> <a id="video-game-chiptune"></a>
 - **[Datafruits](https://datafruits.fm/)**: Chiptune, video game-inspired electronic, and hyper-kinetic rhythms.
 - **[Gensokyo Radio](https://gensokyoradio.net)**: 24/7 music from the massive Touhou Project video game series.
 - **[JetSetRadio.live](https://jetsetradio.live/)**: Fan-made recreation of the iconic video game soundtrack.
@@ -231,7 +245,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Slay Radio](https://slayradio.org/)**: Community-driven Commodore 64 remixes and chiptunes.
 - **[SpriteLayer](https://www.spritelayerradio.com/public/spritelayer_video_game_radio)**: A blend of FM-Synth, vaporwave, and retro-gaming aesthetics.
 
-### 🕺 Funk, Soul, Disco & Hip-Hop <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">9 stations</kbd>
+### 🕺 Funk, Soul, Disco & Hip-Hop <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">9 stations</kbd> <a id="funk-soul-disco-hip-hop"></a>
 - **[181.FM - Old School HipHop/RnB](http://listen.181fm.com/181-oldschool_128k.mp3)**: Old school hip-hop/R&B.
 - **[90s90s HipHop & Rap](http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/)**: 90s hip-hop and rap.
 - **[Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream)**: Funk, Soul, Rare Groove, and Lounge music from Dublin.
@@ -240,9 +254,9 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - ⭐ **[Mojo Club - Laut.FM](https://mojo.stream.laut.fm/mojo)**: Deep funk, Latin beats, dancefloor jazz, and remixes.
 - **[Old School Rap (Australian Digital Radio)](http://abm21.com.au:8000/CONTAINER69)**: Continuous stream of classic rap from the golden era.
 - **[Penthouse, The](https://thepenthouse.fm/)**: Soul, R&B, classic pop, and modern music with a smooth sound.
-- **[Retro Soul Radio UK](https://www.retrosoulradio.co.uk)**: Classic and contemporary soul music from the UK.
+- **[Retro Soul Radio UK](https://www.retrosoulradio.co.uk)**: Classic and contemporary soul music from the UK.hires
 
-### 🎷 Jazz & Blues <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">31 stations</kbd>
+### 🎷 Jazz & Blues <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">31 stations</kbd> <a id="jazz-blues"></a>
 - **[1.FM - Smooth Jazz](https://strm112.1.fm/smoothjazz_mobile_mp3?aw_0_req.gdpr=true)**: Contemporary jazz and soothing melodies. *Contains Ads*
 - **[101 SMOOTH JAZZ](http://www.101smoothjazz.com/101-smoothjazz.m3u)**: Mix of instrumental smooth jazz.
 - **[Aardvark Blues FM](https://ais-sa5.cdnstream1.com/b77280_128mp3)**: The very best in blues, modern blues, and rhythm & blues.
@@ -275,14 +289,14 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WDNA 88.9](http://wdna.org)**: Miami-based jazz and Latin jazz.
 - ⭐ **[WWOZ 90.7 – New Orleans](https://www.wwoz.org/)**: Jazz, blues, and local music reflecting New Orleans culture.
 
-### 🦁 Reggae & Dub <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">5 stations</kbd>
+### 🦁 Reggae & Dub <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">5 stations</kbd> <a id="reggae-dub"></a>
 - ⭐ **[Alpha Boys School Radio](http://alphaboysschoolradio.com)**: Music by Alpha School alumni (Kingston, Jamaica).
 - **[badam radio](https://play.radioking.io/badam-radioseb)**: Reggae, dub, dancehall, and roots.
 - ⭐ **[Dr Dick's Dub Shack](https://drdicksdubshack.com)**: Bermuda-based dub and bass music.
 - **[FIP Reggae](http://icecast.radiofrance.fr/fipreggae-hifi.aac)**: FIP's dedicated 100% reggae channel.
 - **[King Dub Radio](http://london-dedicated.myautodj.com:8862/stream)**: Roots, culture, and digital dub.
 
-### 🎸 Rock, Pop, Folk & Oldies <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">29 stations</kbd>
+### 🎸 Rock, Pop, Folk & Oldies <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">29 stations</kbd> <a id="rock-pop-folk-oldies"></a>
 - **[Ace Cafe Radio](https://listen.radioking.com/radio/69079/stream/106852)**: Rock ‘n’ Roll, bikes, and cars from London's legendary Ace Cafe.
 - **[Antenne Bayern - Germany](https://www.antenne.de/webradio/)**: German station playing pop, classic hits, and entertainment.
 - **[Boogaloo Radio - London](https://streams.radio.co/sb88c742f0/listen)**: The world's first 24-hour pub radio (rock, soul, indie).
@@ -313,7 +327,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WLIR 92.7 – New York](http://wliwfm.org)**: Long Island's alternative rock, pop, and indie station.
 - **[WYRM (Yacht Rock Miami)](https://usa20.fastcast4u.com:4100/1753014835)**: Mellow Yacht Rock sound from the late 70s and 80s.
 
-### 🌍 World & Regional <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">39 stations</kbd>
+### 🌍 World & Regional <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">39 stations</kbd> <a id="world-regional"></a>
 - **[Afro FM](https://zeno.fm/radio/fm-afro/)**: African music mix (🌍).
 - **[Afro House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER53)**: Afro house beats broadcasting from Australia (🇦🇺).
 - **[Alefa Music - Afrobeat](https://alefamusic.net/)**: Malagasy salegy rhythms (founded 2006) (🇲🇬).
@@ -354,18 +368,18 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[West Limerick 102FM](https://westlimerick102fm.ie/)**: Community-run Irish station broadcasting all kinds of music and local news (🇮🇪).
 - ⭐ **[Worldwide FM](http://worldwidefm.out.airtime.pro:8000/worldwidefm_a)**: Progressive global voices and culture (🇬🇧).
 
-### 🎄 Christmas Music & Holiday <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">3 stations</kbd>
+### 🎄 Christmas Music & Holiday <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">3 stations</kbd> <a id="christmas-music-holiday"></a>
 - **[Christmas FM Ireland](https://christmasfm.cdnstream1.com/2547_128.mp3)**: Ireland's dedicated Christmas station (classic and modern hits).
 - **[Christmas Vinyl HD](https://icecast.walmradio.com:8443/christmas)**: The golden age of Christmas music.
 - **[SomaFM - Jolly Ol' Soul](https://somafm.com/jollysoul/index.html)**: Mix of classic holiday tracks, rare soul, and R&B.
 
-### 🎤 Live Recordings <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">4 stations</kbd>
+### 🎤 Live Recordings <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">4 stations</kbd> <a id="live-recordings"></a>
 - **[ISKC Radio Group](https://mediaserv68.live-streams.nl:18012/OnlyLive)**: Live rock music 24/7.
 - **[laut.fm - Alive](https://stream.laut.fm/alive)**: Live Rock songs from famous legends and obscure artists.
 - **[laut.fm - Rocklive](https://stream.laut.fm/rocklive)**: Live rock and pop.
 - ⭐ **[Nugs Radio](https://radio.nugs.net/nugsnet)**: Live recordings of rock and jam bands (mostly Grateful Dead).
 
-### 🎙️ News & Spoken Word <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">14 stations</kbd>
+### 🎙️ News & Spoken Word <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">14 stations</kbd> <a id="news-spoken-word"></a>
 - **[AudioBookRadio](http://www.audiobookradio.net)**: Spoken word: audiobooks, poetry, classic plays, and interviews.
 - **[Dark Entertainments - Horror Radio](https://darkentertainments.com/)**: Nonstop classic horror dramas and atmospheric soundscapes.
 - **[Her.st - Propaganda Broadcast](https://her.st/radio/)**: Conspiracy, philosophy, and classic talk/lecture archives.
@@ -382,7 +396,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WXXI 88.5 FM – Rochester](http://wxxi.org)**: Public radio with classical music and culture.
 
 ---
-## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">41 stations</kbd>
+## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">41 stations</kbd> <a id="hires-lossless"></a>
 *All stations listed here broadcast in confirmed lossless FLAC format unless otherwise noted.*
 - **[60 North Radio](https://60north.radio)**: Eclectic mix of rock, pop, and global electronic music.
 - **[95bFM Radio](https://streams.95bfm.com/stream112)**: Indie, Pop, Rock, Hip Hop, and Electronic.
@@ -426,7 +440,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Violent Forces Radio](https://violentforcesradio.com)**: Dedicated Thrash Metal stream.
 - **[Youventus Radio](http://youventusradio.hu)**: Pop and Classic Hits.
 ---
-## 🌐 Multi-Station Networks <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">23 stations</kbd>
+## 🌐 Multi-Station Networks <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">23 stations</kbd> <a id="multi-station"></a>
 - **[0nRadio](https://0nradio.com/)**: Extensive themed stations spanning pop, chill, jazz, and ambient.
 - **[1.FM Radio Network](https://radio.1cloud.fm/all-stations)**: Swiss-based network offering 65+ high-quality, commercial-free channels.
 - **[113.fm](https://113fmradio.com/Browse)**: Community-driven network with 70+ channels across all decades and genres.
@@ -498,7 +512,7 @@ Hundreds of single-artist, 24/7 mono streams from the **[You.Radio](https://you.
 3.  **The "Hacker" Method:** Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and then start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, or starting with `icecast`/`shoutcast`.
 
 ---
-## 🗺️ Directories & Discovery Tools
+## 🗺️ Directories & Discovery Tools <a id="directories"></a>
 *Can't find a station in the list above or in your favorite app? Try these global databases.*
 
 ### 🔍 Comprehensive Databases
@@ -508,7 +522,7 @@ Hundreds of single-artist, 24/7 mono streams from the **[You.Radio](https://you.
 - **[Icecast Directory](https://dir.xiph.org)**: The central hub for independent and self-hosted broadcasters.
 
 ---
-## 🤝 Contributing
+## 🤝 Contributing <a id="contributing"></a>
 
 I welcome contributions! Whether it's a new station, a reliable app, or a discovery tool, this list is kept alive by the community.
 
