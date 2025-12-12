@@ -228,7 +228,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[RPGamers Radio](https://www.rpgamers.net/radio/)**: Soundtracks from classic and modern Role-Playing Games.
 - **[SceneSat](https://scenesat.com/)**: Demoscene music and tracker modules (the roots of chiptune).
 - **[Slay Radio](https://slayradio.org/)**: Community-driven Commodore 64 remixes and chiptunes.
-- **[SpriteLayer](https://spritelayer.com/)**: A blend of FM-Synth, vaporwave, and retro-gaming aesthetics.
+- **[SpriteLayer](https://www.spritelayerradio.com/public/spritelayer_video_game_radio)**: A blend of FM-Synth, vaporwave, and retro-gaming aesthetics.
 
 ### 🕺 Funk, Soul, Disco & Hip-Hop <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">11 stations</kbd>
 - **[181.FM - Old School HipHop/RnB](http://listen.181fm.com/181-oldschool_128k.mp3)**: Old school hip-hop/R&B.
@@ -325,7 +325,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - ⭐ **[Gladys Palmera Coleccion](http://gladyspalmera.com/coleccion)**: Latin and Spanish music mix (🇪🇸).
 - ⭐ **[Isla Negra Slowbeat](https://radioislanegra.org/radio/8010/basic.aac)**: Handpicked, eclectic downtempo music from Valparaíso, Chile (🇨🇱).
 - **[Isla Negra Upbeat](https://radioislanegra.org/listen/up/stream)**: 100% pure high-quality upbeat music; non-commercial (🇨🇱).
-- **[J-Club Club Bandstand](http://jclubradio.com)**: Classic and contemporary Japanese pop music (🇯🇵).
+- **[J-Club Club Bandstand](https://jclubbandstand.torontocast.stream/stations/index.html)**: Classic and contemporary Japanese pop music (🇯🇵).
 - **[J-Pop Sakura 懐かしい asia DREAM radio](https://mytuner-radio.com/radio/j-pop-sakura-huai-kashii-448027/)**: J-pop nostalgia and classic Asian hits (🇯🇵).
 - **[Jazz Afro](http://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)**: Afro-jazz fusion and African rhythms (🌍).
 - **[KIX Belgium – Talk and Radio](https://www.radiokix.be/)**: Talk and music programming from Belgium (🇧🇪).
