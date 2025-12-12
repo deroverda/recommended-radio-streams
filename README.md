@@ -602,9 +602,7 @@ A shoutout to the community members who dropped a link or suggested a hidden gem
 <br>
 
 <div align="center">
-Made with ❤️ for the open web.
-
-🇸🇪
+Curated with ❤️ for the open web from Sweden 🇸🇪
 </div>
 
 ---
