@@ -383,6 +383,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [SomaFM - Jolly Ol' Soul](https://somafm.com/jollysoul/index.html): Mix of classic holiday tracks, rare soul, and R&B.
 
 ### 🎤 Live Recordings <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">4 stations</kbd> <a id="live-recordings"></a>
+- [Live Jam Radio](https://stations.radio-host.com/stream/livejam/stream.pls): Stream dedicated to live music recordings, jam bands, and improvisational rock and funk.
 - [ISKC Radio Group](https://mediaserv68.live-streams.nl:18012/OnlyLive): Live rock music 24/7.
 - [laut.fm - Alive](https://stream.laut.fm/alive): Live Rock songs from famous legends and obscure artists.
 - [laut.fm - Rocklive](https://stream.laut.fm/rocklive): Live rock and pop.
