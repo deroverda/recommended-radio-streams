@@ -249,16 +249,16 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [SpriteLayer](https://www.spritelayerradio.com/public/spritelayer_video_game_radio): A blend of FM-Synth, vaporwave, and retro-gaming aesthetics.
 
 ### 🕺 Funk, Soul, Disco & Hip-Hop <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd> <a id="funk-soul-disco-hip-hop"></a>
-- [181.FM - Old School HipHop/RnB](http://listen.181fm.com/181-oldschool_128k.mp3): Old school hip-hop/R&B.
 - [54house.fm](https://www.54house.fm/): Grown-up house, funky disco house, and nu disco dedicated to Chicago House culture.
-- [90s90s HipHop & Rap](http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/): 90s hip-hop and rap.
 - [Big Noise Radio](https://bignoiseradio.com/): Underground hip-hop and soulful boom-bap beats, focusing on independent conscious artists.
 - [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, Soul, Rare Groove, and Lounge music from Dublin.
 - [FUNKY RADIO - Only Funk Music](https://funkyradio.streamingmedia.it/play.mp3): Ad-free classic '60s–'80s funk with rare cuts and deep grooves.
-- [International Rare Groove](https://www.irgradio.net/): Global grooves and forgotten rare funk, soul, and disco.
+- [God’s House of Hip Hop (GH3 Radio)](https://gh3radio.com/): LA-based Christian/Latin/gospel hip-hop station on Dash Radio, an award-winning CHH hub tied to the 20/20 Summer fest.
+- [International Rare Groove](https://www.irgradio.net/): Global grooves and forgotten rare funk loop, soul, and disco.
 - [Mojo Club - Laut.FM](https://mojo.stream.laut.fm/mojo): Deep funk, Latin beats, dancefloor jazz, and remixes.
-- [Penthouse, The](https://thepenthouse.fm/): Soul, R&B, classic pop, and modern music with a smooth sound.
+- [The Real Underground Radio](https://therealunderground.app/): Little Rock 24/7 station from the A-Team DJ Coalition, streaming underground/indie hip-hop, rap, and R&B, born from a long-running local FM show.
 - [Retro Soul Radio UK](https://www.retrosoulradio.co.uk): Classic and contemporary soul music from the UK.
+- [Sphere of Hip-Hop](https://www.sphereofhiphop.com/radio/): 24/7 commercial free hip-hop.
 - [The Funky Channel](https://thefunkychannel.com/): Non-stop funk, disco classics, soul anthems, and R&B hits from the 70s to today.
 - [WEFUNK Radio](https://wefunkradio.com/): Montreal-based funk, soul, and old-school hip-hop institution (since 1996).
 
@@ -319,6 +319,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Mad Music Radio](https://wgdr.rocks/): Classic rock, oldies, blues, jazz, and Grateful Dead deep cuts.
 - [Majestic Jukebox](https://uk3.internet-radio.com/proxy/majesticjukebox/live): '40s–'80s hits across jazz, swing, rock, blues and country.
 - [Morow - Prog Rock](https://stream.fr.morow.com/morow_med.aacp): Dedicated Prog Rock Radio, streaming from Paris, France.
+- [Penthouse, The](https://thepenthouse.fm/): Soul, R&B, classic pop, and modern music with a smooth sound.
 - [Prog Palace Radio](https://cheetah.streemlion.com:4775/stream): Progressive Rock, Progressive Metal, and Power Metal Station.
 - ⭐ [Psychedelicized](https://psychedelicized.com/): Obscure 60s–70s psychedelic, garage, prog, and freakbeat.
 - [Pumpkin FM - 1940s radio](http://pumpkinfm.com/1940s-stream): Old Time Radio Network: Hits and shows from the 1940s.
