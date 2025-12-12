@@ -20,15 +20,15 @@ A **personally maintained, hand‑vetted directory** of standout internet radio 
 ---
 ## Table of Contents
 
-- [🎧 Apps & Players](#apps-players)
-- [📻 The Station Directory](#station-directory)
-- [💿 HiRes Stations](#hires-lossless)
-- [🌐 Multi-Station Networks](#multi-station)
-- [🧪 Experimental, Nerdy & Scanners](#experimental)
-- [🔗 Advanced: Finding Direct Stream URLs](#finding-urls)
-- [🗺️ Directories & Discovery Tools](#directories)
+- [🎧 Apps & Players](#apps--players)
+- [📻 The Station Directory](#the-station-directory)
+- [💿 HiRes Stations](#hires-stations)
+- [🌐 Multi-Station Networks](#multi-station-networks)
+- [🧪 Experimental, Nerdy & Scanners](#experimental-nerdy--scanners)
+- [🔗 Advanced: Finding Direct Stream URLs](#advanced-finding-direct-stream-urls)
+- [🗺️ Directories & Discovery Tools](#directories--discovery-tools)
 - [🤝 Contributing](#contributing)
-
+  
 ---
 ## 🎧 Apps & Players
 
@@ -383,7 +383,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[WXXI 88.5 FM – Rochester](http://wxxi.org)**: Public radio with classical music and culture.
 
 ---
-## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">41 stations</kbd> <a id="hires-lossless"></a>
+## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">41 stations</kbd>
 *All stations listed here broadcast in confirmed lossless FLAC format unless otherwise noted.*
 - **[60 North Radio](https://60north.radio)**: Eclectic mix of rock, pop, and global electronic music.
 - **[95bFM Radio](https://streams.95bfm.com/stream112)**: Indie, Pop, Rock, Hip Hop, and Electronic.
@@ -427,7 +427,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - **[Violent Forces Radio](https://violentforcesradio.com)**: Dedicated Thrash Metal stream.
 - **[Youventus Radio](http://youventusradio.hu)**: Pop and Classic Hits.
 ---
-## 🌐 Multi-Station Networks <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">23 stations</kbd> <a id="multi-station"></a>
+## 🌐 Multi-Station Networks <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">23 stations</kbd>
 - **[0nRadio](https://0nradio.com/)**: Extensive themed stations spanning pop, chill, jazz, and ambient.
 - **[1.FM Radio Network](https://radio.1cloud.fm/all-stations)**: Swiss-based network offering 65+ high-quality, commercial-free channels.
 - **[113.fm](https://113fmradio.com/Browse)**: Community-driven network with 70+ channels across all decades and genres.
@@ -499,7 +499,7 @@ Hundreds of single-artist, 24/7 mono streams from the **[You.Radio](https://you.
 3.  **The "Hacker" Method:** Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and then start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, or starting with `icecast`/`shoutcast`.
 
 ---
-## 🗺️ Directories & Discovery Tools <a id="directories"></a>
+## 🗺️ Directories & Discovery Tools
 *Can't find a station in the list above or in your favorite app? Try these global databases.*
 
 ### 🔍 Comprehensive Databases
@@ -509,7 +509,7 @@ Hundreds of single-artist, 24/7 mono streams from the **[You.Radio](https://you.
 - **[Icecast Directory](https://dir.xiph.org)**: The central hub for independent and self-hosted broadcasters.
 
 ---
-## 🤝 Contributing <a id="contributing"></a>
+## 🤝 Contributing
 
 I welcome contributions! Whether it's a new station, a reliable app, or a discovery tool, this list is kept alive by the community.
 
