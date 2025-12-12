@@ -9,6 +9,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/deroverda/recommended-radio-streams?style=flat-square&color=yellow)](https://github.com/deroverda/recommended-radio-streams/stargazers)
 [![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
 [![Last Commit](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
+[![GitHub Discussions](https://img.shields.io/github/discussions/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams/discussions)
 
 </div>
 
@@ -102,8 +103,10 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [9128.live](https://9128.live): Curated by A Strangely Isolated Place, featuring ambient, drone, and archived live performances.
 - [AM Ambient](https://radio.stereoscenic.com/ama-s): Uplifting, beat-free ambient music for daytime listening.
 - [Ambient FM](https://phoebe.streamerr.co:4140/ambient.mp3): Solar-powered ambient soundscapes inspired by desert environments.
-- ⭐ [Ambient Sleeping Pill](https://s.stereoscenic.com/asp-h.m3u): Ambient, beat-free music for sleep/study.
+- ⭐ [Ambient Sleeping Pill](https://s.sterescenic.com/asp-h.m3u): Ambient, beat-free music for sleep/study.
 - [Ambinature Radio](https://nature-rex.radioca.st/stream): Natural sounds for sleep, relaxation, and meditation (no music).
+- [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Soothing, instrumental versions of popular songs from Mexico.
+- [bigFM LoFi Focus](https://stream.bigfm.de/lofifocus/mp3-128/radiobrowser): German stream providing chill Lo-Fi Hip Hop beats designed for concentration and study.
 - [Antenne Bayern – CoffeeHouse](https://www.antenne.de/webradio/coffeemusic): Soft pop, lounge, and relaxing music for a coffeehouse vibe.
 - [Birdsong FM](https://www.birdsong.fm/): A dedicated 24/7 radio station playing only birdsong.
 - [Chillsky Chillhop Radio](https://chill.radioca.st/stream): Lo-Fi Hip Hop & Chilled beats 24/7, ad-free.
@@ -129,10 +132,13 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Calm Radio](https://calmradio.com/channel-guide/classical-music): A collection of channels including Symphony, Opera, and various Classical Mixes.
 - [Concertzender - Baroque](http://streams.greenhost.nl:8080/barok): Baroque classical music.
 - [Concertzender - Old music](http://streams.greenhost.nl:8080/oudemuziek): Pre-classical-era compositions.
+- [Classical KDFC](https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac): California Bay Area’s premier listener-supported station dedicated to classical music.
 - [Linn Classical](http://radio.linn.co.uk:8004/autodj): Classical music, featuring the best selections from Linn Records.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): 24/7 self-playing mechanical instruments: pianos, organs, music boxes.
 - [Only Mozart](http://abm21.com.au:8000/CONTAINER10): Dedicated to the compositions of Wolfgang Amadeus Mozart.
 - [Piano](http://stream.p-node.org/piano): Continuous stream of piano-only classical and experimental music.
+- [Radio Suisse Classique](http://stream.srg-ssr.ch/m/rsc_fr/mp3_128): Swiss public broadcaster dedicated to classical music, opera, and orchestral works.
+- [Radio Swiss - Classic](http://stream.srg-ssr.ch/m/rsc_de/mp3_128): Bern-based non-stop classical music stream known for its relaxing and high-quality selection.
 - [Tuned In Radio – Classical](https://tunedinradio.com): Classical music with a focus on orchestral and chamber pieces.
 - [Walm 2 HD](https://icecast.walmradio.com:8443/walm2): Traditional Christian and Classical.
 - [WBJC Baltimore](https://www.wbjc.com/): Classical voice of Baltimore City Community College.
@@ -140,8 +146,9 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [WGBH 99.5 FM](http://wgbh.org): Classical music and opera, including local and international performances.
 - [WMNR](https://www.wmnr.org/listen): Public radio with classical (Connecticut-based).
 - ⭐ [WQXR Q2 – New York Public Radio](http://wqxr.org): 24/7 classical music.
+- [WQXR 105.9 FM](https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600): New York City’s sole dedicated classical music station.
 
-### 🏛️ College, Freeform & Community <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">52 stations</kbd> <a id="college-freeform-community"></a>
+### 🏛️ College, Freeform & Community <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">58 stations</kbd> <a id="college-freeform-community"></a>
 *Eclectic mixes, human curation, and genre-defying broadcasts. Expect the unexpected.*
 - [8 Ball Radio](https://8ballradio.nyc): NYC-based artist collective broadcasting public-access style freeform, electronic, and talk.
 - [20ft Radio - Kyiv, Ukraine](https://20ft-radio.radiocult.fm/stream): Music broadcast from the former Strichka factory.
@@ -188,12 +195,18 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Radio Sofa - Paris region](https://listen.radioking.com/radio/292531/stream/338878): Collective focused on radio broadcasting, events, and visual arts.
 - [SoCal Sound, The](http://thesocalsound.org/): Contemporary California rock, pop, and indie.
 - ⭐ [Soho Radio](https://sohoradiolondon.com/): London-based station with music and talk.
+- [Subcity Radio](URL): The independent, non-profit radio station of the University of Glasgow, championing underground music.
 - [Time Capsule Show](https://ckut.ca/timecapsule/): Time-traveling journey through music history.
 - [Totally Wired Radio](http://totallywiredradio.com): Indie, punk, and alternative music.
+- [WAMU American University Radio](URL): Washington D.C.’s NPR station, known for news and its "Bluegrass Country" programming.
+- [WFMU - Rock 'n' Soul Radio](URL): A specific stream from WFMU focusing on gritty rock, R&B, and soul.
+- [WFMU - Sheena's Jungle Room](URL): A WFMU stream dedicated to Garage, Surf, Exotica, and Rockabilly.
+- [WMSE](URL): "Frontier Radio" from Milwaukee, a freeform station playing blues, rock, and independent music.
 - [WNCW 88.7](http://wncw.org/): Eclectic mix including folk, bluegrass, and world music.
 - [WRIR 97.3 – Richmond, VA](http://wrir.org): Community radio with diverse music and talk.
 - [WTJU 91.1 – University of Virginia](http://wtju.net): College radio with indie, jazz, and more.
 - ⭐ [WXYC 89.3FM – Chapel Hill](https://wxyc.org/): Freeform radio with diverse music from UNC Chapel Hill.
+- [WZRD 89.3](URL): "The Wizard," a freeform student station from Northeastern Illinois University known for experimental sounds.
 - [Xray FM - Pacific Northwest](https://xray.fm/listen): Indie non-profit playing new and experimental music.
 
 ### ⚡ Electronic <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">35 stations</kbd> <a id="electronic"></a>
@@ -282,6 +295,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - ⭐ [Jazz Groove, The](https://jazzgroove.org): A specialized 5-channel network (Laid-back, Sleep, Vocals, etc.).
 - ⭐ [Jazz24](https://www.jazz24.org/): Smooth and contemporary jazz.
 - [JazzFM – UK](http://jazzfm.com): British station focused on jazz, blues, and soul.
+- [KCSM Jazz 91.1 FM](http://ice7.securenetsystems.net/KCSM2): California Bay Area’s premier listener-supported station dedicated to 24-hour jazz.
 - [KEWU-FM 89.5](https://streamer.radio.co/s3ba633066/listen): Public radio station dedicated to straight-ahead jazz.
 - [KKJZ-HD88.1](https://kkjz.org/): Jazz and blues with educational programming from Cal State Long Beach.
 - [KSDS Jazz 88.3 FM](https://www.jazz88.org/): Classic and contemporary jazz from San Diego.
@@ -304,9 +318,12 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [FIP Reggae](http://icecast.radiofrance.fr/fipreggae-hifi.aac): FIP's dedicated 100% reggae channel.
 - [King Dub Radio](http://london-dedicated.myautodj.com:8862/stream): Roots, culture, and digital dub.
 
-### 🎸 Rock, Pop, Folk & Oldies <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">29 stations</kbd> <a id="rock-pop-folk-oldies"></a>
+### 🎸 Rock, Pop, Folk & Oldies <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">39 stations</kbd> <a id="rock-pop-folk-oldies"></a>
 - [Ace Cafe Radio](https://listen.radioking.com/radio/69079/stream/106852): Rock ‘n’ Roll, bikes, and cars from London's legendary Ace Cafe.
 - [Antenne Bayern - Germany](https://www.antenne.de/webradio/): German station playing pop, classic hits, and entertainment.
+- [BBC Radio 1](http://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/pc_hd_abr_v2/ak/bbc_radio_one.m3u8): The UK's flagship public youth station playing contemporary pop, dance, and rock.
+- [BBC Radio 2](http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d128000.norewind.m3u8): The UK's most popular station featuring adult contemporary music, chat, and culture.
+- [Beatles Radio](http://streaming.exclusive.radio/er/beatles/icecast.audio): US-based fan station streaming the music, interviews, and solo projects of The Beatles 24/7.
 - [Boogaloo Radio - London](https://streams.radio.co/sb88c742f0/listen): The world's first 24-hour pub radio (rock, soul, indie).
 - ⭐ [Classic Vinyl HD](https://walmradio.com/classic/): Classic rock and vinyl hits.
 - [Country Radio – USA](https://country-radio.com/): Country music, including classic and contemporary hits.
@@ -314,12 +331,15 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Doctor Pundit - Yacht Rock Jams](https://www.doctorpundit.com/media/): Smooth Yacht Rock hits from the late 70s and early 80s.
 - [Flower Power Radio](https://nl1.streamingpulse.com/ssl/flowerpowerradio): Hits from the 1950s, '60s, and '70s, including Rock 'n' Roll legends.
 - [Folk Alley – Ohio](https://folkalley.com/): Folk, Americana, and traditional music from Ohio.
+- [Grateful Dead Radio - WGDR](http://cassini.shoutca.st:8574/): Dedicated stream playing non-stop live recordings, rarities, and jams by the Grateful Dead.
+- [GTA Radio](http://stream.laut.fm/gta-classics): Nostalgic stream playing the various fictional radio station soundtracks from the *Grand Theft Auto* video game series.
 - [Irish Pub Radio](http://irishpubradio.com): Traditional Irish music for an authentic pub vibe.
 - [MacSlon's Irish Pub Radio](http://www.macslons-irish-pub-radio.com/): Irish folk and traditional music for a pub vibe.
 - [Mad Music Radio](https://wgdr.rocks/): Classic rock, oldies, blues, jazz, and Grateful Dead deep cuts.
 - [Majestic Jukebox](https://uk3.internet-radio.com/proxy/majesticjukebox/live): '40s–'80s hits across jazz, swing, rock, blues and country.
 - [Morow - Prog Rock](https://stream.fr.morow.com/morow_med.aacp): Dedicated Prog Rock Radio, streaming from Paris, France.
 - [Penthouse, The](https://thepenthouse.fm/): Soul, R&B, classic pop, and modern music with a smooth sound.
+- [Planet Pootwaddle](https://planetpootwaddle.com/): A unique "un-radio" station mixing deep rock tracks with satire, comedy, and high-quality production.
 - [Prog Palace Radio](https://cheetah.streemlion.com:4775/stream): Progressive Rock, Progressive Metal, and Power Metal Station.
 - ⭐ [Psychedelicized](https://psychedelicized.com/): Obscure 60s–70s psychedelic, garage, prog, and freakbeat.
 - [Pumpkin FM - 1940s radio](http://pumpkinfm.com/1940s-stream): Old Time Radio Network: Hits and shows from the 1940s.
@@ -329,10 +349,11 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Radio Nostalgia](http://cast1.torontocast.com:1630/stream): Classic pop hits from the 1940s-1980s.
 - [Radio Subasio – Italy](http://radiosubasio.com): Contemporary and classic Italian pop and rock.
 - [Retro Attic, The](https://psn3.prostreaming.net:2199/tunein/theretro.pls): ’50s–'70s lost and classic oldies and forgotten gems.
-- [Sky Radio 101FM – Netherlands](https://www.skyradio.nl/): US pop and contemporary hits from the Netherlands.
+- [SMRN5001](https://smrn5001.com/): Niche stream likely focusing on specific oldies, cruising classics, or automotive-themed nostalgia.
 - [Technicolor Web Of Sound](https://www.techwebsound.com/): 1960s psychedelic rock and pop deep cuts.
 - [Ultimate Oldies Radio](http://ultimateoldiesradio.com): 50s-70s music history, focusing on lost hits.
 - ⭐ [Vintage Obscura Radio](http://vintageobscura.com): Forgotten gems across genres.
+- [Wayback Radio](https://s5.citrus3.com:8244/stream): Iowa-based station playing classic hits and nostalgia programming.
 - [WLIR 92.7 – New York](http://wliwfm.org): Long Island's alternative rock, pop, and indie station.
 - [WYRM (Yacht Rock Miami)](https://usa20.fastcast4u.com:4100/1753014835): Mellow Yacht Rock sound from the late 70s and 80s.
 
@@ -389,12 +410,15 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [laut.fm - Rocklive](https://stream.laut.fm/rocklive): Live rock and pop.
 - ⭐ [Nugs Radio](https://radio.nugs.net/nugsnet): Live recordings of rock and jam bands (mostly Grateful Dead).
 
-### 🎙️ News & Spoken Word <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">14 stations</kbd> <a id="news-spoken-word"></a>
+### 🎙️ News & Spoken Word <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">22 stations</kbd> <a id="news-spoken-word"></a>
 - [AudioBookRadio](http://www.audiobookradio.net): Spoken word: audiobooks, poetry, classic plays, and interviews.
+- [BBC Radio 4](http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8): Renowned UK spoken-word station offering news, drama, comedy, history, and science programming.
+- [BBC World Service](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service): Global broadcaster providing international news, analysis, and cultural programs in English.
 - [Dark Entertainments - Horror Radio](https://darkentertainments.com/): Nonstop classic horror dramas and atmospheric soundscapes.
 - [Her.st - Propaganda Broadcast](https://her.st/radio/): Conspiracy, philosophy, and classic talk/lecture archives.
 - [Historyradio.org](https://historyradio.org): Educational stream featuring literature, historical speeches, and audiobooks.
 - [KNBR 104.5 – KFOG S.F. Talk/Music](http://knbr.com): San Francisco station blending talk and music.
+- [NPR 24 Hour Program Stream](	http://npr-ice.streamguys1.com/live.mp3): The primary audio stream for National Public Radio, featuring news, talk, and cultural programming.
 - [Radio France Internationale – World News](http://rfi.org): Global news programming.
 - [Radio Free Europe/Radio Liberty](https://www.rferl.org/): News for countries with limited media freedoms.
 - [Radio Krimi](http://radiokrimi.com): Mystery-themed radio dramas and audio thrillers.
@@ -404,7 +428,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [WBEZ 91.5 FM – Chicago](http://wbez.org): Public radio with news, talk, and culture from Chicago.
 - [WNYC 93.9 FM – New York](http://wnyc.org): Public radio with news, talk, and culture from New York.
 - [WXXI 88.5 FM – Rochester](http://wxxi.org): Public radio with classical music and culture.
-
 ---
 ## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">41 stations</kbd> <a id="hires-lossless"></a>
 *All stations listed here broadcast in confirmed lossless FLAC format unless otherwise noted.*
