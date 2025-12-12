@@ -248,16 +248,21 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [Slay Radio](https://slayradio.org/): Community-driven Commodore 64 remixes and chiptunes.
 - [SpriteLayer](https://www.spritelayerradio.com/public/spritelayer_video_game_radio): A blend of FM-Synth, vaporwave, and retro-gaming aesthetics.
 
-### 🕺 Funk, Soul, Disco & Hip-Hop <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">9 stations</kbd> <a id="funk-soul-disco-hip-hop"></a>
+### 🕺 Funk, Soul, Disco & Hip-Hop <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">13 stations</kbd> <a id="funk-soul-disco-hip-hop"></a>
 - [181.FM - Old School HipHop/RnB](http://listen.181fm.com/181-oldschool_128k.mp3): Old school hip-hop/R&B.
+- [54house.fm](https://www.54house.fm/): Grown-up house, funky disco house, and nu disco dedicated to Chicago House culture.
 - [90s90s HipHop & Rap](http://streams.90s90s.de/hiphop/mp3-192/streams.90s90s.de/): 90s hip-hop and rap.
+- [Big Noise Radio](https://bignoiseradio.com/): Underground hip-hop and soulful boom-bap beats, focusing on independent conscious artists.
 - [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, Soul, Rare Groove, and Lounge music from Dublin.
 - [FUNKY RADIO - Only Funk Music](https://funkyradio.streamingmedia.it/play.mp3): Ad-free classic '60s–'80s funk with rare cuts and deep grooves.
 - [International Rare Groove](https://www.irgradio.net/): Global grooves and forgotten rare funk, soul, and disco.
-- ⭐ [Mojo Club - Laut.FM](https://mojo.stream.laut.fm/mojo): Deep funk, Latin beats, dancefloor jazz, and remixes.
+- [Mojo Club - Laut.FM](https://mojo.stream.laut.fm/mojo): Deep funk, Latin beats, dancefloor jazz, and remixes.
 - [Old School Rap (Australian Digital Radio)](http://abm21.com.au:8000/CONTAINER69): Continuous stream of classic rap from the golden era.
 - [Penthouse, The](https://thepenthouse.fm/): Soul, R&B, classic pop, and modern music with a smooth sound.
-- [Retro Soul Radio UK](https://www.retrosoulradio.co.uk): Classic and contemporary soul music from the UK.hires
+- [Retro Soul Radio UK](https://www.retrosoulradio.co.uk): Classic and contemporary soul music from the UK.
+- [The Funky Channel](https://thefunkychannel.com/): Non-stop funk, disco classics, soul anthems, and R&B hits from the 70s to today.
+- [WEFUNK Radio](https://wefunkradio.com/): Montreal-based funk, soul, and old-school hip-hop institution (since 1996).
+
 
 ### 🎷 Jazz & Blues <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">32 stations</kbd> <a id="jazz-blues"></a>
 - [1.FM - Smooth Jazz](https://strm112.1.fm/smoothjazz_mobile_mp3?aw_0_req.gdpr=true): Contemporary jazz and soothing melodies. *Contains Ads*
