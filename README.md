@@ -16,7 +16,7 @@
 
 # 📻 Recommended Radio Streams
 
-A personally maintained, hand‑vetted directory of standout internet radio streams. Explore hundreds of reliable stations across 40+ genres, plus a guide to apps, tools, and stream‑finding methods so the music never stops.
+A hand‑picked, regularly updated list of internet radio stations I actually listen to. Hundreds of solid streams across 40+ genres, plus notes on apps, tools, and ways to find even more.
 
 ---
 ## Table of Contents
