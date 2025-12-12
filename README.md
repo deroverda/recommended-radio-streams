@@ -19,18 +19,17 @@ A **personally maintained, hand‑vetted directory** of standout internet radio 
 
 ---
 ## Table of Contents
-
-- [🎧 Apps & Players](#apps--players)
-- [📻 The Station Directory](#the-station-directory)
-- [💿 HiRes Stations](#hires-stations)
-- [🌐 Multi-Station Networks](#multi-station-networks)
-- [🧪 Experimental, Nerdy & Scanners](#experimental-nerdy--scanners)
-- [🔗 Advanced: Finding Direct Stream URLs](#advanced-finding-direct-stream-urls)
-- [🗺️ Directories & Discovery Tools](#directories--discovery-tools)
+- [🎧 Apps & Players](#apps-players)
+- [📻 The Station Directory](#station-directory)
+- [💿 HiRes Stations](#hires-lossless)
+- [🌐 Multi-Station Networks](#multi-station)
+- [🧪 Experimental, Nerdy & Scanners](#experimental)
+- [🔗 Advanced: Finding Direct Stream URLs](#finding-urls)
+- [🗺️ Directories & Discovery Tools](#directories)
 - [🤝 Contributing](#contributing)
   
 ---
-## 🎧 Apps & Players
+## 🎧 Apps & Players <a id="apps-players"></a>
 
 Pick an app based on your device. These are the most reliable, radio-nerd–approved players.
 
