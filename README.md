@@ -257,7 +257,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd–appr
 - [FUNKY RADIO - Only Funk Music](https://funkyradio.streamingmedia.it/play.mp3): Ad-free classic '60s–'80s funk with rare cuts and deep grooves.
 - [International Rare Groove](https://www.irgradio.net/): Global grooves and forgotten rare funk, soul, and disco.
 - [Mojo Club - Laut.FM](https://mojo.stream.laut.fm/mojo): Deep funk, Latin beats, dancefloor jazz, and remixes.
-- [Old School Rap (Australian Digital Radio)](http://abm21.com.au:8000/CONTAINER69): Continuous stream of classic rap from the golden era.
 - [Penthouse, The](https://thepenthouse.fm/): Soul, R&B, classic pop, and modern music with a smooth sound.
 - [Retro Soul Radio UK](https://www.retrosoulradio.co.uk): Classic and contemporary soul music from the UK.
 - [The Funky Channel](https://thefunkychannel.com/): Non-stop funk, disco classics, soul anthems, and R&B hits from the 70s to today.
