@@ -572,25 +572,28 @@ How do I find the direct stream URL?
 - [Icecast Directory](https://dir.xiph.org): The central hub for independent and self-hosted broadcasters.
 
 ---
+
 ## 🤝 Contributing <a id="contributing"></a>
 
-I welcome contributions! Whether it's a new station, a reliable app, or a discovery tool, this list is kept alive by the community.
+This list stays alive thanks to the community!
 
-**How to submit a station:**
+### 🚀 Submit a Station
+The fastest way to add a station is to use one of the forms below.
 
-1.  **Check:** Ensure the stream works globally (not geo-blocked).
-2.  **Link Type:** Please provide the Official Website link if possible. Direct stream URLs (like `.m3u` or `.mp3`) are accepted, but official sites are preferred as they are less likely to break.
-3.  **Format:** If you can, please provide the link in this format:
+[![Submit via GitHub](https://img.shields.io/badge/✨_Via_GitHub_-(Recommended)-black?style=for-the-badge&logo=github)](https://github.com/deroverda/recommended-radio-streams/issues/new?template=submit-a-station.md)
+
+[![Submit via Google Form](https://img.shields.io/badge/✨_Via_Google_Form_-(No_Account_Needed)-4285F4?style=for-the-badge&logo=google-forms&logoColor=white)](https://forms.gle/CGchfUqNzV6smwo9A)
+
+### 🛠️ For Developers (Pull Requests)
+If you prefer to edit the `README.md` directly via a Pull Request, please follow the project style:
+
+1.  **Link Type:** Official Websites are preferred over raw IP/m3u links.
+2.  **Format:**
     ```markdown
     - [Station Name](Link URL): Description (Genre/Country)
     ```
 
-**Got an App, Tool, or Database?**
-Feel free to submit those too! Just ensure the app is actively maintained and relevant to internet radio.
-
-To Submit: [Open an Issue](https://github.com/deroverda/recommended-radio-streams/issues) or create a Pull Request.
-
-> 💡 **Curation Note:** This collection focuses on human-curated, unique, and high-quality broadcasts. To keep the list valuable, I generally avoid generic automated "Top 40" loops or low-bitrate streams.
+> 💡 **Curation Note:** This collection focuses on human-curated, unique, and high-quality broadcasts. I generally avoid generic automated "Top 40" loops or low-bitrate streams.
 
 ## ❤️ Acknowledgements
 
