@@ -209,7 +209,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [WFMU - Rock 'n' Soul Radio](https://wfmu.org/): A specific stream from WFMU focusing on gritty rock, R&B, and soul.
 - [WFMU - Sheena's Jungle Room](https://wfmu.org/): A WFMU stream dedicated to Garage, Surf, Exotica, and Rockabilly.
 - [WMSE](https://wmse.streamguys1.com/wmseliveaac.m3u): "Frontier Radio" from Milwaukee, a freeform station playing blues, rock, and independent music.
-- [WNCW 88.7](https://wncw.org/): Eclectic mix including folk, bluegrass, and world music.
+- [WNCW 88.7](http://wncw.org/): Eclectic mix including folk, bluegrass, and world music.
 - [WRIR 97.3 - Richmond, VA](https://wrir.org): Community radio with diverse music and talk.
 - [WSBF 88.1 FM - Clemson](https://wsbf.net/stream/high): Student-run alternative and underground music from Clemson University.
 - [WSUM 91.7 FM - Madison](https://ice23.securenetsystems.net/WSUMFM): "The Snake on the Lake," the diverse student station of UW-Madison.
@@ -231,7 +231,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Pumpkin FM - 1940s radio](http://pumpkinfm.com/1940s-stream): Old Time Radio Network: Hits and shows from the 1940s.
 - [Pumpkin FM - Radio England](http://pumpkinfm.com/radio-england-stream): Old Time Radio Network: Pirate radio-inspired rock and pop.
 - ⭐ [Radio Caroline 259 Gold](https://radiocaroline.co.uk): Classic hits inspired by pirate radio.
-- [Radio Dismuke](https://dismuke.org): Vintage popular music and jazz from 1925-1935.
+- [Radio Dismuke](http://dismuke.org): Vintage popular music and jazz from 1925-1935.
 - [Radio Nostalgia](http://cast1.torontocast.com:1630/stream): Classic pop hits from the 1940s-1980s.
 - [Retro Attic, The](https://psn3.prostreaming.net:2199/tunein/theretro.pls): '50s-'70s lost and classic oldies and forgotten gems.
 - [SMRN5001](https://smrn5001.com/): "Saturday Morning Radio" - Commercial-free Golden Oldies, Doo-Wop, and Rock 'n' Roll hits.
@@ -266,7 +266,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Mutant Radio](https://www.mutantradio.net): Experimental, alternative, and left-field electronic music hub.
 - [NTS Radio - Poolside](https://stream-mixtape-geo.ntslive.net/mixtape4): NTS's chill, summery electronic and downtempo vibes.
 - [OpenLab FM](https://openlab.fm): Ibiza-curated electronic music, visual arts, and culture.
-- [Paddygrooves - Island of the Gods](https://a12.siar.us/radio/8230/radio.mp3): Downtempo electronic and lounge from Bali (‘Island of the Gods').
+- [Paddygrooves - Island of the Gods](https://a12.siar.us/radio/8230/radio.mp3): Downtempo electronic and lounge from Bali ('Island of the Gods').
 - [Radio BipTunia](https://biptunia.com/): Experimental and quirky electronic music by the artist BipTunia.
 - [Radio Caprice - Minimal Tech House](http://www.radcap.ru/): Dedicated stream for minimal tech house.
 - [Radio DY10](https://flux.radiody10.com/airtime_128): Dance, tropical, Balearic & trippy electronic from Nantes.
@@ -295,11 +295,10 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Cyberpunk Radio](https://rekt.network/): Dubstep, DnB, Synthwave, Chillsynth, Datawave etc.
 - [Nightride FM](https://nightride.fm/): Features a polished interface with cinematic visuals. Select "Synthwave" or "Darksynth" for atmospheric vibes.
 - [Radio Record - Synthwave](http://radiorecord.hostingradio.ru/synth96.aacp): 24/7 Synthwave and Retrowave from Russia's leading dance station. <kbd>Ads</kbd>
-- [Retrowave.fm](https://retrowave.fm/): Pure nostalgia. No talking, just neon-soaked beats.
+- [Radio Caprice - Retrowave](http://79.120.39.202:9125/): Pure nostalgia. No talking, just neon-soaked beats.
 - [SomaFM - Underground 80s](https://somafm.com/u80s/): The actual obscure 80s synth-pop and early wave that inspired the modern genre.
 - [Synthwave City FM](https://www.synthwavecityfm.com/): Synthwave, retrowave, and chillwave radio.
 
- 
 ### 🕺 Funk, Soul & Disco <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">10 stations</kbd> <a id="funk-soul-disco"></a>
 - [54house.fm](https://www.54house.fm/): Grown-up house, funky disco house, and nu disco dedicated to Chicago House culture.
 - [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, Soul, Rare Groove, and Lounge music from Dublin.
@@ -317,7 +316,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Big Noise Radio](https://bignoiseradio.com/): Underground hip-hop and soulful boom-bap beats, focusing on independent conscious artists.
 - [God's House of Hip Hop (GH3 Radio)](https://gh3radio.com/): Award-winning station playing Christian Hip-Hop (CHH), Latin, and Gospel Rap.
 - [Hot 97 (WQHT New York)](https://www.hot97.com/): New York City's legendary Hip-Hop station. Essential for that raw NYC energy, new releases, and Funk Flex freestyles. <kbd>Ads</kbd>
-- [NTS Radio - Hip Hop](https://www.nts.live/guide/genre/hip-hop): Curated underground hip-hop from London, focusing on experimental and global sounds.
+- [NTS Radio - Low Key](https://www.nts.live/infinite-mixtapes): Covering everything chill - whether that's downtempo beats, Golden Age hip-hop or grown 'n' sexy slow jams.
 - [Radio Caprice - Old School Hip-Hop / Rap](http://213.141.131.10:8002/oldschoolhiphop): Dedicated stream for Old School Hip-Hop.
 - [Real Underground Radio, The](https://therealunderground.app/): Little Rock-based station streaming underground indie hip-hop, rap, and R&B.
 
@@ -353,7 +352,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Shonan Beach FM](https://www.beachfm.co.jp/): Japanese coastal station playing jazz, Hawaiian AOR, and sophisticated pop.
 - [Smooth Jazz Chicago](http://smoothjazzchicago.com): Smooth jazz with classic and contemporary tracks.
 - [TSF Jazz 89.9 FM - Paris](https://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3): Jazz, talk shows, and interviews from Paris.
-- ⭐ [WBGO 88.3](https://wbgo.org): New York-based jazz and blues.
+- ⭐ [WBGO 88.3](http://wbgo.org): New York-based jazz and blues.
 - [WDNA 88.9](https://wdna.org): Miami-based jazz and Latin jazz.
 
 ### 🤘 Metal & Heavy <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">5 stations</kbd> <a id="metal-heavy"></a>
@@ -405,7 +404,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [laut.fm - Alive](https://stream.laut.fm/alive): Live rock songs from legends and deep cuts.
 - [laut.fm - Rocklive](https://stream.laut.fm/rocklive): Straight-up live rock and pop performances.
 - [Live Jam Radio](https://stations.radio-host.com/stream/livejam/stream.pls): All live recordings - jam bands, improvisational rock, and funk.
-- [MacSlon's Irish Pub Radio](https://www.macslons-irish-pub-radio.com/): Irish folk and traditional music for a pub vibe.
+- [MacSlon's Irish Pub Radio](http://www.macslons-irish-pub-radio.com/): Irish folk and traditional music for a pub vibe.
 - [Mad Music Radio](https://wgdr.rocks/): Classic rock, oldies, blues, jazz, and Grateful Dead deep cuts.
 - [Morow - Prog Rock](https://stream.fr.morow.com/morow_med.aacp): Dedicated Prog Rock Radio, streaming from Paris, France.
 - ⭐ [Nugs Radio](https://radio.nugs.net/nugsnet): The gold standard for official live rock & jam band recordings (heavy on Grateful Dead, Phish, etc.).
@@ -482,11 +481,11 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 *All stations listed here broadcast in confirmed lossless FLAC format unless otherwise noted.*
 
 - [60 North Radio](https://60north.radio): Broadcasting from the Shetland Islands at 60° North. Features a cozy, hand-picked mix of singer-songwriters, folk, and atmospheric global sounds, often accompanied by live coastal webcam feeds.
-- [95bFM Radio](https://streams.95bfm.com/stream112): New Zealand’s legendary student-run broadcaster (since 1969). A raw, authentic mix of underground indie, alternative rock, and Kiwi music that you won't hear on commercial airwaves.
+- [95bFM Radio](https://streams.95bfm.com/stream112): New Zealand's legendary student-run broadcaster (since 1969). A raw, authentic mix of underground indie, alternative rock, and Kiwi music that you won't hear on commercial airwaves.
 - [AIDAradio](https://aidaradio.de): The official station of AIDA Cruises. A bright, "vacation mood" mix of Pop, Soft Rock, and feel-good hits designed to bring the atmosphere of the sea to your home.
 - [BDPST Rock](http://s2.audiostream.hu:8091/bdpstrock_FLAC): A heavy-hitting Hungarian station dedicated to AOR (Album Oriented Rock), Hard Rock, and Classic Rock anthems from the 70s to today.
 - [BluesWave Radio](https://blueswave.radio): A dedicated audiophile stream for Blues, Blues-Rock, and Americana. Known for playing high-dynamic-range tracks that showcase the grit and texture of the genre.
-- [Cheese, The](https://thecheese.co.nz): New Zealand’s ultimate "guilty pleasure" station. A fun, nostalgia-fueled mix of retro pop, disco, and cheesy party anthems from the 70s, 80s, and 90s.
+- [Cheese, The](https://thecheese.co.nz): New Zealand's ultimate "guilty pleasure" station. A fun, nostalgia-fueled mix of retro pop, disco, and cheesy party anthems from the 70s, 80s, and 90s.
 - [ČRo (Czech Radio) Network](https://rozhlas.cz): The national public broadcaster of the Czech Republic, offering pristine feeds for Classical (Vltava), Jazz, and Alternative/Youth culture (Wave).
 - [Dance Wave!](https://dancewave.online): High-energy Vocal Trance and Dance music. Focuses on the "Golden Era" of dance (2000–present) with a punchy, crystal-clear sound signature.
 - [Danubius Radio](https://danubiusradio.hu): A retrospective pop station focusing on the golden era of Hungarian and international radio hits from the 80s and 90s.
@@ -516,7 +515,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Radio Random](https://radiorandom.org): True to its name, this station serves up a completely unpredictable shuffle of Rock, Pop, Country, Jazz, and Hip-Hop without adhering to a single genre.
 - [Radio Sputnik](https://radiosputnik.nl): Underground Techno, Tech-House, and Minimal beats broadcast from the Netherlands.
 - [Riverside Radio](https://riversideradio.nl): A friendly mix of Classic Rock, Pop, and Dutch hits.
-- [Rondo Classic](https://rondo.fi): Finland’s premier Classical network. Features "Klasu" (Broad classical) and "Klasu Pro" (Full-length works) with pristine symphonic recordings.
+- [Rondo Classic](https://rondo.fi): Finland's premier Classical network. Features "Klasu" (Broad classical) and "Klasu Pro" (Full-length works) with pristine symphonic recordings.
 - [Roxy Radio](http://roxyradio.hu): A Top 40 station focusing on the biggest chart-toppers of the last decade and today.
 - [Sveriges Radio: P2](https://edge1.sr.se/p2-flac): The classical and folk channel of Sweden's public broadcaster, featuring high-quality live concert recordings and opera.
 - [TEKnival Radio](https://teknivalradio.com): 100% Rave culture. Hardtek, Tribe, and Acid Techno streaming 24/7.
