@@ -1,83 +1,123 @@
----
-name: Submit a station
-about: Add a station to the greatest radio list on the internet
-title: ''
-labels: enhancement
-assignees: deroverda
-
----
-
-name: 🎵 Submit a new station
-description: Add a station to the greatest radio list on the internet
-title: "[Station Submission] "
+name: 🎵 Submit a new Station
+description: Propose a high-quality station for the global list.
+title: "[New Station]: <Station Name Here>"
 labels: ["submission", "needs-review"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thank you for making this list even more legendary ❤️
-        Please fill this out and I'll add it within 24h (usually faster).
-
+        # 📻 Station Submission
+        Thanks for contributing! Please ensure the station works globally and isn't already on the list.
+        _Fields marked with an asterisk (*) are required._
+        
   - type: input
     id: station-name
     attributes:
       label: Station Name
-      description: Exact name as it should appear
-      placeholder: ex. FIP
-    validations:
-      required: true
-
-  - type: input
-    id: website
-    attributes:
-      label: Official Website / Web Player URL
-      description: Preferred. Direct stream URLs accepted only if no website exists.
-      placeholder: https://www.radiofrance.fr/fip
+      description: The official name of the station.
+      placeholder: e.g. FIP Radio
     validations:
       required: true
 
   - type: textarea
     id: description
     attributes:
-      label: One-sentence vibe check
-      description: Why is this station good? 
-      placeholder: ex. The pioneer of independent internet radio. Famous for ambient, downtempo, and "Groove Salad" vibes.
+      label: The Vibe Check
+      description: In one sentence, why does this station belong here?
+      placeholder: e.g. The pioneer of independent internet radio. Famous for ambient, downtempo, and "Groove Salad" vibes.
     validations:
       required: true
 
   - type: dropdown
     id: genre
     attributes:
-      label: Main Genre(s) – pick up to 3
+      label: Category / Genre
+      description: Select the section where this station belongs.
       multiple: true
       options:
-        - Chill / Ambient / Lo-Fi
-        - Electronic / Dance
-        - Jazz / Soul / Funk
-        - Rock / Indie / Alternative
-        - Classical / Instrumental
-        - Metal / Extreme
-        - Hip-Hop / R&B
-        - Reggae / Dub / Afro
-        - World / Regional
-        - Vaporwave / Future Funk
-        - Video Game / Chiptune
-        - HiRes / Lossless
-        - Experimental / Weird
-        - Other (specify in description)
+        - 🧘 Ambient, Lo-Fi & Chill
+        - 🎻 Classical & Opera
+        - 🏛️ College, Freeform & Community
+        - 🕰️ Decades, Oldies & Nostalgia
+        - ⚡ Electronic: General, House & Techno
+        - 🍬 Electronic: Hyperpop & Glitchcore
+        - 🏎️ Electronic: Phonk & Drift
+        - 🌅 Electronic: Synthwave & Retrowave
+        - 🕺 Funk, Soul & Disco
+        - 🎤 Hip-Hop & Rap
+        - 🎷 Jazz & Blues
+        - 🤘 Metal & Heavy
+        - 🎙️ News & Spoken Word
+        - 🦁 Reggae & Dub
+        - 🎸 Rock, Indie, Alt, Country & Folk
+        - 👾 Video Game & Chiptune
+        - 🌍 World & Regional
+        - 🎄 Christmas Music & Holiday
+        - 💿 HiRes / Lossless Focused
+        - 🧪 Experimental, Nerdy & Scanners
+        - 🌐 Multi-Station Network
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ### 📡 Technical Details
+        We prefer direct stream links (m3u, pls, mp3, aac) over web players.
+
+  - type: input
+    id: stream-url
+    attributes:
+      label: Direct Stream URL
+      description: The direct link to the audio stream (ends in .mp3, .m3u8, etc). If unavailable, paste the Web Player URL.
+      placeholder: https://icecast.radiofrance.fr/fip-midfi.mp3
+    validations:
+      required: true
+
+  - type: input
+    id: website
+    attributes:
+      label: Official Website
+      placeholder: https://www.radiofrance.fr/fip
+    validations:
+      required: false
+
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: City, Country (or "Global/Internet Only")
+      placeholder: Paris, France
+    validations:
+      required: false
+
+  - type: dropdown
+    id: quality
+    attributes:
+      label: Audio Quality
+      description: What is the broadcast quality?
+      options:
+        - Unknown
+        - Standard (128kbps MP3/AAC)
+        - High (192kbps - 256kbps)
+        - Lossless / Hi-Res (FLAC/ALAC)
+    validations:
+      required: false
 
   - type: checkboxes
     id: confirmation
     attributes:
-      label: Final check
+      label: Final Checks
       options:
-        - label: I have tested the stream in the last 24 hours and it works globally (no geo-block)
+        - label: I have tested the stream in the last 24 hours.
           required: true
-        - label: This station is human-curated (not AI-generated slop)
+        - label: This station works globally (no geo-blocking).
+          required: true
+        - label: This is a human-curated station (no AI-generated playlists).
           required: true
 
   - type: markdown
     attributes:
       value: |
-        That’s it. Hit submit and go touch grass. I’ll do the rest.
-        – deroverda
+        _Hit submit and relax. I'll review this typically within 24h._ ✌️
