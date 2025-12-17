@@ -308,7 +308,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [International Rare Groove](https://www.irgradio.net/): London-based station playing rare soul, funk, jazz, and global grooves.
 - [Mojo Club - Laut.FM](https://mojo.stream.laut.fm/mojo): Deep funk, Latin beats, dancefloor jazz, and remixes.
 - [Penthouse, The](https://thepenthouse.fm/): Soul, R&B, classic pop, and modern music with a smooth sound.
-- ⭐ [Radio Krimi](http://radiokrimi.com): "The Soundtrack for Gangsters" — A music station playing hip-hop, funk, and jazz with a film noir vibe.
+- ⭐ [Radio Krimi](http://radiokrimi.com): "The Soundtrack for Gangsters" - A music station playing hip-hop, funk, and jazz with a film noir vibe.
 - [Retro Soul Radio UK](https://www.retrosoulradio.co.uk): Classic and contemporary soul music from the UK.
 - [WEFUNK Radio](https://wefunkradio.com/): Montreal-based funk, soul, and old-school hip-hop institution (since 1996).
 
@@ -404,7 +404,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [ISKC Radio Group](https://mediaserv68.live-streams.nl:18012/OnlyLive): Pure live rock 24/7.
 - [laut.fm - Alive](https://stream.laut.fm/alive): Live rock songs from legends and deep cuts.
 - [laut.fm - Rocklive](https://stream.laut.fm/rocklive): Straight-up live rock and pop performances.
-- [Live Jam Radio](https://stations.radio-host.com/stream/livejam/stream.pls): All live recordings — jam bands, improvisational rock, and funk.
+- [Live Jam Radio](https://stations.radio-host.com/stream/livejam/stream.pls): All live recordings - jam bands, improvisational rock, and funk.
 - [MacSlon's Irish Pub Radio](https://www.macslons-irish-pub-radio.com/): Irish folk and traditional music for a pub vibe.
 - [Mad Music Radio](https://wgdr.rocks/): Classic rock, oldies, blues, jazz, and Grateful Dead deep cuts.
 - [Morow - Prog Rock](https://stream.fr.morow.com/morow_med.aacp): Dedicated Prog Rock Radio, streaming from Paris, France.
@@ -493,7 +493,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [Djam Radio](https://djam.radio): A rhythmic journey through World Music, specializing in warm Afro-beat, Latin grooves, and Caribbean vibes perfect for a sunny afternoon.
 - [Easy Radio](https://easyradio.bg): A laid-back "Work and Relax" station from Bulgaria featuring Soft Pop, smooth jazz vocals, and adult contemporary favorites.
 - [Fréquence 3](https://frequence3.fr): A historic French web radio station playing a high-energy Top 40 and Pop mix with audiophile-grade audio processing.
-- [Futura.FM](https://futura.fm): Dedicated to the "Dark Wave" aesthetic—expect a curated flow of 80s Synth-pop, New Wave, and Post-Punk classics.
+- [Futura.FM](https://futura.fm): Dedicated to the "Dark Wave" aesthetic-expect a curated flow of 80s Synth-pop, New Wave, and Post-Punk classics.
 - [High Fi Dream Radio](https://audiophile.fm/high-fi-dream-radio): Broadcasting from San Jose, CA. A unique "free-form" station blending Ambient electronica, Dark Wave, and 80s deep cuts without commercials.
 - [Intense Radio](https://intenseradio.net): A Dutch station for the harder side of electronic music. Expect pumping Hard Dance, Trance, and hands-in-the-air House anthems.
 - [Jammin Vibez Network](https://jamminvibeznetwork.ca): A massive network of Caribbean culture streams including Reggae, Dancehall, Soca, and Roots, all in high-definition audio.
@@ -522,7 +522,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [TEKnival Radio](https://teknivalradio.com): 100% Rave culture. Hardtek, Tribe, and Acid Techno streaming 24/7.
 - [TrancePulse](https://trance.ie): Broadcasting from Ireland, this station focuses on uplifting and progressive Trance.
 - [Violent Forces Radio](https://violentforcesradio.com): A relentless stream of Thrash, Speed, and Old School Metal for those who want their FLAC loud and fast.
-- [Youventus Radio](http://youventusradio.hu): Formerly Juventus Radio, now a "Chillout Pop" station playing 5-star classics. Notable for its "Zero Talk/Zero Politics" policy—just music.
+- [Youventus Radio](http://youventusradio.hu): Formerly Juventus Radio, now a "Chillout Pop" station playing 5-star classics. Notable for its "Zero Talk/Zero Politics" policy-just music.
 
 ---
 ## 🌐 Multi-Station Networks <a id="multi-station"></a>
