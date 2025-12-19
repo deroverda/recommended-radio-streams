@@ -631,7 +631,7 @@ This list stays alive thanks to the community!
 ### 🚀 Submit a Station
 The fastest way to add a station is to use one of the forms below.
 
-[![Submit via GitHub](https://img.shields.io/badge/✨_Via_GitHub_-(Recommended)-black?style=flat-square&logo=github)](https://github.com/deroverda/recommended-radio-streams/issues/new?template=submit-a-station.md)
+[![Submit via GitHub](https://img.shields.io/badge/✨_Via_GitHub_-(Recommended)-black?style=flat-square&logo=github)](https://github.com/deroverda/recommended-radio-streams/issues/new?template=submit-a-station.yml)
 
 [![Submit via Google Form](https://img.shields.io/badge/✨_Via_Google_Form_-(No_Account_Needed)-4285F4?style=flat-square&logo=google-forms&logoColor=white)](https://forms.gle/CGchfUqNzV6smwo9A)
 
