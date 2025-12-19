@@ -56,8 +56,18 @@ body:
         - 💿 HiRes / Lossless Focused
         - 🧪 Experimental, Nerdy & Scanners
         - 🌐 Multi-Station Network
+        - ❓ Other / Unlisted (Specify below)
     validations:
       required: true
+
+  - type: input
+    id: other-genre
+    attributes:
+      label: Custom Genre (if "Other" selected)
+      description: If you selected "Other" above, please describe the genre here.
+      placeholder: e.g. K-Pop, Bluegrass, Math Rock
+    validations:
+      required: false
 
   - type: markdown
     attributes:
