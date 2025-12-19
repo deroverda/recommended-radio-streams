@@ -67,19 +67,20 @@ body:
         We prefer links to the official station website or web player, as direct stream links often change.
 
   - type: input
-    id: stream-url
+    id: website
     attributes:
-      label: Direct Stream URL
-      description: The direct link to the audio stream (ends in .mp3, .m3u8, etc). If unavailable, paste the Web Player URL.
-      placeholder: https://icecast.radiofrance.fr/fip-midfi.mp3
+      label: Official Website / Web Player
+      description: The main page where we can listen to the station.
+      placeholder: https://www.radiofrance.fr/fip
     validations:
       required: true
 
   - type: input
-    id: website
+    id: stream-url
     attributes:
-      label: Official Website
-      placeholder: https://www.radiofrance.fr/fip
+      label: Direct Stream URL (Optional)
+      description: If you happen to have the direct stream link (.m3u, .pls, .mp3), add it here. Otherwise, leave blank.
+      placeholder: https://icecast.radiofrance.fr/fip-midfi.mp3
     validations:
       required: false
 
@@ -110,7 +111,7 @@ body:
     attributes:
       label: Final Checks
       options:
-        - label: I have tested the stream in the last 24 hours.
+        - label: I have tested the link in the last 24 hours.
           required: true
         - label: This station works globally (no geo-blocking).
           required: true
