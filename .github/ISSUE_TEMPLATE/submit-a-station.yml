@@ -64,7 +64,7 @@ body:
       value: |
         ---
         ### 📡 Technical Details
-        We prefer direct stream links (m3u, pls, mp3, aac) over web players.
+        We prefer links to the official station website or web player, as direct stream links often change.
 
   - type: input
     id: stream-url
