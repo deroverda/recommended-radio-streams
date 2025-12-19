@@ -87,7 +87,7 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 ---
 ## 📻 The Station Directory <a id="station-directory"></a>
 > [!NOTE]
-> To keep this list reliable, many links point to the official station website or web player. Direct stream URLs (like `.m3u` or `.mp3`) change frequently, while official sites stay up.
+> To keep this list reliable, most links point to the official station website. Direct stream URLs change frequently. If you need raw links for custom players, check the [Advanced Guide](#finding-urls) below.
 
 ⭐ = Stations marked with a star are personal favorites or highly recommended by the community.
 
@@ -479,7 +479,6 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 ---
 ## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">43 stations</kbd> [⬆](#top) <a id="hires-lossless"></a>
 *All stations listed here broadcast in confirmed lossless FLAC format unless otherwise noted.*
-
 - [60 North Radio](https://60north.radio): Broadcasting from the Shetland Islands at 60° North. Features a cozy, hand-picked mix of singer-songwriters, folk, and atmospheric global sounds, often accompanied by live coastal webcam feeds.
 - [95bFM Radio](https://streams.95bfm.com/stream112): New Zealand's legendary student-run broadcaster (since 1969). A raw, authentic mix of underground indie, alternative rock, and Kiwi music that you won't hear on commercial airwaves.
 - [AIDAradio](https://aidaradio.de): The official station of AIDA Cruises. A bright, "vacation mood" mix of Pop, Soft Rock, and feel-good hits designed to bring the atmosphere of the sea to your home.
@@ -649,8 +648,8 @@ The fastest way to add a station is to use one of the forms below.
 ### 🛠️ For Developers (Pull Requests)
 If you prefer to edit the `README.md` directly via a Pull Request, please follow the project style:
 
-1.  **Link Type:** Official Websites are preferred over raw IP/m3u links.
-2.  **Format:**
+1.  **Link Type:** Official Websites are preferred for stability. Direct stream URLs (`.m3u`, `.mp3`) are accepted if the official site is difficult to use.
+3.  **Format:**
     ```markdown
     - [Station Name](Link URL): Description (Genre/Country)
     ```
