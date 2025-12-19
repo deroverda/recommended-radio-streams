@@ -41,6 +41,7 @@ A hand‑picked, regularly updated list of internet radio stations I actually li
     - [🦁 Reggae & Dub](#reggae-dub)
     - [🎸 Rock, Indie, Alternative, Country & Folk](#rock-indie-alternative-country-folk)
     - [👾 Video Game & Chiptune](#video-game-chiptune)
+    - [🎬 Soundtracks & Movie Scores](#soundtracks-scores)
     - [🌍 World & Regional](#world-regional)
     - [🎄 Christmas Music & Holiday](#christmas-music-holiday)
 - [💿 HiRes Stations](#hires-lossless)
@@ -430,6 +431,12 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 - [SceneSat](https://scenesat.com/): Demoscene music and tracker modules (the roots of chiptune).
 - [Slay Radio](https://slayradio.org/): Community-driven Commodore 64 remixes and chiptunes.
 - [SpriteLayer](https://www.spritelayerradio.com/public/spritelayer_video_game_radio): A blend of FM-Synth, vaporwave, and retro-gaming aesthetics.
+
+### 🎬 Soundtracks & Movie Scores <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">3 stations</kbd> [⬆](#top) <a id="soundtracks-scores"></a>
+- [Cinemix](https://www.cinemix.us/): High-quality stream of movie soundtracks and orchestral scores. Perfect for working.
+- [Streaming Soundtracks](https://www.streamingsoundtracks.com/): A listener-supported station playing scores from movies, TV, and anime.
+- [1.FM - Movie Soundtrack](http://strm112.1.fm/moviesoundtracks_mobile_mp3): The magic of the big screen goes radio with the greatest songs of the best movies from blockbuster to art-house.
+
 
 ### 🌍 World & Regional <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">37 stations</kbd> [⬆](#top) <a id="world-regional"></a>
 - [Afro FM](https://zeno.fm/radio/fm-afro/): African music mix. (🌍)
