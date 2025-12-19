@@ -64,18 +64,19 @@ Pick an app based on your device. These are the most reliable, radio-nerd-approv
 | [CuterDio](https://cuterdio.com/en) | iOS | `Open Source` | Completely free, lightweight, and privacy-focused. |
 | [Eter](https://apps.apple.com/se/app/eter-streaming-internet-radio/id1523221566) | iOS | `Freemium` | Clean, native UI. Free version is generous. |
 | ⭐ [Frog Radio](https://apps.apple.com/us/app/frogradio/id1442306286) | iOS | `Paid` | Huge database (50k+). iCloud syncs with the Mac app. |
+| [Triode](https://triode.app/) | iOS | `Freemium` | Premium feel with excellent artwork handling. |
 | [Open Radio](https://play.google.com/store/apps/details?id=com.yuriy.openradio) | Android | `Open Source` | Simple interface, works great with Android Auto. |
 | ⭐ [RadioDroid](https://github.com/segler-alex/RadioDroid) | Android | `Open Source` | Highly capable player. Supports recording and Chromecast. |
 | [Transistor](https://codeberg.org/y20k/transistor) | Android | `Open Source` | Minimalist, battery-friendly, and distraction-free. |
-| [Triode](https://triode.app/) | iOS | `Freemium` | Premium feel with excellent artwork handling. |
+
 
 ### 💻 Desktop
 | App Name | OS | License | Description |
 | :--- | :---: | :---: | :--- |
 | [CuterDio](https://cuterdio.com/en) | macOS | `Open Source` | A fast, open-source alternative to Frog Radio. |
-| ⭐ [Foobar2000](https://www.foobar2000.org/) | Windows | `Freeware` | The modular classic. Handles massive libraries. |
+| ⭐ [Foobar2000](https://www.foobar2000.org/) | Windows / Mac | `Freeware` | The modular classic. Handles massive libraries. |
 | ⭐ [Frog Radio](https://frogradio.net/) | macOS | `Paid` | A native Mac experience with iCloud sync. |
-| [QMPlay2](https://github.com/zaps166/QMPlay2) | Win / Mac / Lin | `Open Source` | Very lightweight. Plays *any* stream URL. |
+| [QMPlay2](https://github.com/zaps166/QMPlay2) | Windown / Mac / Linux | `Open Source` | Very lightweight. Plays *any* stream URL. |
 | ⭐ [Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave) | Linux | `Open Source` | Modern GNOME/GTK integration. Beautiful UI. |
 | [Tuner](https://github.com/louis77/tuner) | Linux | `Open Source` | Minimalist and simple. |
 
