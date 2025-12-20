@@ -110,7 +110,7 @@ Pick an app based on your device. These are reliable, community-approved players
 
 ### 🧘 Ambient, Lo-Fi & Chill <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">24 stations</kbd> [⬆](#top) <a id="ambient-lo-fi-chill"></a>                                       
 - [24/7 Lo-Fi Radio](https://www.247lofiradio.com/): Lo-Fi music for background listening.
-- [9128.live](https://9128.live): Ambient, drone, and archived live sets, curated by A Strangely Isolated Place.
+- ⭐ [9128.live](https://9128.live): Ambient, drone, and archived live sets, curated by A Strangely Isolated Place.
 - [AM Ambient](https://radio.stereoscenic.com/ama-s): Uplifting, beat-free ambient music for peaceful daytime listening.
 - [Ambient FM](https://phoebe.streamerr.co:4140/ambient.mp3): Solar-powered ambient soundscapes inspired by desert environments.
 - ⭐ [Ambient Sleeping Pill](https://s.stereoscenic.com/asp-h.m3u): A seamless, beat-free stream designed for sleep, meditation, and deep focus.
@@ -137,7 +137,7 @@ Pick an app based on your device. These are reliable, community-approved players
 
 ### 🎻 Classical & Opera <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">17 stations</kbd> [⬆](#top) <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments (zero modern sounds).
-- [BBC Radio 3](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Classical, jazz, world music, and drama.
+- ⭐ [BBC Radio 3](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Classical, jazz, world music, and drama.
 - [Classical KDFC](https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac): The San Francisco Bay Area's listener-supported station, part of the Classical California network.
 - [Concertzender - Baroque](http://streams.greenhost.nl:8080/barok): Baroque classical music.
 - [Concertzender - Old Music](http://streams.greenhost.nl:8080/oudemuziek): Pre-classical-era compositions.
@@ -190,13 +190,13 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Hollow Earth Radio](http://centova.rockhost.com:8001/stream): Music from marginalized communities (Seattle-based).
 - [ilovemusic](https://ilovemusic.de): German eclectic radio platform.
 - [Internet Public Radio](https://www.internetpublicradio.live/): Independently curated by local and international DJs and artists.
-- [Kiosk Radio - Brussels](https://kioskradio.com/): Eclectic electronic and jazz from a wooden shack in the park.
+- ⭐ [Kiosk Radio - Brussels](https://kioskradio.com/): Eclectic electronic and jazz from a wooden shack in the park.
 - [KPISS](https://kpiss.fm/): Eclectic DJ-supported internet radio with specialty shows.
 - [KTKE 101.5 FM](https://www.truckeetahoeradio.com/): Truckee Tahoe Radio. Mix of music and talk shows.
 - [KWSX Radio](https://radio.kwsx.online/): A bleeding-edge, freeform online station focused on the radical erosion of genre.
 - ⭐ [Le Mellotron](https://lemellotron.com): Eclectic Parisian station.
 - [Loose FM - London](https://loosefm.radiocult.fm/stream): Radio community for eclectic and experimental sounds.
-- [Lot Radio, The - NYC](https://www.thelotradio.com): Independent underground hub streaming from a Brooklyn shipping container.
+- ⭐ [Lot Radio, The - NYC](https://www.thelotradio.com): Independent underground hub streaming from a Brooklyn shipping container.
 - [Ness Radio](https://radio.nessradio.net:8212/nessradio): Alternative musical program (focus on discovery and community).
 - [Netil Radio](https://netilradio.out.airtime.pro/netilradio_a): London community radio from a shipping container.
 - [NEU Radio - Bologna](https://nr9.newradio.it:19205/stream): Cultural hub streaming afrobeats to indie rock, plus podcasts.
@@ -223,7 +223,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/): A mix of 60s beat, garage rock, psychedelia, and remnants of the jazz beatnik era.
 - ⭐ [Classic Vinyl HD](https://walmradio.com/classic/): Classic rock and vinyl hits.
 - [Flower Power Radio](https://nl1.streamingpulse.com/ssl/flowerpowerradio): The soundtrack of the Peace & Love era, featuring 60s and 70s rock and pop.
-- [LuxuriaMusic](https://luxuriamusic.com): Surf music, bossa nova, exotica, space-age bachelor pad, jazz, soft-psych, sunshine pop, wall of sound, Latin, and go-go.
+- ⭐ [LuxuriaMusic](https://luxuriamusic.com): Surf music, bossa nova, exotica, space-age bachelor pad, jazz, soft-psych, sunshine pop, wall of sound, Latin, and go-go.
 - [Majestic Jukebox](https://uk3.internet-radio.com/proxy/majesticjukebox/live): '40s-'80s hits across jazz, swing, rock, blues, and country.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): 24/7 stream of self-playing instruments: fairground organs, music boxes, and player pianos.
 - [Old Time Radio](https://oldtime.radio/): Classic radio shows from the 1930s-50s with themed channels (comedy, western, action) and vintage commercials via The Internet Archive.
@@ -257,7 +257,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Expansions (NTS)](https://stream-mixtape-geo.ntslive.net/mixtape3): NTS's infinite mixtape of eclectic and psychedelic global electronic sounds.
 - [FluxFM](https://www.fluxfm.de/musik): German broadcaster with dozens of themed music channels.
 - [Frisky Radio](https://www.friskyradio.com): Underground electronic network featuring Chill, Deep, and Techno channels. <kbd>Ads</kbd>
-- [Intergalactic FM - Cybernetic Broadcasting System](http://radio.intergalactic.fm/1.m3u): Multichannel cult radio station playing 24/7.
+- ⭐ [Intergalactic FM - Cybernetic Broadcasting System](http://radio.intergalactic.fm/1.m3u): Multichannel cult radio station playing 24/7.
 - [Italoradio.fm](https://italoradio.fm/): Continuous stream of classic and contemporary Italo-disco music.
 - [KissFM](http://online.kissfm.ua/KissFM): The dedicated trance and progressive channel from Ukraine's leading dance station, Kiss FM.
 - [Limbik Frequencies - Radio Elektro[u]nique](https://limbikfreq.com/public/limbik_frequencies): Deep, dark, and experimental electronic beats.
@@ -292,7 +292,7 @@ Pick an app based on your device. These are reliable, community-approved players
 
 #### 🌅 Synthwave & Retrowave <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">5 stations</kbd> [⬆](#top) <a id="synthwave-retrowave"></a>
 - [Cyberpunk Radio](https://rekt.network/): Multi-genre electronic station featuring dubstep, DnB, synthwave, chillsynth, and datawave.
-- [Nightride FM](https://nightride.fm/): Features a polished interface with cinematic visuals. Select "Synthwave" or "Darksynth" for atmospheric vibes.
+- ⭐ [Nightride FM](https://nightride.fm/): Features a polished interface with cinematic visuals. Select "Synthwave" or "Darksynth" for atmospheric vibes.
 - [Radio Record - Synthwave](http://radiorecord.hostingradio.ru/synth96.aacp): 24/7 synthwave and retrowave from Russia's leading dance station. <kbd>Ads</kbd>
 - [Radio Caprice - Retrowave](https://radcap.ru/): Pure nostalgia with neon-soaked beats.
 - [Synthwave City FM](https://www.synthwavecityfm.com/): Synthwave, retrowave, and chillwave radio.
