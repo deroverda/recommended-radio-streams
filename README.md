@@ -181,6 +181,7 @@ Pick an app based on your device. These are reliable, community-approved players
 #### 🌐 Global Independent & Online Communities <a id="global-indie-radio"></a>
 *Underground hubs, shipping container studios, and internet collectives.*
 - [20ft Radio - Kyiv, Ukraine](https://20ft-radio.radiocult.fm/stream): Music broadcast from the former Strichka factory.
+- [8Radio.com](https://8radio.com/): Independent Irish station playing a curated mix of new indie, alternative, and hidden gems.
 - [8 Ball Radio](https://8ballradio.nyc): NYC-based artist collective broadcasting public-access style freeform, electronic, and talk.
 - [Aaja Music - London](https://aaja.radiocult.fm/stream): Full spectrum music bar, record label, and live streaming space.
 - ⭐ [Dandelion Radio](http://stream.dandelionradio.com:8000/live): Independent internet radio inspired by BBC's John Peel.
