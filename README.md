@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="https://github.com/deroverda/recommended-radio-streams/blob/main/banner_new.png?raw=true" width="400" alt="Project Banner">
+<img src="https://github.com/deroverda/recommended-radio-streams/blob/main/banner_new.png?raw=true" width="400" alt="Recommended Radio Streams - A curated list of internet radio stations">
 
 <br>
 <br>
@@ -124,8 +124,8 @@ Pick an app based on your device. These are reliable, community-approved players
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Zero-beat ambient drone and drift music for deep relaxation and sleep.
 - [Fluid Radio](http://uk4-vn.webcast-server.net:9270/): Ambient, modern classical, and acoustic post-rock.
 - [FluxFM - FluxLounge](https://fluxfm.de/fluxlounge): Relaxed soft pop, acoustic, and singer-songwriter tunes.
-- ⭐ [FreeCodeCamp](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3): Focus-friendly 24/7 coding music.
-- [Hunter.FM - Lo-Fi](https://live.hunter.fm/lofi_normal): Soft beats to focus, relax or fall asleep.
+- ⭐ [FreeCodeCamp Radio](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3): Focus-friendly 24/7 coding music.
+- [Hunter.FM - Lo-Fi](https://live.hunter.fm/lofi_normal): Soft beats to focus, relax, or fall asleep.
 - [Kyoto Connection, The](https://www.thekyotoconnection.com/): Japanese ambient, shimmering synths, and subtle field recordings.
 - [LocaFM - Ambient](https://s2.we4stream.com/listen/loca_ambient/live): Spanish electronic music station focusing on pure ambient and chillout. <kbd>Ads</kbd>
 - [Moon Phase Radio](https://cp12.serverse.com/proxy/moonphase/stream): Commercial-free ambient, downtempo, and electronic.
@@ -135,24 +135,24 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Radio Schizoid - Chillout](http://94.130.113.214:8000/chill): Psychedelic chillout, ambient, and goa-inspired trance music.
 - [Smooth Chill](https://media-ssl.musicradio.com/ChillMP3): A relaxing mix of downtempo, trip-hop, and soulful chillout tracks.
 
-### 🎻 Classical & Opera <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">19 stations</kbd> [⬆](#top) <a id="classical-opera"></a>
+### 🎻 Classical & Opera <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">17 stations</kbd> [⬆](#top) <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments (zero modern sounds).
 - [BBC Radio 3](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Classical, jazz, world music, and drama.
 - [Classical KDFC](https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac): The San Francisco Bay Area's listener-supported station, part of the Classical California network.
 - [Concertzender - Baroque](http://streams.greenhost.nl:8080/barok): Baroque classical music.
-- [Concertzender - Old music](http://streams.greenhost.nl:8080/oudemuziek): Pre-classical-era compositions.
-- [Linn Classical](http://radio.linn.co.uk:8004/autodj): Classical music, featuring the best selections from Linn Records.
+- [Concertzender - Old Music](http://streams.greenhost.nl:8080/oudemuziek): Pre-classical-era compositions.
+- [Linn Classical](http://radio.linn.co.uk:8004/autodj): Classical music featuring selections from Linn Records.
 - [Only Mozart](http://abm21.com.au:8000/CONTAINER10): Dedicated to the compositions of Wolfgang Amadeus Mozart.
-- [OperaRadio-MRG.Fm](http://listen.mrg.fm:8110/;): Only the greatest opera recordings, performers, orchestras and conductors.
+- [OperaRadio-MRG.fm](http://listen.mrg.fm:8110/stream): Opera recordings featuring renowned performers, orchestras, and conductors.
 - [Piano](http://stream.p-node.org/piano): Continuous stream of piano-only classical and experimental music.
 - [Radio Suisse Classique](http://stream.srg-ssr.ch/m/rsc_fr/mp3_128): French-language Swiss public radio dedicated to classical music, opera, and orchestral works.
 - [Walm 2 HD](https://icecast.walmradio.com:8443/walm2): Sacred choral works and traditional classical music.
 - [WBJC Baltimore](https://www.wbjc.com/): Classical voice of Baltimore City Community College.
-- [WCRB 99.5 FM](https://www.classicalwcrb.org/): Boston's 24/7 all-classical station, featuring performances by the Boston Symphony Orchestra.
-- [WFMT Chicago](https://www.wfmt.com/): Classical music since 1951, diverse programming.
-- [WMNR](https://www.wmnr.org/listen): Public radio with classical (Connecticut-based).
-- ⭐ [WQXR Q2 - New York Public Radio](https://wqxr.org): New York's dedicated contemporary classical and experimental music stream, featuring living composers and avant-garde works.
-- [WQXR 105.9 FM](https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600): New York City's sole dedicated classical music station.
+- [WCRB 99.5 FM](https://www.classicalwcrb.org/): Boston's 24/7 all-classical station featuring performances by the Boston Symphony Orchestra.
+- [WFMT Chicago](https://www.wfmt.com/): Classical music since 1951 with diverse programming.
+- [WMNR](https://www.wmnr.org/listen): Public radio with classical music (Connecticut-based).
+- ⭐ [WQXR Q2 - New York Public Radio](https://www.wqxr.org/): New York's dedicated contemporary classical and experimental music stream featuring living composers and avant-garde works.
+- [WQXR 105.9 FM](https://stream.wqxr.org/wqxr-web): New York City's sole dedicated classical music station.
 
 ### 🏛️ College, Freeform & Community <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">51 stations</kbd> [⬆](#top) <a id="college-freeform-community"></a>
 *Eclectic mixes, human curation, and genre-defying broadcasts.*
@@ -222,21 +222,21 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/): A mix of 60s beat, garage rock, psychedelia, and remnants of the jazz beatnik era.
 - ⭐ [Classic Vinyl HD](https://walmradio.com/classic/): Classic rock and vinyl hits.
 - [Flower Power Radio](https://nl1.streamingpulse.com/ssl/flowerpowerradio): The soundtrack of the Peace & Love era, featuring 60s and 70s rock and pop.
-- [LuxuriaMusic](https://luxuriamusic.com): Surf Music, Bossa Nova, Exotica, Space-Age Bachelor Pad, Jazz, Soft-Psych, Sunshine Pop, Wall of Sound, Latin, Go-Go.
-- [Majestic Jukebox](https://uk3.internet-radio.com/proxy/majesticjukebox/live): '40s-'80s hits across jazz, swing, rock, blues and country.
+- [LuxuriaMusic](https://luxuriamusic.com): Surf music, bossa nova, exotica, space-age bachelor pad, jazz, soft-psych, sunshine pop, wall of sound, Latin, and go-go.
+- [Majestic Jukebox](https://uk3.internet-radio.com/proxy/majesticjukebox/live): '40s-'80s hits across jazz, swing, rock, blues, and country.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): 24/7 stream of self-playing instruments: fairground organs, music boxes, and player pianos.
-- [Old Time Radio](https://oldtime.radio/): Classic radio shows from the 1930s-50s with themed channels (Comedy, Western, Action) and vintage commercials via The Internet Archive.
+- [Old Time Radio](https://oldtime.radio/): Classic radio shows from the 1930s-50s with themed channels (comedy, western, action) and vintage commercials via The Internet Archive.
 - [Pumpkin FM - 1940s radio](http://pumpkinfm.com/1940s-stream): Old Time Radio Network: Hits and shows from the 1940s.
 - [Pumpkin FM - Radio England](http://pumpkinfm.com/radio-england-stream): Old Time Radio Network: Pirate radio-inspired rock and pop.
 - ⭐ [Radio Caroline 259 Gold](https://radiocaroline.co.uk): Classic hits inspired by pirate radio.
 - [Radio Dismuke](http://dismuke.org): Vintage popular music and jazz from 1925-1935.
 - [Radio Nostalgia](http://cast1.torontocast.com:1630/stream): Classic pop hits from the 1940s-1980s.
 - [Retro Attic, The](https://psn3.prostreaming.net:2199/tunein/theretro.pls): '50s-'70s lost and classic oldies and forgotten gems.
-- [SMRN5001](https://smrn5001.com/): "Saturday Morning Radio" - Commercial-free Golden Oldies, Doo-Wop, and Rock 'n' Roll hits.
+- [SMRN5001](https://smrn5001.com/): "Saturday Morning Radio" - Commercial-free golden oldies, doo-wop, and rock 'n' roll hits.
 - [Technicolor Web Of Sound](https://www.techwebsound.com/): 1960s psychedelic rock and pop deep cuts.
 - [Time Capsule Show](https://ckut.ca/timecapsule/): Time-traveling journey through music history.
 - [Ultimate Oldies Radio](https://ultimateoldiesradio.com): 50s-70s music history, focusing on lost hits.
-- ⭐ [Van Morrison](https://2.mystreaming.net/er/vanmorrison/icecast.audio): A 24/7 stream dedicated entirely to the music of Van Morrison.
+- ⭐ [Van Morrison Radio](https://2.mystreaming.net/er/vanmorrison/icecast.audio): A 24/7 stream dedicated entirely to the music of Van Morrison.
 - ⭐ [Vintage Obscura Radio](https://vintageobscura.com): Forgotten gems across genres.
 - [Wayback Radio](https://s5.citrus3.com:8244/stream): Iowa-based station playing classic hits and nostalgia programming.
 - [Quiet Village, The](https://www.digitiki.com/radio.html): The soundtrack of a Tiki bar (Exotica, Hawaiian, and Vintage Lounge).
@@ -244,7 +244,7 @@ Pick an app based on your device. These are reliable, community-approved players
 ### ⚡ Electronic <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">47 stations</kbd> [⬆](#top) <a id="electronic"></a>
 
 #### 🎛️ General, House & Techno <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">33 stations</kbd> [⬆](#top) <a id="electronic-general"></a>
-- [54house.fm](https://www.54house.fm/): Classic Chicago House, Funky Disco House Tunes, Nu Disco, Deep, Tech & Progressive Sounds
+- [54house.fm](https://www.54house.fm/): Classic Chicago house, funky disco house tunes, nu disco, deep, tech, and progressive sounds.
 - [Acid House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER1): Non-stop stream of classic and contemporary acid house tracks.
 - [Afro House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER53): Afro house beats broadcasting from Australia.
 - [Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live): Balearic beats, house, and electronic lounge from Ibiza.
@@ -252,7 +252,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Dinamo.FM Caffe](http://channels.dinamo.fm/caffe-mp3): Istanbul-based station playing a blend of downtempo, nu-jazz, and soulful lounge.
 - [Dub Ninja](https://dub.ninja/): AI-mixed dub techno and ambient for deep focus and relaxation.
 - ⭐ [Dublin Digital Radio - Ireland](https://listen.dublindigitalradio.com/home): Indie, electronic, and experimental music from Dublin.
-- [Eurodance Radio](https://www.eurodance-radio.com/): The best of 90s Eurodance blending house, techno, and pop.
+- [Eurodance Radio](https://www.eurodance-radio.com/): A mix of 90s Eurodance.
 - [Expansions (NTS)](https://stream-mixtape-geo.ntslive.net/mixtape3): NTS's infinite mixtape of eclectic and psychedelic global electronic sounds.
 - [FluxFM](https://www.fluxfm.de/musik): German broadcaster with dozens of themed music channels.
 - [Frisky Radio](https://www.friskyradio.com): Underground electronic network featuring Chill, Deep, and Techno channels. <kbd>Ads</kbd>
@@ -289,15 +289,15 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Laut.fm - Phonk](https://laut.fm/phonk): Aggressive drift phonk with high BPM, cowbells, and distorted bass.
 - [Radio Record - Phonk](http://radiorecord.hostingradio.ru/phonk96.aacp): The dedicated Phonk channel from Russia's Radio Record network. <kbd>Ads</kbd>
 
-#### 🌅 Synthwave & Retrowave <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">6 stations</kbd> [⬆](#top) <a id="synthwave-retrowave"></a>
-- [Cyberpunk Radio](https://rekt.network/): Dubstep, DnB, Synthwave, Chillsynth, Datawave etc.
+#### 🌅 Synthwave & Retrowave <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">5 stations</kbd> [⬆](#top) <a id="synthwave-retrowave"></a>
+- [Cyberpunk Radio](https://rekt.network/): Multi-genre electronic station featuring dubstep, DnB, synthwave, chillsynth, and datawave.
 - [Nightride FM](https://nightride.fm/): Features a polished interface with cinematic visuals. Select "Synthwave" or "Darksynth" for atmospheric vibes.
-- [Radio Record - Synthwave](http://radiorecord.hostingradio.ru/synth96.aacp): 24/7 Synthwave and Retrowave from Russia's leading dance station. <kbd>Ads</kbd>
-- [Radio Caprice - Retrowave](https://radcap.ru/): Pure nostalgia. No talking, just neon-soaked beats.
+- [Radio Record - Synthwave](http://radiorecord.hostingradio.ru/synth96.aacp): 24/7 synthwave and retrowave from Russia's leading dance station. <kbd>Ads</kbd>
+- [Radio Caprice - Retrowave](https://radcap.ru/): Pure nostalgia with neon-soaked beats.
 - [Synthwave City FM](https://www.synthwavecityfm.com/): Synthwave, retrowave, and chillwave radio.
 
 ### 🕺 Funk, Soul & Disco <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">11 stations</kbd> [⬆](#top) <a id="funk-soul-disco"></a>
-- [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, Soul, Rare Groove, and Lounge music from Dublin.
+- [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, soul, rare groove, and lounge music from Dublin.
 - [Funky Channel, The](https://thefunkychannel.com/): Non-stop funk, disco classics, soul anthems, and R&B hits from the 70s to today.
 - [FUNKY RADIO - Only Funk Music](https://funkyradio.streamingmedia.it/play.mp3): Ad-free classic '60s-'80s funk with rare cuts and deep grooves.
 - [International Rare Groove](https://www.irgradio.net/): London-based station playing rare soul, funk, jazz, and global grooves.
@@ -332,7 +332,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Giants of Jazz Radio](https://streaming.radio.co/s297e618a7/listen): Classic jazz tracks from the '40s-'70s masters.
 - [Head Wax Radio](https://headwaxradio.radioca.st/stream): Future jazz, funk, and soulful grooves broadcasting from Dublin, Ireland.
 - [iFusion Radio](https://listen.radioking.com/radio/523747/stream/582004): Jazz fusion, progressive rock, and world music.
-- [Jazz & Blues Radio - United States](https://www.radio.se/s/jazzradio-blues): A mix of jazz and blues music.
+- [Jazz & Blues Radio](https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3): A mix of jazz and blues music.
 - [Jazz Con Class](https://jazzconclass.com): Classic jazz from the late '40s-'70s (hosted by Jose Reyes).
 - [Jazz Éire](https://visual.shoutca.st:8096/stream): The best of jazz music in Ireland and worldwide.
 - ⭐ [Jazz Groove, The](https://jazzgroove.org): A specialized 5-channel network (Laid-back, Sleep, Vocals, etc.).
@@ -360,15 +360,15 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Metal Devastation Radio](https://metaldevastationradio.com/): Underground-focused station featuring extreme metal (Death, Black, Thrash) and indie bands.
 - ⭐ [SomaFM - Metal Detector](https://somafm.com/metal/): No DJs, no commercials — an expertly curated stream of heavy music from Black to Doom to Sludge.
 
-### 🎙️ News & Spoken Word <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">17 stations</kbd> [⬆](#top) <a id="news-spoken-word"></a>
-- [AudioBookRadio](http://www.audiobookradio.net): Spoken word: audiobooks, poetry, classic plays, and interviews.
+### 🎙️ News & Spoken Word <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">18 stations</kbd> [⬆](#top) <a id="news-spoken-word"></a>
+- [AudioBookRadio](http://www.audiobookradio.net/): Spoken word content including audiobooks, poetry, classic plays, and interviews.
 - [BBC Radio 4](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Renowned UK spoken-word station offering news, drama, comedy, history, and science programming.
 - [BBC World Service](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Global broadcaster providing international news, analysis, and cultural programs in English.
 - [Dark Entertainments - Horror Radio](https://darkentertainments.com/): Nonstop classic horror dramas and atmospheric soundscapes.
 - [Her.st - Propaganda Broadcast](https://her.st/radio/): Conspiracy, philosophy, and classic talk/lecture archives.
 - [Historyradio.org](https://historyradio.org): Educational stream featuring literature, historical speeches, and audiobooks.
 - [NPR 24 Hour Program Stream](http://npr-ice.streamguys1.com/live.mp3): The primary audio stream for National Public Radio, featuring news, talk, and cultural programming.
-- [Radio France Internationale - World News](https://rfi.org): Global news programming.
+- [Radio France Internationale - World News](https://www.rfi.fr/en/): Global news programming.
 - [Radio Free Europe/Radio Liberty](https://www.rferl.org/): News for countries with limited media freedoms.
 - [Radio Marija - Lithuania](https://www.marijosradijas.lt/): Religious and spiritual programming from Lithuania.
 - [Radio New Zealand National](https://rnz.co.nz): Public radio with news, talk, and music from New Zealand.
@@ -382,13 +382,13 @@ Pick an app based on your device. These are reliable, community-approved players
 
 
 ### 🦁 Reggae & Dub <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">7 stations</kbd> [⬆](#top) <a id="reggae-dub"></a>
-- ⭐ [Alpha Boys School Radio](https://alphaboysschoolradio.com): Ska, rocksteady, and jazz from the legendary Kingston school that birthed Jamaican music.
+- ⭐ [Alpha Boys School Radio](https://alphaboysschoolradio.com/): Ska, rocksteady, and jazz from the legendary Kingston school that birthed Jamaican music.
 - [Badam Radio](https://play.radioking.io/badam-radioseb): Reggae, dub, dancehall, and roots.
-- ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com): Bermuda-based station playing deep Dub, Roots, and Reggae.
+- ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com/): Bermuda-based station playing deep dub, roots, and reggae.
 - [FIP Reggae](http://icecast.radiofrance.fr/fipreggae-hifi.aac): FIP's dedicated 100% reggae channel.
-- [Irie FM](https://usa19.fastcast4u.com:7430/;): A major Jamaican radio station known for roots, conscious lyrics, and dancehall, broadcasting since 1990.
-- [King Dub Radio](http://london-dedicated.myautodj.com:8862/stream): Heavyweight Dub, Steppas, and Sound System culture.
-- [Roots FM](http://138.201.198.218:8043/;): Straight roots reggae and dub. No commercial filler, just heavy bass and conscious vibes.
+- [Irie FM](https://usa19.fastcast4u.com:7430/stream): A major Jamaican radio station known for roots, conscious lyrics, and dancehall, broadcasting since 1990.
+- [King Dub Radio](http://london-dedicated.myautodj.com:8862/stream): Heavyweight dub, steppas, and sound system culture.
+- [Roots FM](http://138.201.198.218:8043/stream): Straight roots reggae and dub with no commercial filler.
 
 ### 🎸 Rock, Indie, Alternative, Country & Folk <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">25 stations</kbd> [⬆](#top) <a id="rock-indie-alternative-country-folk"></a>
 - [.977 Country](http://playerservices.streamtheworld.com/pls/977_COUNTRY.pls): Contemporary country hits and chart-toppers from one of the internet's oldest radio networks. <kbd>Ads</kbd>
@@ -416,7 +416,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [WLIR 92.7 - New York](http://hydra.cdnstream.com/1552_128?cb=71750.mp3): Legendary Long Island station focused on Classic Alternative, New Wave, and Synthpop. <kbd>Ads</kbd>
 - [WYRM (Yacht Rock Miami)](https://usa20.fastcast4u.com:4100/1753014835): Mellow Yacht Rock sound from the late 70s and 80s.
 
-### 👾 Video Game & Chiptune <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">16 stations</kbd> [⬆](#top) <a id="video-game-chiptune"></a>
+### 👾 Video Game & Chiptune <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">19 stations</kbd> [⬆](#top) <a id="video-game-chiptune"></a>
 - [Arcade Radio](https://arcaderadio.com/index.html): A passion project dedicated to classic video game soundtracks, emphasizing high-fidelity streams and the golden era of CD-based gaming.
 - [Classic Videogames Radio](https://www.classic-videogames.de/radio/): German station dedicated to the demoscene, cracker intros, and chiptunes of the 80s and 90s.
 - [CVGM](http://radio.cvgm.net:8000/cvgm192): A 24/7 tribute to the composers of Chiptune, Demoscene, and computer-related RetroGame music.
@@ -478,16 +478,20 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Radiooooo](https://radiooooo.com/): An interactive musical map. Select any country and any decade. (🌍)
 - [Rebetiko Sealabs](https://rebetiko.sealabs.net/radio): Greek urban folk music from late 1800s-1950s. (🇬🇷)
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Pure gamelan orchestra 24/7. Javanese and Balinese temple recordings. (🇮🇩)
-- [Shonan Beach FM](https://www.beachfm.co.jp/): Japanese coastal station playing jazz, Hawaiian AOR, and sophisticated pop.
-- [Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/;): Traditional Swedish folk music (Spelmansmusik) and fiddle tunes. (🇸🇪)
+- [Shonan Beach FM](https://www.beachfm.co.jp/): Japanese coastal station playing jazz, Hawaiian AOR, and sophisticated pop. (🇯🇵)
+- [Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/stream): Traditional Swedish folk music (Spelmansmusik) and fiddle tunes. (🇸🇪)
 - [Taui FM - Tahiti](https://theonestopradio.com/radio/taui-fm): Local and international music from Tahiti. (🇵🇫)
 - [West Limerick 102FM](https://westlimerick102fm.ie/): Community-run Irish station broadcasting all kinds of music and local news. (🇮🇪)
 
 
-### 🎄 Christmas Music & Holiday <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">3 stations</kbd> [⬆](#top) <a id="christmas-music-holiday"></a>
+### 🎄 Christmas Music & Holiday <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">7 stations</kbd> [⬆](#top) <a id="christmas-music-holiday"></a>
 - [Christmas FM Ireland](https://christmasfm.cdnstream1.com/2547_128.mp3): Ireland's dedicated Christmas station (classic and modern hits).
 - [Christmas Vinyl HD](https://icecast.walmradio.com:8443/christmas): The golden age of Christmas music.
-- [SomaFM - Jolly Ol' Soul](https://somafm.com/jollysoul/index.html): Mix of classic holiday tracks, rare soul, and R&B.
+- [SomaFM - Xmas in Frisko](https://somafm.com/xmasinfrisko/): SomaFM's wacky and eclectic holiday mix. Not for the easily offended.
+- [SomaFM - Christmas Lounge](https://somafm.com/christmas/): Chilled holiday grooves and classic winter lounge tracks.
+- [SomaFM - Christmas Rocks!](https://somafm.com/xmasrocks/): Have your self an indie/alternative holiday season!
+- [SomaFM - Jolly Ol' Soul](https://somafm.com/jollysoul/): Where we cut right to the soul of the season.
+- [SomaFM - Department Store Christmas](https://somafm.com/deptstore/): Holiday Elevator Music from a more innocent time.
 
 ---
 ## 💿 HiRes Stations <kbd style="font-size:0.62em;background:#333;color:#aaa;padding:2px 5px;border-radius:4px;vertical-align:middle;">42 stations</kbd> [⬆](#top) <a id="hires-lossless"></a>
@@ -520,7 +524,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [Pure Radio Holland](https://pureradio.eu): A high-fidelity network for electronic purists, with dedicated channels for Trance, Techno, Deep House, and Hardcore.
 - [Radio 90FM Valencia](https://radio90.fm): A Spanish station delivering a club-ready mix of Techno and Dance beats directly from Valencia.
 - [Radio Bias](https://biasradio.com): A deep dive into Italo-Disco, Euro-Pop, and Synthwave rarities. Perfect for fans of the specialized 70s/80s European dance sound.
-- [Radio Calico](https://radio-calico.com): eclectic mix… heavy on rock… also pop, new wave, old-school rap, classic jazz, even heavy metal.
+- [Radio Calico](https://radio-calico.com): Eclectic mix heavy on rock, plus pop, new wave, old-school rap, classic jazz, and heavy metal.
 - [Radio Club 80](https://radioclub80.cl): A Chilean station dedicated to the high-energy sounds of 80s Eurodance, Italo-Disco, and Retro Pop.
 - [Radio Jeunes Reims](https://radiojeunes.fr): A French youth station mixing urban contemporary, Hip Hop, and Electro-Pop hits.
 - [Radio Paradise Network](https://radioparadise.com): The pioneer of HiRes streaming. Offers four DJ-mixed channels (Main, Mellow, Rock, Global) known for seamless flow, no ads, and wide musical variety.
@@ -667,10 +671,10 @@ The fastest way to add a station is to use one of the forms below.
 ### 🛠️ For Developers (Pull Requests)
 If you prefer to edit the `README.md` directly via a Pull Request, please follow the project style:
 
-1.  **Link Type:** Official Websites are preferred for stability. Direct stream URLs (`.m3u`, `.mp3`) are accepted if the official site is difficult to use.
-3.  **Format:**
+1.  **Link Type:** Official websites are preferred for stability. Direct stream URLs (`.m3u`, `.mp3`) are accepted if the official site is difficult to use.
+2.  **Format:**
     ```markdown
-    - [Station Name](Link URL): Description (Genre/Country)
+    - [Station Name](Link URL): Description (Genre/Country).
     ```
 
 > [!IMPORTANT]
