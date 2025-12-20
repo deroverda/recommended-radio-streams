@@ -248,6 +248,7 @@ Pick an app based on your device. These are reliable, community-approved players
 - [54house.fm](https://www.54house.fm/): Classic Chicago house, funky disco house tunes, nu disco, deep, tech, and progressive sounds.
 - [Acid House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER1): Non-stop stream of classic and contemporary acid house tracks.
 - [Afro House (Australian Digital Radio)](http://abm22.com.au:8000/CONTAINER53): Afro house beats broadcasting from Australia.
+- [After Hours FM](https://ah.fm): Dedicated to trance and progressive. Streams exclusive, DJ-mixed shows and premieres from over 150 resident DJs.
 - [Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live): Balearic beats, house, and electronic lounge from Ibiza.
 - [Cashmere Radio](https://cashmereradio.com): Berlin-based community radio for experimental electronic and freeform sounds.
 - [Dinamo.FM Caffe](http://channels.dinamo.fm/caffe-mp3): Istanbul-based station playing a blend of downtempo, nu-jazz, and soulful lounge.
