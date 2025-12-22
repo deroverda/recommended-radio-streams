@@ -81,6 +81,10 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 
 ## The Station Directory <a id="station-directory"></a>
 
+> [!NOTE]
+> Most links point to the official station website to ensure reliability. Direct stream URLs change frequently. If you need raw links for custom players, see the [Advanced Guide](#finding-urls).
+
+
 ### The Starter Pack <a id="starter-pack"></a>
 - [BBC Radio 6 Music](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Alternative music, new releases, and deep cuts.
 - [dublab](https://dublab.com): Non-profit community collective for experimental and underground music.
@@ -578,11 +582,46 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 
 ---
 
-## Finding Direct Stream URLs <a id="finding-urls"></a>
+## Advanced: Finding Direct Stream URLs <a id="finding-urls"></a>
+*If a station isn't in an app database, you may need to find the raw URL manually.*
 
-1.  **Check the site:** Look for Winamp, PLS, M3U, or "Direct Stream" links.
-2.  **Firefox Method:** Use [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/).
-3.  **Inspector Method:** Press `F12`, use the **Network** tab, filter by **Media**, and play the station to find the source URL.
+> [!TIP]
+> Most apps listed at the top have built-in directories. Try searching for the station inside the app first.
+
+<details>
+<summary><strong>Guide: How to find Stream URLs</strong></summary>
+
+<br>
+
+**1. Check the site**
+Look for links labeled "Winamp," "PLS," "M3U," or "Direct Stream."
+
+**2. The Firefox Method**
+* Install [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) add-on.
+* In the add-on options, uncheck `Ignore direct links to media files`.
+* Play the radio on the website.
+* Click the add-on icon and select "Copy all visible URLs".
+
+**3. The Inspector Method**
+Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, or starting with `icecast`/`shoutcast`.
+
+### Artist-Specific Streams
+Access single-artist, 24/7 streams from the [You.Radio](https://you.radio/search) network.
+
+**The URL Pattern:**
+`http://streaming.exclusive.radio/er/SLUG/icecast.audio`
+
+**How to create the `SLUG`:**
+Lowercase the name, then remove **spaces**, **punctuation**, and the word **"The"**.
+
+| If the Artist is... | Use this Slug |
+| :--- | :--- |
+| The Beatles | `beatles` |
+| AC/DC | `acdc` |
+| Ziggy Marley | `ziggymarley` |
+
+</details>
+
 
 ---
 
@@ -604,7 +643,6 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [vTuner](https://vtuner.com/): Hardware-integrated radio directory.
 
 ---
-
 ## Contributing <a id="contributing"></a>
 Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-streams/issues/new) or this [Form](https://forms.gle/CGchfUqNzV6smwo9A).
 
@@ -613,9 +651,25 @@ Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-st
 - Objective descriptions only (Genre/Country).
 - No generic "Top 40" or low-bitrate loops.
 
+## Acknowledgements
+Maintained by [deroverda](https://github.com/deroverda).
+
+**Contributors:**
+- `@Ukplugs4eva`, `@psychic_gibbon`, `@yubroyi`, `@WavingOrDrowning`, `@macccorehenni`, `@OBrien-Michael`, and `@JointRadio`.
+
+**Resources:**
+- [Radio Browser](https://www.radio-browser.info): Community-maintained station database.
+- [audiophile.fm](https://audiophile.fm): Source for HiRes and CD-Quality links.
+- [FMHY](https://fmhy.pages.dev/): Documentation for streaming tools.
+- [Reddit](https://www.reddit.com/): Community recommendations and discoveries.
+
+<br>
+
 <div align="center">
 Sweden 🇸🇪
 </div>
 
 ---
 [⬆️ Back to Top](#top)
+
+
