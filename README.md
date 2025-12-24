@@ -630,6 +630,7 @@ Lowercase the name, then remove **spaces**, **punctuation**, and the word **"The
 - ⭐ [FMStream](https://fmstream.org/): Tools for finding raw stream URLs.
 - [Icecast Directory](https://dir.xiph.org): Hub for independent broadcasters.
 - [Internet-Radio.com](https://www.internet-radio.com/): Directory with 28,000 independent stations.
+- [Live365](https://live365.com/): Platform and directory for thousands of independent, human-curated internet radio stations.
 - [myTuner Radio](https://mytuner-radio.com/): Directory with 50k stations.
 - [Online Radio Box](https://onlineradiobox.com/): Includes playlist histories.
 - [Q3 Radio](https://www.q-3.eu/): Independent niche genre directory.
