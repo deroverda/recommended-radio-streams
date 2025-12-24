@@ -634,6 +634,7 @@ Lowercase the name, then remove **spaces**, **punctuation**, and the word **"The
 - [Online Radio Box](https://onlineradiobox.com/): Includes playlist histories.
 - [Q3 Radio](https://www.q-3.eu/): Independent niche genre directory.
 - [Radio.net](https://www.radio.net): Large European directory and app.
+- [RadioFeeds UK & Ireland](http://www.radiofeeds.co.uk/): Directory for UK and Irish stations with a mobile-friendly web player.
 - [Radioline](https://www.radioline.co/en): French platform for radio and podcasts.
 - ⭐ [Radio Browser](https://www.radio-browser.info): Open-source, community-maintained database.
 - ⭐ [Radio Garden](https://radio.garden): Visual interactive globe for radio discovery.
