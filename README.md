@@ -113,7 +113,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Chillsky Chillhop](https://chill.radioca.st/stream): Lo-Fi Hip Hop and chilled beats.
 - [Dinamo.FM Sleep](https://dinamo.fm/): Ambient electronica and downtempo.
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Zero-beat ambient drone and drift music.
-- [Fluid Radio](https://www.fluidradio.co.uk/): Ambient, modern classical, and acoustic post-rock.
+- [Fluid Radio](https://www.fluid-radio.co.uk/): Ambient, modern classical, and acoustic post-rock.
 - [FluxFM - FluxLounge](https://fluxfm.de/fluxlounge): Soft pop and acoustic tunes.
 - ⭐ [FreeCodeCamp Radio](https://www.freecodecamp.org/news/code-radio/): 24/7 instrumentals for focus.
 - [Hunter.FM - Lo-Fi](https://hunter.fm/): Beats for study or sleep.
@@ -198,7 +198,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Radio Pinpon](https://listen.radioking.com/radio/142627/stream/182797): Freeform and eclectic radio.
 - [Radio Reverb 97.2](https://radioreverb.com): Community radio from Brighton, UK.
 - [Radio Sam Sam](https://listen.radioking.com/radio/742276/stream/808768): World grooves, jazz, and psych-folk from Paris.
-- [Radio Sofa](https://www.radiosofa.org/): Collective focused on broadcasting and visual arts.
+- [Radio Sofa](https://www.radio-sofa.com/): Collective focused on broadcasting and visual arts.
 - [Resonance 104.4FM](https://www.resonancefm.com/): Cultural programming and art from London.
 - ⭐ [Soho Radio](https://sohoradiolondon.com/): Culture and music from London and NYC.
 - [WFMU - Rock 'n' Soul](https://wfmu.org/): WFMU stream for rock, R&B, and soul.
@@ -212,7 +212,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - ⭐ [Classic Vinyl HD](https://walmradio.com/classic/): Classic rock and vinyl-based hits.
 - [Flower Power Radio](https://www.flowerpowerradio.com/): 60s and 70s rock and pop.
 - ⭐ [LuxuriaMusic](https://luxuriamusic.com): Surf, bossa nova, exotica, and space-age lounge.
-- [Majestic Jukebox](https://www.majesticjukebox.com/): 40s-80s jazz, rock, and swing.
+- [Majestic Jukebox](https://www.majesticjukeboxradio.com): 40s-80s jazz, rock, and swing.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): Stream of self-playing instruments and music boxes.
 - [Old Time Radio](https://oldtime.radio/): 1930s-50s radio shows (comedy, westerns, mystery).
 - [Pumpkin FM - 1940s](http://pumpkinfm.com/1940s-stream): Hits and shows from the 1940s.
@@ -289,7 +289,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ### Funk, Soul & Disco <a id="funk-soul-disco"></a>
 - [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, soul, and lounge from Dublin.
 - [The Funky Channel](https://thefunkychannel.com/): Funk, disco, and R&B hits.
-- [FUNKY RADIO](https://www.funkyradio.it/): 60s-80s funk and deep grooves.
+- [FUNKY RADIO](https://funky.radio/): 60s-80s funk and deep grooves.
 - [International Rare Groove](https://www.irgradio.net/): Soul, funk, and jazz from London.
 - [Mojo Club](https://laut.fm/mojo): Deep funk, Latin, and jazz remixes.
 - [The Penthouse](https://thepenthouse.fm/): Soul, R&B, and classic pop.
@@ -332,15 +332,14 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - ⭐ [La Patate Douce](https://listen.radioking.com/radio/285742/stream/331753): Soul and jazz-funk from France.
 - [Linn Jazz](https://www.linn.co.uk/linn-radio): Jazz classics and originals.
 - [Mondo Radio](https://mondoradio.com): Alternative, pop, and jazz.
-- [Octave Radio](https://www.psaudio.com/pages/octave-records): High-fidelity jazz and acoustic recordings.
+- [Octave Radio](https://www.psaudio.com/blogs/pauls-posts/octave-radio): High-fidelity jazz and acoustic recordings.
 - [Radio Caprice - Piano Blues](https://radcap.ru/): Piano blues and boogie-woogie.
 - [Radio Suisse Jazz](http://radiosuissejazz.ch): Jazz, soul, and blues from Swiss public radio.
 - [Smooth Jazz Chicago](http://smoothjazzchicago.com): Smooth and contemporary jazz.
 - [TSF Jazz](https://www.tsfjazz.com/): Jazz and talk from Paris.
 - ⭐ [WBGO 88.3](http://wbgo.org): Jazz and blues from Newark/New York.
 - [WDNA 88.9](https://wdna.org): Jazz and Latin jazz from Miami.
-- [WUCF 89.9 FM](https://www.wucf.org/radio/): Jazz and NPR from Orlando.
-
+- [WUCF 89.9 FM](https://www.wucf.org): Jazz and NPR from Orlando.
 
 ### Metal & Heavy <a id="metal-heavy"></a>
 - [97.3 The ARC](https://live365.com/station/Metal---Hard-Rock-97-3-The-ARC-a65345): Mix of classic heavy metal and modern metalcore with a 3,000+ track library.
@@ -430,13 +429,13 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 
 ### Soundtracks & Movie Scores <a id="soundtracks-scores"></a>
 - [Cinemix](https://www.cinemix.us/): Movie soundtracks and orchestral scores.
-- [Streaming Soundtracks](https://www.streamingsoundtracks.com/): Scores from movies, TV, and anime.
+- [Streaming Soundtracks](https://www.radio-browser.info/history/c9e01158-385f-43e4-9be4-e90c0979cbe5): Scores from movies, TV, and anime.
 - [1.FM - Movie Soundtrack](https://www.1.fm/station/moviesoundtracks): Music from blockbuster and art-house films.
 
 ### World & Regional <a id="world-regional"></a>
 - [Afro FM](https://afrofm.com/): African music.
 - [Alefa Music](https://alefamusic.net/): Malagasy salegy rhythms.
-- [AshiyaRadio](https://ashiyaradio.jp/): Jazz and bossa nova from Kobe, Japan.
+- [AshiyaRadio](https://ashiya.radio/): Jazz and bossa nova from Kobe, Japan.
 - [Bondi Beach Radio](https://bondiradio.com.au/): Music and culture from Sydney.
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Folk and Americana from Scotland.
 - [CeolFM](https://ceol.fm/): Traditional Irish music.
@@ -508,7 +507,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Le Bon Mix](https://lebonmix.radio): Funk, disco, and soul from France.
 - [Magic Radio](https://magic-radio.net): Pop and rock hits from the 80s and 90s.
 - [Mother Earth Radio](https://motherearthradio.de/en/): Vinyl-only recordings with no dynamic compression.
-- [Naim Radio](https://www.naimaudio.com/naim-radio): Jazz and world music from the Naim audio brand.
+- [Naim Radio](https://www.naimaudio.com/news/naim-radio): Jazz and world music from the Naim audio brand.
 - [Open Broadcast Radio](https://openbroadcast.ch): Swiss experimental radio; jazz and electronica.
 - [Open Sky Radio](https://opensky.radio): Alternative and downtempo electronic.
 - [P-Node: Piano](https://p-node.org): Experimental and classical piano music.
