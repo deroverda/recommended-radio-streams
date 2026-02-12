@@ -305,7 +305,6 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Hot 97 NYC](https://www.hot97.com/): New York hip-hop and R&B. <kbd>Ads</kbd>
 - [NTS Radio - Low Key](https://www.nts.live/infinite-mixtapes): Downtempo and golden age hip-hop.
 - [Radio Caprice - Old School](https://radcap.ru/): Old school hip-hop and rap.
-- [The Real Underground](https://therealunderground.app/): Indie hip-hop and rap.
 
 ### Jazz & Blues <a id="jazz-blues"></a>
 - [1.FM - Smooth Jazz](https://www.1.fm/station/smoothjazz): Contemporary and smooth jazz. <kbd>Ads</kbd>
@@ -381,7 +380,6 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Roots FM](http://138.201.198.218:8043/stream): Roots reggae and dub.
 
 ### Rock, Indie, Alternative, Country & Folk <a id="rock-indie-alternative-country-folk"></a>
-- [.977 Country](https://www.977music.com/): Contemporary country hits. <kbd>Ads</kbd>
 - [Ace Cafe Radio](https://acecafe.com/ace-cafe-radio/): Rock 'n' roll from London's Ace Cafe.
 - [BBC Radio 1](https://www.bbc.co.uk/radio1): Contemporary pop, dance, and rock from the UK.
 - [BBC Radio 2](https://www.bbc.co.uk/radio2): Adult contemporary and culture from the UK.
@@ -567,7 +565,6 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 
 ### Experimental, Nerdy & Scanners <a id="experimental"></a>
 - [Broadcastify](https://www.broadcastify.com/): Public Safety, Aircraft, and Marine streams.
-- [CRTV Internet Radio](https://erncrtv.com/): Emergency Alert System relay source.
 - [Deepcut.live](https://deepcut.live/): Real-time social DJ platform.
 - [GWES EAS Relay](https://globaleas.org/): Emergency alert system network.
 - [The Lake Radio](https://thelakeradio.com): Copenhagen-based art radio.
