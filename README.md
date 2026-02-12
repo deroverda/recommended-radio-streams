@@ -82,7 +82,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ## The Station Directory <a id="station-directory"></a>
 
 > [!NOTE]
-> Most links point to the official station website to ensure reliability. Direct stream URLs change frequently. If you need raw links for custom players, see the [Finding Stream URLs](#finding-urls).
+> Most links point to the official station website to ensure reliability. Direct stream URLs change frequently. If you need raw links for custom players, see the [Finding Stream URLs](#finding-urls) & [Directories & Discovery Tools](#directories).
 
 
 ### The Starter Pack <a id="starter-pack"></a>
