@@ -321,7 +321,6 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [iFusion Radio](https://listen.radioking.com/radio/523747/stream/582004): Progressive rock and jazz fusion.
 - [Jazz & Blues Radio](https://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3): Mix of jazz and blues.
 - [Jazz Con Class](https://jazzconclass.com): Classic jazz from the 40s-70s.
-- [Jazz Éire](https://visual.shoutca.st:8096/stream): Jazz from Ireland and worldwide.
 - ⭐ [The Jazz Groove](https://jazzgroove.org): Laid-back and vocal jazz channels.
 - ⭐ [Jazz24](https://www.jazz24.org/): 24/7 jazz from Seattle (KNKX).
 - [KCSM Jazz 91.1](https://kcsm.org/): 24-hour jazz from the California Bay Area.
@@ -337,7 +336,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Smooth Jazz Chicago](http://smoothjazzchicago.com): Smooth and contemporary jazz.
 - [TSF Jazz](https://www.tsfjazz.com/): Jazz and talk from Paris.
 - ⭐ [WBGO 88.3](http://wbgo.org): Jazz and blues from Newark/New York.
-- [WDNA 88.9](https://wdna.org): Jazz and Latin jazz from Miami.
+- [WDNA 88.9](https://wdnaradio.org): Jazz and Latin jazz from Miami.
 - [WUCF 89.9 FM](https://www.wucf.org): Jazz and NPR from Orlando.
 
 ### Metal & Heavy <a id="metal-heavy"></a>
@@ -432,21 +431,19 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [1.FM - Movie Soundtrack](https://www.1.fm/station/moviesoundtracks): Music from blockbuster and art-house films.
 
 ### World & Regional <a id="world-regional"></a>
-- [Afro FM](https://afrofm.com/): African music.
 - [Alefa Music](https://alefamusic.net/): Malagasy salegy rhythms.
 - [AshiyaRadio](https://ashiya.radio/): Jazz and bossa nova from Kobe, Japan.
 - [Bondi Beach Radio](https://bondiradio.com.au/): Music and culture from Sydney.
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Folk and Americana from Scotland.
 - [CeolFM](https://ceol.fm/): Traditional Irish music.
 - [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish "Dansband" music.
-- [Galaxie Radio](https://galaxieradio.com): Haitian reggae and kompa.
 - ⭐ [Gladys Palmera Coleccion](https://gladyspalmera.com/coleccion): Archive of vintage Latin and Afro-Caribbean music.
 - ⭐ [Isla Negra Slowbeat](https://radioislanegra.org/): Eclectic downtempo from Chile.
 - [Isla Negra Upbeat](https://radioislanegra.org/): Non-commercial upbeat music from Chile.
 - [Irish Pub Radio](https://irishpubradio.com): Traditional Irish music for a pub atmosphere.
 - [J-Club Bandstand](https://jclubbandstand.com/): Japanese pop music.
 - [J-Pop Sakura](https://mytuner-radio.com/radio/j-pop-sakura-huai-kashii-448027/): J-pop nostalgia and Asian hits.
-- [J1 Radio](https://j1fm.com/): Japanese pop network.
+- [J1 Radio](https://www.j1fm.tokyo): Japanese pop network.
 - [Jazz Afro](https://www.jazzradio.fr/radio/webradio/22/jazz-afro): Afro-jazz fusion.
 - [KBON](https://www.kbon.com/): Cajun and zydeco from Louisiana.
 - [KIX Belgium](https://www.radiokix.be/): Talk and music from Belgium.
