@@ -48,6 +48,7 @@ body:
         - News & Spoken Word
         - Reggae & Dub
         - Rock, Indie, Alt, Country & Folk
+        - Soundtracks & Movie Scores
         - Video Game & Chiptune
         - World & Regional
         - Christmas Music & Holiday
@@ -114,3 +115,4 @@ body:
           required: true
         - label: Human-curated (no AI-generated playlists).
           required: true
+
