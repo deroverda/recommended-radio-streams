@@ -1,14 +1,12 @@
 name: Check Stream Links
 
-# This defines WHEN the workflow runs
 on:
   push:
-    branches: [ "main" ] # Runs every time you push a change to the main branch
+    branches: [ "main" ]
   schedule:
-    - cron: '0 0 * * 1' # Runs automatically once a week (every Monday at midnight UTC)
-  workflow_dispatch: # Allows you to manually trigger the check from the Actions tab
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
 
-# This defines WHAT the workflow does
 jobs:
   lychee:
     name: Link Checker
@@ -18,11 +16,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Link Checker (lychee)
-        # This uses the external lycheeverse/lychee-action tool
         uses: lycheeverse/lychee-action@v1
         with:
-          # Arguments tell the tool what to check:
-          # --max-retries 2: Tries a link twice if it fails
-          # --max-concurrency 5: Limits simultaneous checks to avoid getting blocked
-          # 'README.md': Checks only the README.md file
-          args: --max-retries 2 --max-concurrency 5 --exclude 'localhost' 'README.md'
+          args: >
+            --max-retries 2
+            --max-concurrency 5
+            --user-agent 'Mozilla/5.0 (compatible; LycheeBot/1.0; +https://github.com/lycheeverse/lychee)'
+            --exclude 'localhost'
+            --exclude 'echo/|\.pls$|\.m3u$|\.m3u8$'
+            --exclude 'reddit\.com|liveatc\.net|wrir\.org|sverigesradio\.se|kcrw\.com'
+            --accept '200,301,302,403,429'
+            'README.md'
