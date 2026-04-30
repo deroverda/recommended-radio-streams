@@ -600,6 +600,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [TuneIn](https://tunein.com/): Commercial directory with 100k+ stations.
 - [SHOUTcast](https://directory.shoutcast.com/): Genre-based directory for streaming.
 - [Streema](https://streema.com/): Global directory with 70k+ stations.
+- [TuneJourney](https://tunejourney.com/): Interactive 3D globe with 70,000+ stations across 11,000+ locations; includes AI talk-skip.
 - [vTuner](https://vtuner.com/): Hardware-integrated radio directory.
 
 ---
