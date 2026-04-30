@@ -37,10 +37,10 @@ body:
         - Classical & Opera
         - College, Freeform & Community
         - Decades, Oldies & Nostalgia
-        - Electronic: General, House & Techno
-        - Electronic: Hyperpop & Glitchcore
-        - Electronic: Phonk & Drift
-        - Electronic: Synthwave & Retrowave
+        - "Electronic: General, House & Techno"
+        - "Electronic: Hyperpop & Glitchcore"
+        - "Electronic: Phonk & Drift"
+        - "Electronic: Synthwave & Retrowave"
         - Funk, Soul & Disco
         - Hip-Hop & Rap
         - Jazz & Blues
@@ -48,13 +48,13 @@ body:
         - News & Spoken Word
         - Reggae & Dub
         - Rock, Indie, Alt, Country & Folk
-        - Soundtracks & Movie Scores
         - Video Game & Chiptune
+        - Soundtracks & Movie Scores
         - World & Regional
         - Christmas Music & Holiday
         - HiRes / Lossless
-        - Experimental, Nerdy & Scanners
         - Multi-Station Network
+        - Experimental, Nerdy & Scanners
         - Other (specify below)
     validations:
       required: true
@@ -115,4 +115,3 @@ body:
           required: true
         - label: Human-curated (no AI-generated playlists).
           required: true
-
