@@ -351,6 +351,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 
 
 ### News & Spoken Word <a id="news-spoken-word"></a>
+- [AFN The Voice](https://afngo.net/afneurope/Stuttgart/radio/The%20Voice): US military news/talk; syndicates NPR, ABC News, and Fox Sports Radio.
 - [AudioBookRadio](http://www.audiobookradio.net/): Audiobooks, poetry, and classic plays.
 - [BBC Radio 4](https://www.bbc.co.uk/radio4): UK news, drama, and comedy.
 - [BBC World Service](https://www.bbc.co.uk/worldserviceradio): International news and cultural programs.
