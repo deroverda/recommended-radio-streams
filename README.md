@@ -342,7 +342,6 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ### Metal & Heavy <a id="metal-heavy"></a>
 - [97.3 The ARC](https://live365.com/station/Metal---Hard-Rock-97-3-The-ARC-a65345): Mix of classic heavy metal and modern metalcore with a 3,000+ track library.
 - [CoreRadio](https://coreradio.online/listen): Metalcore and modern metal.
-- [Hard Rock Hell](https://www.hardrockhellradio.com/): Classic metal and biker rock from the UK.
 - [KNAC.com](http://www.knac.com/): Internet stream for metal.
 - [Metal Devastation](https://metaldevastationradio.com/): Underground death, black, and thrash metal.
 - [OÜI FM - Bring The Noise](https://www.ouifm.fr/bring-the-noise-1): Alternative and heavy rock channel from the French network OÜI FM.
