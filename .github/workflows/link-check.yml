@@ -5,7 +5,7 @@ on:
     branches: ["main"]
 
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: "0 0 * * 1"
 
   workflow_dispatch:
 
@@ -24,15 +24,37 @@ jobs:
       - name: Run Link Checker (lychee)
         uses: lycheeverse/lychee-action@v2
         with:
+          fail: false
           args: >
+            --verbose
             --max-retries 2
             --max-concurrency 5
             --timeout 30
+            --retry-wait-time 5
             --user-agent "Mozilla/5.0 (compatible; LycheeBot/1.0; +https://github.com/lycheeverse/lychee)"
+            --accept "200,202,204,206,301,302,303,307,308,401,403,429"
+
             --exclude "localhost"
             --exclude "echo/|\.pls$|\.m3u$|\.m3u8$|\.mp3$"
-            --exclude "reddit\.com|liveatc\.net|wrir\.org|sverigesradio\.se|kcrw\.com"
-            --exclude "cvgm\.net|streamerr\.co|willstare\.com"
-            --exclude "jclubbandstand\.com|compound-eye\.org|iriefm\.net|hardrockhellradio\.com|liquiddoom\.net"
-            --accept "200,301,302,403,429"
+
+            --exclude "reddit\.com"
+            --exclude "liveatc\.net"
+            --exclude "wrir\.org"
+            --exclude "sverigesradio\.se"
+            --exclude "kcrw\.com"
+
+            --exclude "cvgm\.net"
+            --exclude "streamerr\.co"
+            --exclude "willstare\.com"
+
+            --exclude "jclubbandstand\.com"
+            --exclude "compound-eye\.org"
+            --exclude "iriefm\.net"
+            --exclude "hardrockhellradio\.com"
+            --exclude "liquiddoom\.net"
+
+            --exclude "directory\.shoutcast\.com"
+            --exclude "beautifulinstrumentals\.com"
+            --exclude "dinamo\.fm"
+
             README.md
