@@ -2,31 +2,37 @@ name: Check Stream Links
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
+
   schedule:
     - cron: '0 0 * * 1'
+
   workflow_dispatch:
 
 jobs:
   lychee:
     name: Link Checker
     runs-on: ubuntu-latest
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Run Link Checker (lychee)
-        uses: lycheeverse/lychee-action@v1
+        uses: lycheeverse/lychee-action@v2
         with:
           args: >
             --max-retries 2
             --max-concurrency 5
             --timeout 30
-            --user-agent 'Mozilla/5.0 (compatible; LycheeBot/1.0; +https://github.com/lycheeverse/lychee)'
-            --exclude 'localhost'
-            --exclude 'echo/|\.pls$|\.m3u$|\.m3u8$|\.mp3$'
-            --exclude 'reddit\.com|liveatc\.net|wrir\.org|sverigesradio\.se|kcrw\.com'
-            --exclude 'cvgm\.net|streamerr\.co|willstare\.com'
-            --exclude 'jclubbandstand\.com|compound-eye\.org|iriefm\.net|hardrockhellradio\.com|liquiddoom\.net'
-            --accept '200,301,302,403,429'
-            'README.md'
+            --user-agent "Mozilla/5.0 (compatible; LycheeBot/1.0; +https://github.com/lycheeverse/lychee)"
+            --exclude "localhost"
+            --exclude "echo/|\.pls$|\.m3u$|\.m3u8$|\.mp3$"
+            --exclude "reddit\.com|liveatc\.net|wrir\.org|sverigesradio\.se|kcrw\.com"
+            --exclude "cvgm\.net|streamerr\.co|willstare\.com"
+            --exclude "jclubbandstand\.com|compound-eye\.org|iriefm\.net|hardrockhellradio\.com|liquiddoom\.net"
+            --accept "200,301,302,403,429"
+            README.md
