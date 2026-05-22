@@ -460,7 +460,6 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [Radio Caprice - Middle East](https://radcap.ru/): Middle Eastern music.
 - [Radio Popolare](https://radiopopolare.it): News and alternative music from Milan.
 - [Radiooooo](https://radiooooo.com/): Interactive musical map by country and decade.
-- [Rebetiko Sealabs](https://rebetiko.sealabs.net/radio): Greek urban folk music.
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Javanese and Balinese gamelan recordings.
 - [Shonan Beach FM](https://www.beachfm.co.jp/): Jazz and pop from the Japanese coast.
 - [Svensk Folkmusik AkkA](https://mediaserv38.live-streams.nl:8107/stream): Traditional Swedish folk.
