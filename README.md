@@ -14,7 +14,7 @@
 
 # Recommended Radio Streams
 
-A list of internet radio stations across 40+ genres. Includes notes on apps, discovery tools, and guides for finding direct stream URLs.
+A curated list of internet radio stations across 40+ genres. Find app recommendations, discovery tools, and tips for finding stream URLs.
 
 ---
 
@@ -82,20 +82,20 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ## The Station Directory <a id="station-directory"></a>
 
 > [!NOTE]
-> Most links point to the official station website to ensure reliability. Direct stream URLs change frequently. If you need raw links for custom players, see the [Finding Stream URLs](#finding-urls) & [Directories & Discovery Tools](#directories).
+> Links point to official sites - direct URLs change often. If you need raw links for custom players, see the [Finding Stream URLs](#finding-urls) & [Directories & Discovery Tools](#directories).
 
 
 ### The Starter Pack <a id="starter-pack"></a>
 - [BBC Radio 6 Music](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Alternative music, new releases, and deep cuts.
-- [dublab](https://dublab.com): Non-profit community collective for experimental and underground music.
+- [dublab](https://dublab.com): Non-profit experimental and underground collective.
 - [FIP](https://www.radiofrance.fr/fip): French public radio mixing jazz, rock, and world music. Ad-free.
 - [KEXP](https://www.kexp.org/listen/): Indie rock from Seattle. Features live in-studio sessions.
 - [Nightwave Plaza](https://plaza.one/): 24/7 vaporwave, future funk, and city pop.
 - [NTS Radio](https://www.nts.live/): Underground radio with diverse shows from London and globally.
 - [Radio Paradise](https://radioparadise.com/): Mixed rock, world, and electronic. Ad-free.
 - [SomaFM](https://somafm.com/): Independent internet radio specializing in ambient and downtempo.
-- [WFMU](https://wfmu.org): Freeform radio from New Jersey; independent and non-commercial.
-- [Worldwide FM](https://worldwidefm.net/): Platform for underground music and culture.
+- [WFMU](https://wfmu.org): Independent, non-commercial freeform radio from New Jersey.
+- [Worldwide FM](https://worldwidefm.net/): Underground and experimental music from a global DJ collective.
 - [WWOZ 90.7](https://www.wwoz.org/): New Orleans jazz, funk, and soul.
 
 
@@ -105,7 +105,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [AM Ambient](https://stereoscenic.com/): Beat-free ambient music.
 - [Ambient FM](https://phoebe.streamerr.co:4140/ambient.mp3): Ambient soundscapes.
 - ⭐ [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus.
-- [Ambinature Radio](https://nature-rex.radioca.st/stream): 24/7 natural sounds (no music).
+- [Ambinature Radio](https://nature-rex.radioca.st/stream): 24/7 natural soundscapes, no music.
 - [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Instrumental pop from Mexico and Latin America.
 - [bigFM LoFi Focus](https://www.bigfm.de/): Lo-Fi Hip Hop for concentration.
 - [Birdsong FM](https://www.birdsong.fm/): 24/7 natural birdsong.
@@ -118,7 +118,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - ⭐ [FreeCodeCamp Radio](https://www.freecodecamp.org/news/code-radio/): 24/7 instrumentals for focus.
 - [Hunter.FM - Lo-Fi](https://hunter.fm/): Beats for study or sleep.
 - [Kyoto Connection](https://www.thekyotoconnection.com/): Japanese ambient, synths, and field recordings.
-- [LocaFM - Ambient](https://www.locafm.com/): Spanish ambient and chillout. <kbd>Ads</kbd>
+- [LocaFM - Ambient](https://www.locafm.com/): Spanish network focused on ambient relaxation and downtempo.
 - [Moon Phase Radio](https://www.moonphaseradio.com/): Commercial-free ambient and downtempo.
 - [Mynoise - Zen Garden](https://mynoise.net/): Calm nature sounds and tones.
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Copenhagen-based downtempo and lounge.
@@ -129,10 +129,10 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ### Classical & Opera <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments.
 - ⭐ [BBC Radio 3](https://www.bbc.co.uk/radio3): Classical, jazz, and world music.
-- [Classical KDFC](https://www.kdfc.com/): Listener-supported classical from San Francisco.
-- [Concertzender - Baroque](https://www.concertzender.nl/): Baroque classical.
-- [Concertzender - Old Music](https://www.concertzender.nl/): Pre-classical compositions.
-- [Linn Classical](https://www.linn.co.uk/linn-radio): Classical recordings from Linn Records.
+- [Classical KDFC](https://www.kdfc.com/): San Francisco classical station curating from rare and classic recordings.
+- [Concertzender - Baroque](https://www.concertzender.nl/): Dutch station focused on baroque and period instruments.
+- [Concertzender - Old Music](https://www.concertzender.nl/): Medieval and Renaissance on authentic period instruments.
+- [Linn Classical](https://www.linn.co.uk/linn-radio): High-fidelity classical recordings from Linn's audiophile catalog.
 - [Only Mozart](http://abm21.com.au:8000/CONTAINER10): Wolfgang Amadeus Mozart compositions.
 - [OperaRadio-MRG.fm](https://mrg.fm/): Opera recordings and performances.
 - [Piano](https://p-node.org/piano): Solo piano music.
@@ -200,7 +200,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Radio Sam Sam](https://listen.radioking.com/radio/742276/stream/808768): World grooves, jazz, and psych-folk from Paris.
 - [Radio Sofa](https://www.radio-sofa.com/): Collective focused on broadcasting and visual arts.
 - [Resonance 104.4FM](https://www.resonancefm.com/): Cultural programming and art from London.
-- ⭐ [Soho Radio](https://sohoradiolondon.com/): Culture and music from London and NYC.
+- ⭐ [Soho Radio](https://sohoradiolondon.com/): DJ-driven station mixing underground house, electronic, and culture.
 - [WFMU - Rock 'n' Soul](https://wfmu.org/): WFMU stream for rock, R&B, and soul.
 - [WFMU - Sheena's Jungle Room](https://wfmu.org/): WFMU stream for garage, surf, and rockabilly.
 - [WRIR 97.3](https://wrir.org): Community radio from Richmond, VA.
@@ -245,7 +245,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Eurodance Radio](https://www.eurodance-radio.com/): 90s Eurodance hits.
 - [Expansions (NTS)](https://www.nts.live/infinite-mixtapes): Mixtape of psychedelic global electronic sounds.
 - [FluxFM](https://www.fluxfm.de/musik): German network with thematic electronic channels.
-- [Frisky Radio](https://www.friskyradio.com): Underground electronic (Deep, Techno). <kbd>Ads</kbd>
+- [Frisky Radio](https://www.friskyradio.com): Underground electronic (Deep, Techno).
 - ⭐ [Intergalactic FM](https://intergalactic.fm/): Cult station for varied electronic styles.
 - [Italoradio.fm](https://italoradio.fm/): Classic and new Italo-disco.
 - [KissFM](http://online.kissfm.ua/KissFM): Trance and progressive from Ukraine.
@@ -277,12 +277,12 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 #### Phonk & Drift
 - [Bad Radio](https://badradio.nz/): Phonk and dark trap from New Zealand.
 - [Laut.fm - Phonk](https://laut.fm/phonk): Aggressive drift phonk.
-- [Radio Record - Phonk](https://www.radiorecord.ru/): Phonk channel from Radio Record. <kbd>Ads</kbd>
+- [Radio Record - Phonk](https://www.radiorecord.ru/): Phonk channel from Radio Record. 
 
 #### Synthwave & Retrowave
 - [Cyberpunk Radio](https://rekt.network/): DnB, synthwave, and datawave.
 - ⭐ [Nightride FM](https://nightride.fm/): Synthwave, darksynth, and retrowave.
-- [Radio Record - Synthwave](https://www.radiorecord.ru/): Synthwave from Radio Record. <kbd>Ads</kbd>
+- [Radio Record - Synthwave](https://www.radiorecord.ru/): Synthwave from Radio Record.
 - [Radio Caprice - Retrowave](https://radcap.ru/): Retrowave and neon-soaked beats.
 - [Synthwave City FM](https://www.synthwavecityfm.com/): Synthwave and chillwave radio.
 
@@ -302,18 +302,18 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ### Hip-Hop & Rap <a id="hip-hop-rap"></a>
 - [Big Noise Radio](https://bignoiseradio.com/): Underground hip-hop and boom-bap.
 - [God's House of Hip Hop](https://gh3radio.com/): Christian hip-hop and gospel rap.
-- [Hot 97 NYC](https://www.hot97.com/): New York hip-hop and R&B. <kbd>Ads</kbd>
+- [Hot 97 NYC](https://www.hot97.com/): New York hip-hop and R&B.
 - [NTS Radio - Low Key](https://www.nts.live/infinite-mixtapes): Downtempo and golden age hip-hop.
 - [Radio Caprice - Old School](https://radcap.ru/): Old school hip-hop and rap.
 
 ### Jazz & Blues <a id="jazz-blues"></a>
-- [1.FM - Smooth Jazz](https://www.1.fm/station/smoothjazz): Contemporary and smooth jazz. <kbd>Ads</kbd>
+- [1.FM - Smooth Jazz](https://www.1.fm/station/smoothjazz): Contemporary and smooth jazz.
 - [101 SMOOTH JAZZ](http://www.101smoothjazz.com/): Instrumental smooth jazz.
 - [Aardvark Blues FM](https://aardvarkbluesfm.com/): Blues, modern blues, and R&B.
 - ⭐ [Ábaco Libros y Café](https://radio30.virtualtronics.com/proxy/abaco): Jazz and bossa nova from a Cartagena bookstore.
 - [Adroit Jazz Underground](https://icecast.walmradio.com:8443/jazz): Modern and experimental jazz.
 - [Blues Revue](http://live.str3am.com:2240/live): Syndicated blues program.
-- [Concertzender - World of Jazz](https://www.concertzender.nl/zender/world-of-jazz/): Jazz, fusion, and world music.
+- [Concertzender - World of Jazz](https://www.concertzender.nl/zender/world-of-jazz/): Jazz and world fusion from the Dutch public broadcaster.
 - [Fine Music Radio](https://www.fmr.co.za/): Classical and jazz from Cape Town.
 - ⭐ [FIP Jazz](http://www.fip.fr/jazz): Curated jazz in all forms from Radio France.
 - [Giants of Jazz](https://streaming.radio.co/s297e618a7/listen): Jazz tracks from the 40s-70s.
@@ -328,7 +328,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [KKJZ-HD88.1](https://kkjz.org/): Jazz and blues from Long Beach, CA.
 - [KSDS Jazz 88.3](https://www.jazz88.org/): Classic and contemporary jazz from San Diego.
 - ⭐ [La Patate Douce](https://listen.radioking.com/radio/285742/stream/331753): Soul and jazz-funk from France.
-- [Linn Jazz](https://www.linn.co.uk/linn-radio): Jazz classics and originals.
+- [Linn Jazz](https://www.linn.co.uk/linn-radio): Audiophile-mastered jazz from Linn Records' curated collection.
 - [Mondo Radio](https://mondoradio.com): Alternative, pop, and jazz.
 - [Octave Radio](https://www.psaudio.com/blogs/pauls-posts/octave-radio): High-fidelity jazz and acoustic recordings.
 - [Radio Caprice - Piano Blues](https://radcap.ru/): Piano blues and boogie-woogie.
@@ -345,7 +345,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [KNAC.com](http://www.knac.com/): Internet stream for metal.
 - [Metal Devastation](https://metaldevastationradio.com/): Underground death, black, and thrash metal.
 - [OÜI FM - Bring The Noise](https://www.ouifm.fr/bring-the-noise-1): Alternative and heavy rock channel from the French network OÜI FM.
-- ⭐ [SomaFM - Metal Detector](https://somafm.com/metal/): Curated heavy music from black to doom metal.
+- ⭐ [SomaFM - Metal Detector](https://somafm.com/metal/): Black, doom, and heavy metal.
 
 
 ### News & Spoken Word <a id="news-spoken-word"></a>
@@ -400,7 +400,7 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Prog Palace Radio](https://www.progpalaceradio.com/): Progressive rock and metal.
 - ⭐ [Psychedelicized](https://psychedelicized.com/): 60s-70s psychedelic and garage rock.
 - [The SoCal Sound](http://thesocalsound.org/): Rock, pop, and indie from California.
-- [WLIR 92.7](http://wdarefm.com/): Alternative, new wave, and synthpop. <kbd>Ads</kbd>
+- [WLIR 92.7](http://wdarefm.com/): Alternative, new wave, and synthpop.
 - [WYRM (Yacht Rock Miami)](https://yachtrockmiami.com/): Yacht rock from Miami.
 
 ### Video Game & Chiptune <a id="video-game-chiptune"></a>
@@ -527,13 +527,13 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 ---
 
 ## Multi-Station Networks <a id="multi-station"></a>
-- [90s90s Radio](https://www.90s90s.de/radios): Dedicated 90s channels. <kbd>Ads</kbd>
-- [0nRadio](https://0nradio.com/): Pop, chill, jazz, and ambient. <kbd>Ads</kbd>
-- [1.FM Radio Network](https://radio.1cloud.fm/all-stations): 65+ channels across multiple genres. <kbd>Ads</kbd>
+- [90s90s Radio](https://www.90s90s.de/radios): Dedicated 90s channels.
+- [0nRadio](https://0nradio.com/): Pop, chill, jazz, and ambient.
+- [1.FM Radio Network](https://radio.1cloud.fm/all-stations): 65+ channels across multiple genres.
 - [113.fm](https://113fmradio.com/Browse): 70+ channels for all decades.
-- [181.fm](https://www.181.fm/): Standard genres (Rock, Country, Oldies). <kbd>Ads</kbd>
-- [1A Radio](https://www.1a-webradio.de/): German pop, dance, and oldies. <kbd>Ads</kbd>
-- [Antenne Bayern](https://www.antenne.de/webradio/): German network with rock, chillout, and top 40. <kbd>Ads</kbd>
+- [181.fm](https://www.181.fm/): Standard genres (Rock, Country, Oldies).
+- [1A Radio](https://www.1a-webradio.de/): German pop, dance, and oldies. 
+- [Antenne Bayern](https://www.antenne.de/webradio/): German network with rock, chillout, and top 40.
 - [Box Radio](https://boxradio.net/en): Automated original and curated content.
 - [Calm Radio](https://calmradio.com/channel-guide/classical-music): Classical, symphony, and opera.
 - [Chillhop Music](https://app.chillhop.com/): 24/7 lo-fi and jazzy beats.
@@ -541,19 +541,19 @@ A list of internet radio stations across 40+ genres. Includes notes on apps, dis
 - [Dinamo.FM](https://dinamo.fm/): Turkish network for downtempo and electronic.
 - ⭐ [FIP](https://www.radiofrance.fr/fip): Main eclectic mix plus thematic channels (Jazz, Reggae, etc.).
 - [FluxFM](https://www.fluxfm.de/musik): German network with dozens of themed channels.
-- [Frisky Radio](https://www.friskyradio.com/): Underground electronic (Deep, Techno). <kbd>Ads</kbd>
-- [Hunter.fm](https://hunter.fm/): Brazilian and international hits. <kbd>Ads</kbd>
+- [Frisky Radio](https://www.friskyradio.com/): Underground electronic (Deep, Techno).
+- [Hunter.fm](https://hunter.fm/): Brazilian and international hits. 
 - [Joint Radio](https://www.jointil.com/radio/): Reggae, blues, rock, and trance channels.
 - [laut.fm](https://laut.fm/): Platform for user-generated genre stations.
 - ⭐ [Linn Radio](https://www.linn.co.uk/linn-radio): High-fidelity jazz and classical.
-- [Loca FM](https://www.locafm.com/live/player.html): Spanish house, techno, and urban network. <kbd>Ads</kbd>
+- [Loca FM](https://www.locafm.com/live/player.html): Spanish house, techno, and urban network. 
 - ⭐ [NTS Radio](https://www.nts.live/): Global platform with themed infinite mixtapes.
 - [Pinguin Radio](https://pinguinradio.com/): Dutch alternative and indie channels.
 - ⭐ [Pumpkin FM](https://pumpkinfm.com): Old time radio network.
 - [RTE Radio](https://www.rte.ie/radio/): Irish public broadcaster with multiple stations.
 - ⭐ [Radio Caprice](https://radcap.ru/): Russian network with 300+ micro-genre channels.
-- [Radio BOB!](https://www.radiobob.de/musik/streams): German rock network with 60+ channels. <kbd>Ads</kbd>
-- [Radio Record](https://www.radiorecord.ru/): Russian dance network with 80+ channels. <kbd>Ads</kbd>
+- [Radio BOB!](https://www.radiobob.de/musik/streams): German rock network with 60+ channels. 
+- [Radio Record](https://www.radiorecord.ru/): Russian dance network with 80+ channels.
 - ⭐ [Rainwave](https://rainwave.cc/): Interactive video game music channels.
 - ⭐ [SomaFM](https://somafm.com/): Independent alternative and ambient radio channels.
 - [Zeno.fm](https://zeno.fm/): Hub for independent and community stations.
