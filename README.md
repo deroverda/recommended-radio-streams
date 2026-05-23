@@ -42,7 +42,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [Multi-Station Networks](#multi-station)
 - [Experimental, Nerdy & Scanners](#experimental)
 - [Directories & Discovery Tools](#directories)
-- [Finding Direct Stream URLs](#finding-urls)
+- [Finding Stream URLs](#finding-urls)
 - [Contributing](#contributing)
 
 ---
@@ -64,10 +64,10 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 ### Desktop
 | App Name | OS | License | Notes |
 | :--- | :---: | :---: | :--- |
-| [CuterDio](https://cuterdio.com/en) | macOS | `Open Source` | Open-source alternative for Mac. |
+| [CuterDio](https://cuterdio.com/en) | macOS | `Open Source` | Privacy-focused alternative for Mac. |
 | ⭐ [Foobar2000](https://www.foobar2000.org/) | Win/Mac | `Freeware` | Modular player for large libraries. |
 | ⭐ [Frog Radio](https://frogradio.net/) | macOS | `Paid` | Native Mac app with iCloud sync. |
-| [QMPlay2](https://github.com/zaps166/QMPlay2) | Win/Mac/Lin| `Open Source` | Supports most stream URL formats. |
+| [QMPlay2](https://github.com/zaps166/QMPlay2) | Win/Mac/Lin | `Open Source` | Supports most stream URL formats. |
 | ⭐ [Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave) | Linux | `Open Source` | Integrated with GNOME/GTK. |
 | [Tuner](https://github.com/louis77/tuner) | Linux | `Open Source` | Minimalist Linux player. |
 
@@ -75,7 +75,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 | Tool Name | Type | License | Notes |
 | :--- | :---: | :---: | :--- |
 | ⭐ [Radiolise](https://radiolise.com) | Web App | `Free` | Web-based player for TV and radio. |
-| [ScrobbleRadio](https://scrobblerad.io) | Utility | `Free` | Track listening to Last.fm, Libre.fm, or ListenBrainz. |
+| [ScrobbleRadio](https://scrobblerad.io) | Utility | `Free` | Tracks listening to Last.fm, Libre.fm, or ListenBrainz. |
 
 ---
 
@@ -86,12 +86,12 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 
 
 ### The Starter Pack <a id="starter-pack"></a>
-- [BBC Radio 6 Music](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3): Alternative music, new releases, and deep cuts.
+- [BBC Radio 6 Music](https://www.bbc.co.uk/sounds/play/live/bbc_6music): Alternative music, new releases, and deep cuts. [RAW URLs](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)
 - [dublab](https://dublab.com): Non-profit experimental and underground collective.
 - [FIP](https://www.radiofrance.fr/fip): French public radio mixing jazz, rock, and world music. Ad-free.
 - [KEXP](https://www.kexp.org/listen/): Indie rock from Seattle. Features live in-studio sessions.
 - [Nightwave Plaza](https://plaza.one/): 24/7 vaporwave, future funk, and city pop.
-- [NTS Radio](https://www.nts.live/): Underground radio with diverse shows from London and globally.
+- [NTS Radio](https://www.nts.live/): Underground radio with diverse shows from London and worldwide.
 - [Radio Paradise](https://radioparadise.com/): Mixed rock, world, and electronic. Ad-free.
 - [SomaFM](https://somafm.com/): Independent internet radio specializing in ambient and downtempo.
 - [WFMU](https://wfmu.org): Independent, non-commercial freeform radio from New Jersey.
@@ -107,7 +107,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - ⭐ [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus.
 - [Ambinature Radio](https://nature-rex.radioca.st/stream): 24/7 natural soundscapes, no music.
 - [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Instrumental pop from Mexico and Latin America.
-- [bigFM LoFi Focus](https://www.bigfm.de/): Lo-Fi Hip Hop for concentration.
+- [bigFM LoFi Focus](https://www.bigfm.de/): Lo-fi hip-hop for concentration.
 - [Birdsong FM](https://www.birdsong.fm/): 24/7 natural birdsong.
 - [ChillTraxx](https://www.chilltrax.com/): Relaxing chillout and downtempo.
 - [Chillsky Chillhop](https://chill.radioca.st/stream): Lo-Fi Hip Hop and chilled beats.
@@ -115,12 +115,12 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Zero-beat ambient drone and drift music.
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Ambient, modern classical, and acoustic post-rock.
 - [FluxFM - FluxLounge](https://fluxfm.de/fluxlounge): Soft pop and acoustic tunes.
-- ⭐ [FreeCodeCamp Radio](https://www.freecodecamp.org/news/code-radio/): 24/7 instrumentals for focus.
+- ⭐ [CodeRadio](https://www.freecodecamp.org/news/code-radio/): 24/7 instrumentals for focus.
 - [Hunter.FM - Lo-Fi](https://hunter.fm/): Beats for study or sleep.
 - [Kyoto Connection](https://www.thekyotoconnection.com/): Japanese ambient, synths, and field recordings.
 - [LocaFM - Ambient](https://www.locafm.com/): Spanish network focused on ambient relaxation and downtempo.
 - [Moon Phase Radio](https://www.moonphaseradio.com/): Commercial-free ambient and downtempo.
-- [Mynoise - Zen Garden](https://mynoise.net/): Calm nature sounds and tones.
+- [myNoise - Zen Garden](https://mynoise.net/): Calm nature sounds and tones.
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Copenhagen-based downtempo and lounge.
 - [NTS - Slow Focus](https://www.nts.live/infinite-mixtapes): Drone, ambient, and ragas.
 - [Radio Schizoid - Chillout](http://schizoid.in/): Psychedelic chillout and ambient.
@@ -129,11 +129,11 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 ### Classical & Opera <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments.
 - ⭐ [BBC Radio 3](https://www.bbc.co.uk/radio3): Classical, jazz, and world music.
-- [Classical KDFC](https://www.kdfc.com/): San Francisco classical station curating from rare and classic recordings.
+- [Classical KDFC](https://www.kdfc.com/): San Francisco classical station curating rare and classic recordings.
 - [Concertzender - Baroque](https://www.concertzender.nl/): Dutch station focused on baroque and period instruments.
 - [Concertzender - Old Music](https://www.concertzender.nl/): Medieval and Renaissance on authentic period instruments.
 - [Linn Classical](https://www.linn.co.uk/linn-radio): High-fidelity classical recordings from Linn's audiophile catalog.
-- [Only Mozart](http://abm21.com.au:8000/CONTAINER10): Wolfgang Amadeus Mozart compositions.
+- [Only Mozart](http://abm21.com.au:8000/CONTAINER10): Plays Wolfgang Amadeus Mozart compositions.
 - [OperaRadio-MRG.fm](https://mrg.fm/): Opera recordings and performances.
 - [Piano](https://p-node.org/piano): Solo piano music.
 - [Radio Suisse Classique](https://www.radioswissclassic.ch/en): Swiss public radio for classical and opera.
@@ -178,7 +178,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [Hollow Earth Radio](https://www.hollowearthradio.org/): Community music from Seattle.
 - [ilovemusic](https://ilovemusic.de): German eclectic radio platform.
 - [Internet Public Radio](https://www.internetpublicradio.live/): Artist-curated radio.
-- ⭐ [Kiosk Radio - Brussels](https://kioskradio.com/): Electronic and jazz from a park wooden shack.
+- ⭐ [Kiosk Radio - Brussels](https://kioskradio.com/): Electronic and jazz from a wooden shack in a park.
 - [KPISS](https://kpiss.fm/): DJ-supported internet radio from NYC.
 - [KTKE 101.5 FM](https://www.truckeetahoeradio.com/): Truckee Tahoe radio; music and talk.
 - [KWSX Radio](https://radio.kwsx.online/): Online station focused on experimental genre blending.
@@ -213,7 +213,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [Flower Power Radio](https://www.flowerpowerradio.com/): 60s and 70s rock and pop.
 - ⭐ [LuxuriaMusic](https://luxuriamusic.com): Surf, bossa nova, exotica, and space-age lounge.
 - [Majestic Jukebox](https://www.majesticjukeboxradio.com): 40s-80s jazz, rock, and swing.
-- [Mechanical Music Radio](https://mechanicalmusicradio.com): Stream of self-playing instruments and music boxes.
+- [Mechanical Music Radio](https://mechanicalmusicradio.com): Stream featuring self-playing instruments and music boxes.
 - [Old Time Radio](https://oldtime.radio/): 1930s-50s radio shows (comedy, westerns, mystery).
 - [Pumpkin FM - 1940s](http://pumpkinfm.com/1940s-stream): Hits and shows from the 1940s.
 - [Pumpkin FM - Radio England](http://pumpkinfm.com/radio-england-stream): Pirate radio-inspired rock and pop.
@@ -258,7 +258,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [OpenLab FM](https://openlab.fm): Ibiza-based electronic and visual arts platform.
 - [Paddygrooves](https://a12.siar.us/radio/8230/radio.mp3): Downtempo and lounge from Bali.
 - [Radio BipTunia](https://biptunia.com/): Experimental electronic music.
-- [Radio Caprice - Minimal](http://www.radcap.ru/): Stream for minimal tech house.
+- [Radio Caprice - Minimal](http://www.radcap.ru/): Minimal tech house stream.
 - [Radio DY10](https://www.radiody10.com/): Dance and trippy electronic from Nantes.
 - [Radio ItaloPower!](https://italopower.com): Italo-disco hits.
 - [Refuge Worldwide](https://refugeworldwide.com/): Berlin-based station for dance music and techno.
@@ -289,7 +289,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 ### Funk, Soul & Disco <a id="funk-soul-disco"></a>
 - [Funky Ass Tunes](https://ams1.reliastream.com/proxy/john12/stream): Funk, soul, and lounge from Dublin.
 - [The Funky Channel](https://thefunkychannel.com/): Funk, disco, and R&B hits.
-- [FUNKY RADIO](https://funky.radio/): 60s-80s funk and deep grooves.
+- [Funky Radio](https://funky.radio/): 60s-80s funk and deep grooves.
 - [International Rare Groove](https://www.irgradio.net/): Soul, funk, and jazz from London.
 - [Mojo Club](https://laut.fm/mojo): Deep funk, Latin, and jazz remixes.
 - [The Penthouse](https://thepenthouse.fm/): Soul, R&B, and classic pop.
@@ -308,8 +308,8 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 
 ### Jazz & Blues <a id="jazz-blues"></a>
 - [1.FM - Smooth Jazz](https://www.1.fm/station/smoothjazz): Contemporary and smooth jazz.
-- [101 SMOOTH JAZZ](http://www.101smoothjazz.com/): Instrumental smooth jazz.
-- [Aardvark Blues FM](https://aardvarkbluesfm.com/): Blues, modern blues, and R&B.
+- [101 Smooth Jazz](http://www.101smoothjazz.com/): Instrumental smooth jazz.
+- [Aardvark Blues FM](https://aardvarkbluesfm.com/): Traditional and modern blues, plus R&B.
 - ⭐ [Ábaco Libros y Café](https://radio30.virtualtronics.com/proxy/abaco): Jazz and bossa nova from a Cartagena bookstore.
 - [Adroit Jazz Underground](https://icecast.walmradio.com:8443/jazz): Modern and experimental jazz.
 - [Blues Revue](http://live.str3am.com:2240/live): Syndicated blues program.
@@ -323,7 +323,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [Jazz Con Class](https://jazzconclass.com): Classic jazz from the 40s-70s.
 - ⭐ [The Jazz Groove](https://jazzgroove.org): Laid-back and vocal jazz channels.
 - ⭐ [Jazz24](https://www.jazz24.org/): 24/7 jazz from Seattle (KNKX).
-- [KCSM Jazz 91.1](https://kcsm.org/): 24-hour jazz from the California Bay Area.
+- [KCSM Jazz 91.1](https://kcsm.org/): 24/7 jazz from the California Bay Area.
 - [KEWU-FM 89.5](https://www.ewu.edu/kewu/): Straight-ahead jazz from Washington state.
 - [KKJZ-HD88.1](https://kkjz.org/): Jazz and blues from Long Beach, CA.
 - [KSDS Jazz 88.3](https://www.jazz88.org/): Classic and contemporary jazz from San Diego.
@@ -448,13 +448,13 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [KIX Belgium](https://www.radiokix.be/): Talk and music from Belgium.
 - [Lahmacun Radio](https://www.lahmacun.hu/): Music and culture from Budapest.
 - [Le Grigri](https://legrigri.com): African and Caribbean grooves.
-- ⭐ [listen.moe](https://listen.moe/): K-pop streams.
+- ⭐ [listen.moe](https://listen.moe/): Anime & JPop streams. 
 - [MacSlon's Irish Pub](http://www.macslons-irish-pub-radio.com/): Irish folk and traditional music.
 - [Mondo Bongo Radio](https://mondobongoradio.com): World music and exotica.
 - [Nehanda Radio](https://nehandaradio.com/): News and music for the Zimbabwean diaspora.
 - ⭐ [Oroko Radio](https://oroko.live/): Afro indie, folk, and soul from Accra, Ghana.
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Performance hub from South Africa.
-- [Pyongyang Radio FM](https://listen7.myradio24.com/69366): State broadcaster from North Korea.
+- [Pyongyang Radio FM](https://listen7.myradio24.com/69366): North Korean state programming via online relays.
 - ⭐ [Radio Al-Hara](https://www.radioalhara.net/): Underground Palestinian radio; experimental beats and talk.
 - [Radio Caprice - Afrobeat](http://www.radcap.ru/): Afrobeat classics.
 - [Radio Caprice - Middle East](https://radcap.ru/): Middle Eastern music.
@@ -559,7 +559,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 
 ---
 
-### Experimental, Nerdy & Scanners <a id="experimental"></a>
+## Experimental, Nerdy & Scanners <a id="experimental"></a>
 - [Broadcastify](https://www.broadcastify.com/): Public Safety, Aircraft, and Marine streams.
 - [Deepcut.live](https://deepcut.live/): Real-time social DJ platform.
 - [GWES EAS Relay](https://globaleas.org/): Emergency alert system network.
