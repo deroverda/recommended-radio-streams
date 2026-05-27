@@ -423,7 +423,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 - [J1 Radio](https://www.j1fm.tokyo): Japanese pop network.
 - [KBON](https://www.kbon.com/): South Louisiana station since 1997; Cajun, zydeco, and swamp pop.
 - [Lahmacun Radio](https://www.lahmacun.hu/): World music and eclectic sounds from Budapest.
-- [Le Grigri](https://legrigri.com): African and Caribbean grooves.
+- [Le Grigri](https://www.le-grigri.com/): African and Caribbean grooves.
 - ⭐ [listen.moe](https://listen.moe/): Anime and JPop. 
 - [MacSlon's Irish Pub](http://www.macslons-irish-pub-radio.com/): Irish folk and traditional music.
 - [Mondo Bongo Radio](https://mondobongoradio.com): World music and exotica.
@@ -441,11 +441,7 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 ### Christmas Music & Holiday <a id="christmas-music-holiday"></a>
 - [Christmas FM Ireland](https://christmasfm.com/): Christmas station from Ireland.
 - [Christmas Vinyl HD](https://walmradio.com/): Vintage Christmas music.
-- [SomaFM - Christmas Lounge](https://somafm.com/christmas/): Chilled holiday grooves.
-- [SomaFM - Christmas Rocks!](https://somafm.com/xmasrocks/): Indie and alternative holiday music.
-- [SomaFM - Department Store](https://somafm.com/deptstore/): Holiday elevator music.
-- [SomaFM - Jolly Ol' Soul](https://somafm.com/jollysoul/): Soul music for the season.
-- [SomaFM - Xmas in Frisko](https://somafm.com/xmasinfrisko/): Wacky and eclectic holiday mix.
+- [SomaFM - Holiday Broadcasts](https://somafm.com/holiday/): Various Holiday channels, returns in October.
 
 ---
 
