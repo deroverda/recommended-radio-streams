@@ -14,7 +14,19 @@
 
 # Recommended Radio Streams
 
-A curated list of internet radio stations across 40+ genres. Find app recommendations, discovery tools, and tips for finding stream URLs.
+A curated collection of internet radio stations - ambient drift, underground electronic, freeform community radio, jazz, world music, and late-night deep cuts.
+
+Includes radio apps, discovery tools, and guides for finding direct stream URLs.
+
+---
+
+## Quick Start
+
+1. Install a player from the [Apps & Players](#apps-players) section.
+2. Try searching for a station directly inside the app first.
+3. If the station isn't listed, check the [Directories & Discovery Tools](#directories) section for searchable radio directories like [RadioBrowser](https://www.radio-browser.info/) and [FMStream](https://fmstream.org/).
+4. Still can't find the stream? Use the advanced guide below to locate raw stream URLs manually.
+5. Paste the stream URL into your preferred player and start listening.
 
 ---
 
@@ -77,10 +89,11 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 
 ---
 
+
 ## The Station Directory <a id="station-directory"></a>
 
 > [!NOTE]
-> Links point to official homepages where available. If a link goes directly to a stream URL, it's because no official homepage could be found. Direct stream URLs may break over time. If you need raw links for custom players, see the [Finding Stream URLs](#finding-urls) & [Directories & Discovery Tools](#directories).
+> Links point to official station pages whenever possible. If a link goes directly to a stream URL, it's because no official homepage could be found. Direct stream URLs may break over time. If you need raw links for custom players, see [Finding Stream URLs](#finding-urls) and [Directories & Discovery Tools](#directories).
 
 
 ### The Starter Pack <a id="starter-pack"></a>
@@ -524,27 +537,29 @@ A curated list of internet radio stations across 40+ genres. Find app recommenda
 ---
 
 ## Finding Stream URLs <a id="finding-urls"></a>
-*If a station isn't in an app database, you may need to find the raw URL manually.*
+*For stations that aren't listed in app databases or public radio directories.*
 
 > [!TIP]
-> Most apps listed at the top have built-in directories. Try searching for the station inside the app first.
+> Before digging for raw stream URLs manually, check the [Directories & Discovery Tools](#directories) section first. Many stations are already indexed on Radio Browser, FMStream, or other searchable directories.
 
 <details>
-<summary><strong>Guide: How to find Stream URLs</strong></summary>
+<summary><strong>Guide: How to find direct stream URLs</strong></summary>
 
 <br>
 
 **1. Check the site**
-Look for links labeled "Winamp," "PLS," "M3U," or "Direct Stream."
+Look for links labeled "Listen Live," "Direct Stream," "MP3," "AAC," "M3U," "PLS", "Winamp"
 
 **2. The Firefox Method**
-* Install [The Stream Detector](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) add-on.
+A fast way to capture hidden stream URLs from embedded web players.
+
+* Install [The Stream Detector] for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) or [Chrome](https://chromewebstore.google.com/detail/the-stream-detector/iakkmkmhhckcmoiibcfjnooibphlobak) add-on.
 * In the add-on options, uncheck `Ignore direct links to media files`.
-* Play the radio on the website.
+* Play the station in your browser.
 * Click the add-on icon and select "Copy all visible URLs".
 
 **3. The Inspector Method**
-Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, or starting with `icecast`/`shoutcast`.
+Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, `.m3u8`, `.pls` or starting with `icecast`/`shoutcast`.
 
 ### Artist-Specific Streams
 Access single-artist, 24/7 streams from the [You.Radio](https://you.radio/search) network.
@@ -571,7 +586,7 @@ Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-st
 **Style Guide:**
 - Use official website links.
 - Objective descriptions only (Genre/Country).
-- No generic "Top 40" or low-bitrate loops.
+- Avoid generic "Top 40" stations and low-bitrate loops.
 
 ## Acknowledgements
 Maintained by [deroverda](https://github.com/deroverda).
