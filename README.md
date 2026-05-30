@@ -127,6 +127,8 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Paddygrooves](https://a12.siar.us/radio/8230/radio.mp3): Downtempo and lounge from Bali. [Stream](https://a12.siar.us/radio/8230/radio.mp3)
 - [Radio Schizoid - Chillout](http://schizoid.in/): Psychedelic chillout and ambient. [Stream](http://94.130.113.214:8000/chill)
 
+---
+
 ### Classical & Opera <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments. [Stream](https://mediaserv73.live-streams.nl:18058/stream)
 - ⭐ [BBC Radio 3](https://www.bbc.co.uk/radio3): Classical, jazz, and world music.. [Stream](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3)
@@ -355,11 +357,13 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com/): Deep dub and roots from Bermuda. [Stream](http://streamer.radio.co/s0635c8b0d/listen?fbclid=IwAR16t5mC5UFT9Fp8pbWe0dvYn9VEI3FYJTogE5AJtUF3G1dJi38lwLgD9as)
 - [FIP Reggae](https://www.radiofrance.fr/fip/radio-reggae): Reggae from Radio France. [Stream](http://icecast.radiofrance.fr/fipreggae-hifi.aac)
 - [Irie FM](https://www.iriefm.net/): Roots and dancehall from Jamaica. [Stream](https://usa19.fastcast4u.com:7430/;)
+- [Jamaica Dancehall Radio](https://jamaicadancehallradio.com/): Hilarous DJ singing and playing reggae. [Stream](https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3)
 - [King Dub Radio](http://www.kingdubfamily.com/): Dub, steppas, and sound system culture. [Stream](http://london-dedicated.myautodj.com:8862/stream)
 - [UK Roots FM](https://ukrootsfm.net/): Roots reggae and dub. [Stream](http://138.201.198.218:8043/;)
 
 ### Rock, Indie, Alternative, Country & Folk <a id="rock-indie-alternative-country-folk"></a>
 - [Ace Cafe Radio](https://acecafe.com/ace-cafe-radio/): Rock 'n' roll from London's Ace Cafe. [Stream](https://listen.radioking.com/radio/69079/stream/106852)
+- [BAGeL Radio]: Indie rock, noise pop and alternative favorites. [Stream](http://ais-sa3.cdnstream1.com/2606_128.aac)
 - [BBC Radio 1](https://www.bbc.co.uk/radio1): Contemporary pop, dance, and rock from the UK. [Stream](https://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.norewind.m3u8)
 - [BBC Radio 2](https://www.bbc.co.uk/radio2): Adult contemporary and pop from the UK. [Stream](https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/dash/nonuk/pc_hd_abr_v2/aks/bbc_radio_two.mpd)
 - [Birch Street Radio](https://birchstreetradio.com/): Alternative and classic rock; artist-focused programming from the 60s onward. [Stream](https://streaming.live365.com/a97155)
@@ -379,6 +383,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Planet Pootwaddle](https://planetpootwaddle.com/): Rock mixed with satire and comedy. [Stream](http://peridot.streamguys.com:7520/sgplayer-mp3)
 - [Prog Palace Radio](https://www.progpalaceradio.com/): Progressive rock and metal. [Stream](https://cheetah.streemlion.com/progpalace64)
 - ⭐ [Psychedelicized](https://psychedelicized.com/): 60s-70s psychedelic and garage rock. [Stream](https://cast1.asurahosting.com/proxy/psychedelicized/stream)
+- [Radio Woodstock 100.1 WDST]: AAA rock, indie, folk, and live Hudson Valley music. [Stream](https://stream.revma.ihrhls.com/zc7332)
 - [The SoCal Sound](http://thesocalsound.org/): Rock, pop, and indie from California. [Stream](https://stream.thesocalsound.org/1)
 - [WYRM - Yacht Rock Miami](https://yachtrockmiami.com/): Yacht rock from Miami. [Stream](https://usa20.fastcast4u.com:4100/1753014835)
 
@@ -453,6 +458,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Pittsburgh Police, Fire, EMS](https://www.broadcastify.com/listen/feed/21738): Emergency services scanner. [Stream](https://broadcastify.cdnstream1.com/21738)
 - [Radio Brennpunkt](https://radiobrennpunkt.org/): Dark ambient and transmission noise. [Stream](https://radio-brennpunkt.radiocult.fm/stream)
 - [Radio is a Foreign Country](https://www.radioisaforeigncountry.org/): Shortwave archives and obscure global recordings. [Stream](https://s5.radio.co/s20251311a/listen)
+- [Radio Paisajes]: Field recordings and experimental music from south america. [Stream](https://stream.zeno.fm/nftv61u086etv)
 - [Shirley & Spinoza](https://compound-eye.org): Sound collages and field recordings. [Stream](http://s2.radio.co/sec5fa6199/listen.m3u)
 - [Spinning Seal FM](https://zeno.fm/radio/SpinningSeal/): Seal spinning to eurobeat on a loop. [Stream](https://stream.zeno.fm/9q3ez3k3fchvv)
 - [System Bus Radio](https://github.com/fulldecent/system-bus-radio): AM signals transmitted from computer hardware.
