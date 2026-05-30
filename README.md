@@ -12,8 +12,6 @@
 
 </div>
 
-# Recommended Radio Streams
-
 Internet radio stations I actually listen to - underground electronic, freeform, jazz, ambient, and weird stuff. Includes direct stream URLs so you can use any player.
 
 ---
