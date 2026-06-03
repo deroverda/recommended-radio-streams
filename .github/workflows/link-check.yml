@@ -3,58 +3,29 @@ name: Check Stream Links
 on:
   push:
     branches: ["main"]
-
   schedule:
     - cron: "0 0 * * 1"
-
   workflow_dispatch:
 
 jobs:
   lychee:
     name: Link Checker
     runs-on: ubuntu-latest
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run Link Checker (lychee)
+      - name: Run Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
           args: >
             --verbose
-            --max-retries 2
-            --max-concurrency 5
-            --timeout 30
-            --retry-wait-time 5
-            --user-agent "Mozilla/5.0 (compatible; LycheeBot/1.0; +https://github.com/lycheeverse/lychee)"
-            --accept "200,202,204,206,301,302,303,307,308,401,403,429"
-
+            --max-retries 3
+            --timeout 60
+            --retry-wait-time 10
+            --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+            --accept "200,202,204,206,301,302,307,308,401,403,405,415,418,429"
             --exclude "localhost"
-            --exclude "echo/|\.pls$|\.m3u$|\.m3u8$|\.mp3$"
-
-            --exclude "reddit\.com"
-            --exclude "liveatc\.net"
-            --exclude "wrir\.org"
-            --exclude "sverigesradio\.se"
-            --exclude "kcrw\.com"
-
-            --exclude "cvgm\.net"
-            --exclude "streamerr\.co"
-            --exclude "willstare\.com"
-
-            --exclude "jclubbandstand\.com"
-            --exclude "compound-eye\.org"
-            --exclude "iriefm\.net"
-            --exclude "hardrockhellradio\.com"
-            --exclude "liquiddoom\.net"
-
-            --exclude "directory\.shoutcast\.com"
-            --exclude "beautifulinstrumentals\.com"
-            --exclude "dinamo\.fm"
-
+            --exclude-mail
             README.md
