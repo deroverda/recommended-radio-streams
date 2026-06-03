@@ -11,9 +11,16 @@ jobs:
   lychee:
     name: Link Checker
     runs-on: ubuntu-latest
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Debug - List files
+        run: ls -la
 
       - name: Run Link Checker
         uses: lycheeverse/lychee-action@v2
