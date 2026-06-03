@@ -27,14 +27,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      - name: Restore Lychee cache
-        uses: actions/cache@v4
-        with:
-          path: .lycheecache
-          key: lychee-${{ runner.os }}-${{ github.sha }}
-          restore-keys: |
-            lychee-${{ runner.os }}-
-
       - name: Run Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
@@ -42,8 +34,6 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --cache
-            --max-cache-age 1d
 
             --max-retries 3
             --max-concurrency 3
