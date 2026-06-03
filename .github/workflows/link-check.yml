@@ -3,23 +3,34 @@ name: Check Stream Links
 on:
   push:
     branches: ["main"]
+    paths:
+      - "README.md"
+      - ".github/workflows/link-check.yml"
 
   schedule:
     - cron: "0 0 * * 1"
 
   workflow_dispatch:
 
+permissions:
+  contents: read
+
 jobs:
   lychee:
     name: Link Checker
     runs-on: ubuntu-latest
 
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
+
+      - name: Restore Lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: lychee-${{ runner.os }}-${{ github.sha }}
+          restore-keys: |
+            lychee-${{ runner.os }}-
 
       - name: Run Link Checker
         uses: lycheeverse/lychee-action@v2
@@ -27,14 +38,22 @@ jobs:
           fail: false
           args: >
             --verbose
+            --no-progress
+            --cache
+            --max-cache-age 1d
+
             --max-retries 3
-            --max-concurrency 3
+            --max-concurrency 8
+            --host-concurrency 1
+            --host-request-interval 500ms
             --timeout 60
             --retry-wait-time 10
 
             --user-agent "Mozilla/5.0"
+            --header "Accept: */*"
+            --header "Icy-MetaData: 1"
 
-            --accept "200,202,204,206,301,302,303,307,308,401,403,415,429"
+            --accept "100..=103,200..=299,401,403,415,429"
 
             --exclude "localhost"
             --exclude "reddit\.com"
