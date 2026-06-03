@@ -191,7 +191,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [Noods Radio](https://noodsradio.com/): Rare and deep cuts for record collectors, from Bristol. [Stream](https://noods-radio.radiocult.fm/stream)
 - [Operator Radio](https://operator-radio.com/): Alternative sounds from a blue shipping container in Rotterdam, broadcasting since 2017. [Stream](https://origin.streamnerd.nl/operator/operator/icecast.audio)
 - [Palanga Street Radio](https://palanga.live/): DIY community radio from Lithuania. [Stream](https://stream.palanga.live:8443/palanga128.mp3)
-- [Pinata Radio](https://www.pinataradio.com/): Local and underground music from French scenes. [Stream](https://listen.radioking.com/radio/96031/stream/525368)
+- [Pinata Radio](https://www.pinataradio.com/): Local and underground music from French scenes. [Stream](https://listen.radioking.com/radio/96031/stream/134656)
 - [Radio Free Phoenix](https://radiofreephoenix.com): Indie rock, deep tracks, and Americana from Phoenix. [Stream](http://69.162.73.34:8124/;stream.nsv)
 - ⭐ [Radio Meuh](https://www.radiomeuh.com/): Electronic, soul, and funk from the French Alps. [Stream](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)
 - [Radio Nova](https://www.nova.fr/radios/radio-nova/): Global sounds, jazz, and hip-hop from France. [Stream](https://novazz.ice.infomaniak.ch/novazz-128.mp3)
