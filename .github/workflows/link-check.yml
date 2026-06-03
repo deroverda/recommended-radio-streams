@@ -20,6 +20,9 @@ jobs:
     name: Link Checker
     runs-on: ubuntu-latest
 
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
@@ -43,7 +46,7 @@ jobs:
             --max-cache-age 1d
 
             --max-retries 3
-            --max-concurrency 8
+            --max-concurrency 3
             --host-concurrency 1
             --host-request-interval 500ms
             --timeout 60
@@ -51,7 +54,6 @@ jobs:
 
             --user-agent "Mozilla/5.0"
             --header "Accept: */*"
-            --header "Icy-MetaData: 1"
 
             --accept "100..=103,200..=299,401,403,415,429"
 
