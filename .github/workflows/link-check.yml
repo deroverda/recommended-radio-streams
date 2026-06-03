@@ -26,13 +26,5 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
-          args: >
-            --verbose
-            --max-retries 3
-            --timeout 60
-            --retry-wait-time 10
-            --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-            --accept "200,202,204,206,301,302,307,308,401,403,405,415,418,429"
-            --exclude "localhost"
-            --exclude-mail
-            README.md
+          args: "--verbose --max-retries 3 --timeout 60 --retry-wait-time 10 --accept '200,202,204,206,301,302,307,308,401,403,405,415,418,429' --exclude 'localhost' --exclude-mail"
+          inputs: README.md
