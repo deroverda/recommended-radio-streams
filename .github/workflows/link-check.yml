@@ -45,7 +45,7 @@ jobs:
             --user-agent "Mozilla/5.0"
             --header "Accept: */*"
 
-            --accept "100..=103,200..=299,401,403,415,429"
+            --accept "100..=103,200..=299,401,403,406,415,429"
 
             --exclude "localhost"
             --exclude "reddit\.com"
