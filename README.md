@@ -176,7 +176,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Do!! You!!! Radio](https://doyou.world/): Community radio from Peckham, South London. [Stream](https://doyouworld.out.airtime.pro/doyouworld_a)
 - [The Dump](https://www.thedumpradio.com/): Obscure music across genres, intentionally unpolished. [Stream](http://icecast.thedumpradio.com/listen_mp3.m3u)
 - [Hollow Earth Radio](https://www.hollowearthradio.org/): Freeform from Seattle; found sound, field recordings, and local underground music. [Stream](http://centova.rockhost.com:8001/stream)
-- [Internet Public Radio](https://www.internetpublicradio.live/): Artist-hosted shows across electronic and experimental music. [Stream](https://c11.radioboss.fm:18270/stream)
+- [Internet Public Radio](https://www.internetpublicradio.live/): Artist-hosted shows across electronic and experimental music. [Stream](https://stream-relay-geo.internetpublicradio.live/stream/main)
 - ⭐ [Kiosk Radio](https://kioskradio.com/): Electronic and jazz from a wooden shack in a park in Brussels. [Stream](https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b)
 - [KPISS](https://kpiss.fm/): DJ-run freeform station from NYC. [Stream](https://das-edge14-live365-dal02.cdnstream.com/a18444)
 - [KWSX Radio](https://radio.kwsx.online/): Freeform experimental radio from London. [Stream](https://stream.kwsx.online/listen/kwsx/radio-med.mp3)
@@ -205,7 +205,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 
 ### Decades, Oldies & Nostalgia <a id="decades-oldies-nostalgia"></a>
 - [Beatles Radio](https://you.radio/station/exclusiveradio-beatles): Nothing but the Beatles and solo projects. [Stream](http://stream.zeno.fm/e4auhdgm6cquv)
-- [Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/): 60s garage rock, psychedelia, and jazz. [Stream](http://86.94.213.59:8000/;)
+- [Beyond the Beat Generation](http://www.beyondthebeatgeneration.com/): 60s garage rock, psychedelia, and jazz. [Stream](http://86.94.213.59:8000/;) *(stream currently down - recheck)*
 - ⭐ [Classic Vinyl HD](https://walmradio.com/classic/): Classic rock and vinyl-based hits. [Stream](https://icecast.walmradio.com:8443/classic)
 - [Flower Power Radio](https://www.flowerpowerradio.com/): 60s and 70s rock and pop. [Stream](http://uk1.streamingpulse.com:7000/;)
 - [J-Club Bandstand](https://jclubbandstand.torontocast.stream/stations/index.html): Jazz music from the 1930s and 1940s. [Stream](https://cast1.torontocast.com:2060/;.mp3)
@@ -256,7 +256,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Skylab Radio](https://skylabradio.com): Experimental electronic and avant-garde from Melbourne. [Stream](http://stream.skylab-radio.com:8000/live)
 - [Sub.FM](https://www.sub.fm/): Drum and bass, dubstep, jungle, grime, and techno. [Stream](http://subfm.radioca.st/Sub.FM)
 - [TEKnival Radio](https://teknivalradio.com/): Hard techno and rave. [Stream](https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3)
-- [TM Radio](https://tm-radio.com/): Underground DJ mixes since 2006; progressive house, tech house, and deep techno. [Stream](https://ctmradio.hopto.org:8000/ctmradio.ogg)
+- [TM Radio](https://tm-radio.com/): Underground DJ mixes since 2006; progressive house, tech house, and deep techno. [Stream](https://stream.tm-radio.com/tribalmixes)
 
 #### Phonk & Drift
 - [Bad Radio](https://badradio.nz/): Phonk and dark trap from New Zealand. [Stream](http://server.badradio.biz:8000/stream)
@@ -333,7 +333,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Horror Radio](https://darkentertainments.com/): Original horror dramas and audio fiction. [Stream](https://eu1.fastcast4u.com/proxy/stevende1?mp=/;)
 - [Her.st](https://her.st/radio/): Talk archives, philosophy, and conspiracy themes. [Stream](https://radio.her.st/listen/listen/128.mp3)
 - [Historyradio.org](https://historyradio.org): Literature, speeches, and audiobooks. [Stream](http://stream.radiojar.com/6bmecgg3wd5tv)
-- [NPR](https://www.npr.org/): US public radio news and talk. [Stream](https://streaming.azpm.org/kuaz128)
+- [NPR Program Stream](https://www.npr.org/): US public radio news and talk. [Stream](http://npr-ice.streamguys1.com/live.mp3)
 - [Radio Marija](https://www.marijosradijas.lt/): Catholic religious radio from Lithuania. [Stream](http://dreamsiteradiocp4.com:8080/)
 - [RTÉ Radio 1](https://www.rte.ie/radio/radio1/): National news and talk from Ireland. [Stream](https://radio35.virtualtronics.com:20116/stream)
 - [The Ultimate Art Bell](https://www.willstare.com/art-bell-repository/): Classic Coast to Coast AM paranormal talk episodes. [Stream](http://stream.willstare.com:8450/)
@@ -346,7 +346,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Badam Radio](https://badam-radio.radioweb.co/): Reggae, dub, and dancehall. [Stream](https://listen.radioking.com/radio/105610/stream/144949)
 - ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com/): Deep dub and roots from Bermuda. [Stream](https://streamer.radio.co/s0635c8b0d/listen)
 - [FIP Reggae](https://www.radiofrance.fr/fip/radio-reggae): Reggae from Radio France. [Stream](http://icecast.radiofrance.fr/fipreggae-hifi.aac)
-- [Irie FM](https://www.iriefm.net/): Roots and dancehall from Jamaica. [Stream](https://usa19.fastcast4u.com:7430/;)
+- [Irie FM](https://iriefm.net/): Roots and dancehall from Jamaica. [Stream](https://usa19.fastcast4u.com:7430/;)
 - [Jamaica Dancehall Radio](https://jamaicadancehallradio.com/): Reggae and dancehall with live DJ commentary. [Stream](https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3)
 - [King Dub Radio](http://www.kingdubfamily.com/): Dub, steppas, and sound system culture. [Stream](http://london-dedicated.myautodj.com:8862/stream)
 - [UK Roots FM](https://ukrootsfm.net/): Roots reggae and dub. [Stream](http://138.201.198.218:8043/;)
