@@ -12,7 +12,6 @@ on:
 
 permissions:
   contents: read
-  issues: write
 
 jobs:
   lychee:
@@ -61,14 +60,6 @@ jobs:
           name: lychee-report
           path: lychee/out.md
 
-      - name: Open issue on link failures
-        if: env.lychee_exit_code != 0
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: "Link checker found broken links"
-          content-filepath: ./lychee/out.md
-          labels: link-check
-
   stream-probe:
     name: Stream Audio Probe
     runs-on: ubuntu-latest
@@ -89,11 +80,3 @@ jobs:
         with:
           name: stream-probe-report
           path: stream-report.md
-
-      - name: Open issue on stream failures
-        if: steps.probe.outputs.failures != '0'
-        uses: peter-evans/create-issue-from-file@v5
-        with:
-          title: "Stream probe found dead streams"
-          content-filepath: ./stream-report.md
-          labels: stream-check
