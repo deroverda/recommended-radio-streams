@@ -76,7 +76,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 | [QMPlay2](https://github.com/zaps166/QMPlay2) | Win/Mac/Lin | `Open Source` | Supports most stream URL formats. |
 | ⭐ [Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave) | Linux | `Open Source` | Integrated with GNOME/GTK. |
 | [Tuner](https://github.com/tuner-labs/tuner) | Linux | `Open Source` | Minimalist Linux player. |
-| [VLC](https://www.videolan.org/vlc/) | Win/Mac/Lin | `Open Source` | Plays any stream URL or playlist; "Open Network Stream" to paste links. |
+| [VLC](https://www.videolan.org/vlc/) | Win/Mac/Lin | `Open Source` | Plays any stream URL or playlist. |
 
 ### Terminal
 | App Name | Environment | License | Notes |
