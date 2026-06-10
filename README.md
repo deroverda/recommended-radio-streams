@@ -280,7 +280,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 ### Funk, Soul & Disco <a id="funk-soul-disco"></a>
 - [Funky Ass Tunes](https://www.funkyasstunes.com/): Funk, soul, rare groove, and lounge from Dublin. [Stream](https://ams1.reliastream.com/proxy/john12/stream)
 - [The Funky Channel](https://thefunkychannel.com/): Driven by a couple of old-school funk and disco addicts. [Stream](http://cast3.my-control-panel.com:8170/stream)
-- [Funky Radio](https://funky.radio/): Classic funk only, 1963-1982 - rare and unreleased cuts from vinyl. Italian-run. [Stream](https://funkyradio.streamingmedia.it/play.mp3)
+- [Funky Radio](https://funky.radio/): Classic funk only, 1963-1982 - rare and unreleased cuts from vinyl. Italian-run. [Stream](https://funkyradio.streamingmedia.it/play.mp3) *(stream currently down - recheck)*
 - [International Rare Groove](https://www.irgradio.net/): Soul, funk, and jazz from London. [Stream](https://s131.radiolize.com/radio/8110/radio.mp3)
 - [Mojo Club](https://laut.fm/mojo): Deep funk, Latin, and jazz remixes. [Stream](https://stream.laut.fm/mojo)
 - [The Penthouse](https://thepenthouse.fm/): Live from New York since 2008. Sinatra and Ella alongside new crooners. [Stream](http://sc1.mystreamserver.com:8052/;)
@@ -378,7 +378,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Mad Music Radio - Oldies Radio](https://wgdr.rocks/): Oldies and soft rock hits through the 70s. [Stream](http://janus.shoutca.st:8259/;)
 - [Morow](https://www.morow.com/): Progressive rock from Paris. [Stream](https://www.morow.com/morow.pls)
 - [Nugs Radio](https://www.nugs.net/): Live rock and jam band recordings. [Stream](https://radio.nugs.net/nugsnet)
-- [Planet Pootwaddle](https://planetpootwaddle.com/): Rock mixed with satire and comedy. [Stream](http://peridot.streamguys.com:7520/sgplayer-mp3)
+- [Planet Pootwaddle](https://planetpootwaddle.com/): Rock mixed with satire and comedy. [Stream](http://peridot.streamguys.com:7520/sgplayer-mp3) *(stream currently down - recheck)*
 - [Prog Palace Radio](https://www.progpalaceradio.com/): Progressive rock and metal. [Stream](https://cheetah.streemlion.com/progpalace64)
 - ⭐ [Psychedelicized](https://psychedelicized.com/): 60s-70s psychedelic and garage rock. [Stream](https://cast1.asurahosting.com/proxy/psychedelicized/stream)
 - [Radio Woodstock](https://radiowoodstock.com/): AAA rock, indie, folk, and live Hudson Valley music. [Stream](https://stream.revma.ihrhls.com/zc7332)
@@ -424,7 +424,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Le Grigri](https://www.le-grigri.com/): African and Caribbean grooves. [Stream](https://www.radioking.com/play/legrigri/273715)
 - [listen.moe](https://listen.moe/): Anime and J-Pop, run by a small team of volunteers. [Stream](https://listen.moe/stream)
 - [MacSlon's Irish Pub](http://www.macslons-irish-pub-radio.com/): Irish folk and traditional music. [Stream](https://server9.streamserver24.com/stream/macslonsradio/stream)
-- [Mondo Bongo Radio](https://mondobongoradio.com): Genre-hopping, timeless music from around the world. Non-profit, Greece-based since 2011. [Stream](https://cast.mndbng.com/listen/mondobongo/radio.mp3)
+- [Mondo Bongo Radio](https://mondobongoradio.com): Genre-hopping, timeless music from around the world. Non-profit, Greece-based since 2011. [Stream](https://cast.mndbng.com/listen/mondobongo/radio.mp3) *(stream currently down - recheck)*
 - ⭐ [Oroko Radio](https://oroko.live/): Afro indie, folk, and soul from Accra, Ghana. [Stream](https://oroko-radio.radiocult.fm/stream)
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Live music, performance, and pan-African sound art from Cape Town. [Stream](https://pass.out.airtime.pro/pass_a)
 - [Pyongyang Radio FM](https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/): North Korean state radio via online relays. [Stream](https://listen7.myradio24.com/69366)
