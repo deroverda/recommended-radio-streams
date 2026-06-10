@@ -1,33 +1,36 @@
 name: Check Stream Links
-
 on:
   push:
     branches: ["main"]
     paths:
       - "README.md"
       - ".github/workflows/link-check.yml"
+      - ".github/scripts/probe-streams.sh"
   schedule:
     - cron: "0 0 * * 1"   # weekly on Monday at UTC midnight
   workflow_dispatch:
 
 permissions:
   contents: read
-  issues: write   # required only if you later decide to create issues
+  issues: write
 
 jobs:
   lychee:
-    name: Link Checker
+    name: Link Checker (websites only)
     runs-on: ubuntu-latest
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
 
-      # -------------------------------------------------
-      # Run the Lychee link checker
-      # -------------------------------------------------
+      - name: Build stream exclude list
+        run: |
+          grep -oE '\[(Stream|Channel [12]|[12])\]\(http[^)]+\)' README.md \
+            | sed -E 's/.*\((http[^)]+)\)/\1/' \
+            | sed -E 's/[][\\.^$?*+(){}|]/\\&/g' \
+            | sort -u > stream-exclude.txt
+
       - name: Run Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
@@ -40,23 +43,57 @@ jobs:
             --max-concurrency 6
             --host-concurrency 2
             --host-request-interval 1s
-            --timeout 120
+            --timeout 30
             --retry-wait-time 15
             --user-agent "Mozilla/5.0"
             --header "Accept: */*"
             --accept "100..=103,200..=299,401,403,406,415,429"
             --exclude "localhost"
-            --exclude "reddit\\.com"
             --exclude "127.0.0.1"
             --exclude "::1"
+            --exclude-file stream-exclude.txt
             README.md
 
-      # -------------------------------------------------
-      # Upload the Lychee report as an artifact
-      # -------------------------------------------------
       - name: Upload Lychee report
-        if: always()                     # run even if the previous step failed
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: lychee-report
-          path: lychee/out.md            # adjust if your output path differs
+          path: lychee/out.md
+
+      - name: Open issue on link failures
+        if: env.lychee_exit_code != 0
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Link checker found broken links"
+          content-filepath: ./lychee/out.md
+          labels: link-check
+
+  stream-probe:
+    name: Stream Audio Probe
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Probe streams
+        id: probe
+        run: bash .github/scripts/probe-streams.sh
+
+      - name: Upload stream report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: stream-probe-report
+          path: stream-report.md
+
+      - name: Open issue on stream failures
+        if: steps.probe.outputs.failures != '0'
+        uses: peter-evans/create-issue-from-file@v5
+        with:
+          title: "Stream probe found dead streams"
+          content-filepath: ./stream-report.md
+          labels: stream-check
