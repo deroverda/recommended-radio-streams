@@ -99,6 +99,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [dublab](https://dublab.com): Future roots music from a Los Angeles non-profit, since 1999. [Stream](http://dublab.out.airtime.pro:8000/dublab_a)
 - [FIP](https://www.radiofrance.fr/fip): French public radio mixing jazz, rock, and world music. [Stream](http://icecast.radiofrance.fr/fip-hifi.aac)
 - [KEXP 90.3](https://www.kexp.org/listen/): Indie rock from Seattle, famous for live in-studio sessions. [Stream](https://kexp.streamguys1.com/kexp160.aac)
+- [La Patate Douce](https://www.lapatatedouceradio.com/): Disco-funk, Afro-soul, and house with a jazz touch from Paris. [Stream](http://listen.radioking.com/radio/285742/stream/331753)
 - [Nightwave Plaza](https://plaza.one/): Vaporwave, future funk, and city pop. [Stream](https://radio.plaza.one/ogg)
 - [NTS](https://www.nts.live/): Underground radio from London. Two live channels ([1](http://stream-relay-geo.ntslive.net/stream), [2](http://stream-relay-geo.ntslive.net/stream2)) and deep [mixtapes](https://www.nts.live/infinite-mixtapes).
 - [Radio Paradise](https://radioparadise.com/): Mixed by a couple in Paradise, California; rock, world, and electronic. [Stream](http://stream-dc1.radioparadise.com/rp_192m.ogg)
@@ -115,9 +116,9 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Ambinature Radio](https://www.ambinature.xyz/): Natural soundscapes without music. [Stream](https://nature-rex.radioca.st/stream)
 - [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Instrumental pop from Mexico and Latin America. [Stream](http://hydra.cdnstream.com/1822_128)
 - [Birdsong FM](https://www.birdsong.fm/): Live birdsong recordings from nature. [Stream](https://a1.radio.co/s5c5da6a36/listen)
-- [ChillTraxx](https://www.chilltrax.com/): Downtempo, electronica, and chillout music. [Stream](https://streamssleu.chilltrax.com/stream?sid=1)
+- [ChillTraxx](https://www.chilltrax.com/): Downtempo and electronic broadcast from the San Francisco Bay Area. [Stream](https://streamssleu.chilltrax.com/stream?sid=1)
 - [CodeRadio](https://www.freecodecamp.org/news/code-radio/): Jazzy beats to code to, from freeCodeCamp. [Stream](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3)
-- [Dinamo.FM - Sleep](https://dinamo.fm/): Ambient electronica and downtempo. [Stream](http://channels.dinamo.fm/sleep-mp3)
+- [Dinamo.FM - Sleep](https://dinamo.fm/): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3)
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Zero-beat ambient drone and drift music. [Stream](http://streams.echoesofbluemars.org:8000/cryosleep)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Ambient, modern classical, and acoustic post-rock. [Stream](http://uk4-vn.webcast-server.net:9270/)
 - [FluxFM - FluxLounge](https://fluxfm.de/fluxlounge): Soft pop and acoustic tunes. [Stream](http://streams.fluxfm.de/lounge/mp3-128/audio/play.m3u)
@@ -275,7 +276,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 #### Synthwave & Retrowave
 - ⭐ [Nightride FM](https://nightride.fm/): Synthwave and electronic community since 2018; multiple channels including darksynth, chillsynth, and EBSM. [Stream](https://stream.nightride.fm/nightride.mp3)
 - [Radio Caprice - Retrowave](https://radcap.ru/): Retrowave and neon-soaked beats. [Stream](http://79.120.39.202:9125/)
-- [Radio Record - Synthwave](https://www.radiorecord.ru/): Synthwave from Radio Record. [Stream](http://radiorecord.hostingradio.ru/synth96.aacp)
+- [Radio Record - Synthwave](https://www.radiorecord.ru/): Dedicated synthwave channel from the St. Petersburg-based electronic network.⁠ [Stream](http://radiorecord.hostingradio.ru/synth96.aacp)
 - [Synthwave City FM](https://www.synthwavecityfm.com/): Synthwave, chillwave, and retrowave. [Stream](https://synthwave-rex.radioca.st/stream)
 
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
@@ -315,7 +316,6 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [KEWU 89.5](https://www.ewu.edu/kewu/): Straight-ahead jazz from Washington state. [Stream](https://streamer.radio.co/s3ba633066/listen)
 - [KJazz 88.1](https://kkjz.org/): Jazz and blues from Long Beach, CA. [Stream](https://streaming.live365.com/a49833)
 - [KSDS Jazz 88.3](https://www.jazz88.org/): Classic and contemporary jazz from San Diego. [Stream](https://ksds-ice.streamguys1.com/ksds.mp3)
-- ⭐ [La Patate Douce](https://www.lapatatedouceradio.com/): Soul and jazz-funk from France. [Stream](http://listen.radioking.com/radio/285742/stream/331753)
 - [Linn Jazz](https://www.linn.co.uk/linn-radio): Audiophile-mastered jazz from Linn's collection. [Stream](http://radio.linn.co.uk:8000/autodj.m3u)
 - [Octave Radio](https://www.psaudio.com/blogs/pauls-posts/octave-radio): High-fidelity jazz and acoustic music. [Stream](https://octaverecords.out.airtime.pro/octaverecords_a)
 - [Radio Caprice - Piano Blues](https://radcap.ru/): Piano blues and boogie-woogie. [Stream](http://79.111.14.76:8002/pianoblues)
@@ -350,7 +350,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [Alpha Boys School Radio](https://alphaboysschoolradio.com/): Ska and rocksteady from Kingston, Jamaica. [Stream](http://alphaboys-live.streamguys1.com/alphaboys.mp3)
 - [Badam Radio](https://badam-radio.radioweb.co/): French 'medicinal reggae' - dub and ragga with African roots, since 2017. [Stream](https://listen.radioking.com/radio/105610/stream/144949)
 - ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com/): Deep dub and roots from Bermuda. [Stream](https://streamer.radio.co/s0635c8b0d/listen)
-- [FIP Reggae](https://www.radiofrance.fr/fip/radio-reggae): Reggae from Radio France. [Stream](http://icecast.radiofrance.fr/fipreggae-hifi.aac)
+- [FIP Reggae](https://www.radiofrance.fr/fip/radio-reggae): Roots, dub, and rocksteady from the French public broadcaster in Paris. [Stream](http://icecast.radiofrance.fr/fipreggae-hifi.aac)
 - [Irie FM](https://iriefm.net/): Jamaica's first all-reggae broadcaster, from Ocho Rios since 1990. [Stream](https://usa19.fastcast4u.com:7430/;)
 - [Jamaica Dancehall Radio](https://jamaicadancehallradio.com/): Reggae and dancehall with live DJ commentary. [Stream](https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3)
 - [King Dub Radio](http://www.kingdubfamily.com/): Dub, steppas, and sound system culture. [Stream](http://london-dedicated.myautodj.com:8862/stream)
@@ -365,7 +365,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [DARE FM](http://wdarefm.com/): New York's original alternative station. [Stream](http://hydra.cdnstream.com/1552_128)
 - [Delicious Agony](http://www.deliciousagony.com/): Rarities and full albums from progressive rock. [Stream](http://www.deliciousagony.com/listen.pls)
 - [Folk Alley](https://folkalley.com/): Folk, roots, and Americana since 2003; now run by the FreshGrass Foundation. [Stream](https://freshgrass.streamguys1.com/folkalley-128mp3)
-- [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead jams and live recordings. [Stream](http://cassini.shoutca.st:8574/)
+- [Grateful Dead Radio](https://www.gdradio.net/): Soundboard recordings, taper archives, and complete live shows from the Dead. [Stream](http://cassini.shoutca.st:8574/)
 - [Ignore Radio Shoegaze](https://ignoreradio.com/): Shoegaze and dream pop. [Stream](https://sp1.autopo.st/8026/stream)
 - [ISKC Radio Group - Only Live](https://iskcrocks.com/): Live rock recordings. [Stream](https://mediaserv68.live-streams.nl:18012/OnlyLive)
 - [laut.fm - Alive](https://laut.fm/alive): Live rock songs and deep cuts. [Stream](https://stream.laut.fm/alive)
@@ -423,7 +423,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Live music, performance, and pan-African sound art from Cape Town. [Stream](https://pass.out.airtime.pro/pass_a)
 - [Pyongyang Radio FM](https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/): North Korean state radio via online relays. [Stream](https://listen7.myradio24.com/69366)
 - ⭐ [Radio Al-Hara](https://www.radioalhara.net/): Underground Palestinian radio. Experimental beats and talk. [Stream](https://stream.radiojar.com/78cxy6wkxtzuv)
-- [Radio Caprice - Afrobeat](http://www.radcap.ru/): Afrobeat classics. [Stream](http://79.120.39.202:8000/afrobeat) *(stream currently down - recheck)*
+- [Radio Caprice - Afrobeat](http://www.radcap.ru/): Afrobeat classics. [Stream](http://79.120.39.202:8000/afrobeat)
 - ⭐ [Radio Isla Negra - Slowbeat](https://www.radioislanegra.com/): Downtempo and world grooves from Chile. [Stream](https://radioislanegra.org/radio/8000/basic.aac)
 - [Radio Isla Negra - Upbeat](https://www.radioislanegra.com/): Non-commercial upbeat music from Chile. [Stream](https://radioislanegra.org/radio/8030/basic.aac)
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Javanese and Balinese gamelan recordings. [Stream](http://radioseribatu.out.airtime.pro:8000/radioseribatu_a)
@@ -549,7 +549,7 @@ A fast way to capture hidden stream URLs from embedded web players.
 Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, `.m3u8`, `.pls` or starting with `icecast`/`shoutcast`.
 
 ### Artist-Specific Streams
-Access single-artist, 24/7 streams from the [You.Radio](https://you.radio/search) network.
+Access dedicated single-artist streams from the [You.Radio](https://you.radio/search) network.
 
 **The URL Pattern:**
 `http://streaming.exclusive.radio/er/SLUG/icecast.audio`
