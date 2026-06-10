@@ -98,7 +98,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 ### The Starter Pack <a id="starter-pack"></a>
 - [BBC Radio 6 Music](https://www.bbc.co.uk/sounds/play/live/bbc_6music): Alternative music, new releases, and deep cuts. [Stream](http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8) ([More BBC streams](https://gist.github.com/bpsib/67089b959e4fa898af69fea59ad74bc3))
 - [dublab](https://dublab.com): Future roots music from a Los Angeles non-profit, since 1999. [Stream](http://dublab.out.airtime.pro:8000/dublab_a)
-- [FIP](https://www.radiofrance.fr/fip): French public radio mixing jazz, rock, and world music. [Stream](https://stream.radiofrance.fr/fip/fip.m3u8)
+- [FIP](https://www.radiofrance.fr/fip): French public radio mixing jazz, rock, and world music. [Stream](http://icecast.radiofrance.fr/fip-hifi.aac)
 - [KEXP 90.3](https://www.kexp.org/listen/): Indie rock from Seattle. Features live in-studio sessions. [Stream](https://kexp.streamguys1.com/kexp160.aac)
 - [Nightwave Plaza](https://plaza.one/): Vaporwave, future funk, and city pop. [Stream](https://radio.plaza.one/ogg)
 - [NTS](https://www.nts.live/): Underground radio from London. Two live channels ([1](http://stream-relay-geo.ntslive.net/stream), [2](http://stream-relay-geo.ntslive.net/stream2)) and deep [mixtapes](https://www.nts.live/infinite-mixtapes).
