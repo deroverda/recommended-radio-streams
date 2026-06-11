@@ -1,4 +1,5 @@
 name: Check Stream Links
+
 on:
   push:
     branches: ["main"]
@@ -6,13 +7,24 @@ on:
       - "README.md"
       - ".github/workflows/link-check.yml"
       - ".github/scripts/probe-streams.sh"
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/link-check.yml"
+      - ".github/scripts/probe-streams.sh"
   schedule:
-    - cron: "0 0 * * 1"   # weekly on Monday at UTC midnight
+    - cron: "0 0 * * 1" # weekly on Monday at UTC midnight
   workflow_dispatch:
 
 permissions:
   contents: read
 
+concurrency:
+  group: link-check-${{ github.ref }}
+  cancel-in-progress: true
+
+# Node 24 becomes the default on June 16, 2026 - this env block can be
+# deleted after that date.
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -20,23 +32,37 @@ jobs:
   lychee:
     name: Link Checker (websites only)
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
 
-      - name: Build stream exclude list
+      # Lychee reads .lycheeignore (one regex per line) from the working
+      # directory automatically. The --exclude-file flag no longer exists
+      # in current lychee, so do not use it.
+      - name: Exclude stream URLs from Lychee
+        shell: bash
         run: |
-          grep -oE '\[(Stream|Channel [12]|[12])\]\(http[^)]+\)' README.md \
-            | sed -E 's/.*\((http[^)]+)\)/\1/' \
+          set -euo pipefail
+
+          grep -oE '\[(Stream|Channel [12]|[12])\]\(https?://[^)]+\)' README.md \
+            | sed -E 's/.*\((https?:\/\/[^)]+)\)/\1/' \
             | sed -E 's/[][\\.^$?*+(){}|]/\\&/g' \
-            | sort -u > stream-exclude.txt
+            | sort -u > .lycheeignore
+
+          echo "Excluded $(wc -l < .lycheeignore) stream URLs from Lychee."
 
       - name: Run Link Checker
         id: lychee
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
+          failIfEmpty: true
+          format: markdown
           output: lychee/lychee-report.md
+          jobSummary: true
           args: |
             --verbose
             --no-progress
@@ -48,37 +74,58 @@ jobs:
             --retry-wait-time 15
             --user-agent "Mozilla/5.0"
             --header "Accept: */*"
-            --accept "100..=103,200..=299,401,403,406,415,429,522"
+            --accept "100..=103,200..=299,401,403,406,415,429"
             --exclude "localhost"
             --exclude "127.0.0.1"
-            --exclude "::1"
-            --exclude-file stream-exclude.txt
             README.md
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
 
+      # Optional: the report duplicates the job summary. Delete this step
+      # if you decided to drop artifact backups.
       - name: Upload Lychee report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: lychee-report
           path: lychee/lychee-report.md
+          if-no-files-found: warn
+          retention-days: 14
+          archive: false
 
   stream-probe:
     name: Stream Audio Probe
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
 
       - name: Install ffmpeg
-        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg curl ca-certificates
 
       - name: Probe streams
         id: probe
+        shell: bash
+        env:
+          JOBS: 8 # drop to 4 if the blocked list looks noisy
+          DECODE_SECONDS: 8
+          PROBE_TIMEOUT: 45
         run: bash .github/scripts/probe-streams.sh
 
+      # Optional: the report duplicates the job summary. Delete this step
+      # if you decided to drop artifact backups.
       - name: Upload stream report
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: stream-probe-report
           path: stream-report.md
+          if-no-files-found: error
+          retention-days: 14
+          archive: false
