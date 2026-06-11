@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Probes every stream URL in README.md for playable audio by decoding a few
 # seconds with ffmpeg. Classifies failures as:
-#   dead    = connected but no usable audio decoded, or DNS genuinely broken
+#   manual  = connected but no usable audio decoded, or DNS genuinely broken
 #   blocked = likely runner/network/CDN blocking or timeout false positive
 #
 # Designed for GitHub Actions, but also works locally:
@@ -38,13 +38,20 @@ extract_stream_urls() {
     | sort -u
 }
 
+sanitize_text() {
+  printf '%s' "$1" \
+    | tr '\n\t' '  ' \
+    | sed -E 's/[[:space:]]+/ /g; s/^ //; s/ $//; s/\|/\\|/g' \
+    | cut -c1-200
+}
+
 classify_error() {
   local err="$1"
 
   case "$err" in
     *"Name or service not known"*|*"No address associated"*|\
     *"Could not resolve host"*|*"Temporary failure in name resolution"*)
-      echo "dead"
+      echo "manual"
       ;;
     *"Connection refused"*|*"Connection reset"*|*"Connection timed out"*|\
     *"Network is unreachable"*|*"Operation timed out"*|*"timed out"*|\
@@ -56,7 +63,7 @@ classify_error() {
       echo "blocked"
       ;;
     *)
-      echo "dead"
+      echo "manual"
       ;;
   esac
 }
@@ -67,7 +74,7 @@ classify_error() {
 # classification entirely.
 probe_one() {
   local url="$1"
-  local err status
+  local err status klass detail
 
   set +e
   err=$(
@@ -91,17 +98,20 @@ probe_one() {
   set -e
 
   if [ "$status" -eq 0 ]; then
-    echo "ok"
+    printf 'ok\t'
     return 0
   fi
 
   # timeout(1) kills ffmpeg with exit 124; treat as runner-side, not dead.
   if [ "$status" -eq 124 ]; then
-    echo "blocked"
+    printf 'blocked\tffmpeg timeout after %ss' "$PROBE_TIMEOUT"
     return 1
   fi
 
-  classify_error "$err"
+  klass=$(classify_error "$err")
+  detail=$(sanitize_text "$err")
+  [ -z "$detail" ] && detail="exit status $status"
+  printf '%s\t%s' "$klass" "$detail"
   return 1
 }
 
@@ -136,69 +146,83 @@ fetch_inner_urls() {
 # radiosega.net/play/).
 classify_url() {
   local url="$1"
-  local r inner u worst
+  local result detail inner u worst_result worst_detail
 
   if is_simple_playlist_url "$url"; then
     mapfile -t inner < <(fetch_inner_urls "$url")
 
     if [ "${#inner[@]}" -eq 0 ]; then
-      echo "dead"
+      printf 'manual\tplaylist contained no inner URLs'
       return 1
     fi
 
-    worst="blocked"
+    worst_result="blocked"
+    worst_detail="playlist targets failed"
     for u in "${inner[@]}"; do
-      r=$(probe_one "$u") && {
-        echo "ok"
+      IFS=$'\t' read -r result detail < <(probe_one "$u" || true)
+      if [ "$result" = "ok" ]; then
+        printf 'ok\t'
         return 0
-      }
-      [ "$r" = "dead" ] && worst="dead"
+      fi
+      if [ "$result" = "manual" ]; then
+        worst_result="manual"
+        worst_detail="${detail:-}"
+      elif [ "$worst_result" != "manual" ]; then
+        worst_detail="${detail:-}"
+      fi
     done
 
-    echo "$worst"
+    printf '%s\t%s' "$worst_result" "$worst_detail"
     return 1
   fi
 
-  r=$(probe_one "$url") && {
-    echo "ok"
+  IFS=$'\t' read -r result detail < <(probe_one "$url" || true)
+
+  if [ "$result" = "ok" ]; then
+    printf 'ok\t'
     return 0
-  }
+  fi
 
   mapfile -t inner < <(fetch_inner_urls "$url")
 
   if [ "${#inner[@]}" -gt 0 ]; then
-    worst="$r"
+    worst_result="$result"
+    worst_detail="${detail:-}"
     for u in "${inner[@]}"; do
-      r=$(probe_one "$u") && {
-        echo "ok"
+      IFS=$'\t' read -r result detail < <(probe_one "$u" || true)
+      if [ "$result" = "ok" ]; then
+        printf 'ok\t'
         return 0
-      }
-      [ "$r" = "dead" ] && worst="dead"
+      fi
+      if [ "$result" = "manual" ]; then
+        worst_result="manual"
+        worst_detail="${detail:-}"
+      fi
     done
-    echo "$worst"
+    printf '%s\t%s' "$worst_result" "$worst_detail"
     return 1
   fi
 
-  echo "$r"
+  printf '%s\t%s' "$result" "${detail:-}"
   return 1
 }
 
 worker() {
   local url="$1"
-  local result
-  result=$(classify_url "$url" || true)
-  printf '%s\t%s\n' "$result" "$url"
+  local result detail
+  IFS=$'\t' read -r result detail < <(classify_url "$url" || true)
+  printf '%s\t%s\t%s\n' "$result" "$url" "${detail:-}"
 }
 
 export UA DECODE_SECONDS PROBE_TIMEOUT PLAYLIST_TIMEOUT
-export -f classify_error probe_one is_simple_playlist_url fetch_inner_urls classify_url worker
+export -f sanitize_text classify_error probe_one is_simple_playlist_url fetch_inner_urls classify_url worker
 
 mapfile -t urls < <(extract_stream_urls || true)
 
 checked="${#urls[@]}"
-dead=0
+manual=0
 blocked=0
-dead_rows=""
+manual_rows=""
 blocked_rows=""
 
 tmp_results="$(mktemp)"
@@ -210,22 +234,22 @@ if [ "$checked" -gt 0 ]; then
     > "$tmp_results"
 fi
 
-while IFS=$'\t' read -r result url; do
+while IFS=$'\t' read -r result url detail; do
   case "$result" in
     ok)
       :
       ;;
-    dead)
-      dead_rows+="| $url |"$'\n'
-      dead=$((dead + 1))
+    manual)
+      manual_rows+="| $url | ${detail:-} |"$'\n'
+      manual=$((manual + 1))
       ;;
     blocked)
-      blocked_rows+="| $url |"$'\n'
+      blocked_rows+="| $url | ${detail:-} |"$'\n'
       blocked=$((blocked + 1))
       ;;
     *)
-      dead_rows+="| $url |"$'\n'
-      dead=$((dead + 1))
+      manual_rows+="| $url | unexpected result |"$'\n'
+      manual=$((manual + 1))
       ;;
   esac
 done < "$tmp_results"
@@ -233,16 +257,16 @@ done < "$tmp_results"
 {
   echo "# Stream probe - $(date -u +%F)"
   echo ""
-  echo "Checked $checked streams. **$dead** need manual verification, **$blocked** likely GitHub-runner/network false positives."
+  echo "Checked $checked streams. **$manual** need manual verification, **$blocked** likely GitHub-runner/network false positives."
   echo ""
   echo "Decode test: attempted to decode the first audio stream for ${DECODE_SECONDS}s with ffmpeg."
   echo ""
 
   echo "## NEEDS MANUAL CHECK - GitHub runner could not decode audio"
-  if [ -n "$dead_rows" ]; then
-    echo "| URL |"
-    echo "|---|"
-    printf '%s' "$dead_rows"
+  if [ -n "$manual_rows" ]; then
+    echo "| URL | Details |"
+    echo "|---|---|"
+    printf '%s' "$manual_rows"
   else
     echo "_None._"
   fi
@@ -250,8 +274,8 @@ done < "$tmp_results"
   echo ""
   echo "## Likely FALSE POSITIVES - blocked, throttled, timed out, or refused the GitHub runner"
   if [ -n "$blocked_rows" ]; then
-    echo "| URL |"
-    echo "|---|"
+    echo "| URL | Details |"
+    echo "|---|---|"
     printf '%s' "$blocked_rows"
   else
     echo "_None._"
@@ -266,7 +290,8 @@ if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
 fi
 
 if [ -n "${GITHUB_OUTPUT:-}" ]; then
-  echo "dead=$dead" >> "$GITHUB_OUTPUT"
+  echo "dead=$manual" >> "$GITHUB_OUTPUT"   # backward compatibility
+  echo "manual=$manual" >> "$GITHUB_OUTPUT"
   echo "blocked=$blocked" >> "$GITHUB_OUTPUT"
   echo "checked=$checked" >> "$GITHUB_OUTPUT"
 fi
