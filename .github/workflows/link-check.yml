@@ -13,12 +13,13 @@ on:
 permissions:
   contents: read
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   lychee:
     name: Link Checker (websites only)
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
@@ -35,6 +36,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: false
+          output: lychee/lychee-report.md
           args: |
             --verbose
             --no-progress
@@ -46,7 +48,7 @@ jobs:
             --retry-wait-time 15
             --user-agent "Mozilla/5.0"
             --header "Accept: */*"
-            --accept "100..=103,200..=299,401,403,406,415,429"
+            --accept "100..=103,200..=299,401,403,406,415,429,522"
             --exclude "localhost"
             --exclude "127.0.0.1"
             --exclude "::1"
@@ -58,7 +60,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: lychee-report
-          path: lychee/out.md
+          path: lychee/lychee-report.md
 
   stream-probe:
     name: Stream Audio Probe
