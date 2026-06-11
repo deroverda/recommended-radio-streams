@@ -233,12 +233,12 @@ done < "$tmp_results"
 {
   echo "# Stream probe - $(date -u +%F)"
   echo ""
-  echo "Checked $checked streams. **$dead** likely dead, **$blocked** likely false positives or runner/network-blocked."
+  echo "Checked $checked streams. **$dead** need manual verification, **$blocked** likely GitHub-runner/network false positives."
   echo ""
   echo "Decode test: attempted to decode the first audio stream for ${DECODE_SECONDS}s with ffmpeg."
   echo ""
 
-  echo "## Likely DEAD - no usable audio decoded"
+  echo "## NEEDS MANUAL CHECK - GitHub runner could not decode audio"
   if [ -n "$dead_rows" ]; then
     echo "| URL |"
     echo "|---|"
