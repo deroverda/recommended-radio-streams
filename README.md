@@ -12,14 +12,14 @@
 
 </div>
 
-Internet radio stations I actually listen to - underground electronic, freeform, jazz, ambient, and weird stuff. Every entry includes a direct stream URL you can paste into any app.
+Internet radio I actually listen to - underground electronic, freeform, jazz, ambient, and weird stuff. Every entry includes a direct stream URL you can paste into any app.
 
 ---
 
 ## Quick Start
 
-1. Install a player from the [Apps & Players](#apps-players) section.
-2. Many players include a built-in station directory - search there first.
+1. Choose a player from [Apps & Players](#apps-players).
+2. Search the player's built-in radio directory first.
 3. If it's not listed, long-press or right-click to copy the **[Stream]** link and paste it into your player.
 
 *Tip: Click a station's name to visit its official site. ⭐ = Personal favorites.*
@@ -112,7 +112,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [9128](https://9128.live): Ambient and drone from the *A Strangely Isolated Place* label. [Stream](https://streams.radio.co/s0aa1e6f4a/listen)
 - [Ambient.FM](https://ambient.fm/): Solar-powered ambient broadcast from the high desert of Tonopah, Nevada. [Stream](https://phoebe.streamerr.co:4140/ambient.mp3)
 - [a.m. Ambient](https://amambient.com/): Bright, positive daytime ambient - the sister station to Ambient Sleeping Pill. [Stream](http://radio.stereoscenic.com/ama-h)
-- ⭐ [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus. [Stream](https://radio.stereoscenic.com/asp-s)
+- [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus. [Stream](https://radio.stereoscenic.com/asp-s)
 - [Ambinature Radio](https://www.ambinature.xyz/): Natural soundscapes without music. [Stream](https://nature-rex.radioca.st/stream)
 - [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Instrumental pop from Mexico and Latin America. [Stream](http://hydra.cdnstream.com/1822_128)
 - [Birdsong FM](https://www.birdsong.fm/): Live birdsong recordings from nature. [Stream](https://a1.radio.co/s5c5da6a36/listen)
@@ -122,7 +122,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Beatless drone reviving the cult Bluemars stream, 'music for the space traveler'. [Stream](http://streams.echoesofbluemars.org:8000/cryosleep)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Ambient, modern classical, and acoustic post-rock. [Stream](http://uk4-vn.webcast-server.net:9270/)
 - [FluxFM - FluxLounge](https://fluxfm.de/fluxlounge): Soft pop and acoustic tunes. [Stream](http://streams.fluxfm.de/lounge/mp3-128/audio/play.m3u)
-- The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese ambient and field recordings, run by an Argentine band since 2005. [Stream](https://server.laradio.online:59009/live)
+- [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese ambient and field recordings, run by an Argentine band since 2005. [Stream](https://server.laradio.online:59009/live)
 - [LocaFM - Ambient](https://www.locafm.com/): Spanish ambient and downtempo from Loca FM. [Stream](http://s02.fjperezdj.com:8036/live)
 - [Moon Phase Radio - Ambient](https://www.moonphaseradio.com/): Ambient, broadcasting since 2010, themed around the stillness of the moon. [Stream](https://cp12.serverse.com/proxy/moonphase/stream)
 - [myNoise - Zen Garden](https://mynoise.net/): Calm nature sounds and tones. [Stream](http://zengarden.radio.mynoise.net/)
@@ -178,7 +178,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 
 #### Global Independent & Online Communities <a id="global-indie-radio"></a>
 - [20ft Radio](https://www.20ftradio.net/): Music from a former factory in Kyiv. [Stream](https://20ft-radio.radiocult.fm/stream)
-- [313.FM]: Detroit techno and underground electronic. [Stream](http://icecast.ofdoom.com:8000/burst.mp3)
+- [313.FM](https://www.313.fm/): Detroit techno and underground electronic. [Stream](http://icecast.ofdoom.com:8000/burst.mp3)
 - [8 Ball Radio](https://8ballradio.nyc): NYC artist collective. Electronic music and talk. [Stream](https://eightball.out.airtime.pro/eightball_a)
 - [8Radio.com](https://8radio.com/): New indie and alternative from Ireland. [Stream](https://edge4.audioxi.com/8RADIO)
 - [Aaja Music](https://aajamusic.com/): Electronic and DJ sets from a bar in a Deptford railway arch, London. [Channel 1](https://aaja.radiocult.fm/stream) / [Channel 2](https://aaja-2.radiocult.fm/stream)
@@ -210,7 +210,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Palanga Street Radio](https://palanga.live/): DIY community radio from Lithuania. [Stream](https://stream.palanga.live:8443/palanga128.mp3)
 - [Piñata Radio](https://www.pinataradio.com/): Bar and radio in Montpellier; emerging artists, local and international. [Stream](https://listen.radioking.com/radio/96031/stream/134656)
 - [Radio Free Phoenix](https://radiofreephoenix.com): Indie rock, deep tracks, and Americana from Phoenix. [Stream](http://69.162.73.34:8124/;stream.nsv)
-- ⭐ [Radio Meuh](https://www.radiomeuh.com/): Electronic, soul, and funk from the French Alps. [Stream](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)
+- [Radio Meuh](https://www.radiomeuh.com/): Electronic, soul, and funk from the French Alps. [Stream](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)
 - [Radio Nova](https://www.nova.fr/radios/radio-nova/): Global sounds, jazz, and hip-hop from France. [Stream](https://novazz.ice.infomaniak.ch/novazz-128.mp3)
 - [Radio Pinpon](https://www.facebook.com/radiopinpon/): Community radio from a psychiatric hospital in Niort, France. Run by patients and staff. [Stream](https://listen.radioking.com/radio/142627/stream/182797)
 - [Radio Reverb 97.2](https://radioreverb.com): Community radio from Brighton, UK. [Stream](http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3)
@@ -218,7 +218,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Radio Sofa](https://www.radio-sofa.com/): Dub, reggae, and electronic from a Paris-based collective. [Stream](https://listen.radioking.com/radio/292531/stream/338878)
 - [Refuge Worldwide](https://refugeworldwide.com/): Berlin community radio born from refugee-aid fundraisers in Neukölln. [Stream](https://streaming.radio.co/s3699c5e49/listen)
 - [Resonance 104.4 FM](https://www.resonancefm.com/): London's radio art station. 105+ weekly programmes. [Stream](http://stream.resonance.fm:8000/resonance)
-- ⭐ [Soho Radio](https://sohoradio.com/): DJ-driven underground house and electronic from Soho, London. [Stream](https://sohoradiomusic.doughunt.co.uk:8010/320mp3)
+- [Soho Radio](https://sohoradio.com/): DJ-driven underground house and electronic from Soho, London. [Stream](https://sohoradiomusic.doughunt.co.uk:8010/320mp3)
 - [STEGI.RADIO](https://stegi.radio/): Art radio from Athens' Onassis Stegi cultural center. Mediterranean and global sounds. [Stream](https://movementathens.out.airtime.pro/movementathens_a)
 
 ### Decades, Oldies & Nostalgia <a id="decades-oldies-nostalgia"></a>
@@ -242,8 +242,8 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Time Capsule Show](https://ckut.ca/timecapsule/): Music history from various eras. [Stream](http://sc3.mystreamserver.com:8060/)
 - [Ultimate Oldies Radio](https://ultimateoldiesradio.com): 50s-80s hits and music history. [Stream](https://puma.streemlion.com:1785/stream)
 - [Van Morrison Radio](https://you.radio/station/exclusiveradio-van-morrison): Van Morrison's catalogue, all day. [Stream](https://streaming.exclusive.radio/er/vanmorrison/icecast.audio)
-- ⭐ [Vintage Obscura Radio](https://vintageobscura.net/): Reddit-sourced rarities; pre-2000 tracks with under 30,000 YouTube views at discovery. [Stream](https://radio.vintageobscura.net/stream)
-- ⭐ [WALM - Classic Vinyl](https://walmradio.com/classic/): Classic rock and vinyl-based hits. [Stream](https://icecast.walmradio.com:8443/classic)
+- [Vintage Obscura Radio](https://vintageobscura.net/): Reddit-sourced rarities; pre-2000 tracks with under 30,000 YouTube views at discovery. [Stream](https://radio.vintageobscura.net/stream)
+- [WALM - Classic Vinyl](https://walmradio.com/classic/): Classic rock and vinyl-based hits. [Stream](https://icecast.walmradio.com:8443/classic)
 - [WALM - Old Time Radio](https://walmradio.com/otr): 1930s-50s big band, swing, and vintage audio dramas from original 78-rpm discs. [Stream](https://icecast.walmradio.com:8443/otr)
 - [Wayback Radio](https://www.waybackradio.org/): Classic hits and nostalgia from Iowa. [Stream](https://s5.citrus3.com:8244/stream)
 
@@ -254,10 +254,9 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [After Hours FM](https://ah.fm): Trance and progressive DJ sets. [Stream](http://fr.ah.fm:8000/;)
 - [Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live): House and lounge from Ibiza. [Stream](https://ibizasonica.streaming-pro.com:8001/bluemarlin)
 - [Datafruits](https://datafruits.fm/): Netradio and netlabel since 2012. Strangest electronic sounds from global underground communities. [Stream](https://streampusher-relay.club/datafruits.mp3)
-[Dogglounge Radio]: Deep house internet radio with underground house music and live DJ sets from around the world. [Stream](https://dogglounge.com/listen.pls)
+- [Dogglounge](https://dogglounge.com/): Deep house and live DJ sets from around the world. [Stream](https://dogglounge.com/listen.pls)
 - [Dub Ninja](https://dub.ninja/): Dub techno and ambient for focus. [Stream](https://dub.ninja/live)
 - [Eurodance Radio](https://www.eurodance-radio.com/): 90s Eurodance hits. [Stream](http://daydeeeurodance.stream.laut.fm/daydeeeurodance)
-[Hirschmilch Radio]: German electronic radio network with psytrance, progressive house, chillout, and techno channels. [Stream](http://hirschmilch.de:7000/electronic.aac)
 - ⭐ [Intergalactic FM - Cybernetic Broadcasting System](https://intergalactic.fm/): Pirate-born cult station from The Hague; electro, disco, and deep cuts. [Stream](http://radio.intergalactic.fm/1.m3u)
 - [Italoradio.fm](https://italoradio.fm/): Classic and new Italo-disco. [Stream](http://cc6.beheerstream.com:8102/stream)
 - [laut.fm - Hyperpop](https://laut.fm/hyperpop): German hyperpop and PC music. [Stream](https://stream.laut.fm/hyperpop)
@@ -265,10 +264,10 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Minimal Mix Radio](https://minimalmix.com/): Deep tech house and dub techno mixes from a Polish DJ trio. [Stream](https://www.minimalmix.com/minimalmixradio.pls)
 - [NTS - Poolside](https://www.nts.live/infinite-mixtapes/poolside): Balearic, boogie, and sophisti-pop. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape4)
 - [OpenLab FM](https://openlab.fm): Live DJ sets and electronic music from Ibiza. [Stream](https://ice09.fluidstream.net/openlab.aac)
+- [Poolsuite FM](https://poolsuite.net/): Retro summer soundtrack - disco, yacht rock, and Balearic tracks. [Stream](https://s5.radio.co/sc9cb59935/listen?_t=1781242015700)
 - [Radio BipTunia](https://biptunia.com/): One artist's experimental electronic catalog. [Stream](https://ecast.myautodj.com:1380/listen.mp3)
 - [Radio Caprice - Minimal](http://www.radcap.ru/): Minimal tech house. [Stream](http://213.141.131.10:8000/minimalism)
 - [Radio DY10](https://www.radiody10.com/): Dance and trippy electronic from Nantes. [Stream](https://flux.radiody10.com/fallback.m3u)
-- [Poolsuite FM](https://poolsuite.net/): Retro summer soundtrack - disco, yacht rock, and Balearic tracks. [Stream](https://s5.radio.co/sc9cb59935/listen?_t=1781242015700)
 - [Radio ItaloPower!](https://italopower.com): Italo-disco hits. [Stream](http://www.italopower.com/stream/italopower.m3u)
 - ⭐ [Rinse UK](https://rinse.fm): East London pirate-turned-legal since 1994; birthplace of grime, garage, and dubstep. [Stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream)
 - [Skylab Radio](https://skylabradio.com): Experimental electronic and avant-garde from Melbourne. [Stream](http://stream.skylab-radio.com:8000/live)
@@ -310,7 +309,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Adroit Jazz Underground](https://walmradio.com/station.php?station=jazz): Modern and experimental jazz. [Stream](https://icecast.walmradio.com:8443/jazz)
 - [Concertzender - World of Jazz](https://www.concertzender.nl/en): Jazz and world fusion from the Netherlands. [Stream](https://streams.greenhost.nl:8006/jazz)
 - [Fine Music Radio](https://www.fmr.co.za/): Classical and jazz from Cape Town. [Stream](http://edge.iono.fm/xhls/fmr_live_medium.m3u8)
-- ⭐ [FIP Jazz](https://www.fip.fr/jazz): Unreleased tracks and classics: from Avishai Cohen to Herbie Hancock, from Nina Simone to Christian Scott. Jazz in all forms from Radio France. [Stream](http://icecast.radiofrance.fr/fipjazz-hifi.aac)
+- ⭐ [FIP Jazz](https://www.fip.fr/jazz): Jazz in all forms from Radio France - unreleased tracks alongside classics. [Stream](http://icecast.radiofrance.fr/fipjazz-hifi.aac)
 - [Giants of Jazz](http://www.giantsofjazzradio.co.uk/): Classic jazz from the 40s-70s, broadcast from the UK since 2012. [Stream](http://streaming.radio.co/s297e618a7/listen)
 - [Head Wax Radio](https://www.headwaxradio.ie/): Future jazz and funk from Dublin. [Stream](https://headwaxradio.radioca.st/stream)
 - [iFusion Radio](https://www.ifusionradio.com/): Progressive rock and jazz fusion. [Stream](https://listen.radioking.com/radio/523747/stream/582004)
@@ -319,7 +318,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - ⭐ [The Jazz Groove](https://jazzgroove.org): Two channels of laid-back and vocal jazz. [Stream](http://east-mp3-128.streamthejazzgroove.com/stream)
 - [Jazz Radio - Afro Jazz](https://www.jazzradio.fr/radio/webradio): Afro-jazz fusion. [Stream](https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac)
 - [Jazz Radio - Blue](https://www.jazzradio.fr/radio/webradio): Mix of jazz and blues. [Stream](http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3)
-- ⭐ [Jazz24](https://www.jazz24.org/): Jazz from Seattle and Tacoma. Classics from Miles Davis to Diana Krall, seasoned with blues, funk, and Latin jazz. [Stream](https://knkx-live-a.edge.audiocdn.com/6285_256k)
+- ⭐ [Jazz24](https://www.jazz24.org/): Jazz from Seattle and Tacoma, seasoned with blues, funk, and Latin jazz. [Stream](https://knkx-live-a.edge.audiocdn.com/6285_256k)
 - [KCSM Jazz 91.1](https://kcsm.org/): One of the last full-time jazz stations in the US, from the College of San Mateo. [Stream](http://ice7.securenetsystems.net/KCSM2)
 - [KEWU 89.5](https://www.ewu.edu/kewu/): Straight-ahead jazz from Washington state. [Stream](https://streamer.radio.co/s3ba633066/listen)
 - [KJazz 88.1](https://kkjz.org/): Jazz and blues from Long Beach, CA. [Stream](https://streaming.live365.com/a49833)
@@ -480,21 +479,22 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 - [Box Radio](https://boxradio.net/en): DJ-free multi-genre network; pop, rock, hip-hop, jazz, and electronic.
 - [Calm Radio](https://calmradio.com/channel-guide/classical-music): Classical, symphony, and opera.
 - [Chillhop Music](https://app.chillhop.com/): Lo-fi and jazzy beats.
-- ⭐ [Concertzender](https://www.concertzender.nl/themakanalen/): 15+ channels for baroque, jazz, and world music.
+- [Concertzender](https://www.concertzender.nl/themakanalen/): 15+ channels for baroque, jazz, and world music.
 - [Dinamo.FM](https://dinamo.fm/): Turkish network for downtempo and electronic.
 - ⭐ [FIP](https://www.radiofrance.fr/fip): Main mix plus thematic channels such as jazz, reggae, electro, metal, and more.
 - [FluxFM](https://www.fluxfm.de/musik): German network with dozens of themed channels.
 - [Frisky Radio](https://frisky.fm/): Underground electronic DJ mixes since 2008.
+- [Hirschmilch Radio](https://hirschmilch.de/): German network with psytrance, progressive, chillout, and techno channels.
 - [Hunter.fm](https://hunter.fm/): Brazilian and international hits.
 - [ilovemusic](https://ilovemusic.de): German network with 20+ channels - pop, dance, hip-hop, and rock.
 - [Jazz Radio](https://www.jazzradio.fr/radio/webradio): French jazz and soul network with funk, blues, and lounge channels.
 - [Joint Radio](https://www.jointil.com/radio/): Reggae, blues, rock, and trance channels.
 - [laut.fm](https://laut.fm/): German host for thousands of listener-run genre channels.
-- ⭐ [Linn Radio](https://www.linn.co.uk/linn-radio): High-fidelity jazz and classical.
+- [Linn Radio](https://www.linn.co.uk/linn-radio): High-fidelity jazz and classical.
 - [Loca FM](https://www.locafm.com/live/player.html): Spanish house, techno, and urban network.
 - [MRG.fm](https://www.w.mrg.fm/): Zero-revenue, listener-supported group of 30 genre channels.
 - [Pinguin Radio](https://pinguinradio.com/): Dutch alternative and indie channels.
-- ⭐ [Pumpkin FM](https://pumpkinfm.com): Old-time radio network playing golden-age drama, comedy, and music from the 1940s-60s.
+- [Pumpkin FM](https://pumpkinfm.com): Old-time radio network playing golden-age drama, comedy, and music from the 1940s-60s.
 - [Radio BOB!](https://www.radiobob.de/musik/streams): German rock network with 60+ channels.
 - ⭐ [Radio Caprice](https://radcap.ru/): Russian network with 300+ micro-genre channels.
 - [Radio Record](https://www.radiorecord.ru/): Russian dance network with 80+ channels.
@@ -509,7 +509,7 @@ Internet radio stations I actually listen to - underground electronic, freeform,
 ## Directories & Discovery Tools <a id="directories"></a>
 
 - [Alternate Airwaves](https://alternateairwaves.com): Directory of non-commercial, community, and college stations.
-- ⭐ [Audiophile.fm](https://audiophile.fm/): Hi-res and lossless internet radio directory with built-in player.
+- [Audiophile.fm](https://audiophile.fm/): Hi-res and lossless internet radio directory with built-in player.
 - ⭐ [FMStream](https://fmstream.org/): Tools for finding raw stream URLs.
 - [Icecast Directory](https://dir.xiph.org): Open directory of Icecast streaming stations.
 - [Internet-Radio.com](https://www.internet-radio.com/): Directory with 28,000 independent stations.
@@ -548,7 +548,7 @@ Look for links labeled "Listen Live," "Direct Stream," "MP3," "AAC," "M3U," "PLS
 **2. The Stream Detector Method**
 A fast way to capture hidden stream URLs from embedded web players.
 
-* Install the Stream Detector add-on for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) or [Chrome](https://chromewebstore.google.com/detail/the-stream-detector/iakkmkmhhckcmoiibcfjnooibphlobak) 
+* Install the Stream Detector add-on for [Firefox](https://addons.mozilla.org/en-US/firefox/addon/hls-stream-detector/) or [Chrome](https://chromewebstore.google.com/detail/the-stream-detector/iakkmkmhhckcmoiibcfjnooibphlobak)
 * In the add-on options, uncheck `Ignore direct links to media files`.
 * Play the station in your browser.
 * Click the add-on icon and select "Copy all visible URLs".
