@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:-1,Alefa Music
+https://www.radioking.com/api/radio/alefamusic.pls
+#EXTINF:-1,AshiyaRadio
+https://s3.radio.co/sc8d895604/listen
+#EXTINF:-1,Bondi Radio
+https://streaming.radio.co/sfd68ddd77/listen
+#EXTINF:-1,Celtic Music Radio
+http://stream.celticmusicradio.net:8000/celticmusic.mp3
+#EXTINF:-1,CeolFM
+https://listen.ceol.fm/auto
+#EXTINF:-1,Dansbandskanalen
+https://fm09-ice.stream.khz.se/fm09_mp3
+#EXTINF:-1,Gladys Palmera Colección
+http://streams.radio.co/s496c4d2e8/listen
+#EXTINF:-1,Irish Pub Radio
+http://solid24.streamupsolutions.com:8026/stream
+#EXTINF:-1,J-Pop Sakura
+https://quincy.torontocast.com:2070/stream
+#EXTINF:-1,J1 Radio - Gold
+http://gold.j1fm.tokyo/
+#EXTINF:-1,KBON 101.1
+http://ice64.securenetsystems.net/KBON
+#EXTINF:-1,Lahmacun Radio
+https://streaming.lahmacun.hu/radio/8000/radio.mp3
+#EXTINF:-1,Le Grigri
+https://www.radioking.com/play/legrigri/273715
+#EXTINF:-1,listen.moe
+https://listen.moe/stream
+#EXTINF:-1,MacSlon's Irish Pub
+https://server9.streamserver24.com/stream/macslonsradio/stream
+#EXTINF:-1,Mondo Bongo Radio
+https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
+#EXTINF:-1,Oroko Radio
+https://oroko-radio.radiocult.fm/stream
+#EXTINF:-1,Pan African Space Station
+https://pass.out.airtime.pro/pass_a
+#EXTINF:-1,Pyongyang Radio FM
+https://listen7.myradio24.com/69366
+#EXTINF:-1,Radio Al-Hara
+https://stream.radiojar.com/78cxy6wkxtzuv
+#EXTINF:-1,Radio Caprice - Afrobeat
+http://79.120.39.202:8000/afrobeat
+#EXTINF:-1,Radio Isla Negra - Slowbeat
+https://radioislanegra.org/radio/8000/basic.aac
+#EXTINF:-1,Radio Isla Negra - Upbeat
+https://radioislanegra.org/radio/8030/basic.aac
+#EXTINF:-1,Seribatu
+http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
+#EXTINF:-1,Shonan Beach FM
+http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+#EXTINF:-1,Svensk Folkmusik AkkA
+https://mediaserv38.live-streams.nl:8107/stream

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,Bad Radio
+http://server.badradio.biz:8000/stream
+#EXTINF:-1,laut.fm - Phonk
+https://stream.laut.fm/phonk
+#EXTINF:-1,Radio Record - Phonk
+http://radiorecord.hostingradio.ru/phonk96.aacp

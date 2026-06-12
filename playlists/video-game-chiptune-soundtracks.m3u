@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,1.FM - Movie Soundtrack
+https://strm112.1.fm/moviesoundtracks_mobile_mp3?
+#EXTINF:-1,Arcade Radio
+https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
+#EXTINF:-1,Cinemix
+https://kathy.torontocast.com:1825/stream
+#EXTINF:-1,Classic Videogames
+http://195.201.9.210:1541/stream/2/
+#EXTINF:-1,CVGM
+https://slacker.cvgm.net/cvgm128.ogg
+#EXTINF:-1,Gensokyo Radio
+https://stream.gensokyoradio.net/1
+#EXTINF:-1,GTA Radio
+https://stream.laut.fm/gta-classics
+#EXTINF:-1,Gyusyabu
+http://gyusyabu.ddo.jp:8000/;stream.mp3
+#EXTINF:-1,ISEKOI Radio
+https://public.isekoi-radio.com/listen/isekoi/radio.mp3
+#EXTINF:-1,Kaaosradio
+http://stream.kaaosradio.fi:8000/stream.m3u
+#EXTINF:-1,Kohina
+https://kohina.duckdns.org/icecast/stream.ogg
+#EXTINF:-1,LapFox Radio
+https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
+#EXTINF:-1,Liquid DooM Radio
+http://83.240.65.106:8000/doom
+#EXTINF:-1,No Life Radio
+https://nolife-radio.com/radio/NoLife-radio.m3u
+#EXTINF:-1,RadioSEGA
+https://www.radiosega.net/play/
+#EXTINF:-1,Rainwave - Game
+https://relay.rainwave.cc/game.ogg
+#EXTINF:-1,RPGamers Radio
+https://listen.rpgamers.net/rpgn
+#EXTINF:-1,SceneSat
+http://oscar.scenesat.com:8000/scenesatmax
+#EXTINF:-1,Slay Radio
+http://www.slayradio.org/tune_in.php/128kbps/listen.m3u
+#EXTINF:-1,SpriteLayer
+http://www.spritelayerradio.com:8010/all
+#EXTINF:-1,Streaming Soundtracks
+http://hi5.streamingsoundtracks.com/;

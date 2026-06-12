@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,Beatles Radio
+http://stream.zeno.fm/e4auhdgm6cquv
+#EXTINF:-1,Beyond the Beat Generation
+http://86.94.213.59:8000/;
+#EXTINF:-1,Flower Power Radio
+http://uk1.streamingpulse.com:7000/;
+#EXTINF:-1,J-Club Bandstand
+https://cast1.torontocast.com:2060/stream
+#EXTINF:-1,LuxuriaMusic
+http://ice10.securenetsystems.net/LUXOMP3
+#EXTINF:-1,Mad Music Radio - Oldies Radio
+http://janus.shoutca.st:8259/;
+#EXTINF:-1,Majestic Jukebox
+https://uk3.internet-radio.com/proxy/majesticjukebox/live
+#EXTINF:-1,Mechanical Music Radio
+https://global.citrus3.com:2020/stream/mechanicalmusicradio
+#EXTINF:-1,Old Time Radio
+https://kea.cdnstream.com/1893_128
+#EXTINF:-1,Psychedelicized
+https://cast1.asurahosting.com/proxy/psychedelicized/stream
+#EXTINF:-1,Pumpkin FM - 1940s
+https://cast2.asurahosting.com/proxy/1940sradio/stream
+#EXTINF:-1,The Quiet Village
+https://broadcast.shoutcheap.com/proxy/mark1234/stream
+#EXTINF:-1,Radio Caroline
+http://78.129.202.200:8040/;
+#EXTINF:-1,Radio Dismuke
+http://stream2.early1900s.org:8000/
+#EXTINF:-1,The Retro Attic
+https://psn3.prostreaming.net:2199/tunein/theretro.pls
+#EXTINF:-1,SMRN5001 - Oldies Radio
+https://cast1.sql2.smrn.com/5001
+#EXTINF:-1,Technicolor Web of Sound
+http://streaming.live365.com/a01650
+#EXTINF:-1,Time Capsule Show
+http://sc3.mystreamserver.com:8060/
+#EXTINF:-1,Ultimate Oldies Radio
+https://puma.streemlion.com:1785/stream
+#EXTINF:-1,Van Morrison Radio
+https://streaming.exclusive.radio/er/vanmorrison/icecast.audio
+#EXTINF:-1,Vintage Obscura Radio
+https://radio.vintageobscura.net/stream
+#EXTINF:-1,WALM - Classic Vinyl
+https://icecast.walmradio.com:8443/classic
+#EXTINF:-1,WALM - Old Time Radio
+https://icecast.walmradio.com:8443/otr
+#EXTINF:-1,Wayback Radio
+https://s5.citrus3.com:8244/stream

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Doomnation Radio
+https://s2.voscast.com:11123/stream
+#EXTINF:-1,Metal Devastation
+https://c13.radioboss.fm:18099/stream
+#EXTINF:-1,OÜI FM - Bring The Noise
+https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
+#EXTINF:-1,SomaFM - Metal Detector
+https://somafm.com/m3u/metal130.m3u

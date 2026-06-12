@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1,CIUT 89.5
+https://ice23.securenetsystems.net/CIUT
+#EXTINF:-1,CKUT 90.3
+https://ckut.out.airtime.pro/ckut_a
+#EXTINF:-1,KALX 90.7
+https://stream.kalx.berkeley.edu:8443/kalx-128.mp3
+#EXTINF:-1,KCRW - Eclectic24
+https://streams.kcrw.com/e24_mp3
+#EXTINF:-1,KFJC 89.7
+http://netcast.kfjc.org/kfjc-320k-aac
+#EXTINF:-1,KSPC 88.7
+https://kspc.radioca.st/stream
+#EXTINF:-1,KUSF
+https://listen.kusf.org/stream
+#EXTINF:-1,KUTX 98.9
+https://streams.kut.org/4428_192.mp3
+#EXTINF:-1,KVRX 91.7
+https://kvrx.org/now_playing/stream
+#EXTINF:-1,KXLU 88.9
+https://kxlu.streamguys1.com/kxlu-hi
+#EXTINF:-1,KZSC 88.1
+https://kzscfms1-geckohost.radioca.st/kzschigh
+#EXTINF:-1,KZSU Stanford 90.1
+http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
+#EXTINF:-1,Subcity Radio
+https://stream.subcity.org/listen
+#EXTINF:-1,WFMU - Rock 'n' Soul
+http://wfmu.org/wfmu_rock.pls
+#EXTINF:-1,WFMU - Sheena's Jungle Room
+http://stream0.wfmu.org/sheena
+#EXTINF:-1,WMSE 91.7
+https://wmse.streamguys1.com/wmselivemp3
+#EXTINF:-1,WNCW 88.7
+https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
+#EXTINF:-1,WRIR 97.3
+https://live.wrir.org/
+#EXTINF:-1,WSUM 91.7
+https://ice23.securenetsystems.net/WSUMFM
+#EXTINF:-1,WTJU 91.1
+https://streams.wtju.net/wtju-live.mp3
+#EXTINF:-1,WXTJ 100.1
+https://streams.wtju.net/wxtj-live.mp3
+#EXTINF:-1,WXYC 89.3
+https://audio-mp3.ibiblio.org/wxyc.mp3
+#EXTINF:-1,WZRD 88.3
+https://wzrd.streamguys1.com/live
+#EXTINF:-1,XRAY.fm
+https://listen.xray.fm/stream

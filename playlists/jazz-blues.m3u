@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Aardvark Blues FM
+http://edge4.peta.live365.net/b77280_128mp3
+#EXTINF:-1,Ábaco Libros y Café
+http://radio30.virtualtronics.com:8638/;
+#EXTINF:-1,Adroit Jazz Underground
+https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1,Concertzender - World of Jazz
+https://streams.greenhost.nl:8006/jazz
+#EXTINF:-1,Fine Music Radio
+http://edge.iono.fm/xhls/fmr_live_medium.m3u8
+#EXTINF:-1,FIP Jazz
+http://icecast.radiofrance.fr/fipjazz-hifi.aac
+#EXTINF:-1,Giants of Jazz
+http://streaming.radio.co/s297e618a7/listen
+#EXTINF:-1,Head Wax Radio
+https://headwaxradio.radioca.st/stream
+#EXTINF:-1,iFusion Radio
+https://listen.radioking.com/radio/523747/stream/582004
+#EXTINF:-1,J-Club Bandstand - Jazz Sakura
+https://kathy.torontocast.com:3330/;
+#EXTINF:-1,Jazz Con Class
+http://streaming.live365.com/a73229
+#EXTINF:-1,The Jazz Groove
+http://east-mp3-128.streamthejazzgroove.com/stream
+#EXTINF:-1,Jazz Radio - Afro Jazz
+https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.aac
+#EXTINF:-1,Jazz Radio - Blue
+http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
+#EXTINF:-1,Jazz24
+https://knkx-live-a.edge.audiocdn.com/6285_256k
+#EXTINF:-1,KCSM Jazz 91.1
+http://ice7.securenetsystems.net/KCSM2
+#EXTINF:-1,KEWU 89.5
+https://streamer.radio.co/s3ba633066/listen
+#EXTINF:-1,KJazz 88.1
+https://streaming.live365.com/a49833
+#EXTINF:-1,KSDS Jazz 88.3
+https://ksds-ice.streamguys1.com/ksds.mp3
+#EXTINF:-1,Linn Jazz
+http://radio.linn.co.uk:8000/autodj.m3u
+#EXTINF:-1,Octave Radio
+https://octaverecords.out.airtime.pro/octaverecords_a
+#EXTINF:-1,Radio Caprice - Piano Blues
+http://79.111.14.76:8002/pianoblues
+#EXTINF:-1,Radio Suisse Jazz
+https://stream.srg-ssr.ch/m/rsj/aacp_96
+#EXTINF:-1,TSF Jazz
+http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+#EXTINF:-1,WBGO 88.3
+https://ais-sa8.cdnstream1.com/3629_128.mp3
+#EXTINF:-1,WDNA 88.9
+http://us9.streamingpulse.com:7033/stream
+#EXTINF:-1,WUCF 89.9
+http://peridot.streamguys.com:7830/WUCF
+#EXTINF:-1,WVPE - Blues3
+http://live.str3am.com:2240/live

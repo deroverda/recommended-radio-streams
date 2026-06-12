@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1,AudioBookRadio
+https://audiobookradio.out.airtime.pro/audiobookradio_a
+#EXTINF:-1,BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
+#EXTINF:-1,BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+#EXTINF:-1,Her.st
+https://radio.her.st/listen/listen/128.mp3
+#EXTINF:-1,Historyradio.org
+http://stream.radiojar.com/6bmecgg3wd5tv
+#EXTINF:-1,Horror Radio
+https://eu1.fastcast4u.com/proxy/stevende1?mp=/;
+#EXTINF:-1,NPR Program Stream
+http://npr-ice.streamguys1.com/live.mp3
+#EXTINF:-1,RTÉ Radio 1
+https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8
+#EXTINF:-1,The Ultimate Art Bell
+http://stream.willstare.com:8450/
+#EXTINF:-1,Vintage ROKiT - Crime and Suspense
+http://streaming04.liveboxstream.uk:8168/stream
+#EXTINF:-1,WBEZ 91.5
+http://stream.wbez.org/wbez128.mp3
+#EXTINF:-1,WNYC 93.9
+https://fm939.wnyc.org/wnycfm-tunein.aac
