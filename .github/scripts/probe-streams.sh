@@ -240,15 +240,15 @@ while IFS=$'\t' read -r result url detail; do
       :
       ;;
     manual)
-      manual_rows+="| $url | ${detail:-} |"$'\n'
+      manual_rows+="| [${url:0:50}...](<$url>) | ${detail:-} |"$'\n'
       manual=$((manual + 1))
       ;;
     blocked)
-      blocked_rows+="| $url | ${detail:-} |"$'\n'
+      blocked_rows+="| [${url:0:50}...](<$url>) | ${detail:-} |"$'\n'
       blocked=$((blocked + 1))
       ;;
     *)
-      manual_rows+="| $url | unexpected result |"$'\n'
+      manual_rows+="| [${url:0:50}...](<$url>) | unexpected result |"$'\n'
       manual=$((manual + 1))
       ;;
   esac
