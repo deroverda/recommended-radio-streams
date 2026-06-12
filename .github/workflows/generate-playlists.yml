@@ -21,7 +21,7 @@ jobs:
           python-version: '3.x'
 
       - name: Generate playlists
-        run: python3 scripts/readme_to_m3u.py README.md playlists/
+        run: python3 .github/scripts/readme_to_m3u.py README.md playlists/
 
       - name: Commit changes
         run: |
