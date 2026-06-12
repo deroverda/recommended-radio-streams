@@ -21,6 +21,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 1. Choose a player from [Apps & Players](#apps-players).
 2. Search the player's built-in radio directory first.
 3. If it's not listed, long-press or right-click to copy the **[Stream]** link and paste it into your player.
+4. Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list - download the one matching your interests.
 
 *Tip: Click a station's name to visit its official site. ⭐ = Personal favorites.*
 
