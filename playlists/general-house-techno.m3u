@@ -39,6 +39,8 @@ https://flux.radiody10.com/fallback.m3u
 http://www.italopower.com/stream/italopower.m3u
 #EXTINF:-1,Rinse UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+#EXTINF:-1,SerrebiRadio
+https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
 #EXTINF:-1,Skylab Radio
 http://stream.skylab-radio.com:8000/live
 #EXTINF:-1,Sub.FM
