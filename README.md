@@ -19,7 +19,8 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ## Quick Start
 
 1. Choose a player from [Apps & Players](#apps-players).
-2. Search the player's built-in radio directory first.
+2. Search the player's built-in radio directory first
+.
 3. If it's not listed, long-press or right-click to copy the **[Stream]** link and paste it into your player.
 4. Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list - download the one matching your interests.
 
@@ -113,7 +114,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [9128](https://9128.live): Ambient and drone from the *A Strangely Isolated Place* label. [Stream](https://streams.radio.co/s0aa1e6f4a/listen)
 - [Ambient.FM](https://ambient.fm/): Solar-powered ambient broadcast from the high desert of Tonopah, Nevada. [Stream](https://phoebe.streamerr.co:4140/ambient.mp3)
 - [a.m. Ambient](https://amambient.com/): Bright, positive daytime ambient - the sister station to Ambient Sleeping Pill. [Stream](http://radio.stereoscenic.com/ama-h)
-- [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus. [Stream](https://radio.stereoscenic.com/asp-s)
+- [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus. [Stream](http://radio.stereoscenic.com/asp-h)
 - [Ambinature Radio](https://www.ambinature.xyz/): Natural soundscapes without music. [Stream](https://nature-rex.radioca.st/stream)
 - [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Instrumental pop from Mexico and Latin America. [Stream](http://hydra.cdnstream.com/1822_128)
 - [Birdsong FM](https://www.birdsong.fm/): Live birdsong recordings from nature. [Stream](https://a1.radio.co/s5c5da6a36/listen)
@@ -154,7 +155,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 #### Campus & Public Radio
 - [CIUT 89.5](https://www.ciut.fm/): Freeform from University of Toronto - underground electronic, jazz, and indie rock. [Stream](https://ice23.securenetsystems.net/CIUT)
 - [CKUT 90.3](https://ckut.ca): Community radio from McGill University, Montreal. [Stream](https://ckut.out.airtime.pro/ckut_a)
-- [KALX 90.7](https://kalx.berkeley.edu/): Freeform radio from UC Berkeley. [Stream](https://stream.kalx.berkeley.edu:8443/kalx-128.mp3)
+- [KALX 90.7](https://kalx.berkeley.edu/): Freeform radio from UC Berkeley. [Stream](https://stream.kalx.berkeley.edu:8443/kalx-320.aac)
 - ⭐ [KCRW - Eclectic24](https://www.kcrw.com/): KCRW's continuous music stream from Santa Monica - the public station's DJs, no talk breaks. [Stream](https://streams.kcrw.com/e24_mp3)
 - ⭐ [KFJC 89.7](https://kfjc.org): Experimental and obscure audio art from Los Altos Hills. [Stream](http://netcast.kfjc.org/kfjc-320k-aac)
 - [KSPC 88.7](https://kspc.org/): Claremont student-run featuring underground music and non-commercial culture. [Stream](https://kspc.radioca.st/stream)
@@ -392,7 +393,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Arcade Radio](https://arcaderadio.com/index.html): CD-era console soundtracks - PC Engine, Sega CD, Neo Geo - plus anime. [Stream](https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2)
 - [Cinemix](https://www.cinemix.us/): Movie soundtracks and orchestral scores. [Stream](https://kathy.torontocast.com:1825/stream)
 - [Classic Videogames](https://www.classic-videogames.de/radio/): Chiptunes and demoscene music. [Stream](http://195.201.9.210:1541/stream/2/)
-- [CVGM](https://www.cvgm.net/): Chiptune, demoscene, and computer music. [Stream](https://slacker.cvgm.net/cvgm128.ogg)
+- [CVGM](https://www.cvgm.net/): Chiptune, demoscene, and computer music. [Stream](https://slacker.cvgm.net/cvgm192)
 - [Gensokyo Radio](https://gensokyoradio.net): Music from the Touhou Project video game series. [Stream](https://stream.gensokyoradio.net/1)
 - [GTA Radio](https://laut.fm/gta-classics): Soundtracks from the Grand Theft Auto series. [Stream](https://stream.laut.fm/gta-classics)
 - [Gyusyabu](http://gyusyabu.ddo.jp/): Anime OSTs, J-pop, and game music. [Stream](http://gyusyabu.ddo.jp:8000/;stream.mp3)
