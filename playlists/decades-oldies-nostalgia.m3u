@@ -13,8 +13,6 @@ http://ice10.securenetsystems.net/LUXOMP3
 http://janus.shoutca.st:8259/;
 #EXTINF:-1,Majestic Jukebox
 https://uk3.internet-radio.com/proxy/majesticjukebox/live
-#EXTINF:-1,Mechanical Music Radio
-https://global.citrus3.com:2020/stream/mechanicalmusicradio
 #EXTINF:-1,Old Time Radio
 https://kea.cdnstream.com/1893_128
 #EXTINF:-1,Psychedelicized
@@ -22,7 +20,7 @@ https://cast1.asurahosting.com/proxy/psychedelicized/stream
 #EXTINF:-1,Pumpkin FM - 1940s
 https://cast2.asurahosting.com/proxy/1940sradio/stream
 #EXTINF:-1,The Quiet Village
-https://broadcast.shoutcheap.com/proxy/mark1234/stream
+http://broadcast.shoutcheap.com:8424/stream
 #EXTINF:-1,Radio Caroline
 http://78.129.202.200:8040/;
 #EXTINF:-1,Radio Dismuke

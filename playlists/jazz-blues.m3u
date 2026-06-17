@@ -41,8 +41,10 @@ https://ksds-ice.streamguys1.com/ksds.mp3
 http://radio.linn.co.uk:8000/autodj.m3u
 #EXTINF:-1,Octave Radio
 https://octaverecords.out.airtime.pro/octaverecords_a
+#EXTINF:-1,The Penthouse
+http://sc1.mystreamserver.com:8052/;
 #EXTINF:-1,Radio Caprice - Piano Blues
-http://79.111.14.76:8002/pianoblues
+http://79.111.14.76:8004/pianoblues
 #EXTINF:-1,Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
 #EXTINF:-1,TSF Jazz

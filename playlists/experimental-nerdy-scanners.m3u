@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Mechanical Music Radio
+https://global.citrus3.com:2020/stream/mechanicalmusicradio
 #EXTINF:-1,The Lake Radio
 http://hyades.shoutca.st:8627/
 #EXTINF:-1,P-Node
