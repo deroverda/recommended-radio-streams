@@ -270,6 +270,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio DY10](https://www.radiody10.com/): Dance and trippy electronic from Nantes. [Stream](https://flux.radiody10.com/fallback.m3u)
 - [Radio ItaloPower!](https://italopower.com): Italo-disco hits. [Stream](http://www.italopower.com/stream/italopower.m3u)
 - ⭐ [Rinse UK](https://rinse.fm): East London pirate-turned-legal since 1994; birthplace of grime, garage, and dubstep. [Stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream)
+- [SerrebiRadio](https://serrebiradio.com): House, trance, and hard dance - curated by a blind DJ in Vancouver. [Stream](https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio)
 - [Skylab Radio](https://skylabradio.com): Experimental electronic and avant-garde from Melbourne. [Stream](http://stream.skylab-radio.com:8000/live)
 - [Sub.FM](https://www.sub.fm/): Community-run bass music since 2004 - dubstep, garage, and grime. [Stream](http://subfm.radioca.st/Sub.FM)
 - [TEKnival Radio](https://teknivalradio.com/): Hard techno and rave. [Stream](https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3)
