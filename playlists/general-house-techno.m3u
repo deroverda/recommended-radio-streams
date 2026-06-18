@@ -34,9 +34,9 @@ https://ecast.myautodj.com:1380/listen.mp3
 #EXTINF:-1,Radio Caprice - Minimal
 http://213.141.131.10:8000/minimalism
 #EXTINF:-1,Radio DY10
-https://flux.radiody10.com/fallback.m3u
+https://flux.radiody10.com/live
 #EXTINF:-1,Radio ItaloPower!
-http://www.italopower.com/stream/italopower.m3u
+https://stream.deevaradio.net:10443/italopower
 #EXTINF:-1,Rinse UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1,SerrebiRadio

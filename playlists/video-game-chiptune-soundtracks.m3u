@@ -10,7 +10,7 @@ http://195.201.9.210:1541/stream/2/
 #EXTINF:-1,CVGM
 https://slacker.cvgm.net/cvgm192
 #EXTINF:-1,Gensokyo Radio
-https://stream.gensokyoradio.net/1
+https://stream.gensokyoradio.net/3
 #EXTINF:-1,GTA Radio
 https://stream.laut.fm/gta-classics
 #EXTINF:-1,Gyusyabu
@@ -18,7 +18,7 @@ http://gyusyabu.ddo.jp:8000/;stream.mp3
 #EXTINF:-1,ISEKOI Radio
 https://public.isekoi-radio.com/listen/isekoi/radio.mp3
 #EXTINF:-1,Kaaosradio
-http://stream.kaaosradio.fi:8000/stream.m3u
+https://kaaosradio.fi:8001/chip
 #EXTINF:-1,Kohina
 https://kohina.duckdns.org/icecast/stream.ogg
 #EXTINF:-1,LapFox Radio
