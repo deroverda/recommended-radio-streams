@@ -23,11 +23,6 @@ concurrency:
   group: link-check-${{ github.ref }}
   cancel-in-progress: true
 
-# Node 24 becomes the default on June 16, 2026 - this env block can be
-# deleted after that date.
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
 jobs:
   lychee:
     name: Link Checker (websites only)
