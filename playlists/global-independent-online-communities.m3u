@@ -40,11 +40,11 @@ https://frittofm2020.out.airtime.pro/frittofm2020_a
 #EXTINF:-1,Hollow Earth Radio
 http://centova.rockhost.com:8001/stream
 #EXTINF:-1,HKCR
-https://hkcr.live/audio/index.m3u8
+https://stream-test.hkcr.live/hls/main.m3u8
 #EXTINF:-1,Internet Public Radio
 https://stream-relay-geo.internetpublicradio.live/stream/main
 #EXTINF:-1,KCHUNG Radio
-https://kchungradio.out.airtime.pro/kchungradio_a
+https://kchung-radio-01e54a81.radiocult.fm/stream
 #EXTINF:-1,Kiosk Radio
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
 #EXTINF:-1,KPISS
@@ -122,7 +122,7 @@ https://libretime.radioquantica.com/main.mp3
 #EXTINF:-1,Radio TNP (Tempo Nao Para)
 *currently offline*
 #EXTINF:-1,Reform Radio
-https://icecasting.reformradio.space/high.mp3
+https://testform.out.airtime.pro/testform_a
 #EXTINF:-1,Refuge Worldwide
 https://streaming.radio.co/s3699c5e49/listen
 #EXTINF:-1,Resonance 104.4 FM
@@ -138,6 +138,6 @@ https://thf-radio-7ec0e6ee.radiocult.fm/stream
 #EXTINF:-1,ThreeDRadio
 https://sounds.threedradio.com/stream
 #EXTINF:-1,Tīrkultūra
-https://streams.radio.co/s2777a4fdd/listen
+https://s3.radio.co/s216811754/listen
 #EXTINF:-1,WGXC 90.7-FM
 https://audio.wavefarm.org/wgxc.mp3
