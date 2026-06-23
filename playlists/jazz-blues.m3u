@@ -5,6 +5,8 @@ http://edge4.peta.live365.net/b77280_128mp3
 http://radio30.virtualtronics.com:8638/;
 #EXTINF:-1,Adroit Jazz Underground
 https://icecast.walmradio.com:8443/jazz
+#EXTINF:-1,AshiyaRadio
+https://s3.radio.co/sc8d895604/listen
 #EXTINF:-1,Concertzender - World of Jazz
 https://streams.greenhost.nl:8006/jazz
 #EXTINF:-1,Fine Music Radio
@@ -38,7 +40,7 @@ https://streaming.live365.com/a49833
 #EXTINF:-1,KSDS Jazz 88.3
 https://ksds-ice.streamguys1.com/ksds.mp3
 #EXTINF:-1,Linn Jazz
-http://radio.linn.co.uk:8000/autodj.m3u
+http://radio.linn.co.uk:8000/autodj
 #EXTINF:-1,Octave Radio
 https://octaverecords.out.airtime.pro/octaverecords_a
 #EXTINF:-1,The Penthouse
@@ -47,6 +49,8 @@ http://sc1.mystreamserver.com:8052/;
 http://79.111.14.76:8004/pianoblues
 #EXTINF:-1,Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
+#EXTINF:-1,Shonan Beach FM
+http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 #EXTINF:-1,TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 #EXTINF:-1,WBGO 88.3

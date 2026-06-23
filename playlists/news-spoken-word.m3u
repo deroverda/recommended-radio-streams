@@ -4,7 +4,7 @@ https://audiobookradio.out.airtime.pro/audiobookradio_a
 #EXTINF:-1,BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
 #EXTINF:-1,BBC World Service
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio%3d96000.norewind.m3u8
+http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 #EXTINF:-1,Her.st
 https://radio.her.st/listen/listen/128.mp3
 #EXTINF:-1,Historyradio.org
