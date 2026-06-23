@@ -118,7 +118,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Ambinature Radio](https://www.ambinature.xyz/): Natural soundscapes without music. [Stream](https://nature-rex.radioca.st/stream)
 - [BEAUTIFUL Instrumentals](http://www.beautifulinstrumentals.com/): Instrumental pop from Mexico and Latin America. [Stream](http://hydra.cdnstream.com/1822_128)
 - [Birdsong FM](https://www.birdsong.fm/): Live birdsong recordings from nature. [Stream](https://a1.radio.co/s5c5da6a36/listen)
-- [ChillTraxx](https://www.chilltrax.com/): Listener-supported downtempo and chillout, broadcast from Oakland, California. [Stream](http://streams.electronicmusicradiogroup.org:9050/)
+- [ChillTraxx](https://www.chilltrax.com/): Listener-supported downtempo and chillout, broadcast from Oakland, California. [Stream](https://streamssleu.chilltrax.com/stream?sid=1)
 - [CodeRadio](https://www.freecodecamp.org/news/code-radio/): Jazzy beats to code to, from freeCodeCamp. [Stream](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3)
 - [Dinamo.FM - Sleep](https://dinamo.fm/content/4/channels): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3)
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Beatless drone reviving the cult Bluemars stream, 'music for the space traveler'. [Stream](http://streams.echoesofbluemars.org:8000/cryosleep)
@@ -198,9 +198,9 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Fade Radio](https://fade.radio/): Experimental music, DJ sets, and live performances from Athens. [Stream](https://stream.radiojar.com/072mdmpbfq8uv)
 - [Fritto FM](https://fritto.fm/): "I brought my family on a radio." Milan. [Stream](https://frittofm2020.out.airtime.pro/frittofm2020_a)
 - [Hollow Earth Radio](https://www.hollowearthradio.org/): Freeform from Seattle; found sound, field recordings, and local underground music. [Stream](http://centova.rockhost.com:8001/stream)
-- [HKCR](https://hkcr.live/): Hong Kong's community of musicians, artists, and creatives. [Stream](https://hkcr.live/audio/index.m3u8)
+- [HKCR](https://hkcr.live/): Hong Kong's community of musicians, artists, and creatives. [Stream](https://stream-test.hkcr.live/hls/main.m3u8)
 - [Internet Public Radio](https://www.internetpublicradio.live/): Artist-hosted shows across electronic and experimental music. [Stream](https://stream-relay-geo.internetpublicradio.live/stream/main)
-- [KCHUNG Radio](https://www.kchungradio.org/): Artist-led collective in Chinatown Los Angeles, experimental audio. [Stream](https://kchungradio.out.airtime.pro/kchungradio_a)
+- [KCHUNG Radio](https://www.kchungradio.org/): Artist-led collective in Chinatown Los Angeles, experimental audio. [Stream](https://kchung-radio-01e54a81.radiocult.fm/stream)
 - ⭐ [Kiosk Radio](https://kioskradio.com/): Electronic and jazz from a wooden shack in a park in Brussels. [Stream](https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b)
 - [KPISS](https://kpiss.fm/): DJ-run freeform from Brooklyn - 'The Golden Stream'. [Stream](https://das-edge14-live365-dal02.cdnstream.com/a18444)
 - [KWSX Radio](https://radio.kwsx.online/): Freeform experimental radio from London. [Stream](https://stream.kwsx.online/listen/kwsx/radio-med.mp3)
@@ -239,7 +239,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio Sofa](https://www.radio-sofa.com/): Dub, reggae, and electronic from a Paris-based collective. [Stream](https://listen.radioking.com/radio/292531/stream/338878)
 - [Radio Quantica](https://www.radioquantica.com/): Underground shows from a Lisbon community collective, since 2015. [Stream](https://libretime.radioquantica.com/main.mp3)
 - [Radio TNP (Tempo Nao Para)](https://radio-tnp.com/): Eclectic live sets from an Amsterdam studio that began as a birthday mixtape, since 2018. [Stream](*currently offline*)
-- [Reform Radio](https://www.reformradio.co.uk/): Started in a South Manchester basement in 2013; now at Old Granada Studios. [Stream](https://icecasting.reformradio.space/high.mp3)
+- [Reform Radio](https://www.reformradio.co.uk/): Started in a South Manchester basement in 2013; now at Old Granada Studios. [Stream](https://testform.out.airtime.pro/testform_a)
 - [Refuge Worldwide](https://refugeworldwide.com/): Berlin community radio born from refugee-aid fundraisers in Neukölln. [Stream](https://streaming.radio.co/s3699c5e49/listen)
 - [Resonance 104.4 FM](https://www.resonancefm.com/): London's radio art station. 105+ weekly programmes. [Stream](http://stream.resonance.fm:8000/resonance)
 - [Soho Radio](https://sohoradio.com/): DJ-driven underground house and electronic from Soho, London. [Stream](https://sohoradiomusic.doughunt.co.uk:8010/320mp3)
@@ -247,7 +247,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [STEGI.RADIO](https://stegi.radio/): Art radio from Athens' Onassis Stegi cultural center. Mediterranean and global sounds. [Stream](https://movementathens.out.airtime.pro/movementathens_a)
 - [THF Radio](https://www.thfradio.de/): Experimental broadcasts from the former gatehouse at Tempelhof Airport, Berlin. [Stream](https://thf-radio-7ec0e6ee.radiocult.fm/stream)
 - [ThreeDRadio](https://www.threedradio.com/): Volunteer-run alternative FM from Adelaide; no playlists, 120+ announcers, since 1979. [Stream](https://sounds.threedradio.com/stream)
-- [Tīrkultūra](https://www.tirkultura.lv/): Sound art and experimental music from Riga. [Stream](https://streams.radio.co/s2777a4fdd/listen)
+- [Tīrkultūra](https://www.tirkultura.lv/): Sound art and experimental music from Riga. [Stream](https://s3.radio.co/s216811754/listen)
 - [WGXC 90.7-FM](https://wavefarm.org/radio/wgxc/schedule): FM from New York's Upper Hudson Valley; radio art and local public affairs. [Stream](https://audio.wavefarm.org/wgxc.mp3)
 
 ### Decades, Oldies & Nostalgia <a id="decades-oldies-nostalgia"></a>
@@ -311,7 +311,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 
 #### Synthwave & Retrowave
 - ⭐ [Nightride FM](https://nightride.fm/): Synthwave and electronic community since 2018; multiple channels including darksynth, chillsynth, and EBSM. [Stream](https://stream.nightride.fm/nightride.mp3)
-- [Radio Caprice - Retrowave](https://radcap.ru/): Retrowave and synthwave. [Stream](http://79.120.39.202:9125/)
+- [Radio Caprice - Retrowave](https://radcap.ru/): Retrowave and synthwave. [Stream](http://79.120.39.202:8000/retrowave)
 - [Radio Record - Synthwave](https://www.radiorecord.ru/): Dedicated synthwave channel from the St. Petersburg-based electronic network. [Stream](http://radiorecord.hostingradio.ru/synth96.aacp)
 - [Synthwave City FM](https://www.synthwavecityfm.com/): Synthwave and chillwave. [Stream](https://synthwave-rex.radioca.st/stream)
 
@@ -361,7 +361,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Linn Jazz](https://www.linn.co.uk/linn-radio): Audiophile-mastered jazz from Linn's collection. [Stream](http://radio.linn.co.uk:8000/autodj)
 - [Octave Radio](https://www.psaudio.com/blogs/pauls-posts/octave-radio): Audiophile DSD recordings from Paul McGowan's Octave Records studio in Colorado. [Stream](https://octaverecords.out.airtime.pro/octaverecords_a)
 - [The Penthouse](https://thepenthouse.fm/): Live from New York since 2008. Sinatra and Ella alongside new crooners. [Stream](http://sc1.mystreamserver.com:8052/;)
-- [Radio Caprice - Piano Blues](https://radcap.ru/): Piano blues and boogie-woogie. [Stream](http://79.111.14.76:8004/pianoblues)
 - [Radio Suisse Jazz](http://radiosuissejazz.ch): Jazz, soul, and blues from Swiss public radio. [Stream](https://stream.srg-ssr.ch/m/rsj/aacp_96)
 - [Shonan Beach FM](https://www.beachfm.co.jp/): Jazz and pop from the Japanese coast. [Stream](http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a)
 - [TSF Jazz](https://www.tsfjazz.com/): Jazz and talk from Paris. [Stream](http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3)
