@@ -7,12 +7,12 @@ http://icecast.ofdoom.com:8000/burst.mp3
 https://eightball.out.airtime.pro/eightball_a
 #EXTINF:-1,8Radio.com
 https://edge4.audioxi.com/8RADIO
-#EXTINF:-1,Amplitudes Radio
-https://listen.radioking.com/radio/591304/stream/654688
 #EXTINF:-1,Aaja Music - Channel 1
 https://aaja.radiocult.fm/stream
 #EXTINF:-1,Aaja Music - Channel 2
 https://aaja-2.radiocult.fm/stream
+#EXTINF:-1,Amplitudes Radio
+https://listen.radioking.com/radio/591304/stream/654688
 #EXTINF:-1,Bangkok Community Radio (BCR)
 https://bcr.radiocult.fm/stream
 #EXTINF:-1,Behind Loud Tracks
@@ -25,12 +25,12 @@ https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
 https://www.dandelionradio.com/DandelionRadio.pls
 #EXTINF:-1,Do!! You!!! Radio
 https://doyouworld.out.airtime.pro/doyouworld_a
+#EXTINF:-1,DIA!
+https://livestream.diaradio.live/main
 #EXTINF:-1,EH-FM
 https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-1,The Dump
 http://icecast.thedumpradio.com:80/listen_mp3
-#EXTINF:-1,DIA!
-https://livestream.diaradio.live/main
 #EXTINF:-1,Dublin Digital Radio
 https://dublin-digital-radio.radiocult.fm/stream
 #EXTINF:-1,Fade Radio
@@ -51,6 +51,8 @@ https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
 https://das-edge14-live365-dal02.cdnstream.com/a18444
 #EXTINF:-1,KWSX Radio
 https://stream.kwsx.online/listen/kwsx/radio-med.mp3
+#EXTINF:-1,The Lake Radio
+http://hyades.shoutca.st:8627/stream
 #EXTINF:-1,Le Mellotron
 https://listen.radioking.com/radio/477719/stream/534044
 #EXTINF:-1,Loose FM
@@ -59,10 +61,10 @@ https://loosefm.radiocult.fm/stream
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
 #EXTINF:-1,Love Will Save The Day FM
 https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a
-#EXTINF:-1,LYL Radio
-https://icecast.lyl.live/live
 #EXTINF:-1,Loose Antenna
 https://stream.looseantenna.fm/radio/8000/default.mp3
+#EXTINF:-1,LYL Radio
+https://icecast.lyl.live/live
 #EXTINF:-1,Melodic Distraction
 https://streamer.radio.co/s5e1f4b6b9/listen
 #EXTINF:-1,Mutant Radio
@@ -89,12 +91,14 @@ https://origin.streamnerd.nl/operator/operator/icecast.audio
 https://stream.palanga.live:8443/palanga128.mp3
 #EXTINF:-1,Piñata Radio
 https://listen.radioking.com/radio/96031/stream/134656
-#EXTINF:-1,Radio Buena Vida
-https://s4.radio.co/s69b281ac0/listen
 #EXTINF:-1,Radio 80000
 https://radio80k.out.airtime.pro/radio80k_a
+#EXTINF:-1,Radio Buena Vida
+https://s4.radio.co/s69b281ac0/listen
 #EXTINF:-1,Radio Banda Larga
 https://rblmedia-a4a44e62.radiocult.fm/stream
+#EXTINF:-1,Radio Centraal
+http://streams.movemedia.eu:8530/
 #EXTINF:-1,Radio Free Phoenix
 http://69.162.73.34:8124/;stream.nsv
 #EXTINF:-1,Radio Meuh
@@ -117,18 +121,16 @@ https://listen.radioking.com/radio/292531/stream/338878
 *currently offline*
 #EXTINF:-1,Radio Quantica
 https://libretime.radioquantica.com/main.mp3
-#EXTINF:-1,Radio Centraal
-http://streams.movemedia.eu:8530/
 #EXTINF:-1,Refuge Worldwide
 https://streaming.radio.co/s3699c5e49/listen
 #EXTINF:-1,Reform Radio
 https://icecasting.reformradio.space/high.mp3
 #EXTINF:-1,Resonance 104.4 FM
 http://stream.resonance.fm:8000/resonance
-#EXTINF:-1,Station Station
-https://libretime.stationstation.fr/main
 #EXTINF:-1,Soho Radio
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
+#EXTINF:-1,Station Station
+https://libretime.stationstation.fr/main
 #EXTINF:-1,STEGI.RADIO
 https://movementathens.out.airtime.pro/movementathens_a
 #EXTINF:-1,THF Radio
