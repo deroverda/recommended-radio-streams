@@ -144,6 +144,8 @@ jobs:
           with open('README.md', encoding='utf-8') as f:
               lines = f.readlines()
 
+          import unicodedata
+
           def sort_key(name):
               # Strip markdown link syntax and formatting
               name = re.sub(r'\[([^\]]+)\].*', r'\1', name)
@@ -151,7 +153,16 @@ jobs:
               # Ignore leading "The " for alphabetical sort
               if name.lower().startswith('the '):
                   name = name[4:]
+              # Normalise accented characters to their ASCII base
+              # so Á/á sorts with A, É/é with E, etc.
+              name = unicodedata.normalize('NFD', name)
+              name = ''.join(c for c in name if unicodedata.category(c) != 'Mn')
               return name.lower()
+
+          # Minimum station entries before a section is checked.
+          # Skips TOC and appendix sections which use list format but
+          # aren't station lists.
+          MIN_ENTRIES = 3
 
           HEADER_RE = re.compile(r'^#{2,4}\s+')
           ENTRY_RE  = re.compile(r'^\-\s*(?:⭐\s*)?\[([^\]]+)\]')
@@ -161,6 +172,8 @@ jobs:
           issues = []
 
           def check_section(section, entries):
+              if len(entries) < MIN_ENTRIES:
+                  return
               for i in range(1, len(entries)):
                   a = sort_key(entries[i-1][1])
                   b = sort_key(entries[i][1])
