@@ -24,7 +24,7 @@ http://broadcast.shoutcheap.com:8424/stream
 #EXTINF:-1,Radio Caroline
 http://78.129.202.200:8040/;
 #EXTINF:-1,Radio Dismuke
-http://stream2.early1900s.org:8000/
+http://stream2.early1900s.org:8000/;
 #EXTINF:-1,The Retro Attic
 http://103.226.246.212:8159/stream
 #EXTINF:-1,SMRN5001 - Oldies Radio
@@ -32,7 +32,7 @@ https://cast1.sql2.smrn.com/5001
 #EXTINF:-1,Technicolor Web of Sound
 http://streaming.live365.com/a01650
 #EXTINF:-1,Time Capsule Show
-http://sc3.mystreamserver.com:8060/
+http://sc3.mystreamserver.com:8060/stream
 #EXTINF:-1,Ultimate Oldies Radio
 https://puma.streemlion.com:1785/stream
 #EXTINF:-1,Van Morrison Radio

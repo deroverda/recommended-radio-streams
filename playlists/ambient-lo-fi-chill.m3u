@@ -22,7 +22,7 @@ http://channels.dinamo.fm/sleep-mp3
 #EXTINF:-1,Echoes of Bluemars - Cryosleep
 http://streams.echoesofbluemars.org:8000/cryosleep
 #EXTINF:-1,Fluid Radio
-http://uk4-vn.webcast-server.net:9270/
+http://uk4-vn.webcast-server.net:9270/;
 #EXTINF:-1,FluxFM - FluxLounge
 http://streams.fluxfm.de/lounge/mp3-128/audio/play.m3u
 #EXTINF:-1,The Kyoto Connection
