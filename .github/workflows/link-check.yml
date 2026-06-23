@@ -161,11 +161,14 @@ jobs:
 
           # Minimum station entries before a section is checked.
           # Skips TOC and appendix sections which use list format but
-          # aren't station lists.
-          MIN_ENTRIES = 3
+          # aren't station lists. TOC has ~20 entries so we need a
+          # different approach - skip sections where entries are
+          # anchor links rather than external URLs.
+          MIN_ENTRIES = 5
 
           HEADER_RE = re.compile(r'^#{2,4}\s+')
-          ENTRY_RE  = re.compile(r'^\-\s*(?:⭐\s*)?\[([^\]]+)\]')
+          # Only match entries with external http(s) links - skips TOC anchor links
+          ENTRY_RE  = re.compile(r'^\-\s*(?:⭐\s*)?\[([^\]]+)\]\(https?://')
 
           current_section = None
           current_entries = []
