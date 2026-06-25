@@ -381,13 +381,9 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [BBC World Service](https://www.bbc.co.uk/worldserviceradio): International news and culture. [Stream](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
 - [Her.st](https://her.st/radio/): Coast to Coast AM archives, Alan Watts, Terence McKenna, and other strange late-night broadcasts. [Stream](https://radio.her.st/listen/listen/128.mp3)
 - [Historyradio.org](https://historyradio.org): Literature, speeches, and audiobooks. [Stream](http://stream.radiojar.com/6bmecgg3wd5tv)
-- [Horror Radio](https://darkentertainments.com/): Original horror dramas and audio fiction. [Stream](https://eu1.fastcast4u.com/proxy/stevende1?mp=/;)
-- [NPR Program Stream](https://www.npr.org/): US public radio news and talk. [Stream](http://npr-ice.streamguys1.com/live.mp3)
-- [RTÉ Radio 1](https://www.rte.ie/radio/radio1/): National news and talk from Ireland. [Stream](https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8)
+- [Horror Radio](https://darkentertainments.com/): Vintage horror plays and eerie soundscapes, broadcasting from beyond the grave. [Stream](https://eu1.fastcast4u.com/proxy/stevende1?mp=/;)
 - [The Ultimate Art Bell](https://www.willstare.com/art-bell-repository/): Classic Coast to Coast AM paranormal talk episodes. [Stream](http://stream.willstare.com:8450/;)
 - [Vintage ROKiT - Crime and Suspense](https://rokitradio.com/): Restored crime and mystery radio plays. [Stream](http://streaming04.liveboxstream.uk:8168/stream)
-- [WBEZ 91.5](https://wbez.org): Public radio from Chicago. [Stream](http://stream.wbez.org/wbez128.mp3)
-- [WNYC 93.9](https://wnyc.org): Public radio from New York City. [Stream](https://fm939.wnyc.org/wnycfm-tunein.aac)
 
 ### Reggae & Dub <a id="reggae-dub"></a>
 - ⭐ [Alpha Boys School Radio](https://alphaboysschoolradio.com/): Ska and rocksteady from the Kingston school that produced the Skatalites. [Stream](http://alphaboys-live.streamguys1.com/alphaboys.mp3)
