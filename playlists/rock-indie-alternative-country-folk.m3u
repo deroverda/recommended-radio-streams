@@ -3,6 +3,8 @@
 https://listen.radioking.com/radio/69079/stream/106852
 #EXTINF:-1,BAGeL Radio
 http://ais-sa3.cdnstream1.com/2606_128.aac
+#EXTINF:-1,BBC Radio 6 Music
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 #EXTINF:-1,Birch Street Radio
 https://streaming.live365.com/a97155
 #EXTINF:-1,Boogaloo Radio
@@ -21,10 +23,8 @@ http://cassini.shoutca.st:8574/stream
 https://sp1.autopo.st/8026/stream
 #EXTINF:-1,ISKC Radio Group - Only Live
 https://mediaserv68.live-streams.nl:18012/OnlyLive
-#EXTINF:-1,laut.fm - Alive
-https://stream.laut.fm/alive
-#EXTINF:-1,laut.fm - Rocklive
-https://stream.laut.fm/rocklive
+#EXTINF:-1,KEXP 90.3
+https://kexp.streamguys1.com/kexp160.aac
 #EXTINF:-1,Live Jam Radio
 https://stations.radio-host.com/proxy/livejam/stream
 #EXTINF:-1,Morow
@@ -33,8 +33,8 @@ https://www.morow.com/morow.pls
 https://radio.nugs.net/nugsnet
 #EXTINF:-1,Planet Pootwaddle
 http://peridot.streamguys.com:7520/sgplayer-mp3
-#EXTINF:-1,Prog Palace Radio
-https://cheetah.streemlion.com/progpalace64
+#EXTINF:-1,Radio Paradise
+http://stream-dc1.radioparadise.com/rp_192m.ogg
 #EXTINF:-1,Radio Woodstock
 https://stream.revma.ihrhls.com/zc7332
 #EXTINF:-1,The SoCal Sound

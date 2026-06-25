@@ -5,8 +5,6 @@ https://20ft-radio.radiocult.fm/stream
 http://icecast.ofdoom.com:8000/burst.mp3
 #EXTINF:-1,8 Ball Radio
 https://eightball.out.airtime.pro/eightball_a
-#EXTINF:-1,8Radio.com
-https://edge4.audioxi.com/8RADIO
 #EXTINF:-1,Aaja Music - Channel 1
 https://aaja.radiocult.fm/stream
 #EXTINF:-1,Aaja Music - Channel 2
@@ -27,6 +25,8 @@ https://www.dandelionradio.com/DandelionRadio.pls
 https://livestream.diaradio.live/main
 #EXTINF:-1,Do!! You!!! Radio
 https://doyouworld.out.airtime.pro/doyouworld_a
+#EXTINF:-1,dublab
+http://dublab.out.airtime.pro:8000/dublab_a
 #EXTINF:-1,Dublin Digital Radio
 https://dublin-digital-radio.radiocult.fm/stream
 #EXTINF:-1,The Dump
@@ -35,12 +35,12 @@ http://icecast.thedumpradio.com:80/listen_mp3
 https://ehfm.out.airtime.pro/ehfm_a
 #EXTINF:-1,Fade Radio
 https://stream.radiojar.com/072mdmpbfq8uv
+#EXTINF:-1,FIP
+http://icecast.radiofrance.fr/fip-hifi.aac
 #EXTINF:-1,Fritto FM
 https://frittofm2020.out.airtime.pro/frittofm2020_a
 #EXTINF:-1,Hollow Earth Radio
 http://centova.rockhost.com:8001/stream
-#EXTINF:-1,HKCR
-https://stream-test.hkcr.live/hls/main.m3u8
 #EXTINF:-1,Internet Public Radio
 https://stream-relay-geo.internetpublicradio.live/stream/main
 #EXTINF:-1,KCHUNG Radio
@@ -55,8 +55,6 @@ https://stream.kwsx.online/listen/kwsx/radio-med.mp3
 http://hyades.shoutca.st:8627/stream
 #EXTINF:-1,Le Mellotron
 https://listen.radioking.com/radio/477719/stream/534044
-#EXTINF:-1,Loose FM
-https://loosefm.radiocult.fm/stream
 #EXTINF:-1,The Lot Radio
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
 #EXTINF:-1,Loose Antenna
@@ -111,16 +109,12 @@ https://listen.radioking.com/radio/142627/stream/182797
 https://radioraheem.out.airtime.pro/radioraheem_b
 #EXTINF:-1,Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
-#EXTINF:-1,Radio Reverb 97.2
-http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3
 #EXTINF:-1,Radio Sam Sam
 https://listen.radioking.com/radio/742276/stream/808768
 #EXTINF:-1,Radio Sofa
 https://listen.radioking.com/radio/292531/stream/338878
 #EXTINF:-1,Radio Quantica
 https://libretime.radioquantica.com/main.mp3
-#EXTINF:-1,Radio TNP (Tempo Nao Para)
-*currently offline*
 #EXTINF:-1,Reform Radio
 https://testform.out.airtime.pro/testform_a
 #EXTINF:-1,Refuge Worldwide
@@ -129,6 +123,8 @@ https://streaming.radio.co/s3699c5e49/listen
 http://stream.resonance.fm:8000/resonance
 #EXTINF:-1,Soho Radio
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
+#EXTINF:-1,SomaFM - Groove Salad
+https://somafm.com/groovesalad256.pls
 #EXTINF:-1,Station Station
 https://libretime.stationstation.fr/main
 #EXTINF:-1,STEGI.RADIO
@@ -139,5 +135,7 @@ https://thf-radio-7ec0e6ee.radiocult.fm/stream
 https://sounds.threedradio.com/stream
 #EXTINF:-1,Tīrkultūra
 https://s3.radio.co/s216811754/listen
+#EXTINF:-1,Worldwide FM
+https://worldwide-fm.radiocult.fm/stream
 #EXTINF:-1,WGXC 90.7-FM
 https://audio.wavefarm.org/wgxc.mp3

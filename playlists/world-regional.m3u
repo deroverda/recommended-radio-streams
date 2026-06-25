@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Alefa Music
 http://www.radioking.com/play/alefamusic
-#EXTINF:-1,Bondi Radio
-https://streaming.radio.co/sfd68ddd77/listen
 #EXTINF:-1,Celtic Music Radio
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
 #EXTINF:-1,CeolFM
@@ -23,8 +21,6 @@ https://streaming.lahmacun.hu/radio/8000/radio.mp3
 https://www.radioking.com/play/legrigri/273715
 #EXTINF:-1,listen.moe
 https://listen.moe/stream
-#EXTINF:-1,MacSlon's Irish Pub
-https://server9.streamserver24.com/stream/macslonsradio/stream
 #EXTINF:-1,Mondo Bongo Radio
 https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
 #EXTINF:-1,Oroko Radio
@@ -35,8 +31,6 @@ https://pass.out.airtime.pro/pass_a
 https://listen7.myradio24.com/69366
 #EXTINF:-1,Radio Al-Hara
 https://stream.radiojar.com/78cxy6wkxtzuv
-#EXTINF:-1,Radio Caprice - Afrobeat
-http://79.120.39.202:8000/afrobeat
 #EXTINF:-1,Radio Flouka
 https://flouka.out.airtime.pro/flouka_a
 #EXTINF:-1,Radio Isla Negra - Slowbeat

@@ -3,7 +3,7 @@
 https://mediaserv73.live-streams.nl:18058/stream
 #EXTINF:-1,BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
-#EXTINF:-1,Classical California KDFC
+#EXTINF:-1,Classical California
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
 #EXTINF:-1,Concertzender - Baroque
 http://streams.greenhost.nl:8080/barok
@@ -15,14 +15,8 @@ http://radio.linn.co.uk:8004/stream
 http://listen.mrg.fm:8110/;
 #EXTINF:-1,Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-#EXTINF:-1,WALM 2 HD
-https://icecast.walmradio.com:8443/walm2
-#EXTINF:-1,WBJC 91.5
-https://ice64.securenetsystems.net/WBJC
 #EXTINF:-1,WFMT - Classical
 https://wfmt.streamguys1.com/main-source
-#EXTINF:-1,WMNR
-https://wmnr.streamguys1.com/live
 #EXTINF:-1,WQXR 105.9
 http://stream.wqxr.org/wqxr
 #EXTINF:-1,WQXR Q2

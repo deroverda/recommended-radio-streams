@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,1.FM - Movie Soundtrack
-https://strm112.1.fm/moviesoundtracks_mobile_mp3?
 #EXTINF:-1,Arcade Radio
 https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
 #EXTINF:-1,Cinemix
@@ -25,6 +23,8 @@ https://kohina.duckdns.org/icecast/stream.ogg
 https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
 #EXTINF:-1,Liquid DooM Radio
 http://83.240.65.106:8000/doom
+#EXTINF:-1,Nectarine
+http://necta.burn.net:8000/nectarine
 #EXTINF:-1,No Life Radio
 https://listen.nolife-radio.com/stream
 #EXTINF:-1,RadioSEGA
