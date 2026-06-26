@@ -232,7 +232,7 @@ export -f sanitize_text classify_error probe_with_retry is_playlist_url fetch_in
 if [ "$checked" -gt 0 ]; then
   printf '%s\0' "${urls[@]}" \
     | xargs -0 -n1 -P "$JOBS" bash -c 'probe_url "$1" 1 3; printf "%s\t%s\t%s\t%s\n" "$RESULT_CLASS" "$1" "$RESULT_DETAIL" "$RESULT_SILENT"' _ \
-    > "$tmp_results"
+    > "$tmp_results" || true
 fi
 
 declare -A category_counts
