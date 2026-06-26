@@ -611,7 +611,7 @@ Open the web player, right-click and select **Inspect** (or press `F12`). Go to 
 ---
 
 ## Contributing <a id="contributing"></a>
-Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-streams/issues/new) or this [Form](https://forms.gle/CGchfUqNzV6smwo9A).
+Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-streams/issues/new) or this [Form](https://tally.so/r/eqp5el).
 
 **Style Guide:**
 - Include both a homepage link and a direct stream URL where possible.
