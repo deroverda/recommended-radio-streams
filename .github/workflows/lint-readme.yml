@@ -17,7 +17,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 concurrency:
   group: lint-readme-${{ github.ref }}
@@ -32,7 +32,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          persist-credentials: false
+          persist-credentials: true
 
       - name: Lint README
         shell: bash
@@ -54,11 +54,11 @@ jobs:
         run: |
           python3 .github/scripts/readme_to_m3u.py README.md playlists/
 
-      - name: Upload playlists
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: m3u-playlists
-          path: playlists/
-          if-no-files-found: warn
-          retention-days: 14
+      - name: Commit playlists
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlists/
+          git diff --cached --quiet || git commit -m "Auto-update playlists from README"
+          git push
