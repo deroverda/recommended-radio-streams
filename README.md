@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/deroverda/recommended-radio-streams/main/banner_new.jpg" width="400" alt="Recommended Radio Streams">
+<img src="https://raw.githubusercontent.com/deroverda/recommended-radio-streams/main/banner_new.jpg" width="512" alt="Recommended Radio Streams">
 
 <br>
 <br>
