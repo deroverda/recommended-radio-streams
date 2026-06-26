@@ -1,0 +1,48 @@
+name: README Lint & Health
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "README.md"
+      - ".github/workflows/lint-readme.yml"
+      - ".github/scripts/lint_readme.py"
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/lint-readme.yml"
+      - ".github/scripts/lint_readme.py"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: lint-readme-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  readme-lint:
+    name: Structure & Style
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Lint README
+        shell: bash
+        run: |
+          python3 .github/scripts/lint_readme.py README.md | tee readme-lint-report.txt
+          # Always exits 0 - warn only.
+
+      - name: Upload lint report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: readme-lint-report
+          path: readme-lint-report.txt
+          if-no-files-found: warn
+          retention-days: 14
