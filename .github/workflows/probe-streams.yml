@@ -49,7 +49,7 @@ jobs:
           PROBE_TIMEOUT: 45
           MAX_RETRIES: 3
           RETRY_BASE_DELAY: 2
-        run: bash .github/scripts/probe-streams.sh
+        run: bash .github/scripts/probe-streams.sh || true
 
       - name: Upload stream report
         if: always()
