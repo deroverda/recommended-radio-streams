@@ -1,12 +1,10 @@
 #!/usr/bin/env bash
-# probe-streams.sh - v3.2
-# Probes every stream URL in README.md with detailed categories, silence warnings,
-# exponential retries, and playlist expansion. Produces a structured report.
-# Runs sequentially to avoid subshell/export issues in CI environments.
-#
-# All configurable parameters are centralised below.
+# probe-streams.sh - v3.3
+# Probes every stream URL in README.md sequentially.
+# Produces a structured markdown report.
 
-set -Eeuo pipefail
+# NOTE: No set -e here intentionally. We handle errors manually per-probe.
+set -uo pipefail
 
 # ----------------------------------------------------------------------------
 # CONFIGURATION
@@ -51,185 +49,168 @@ sanitize_text() {
 
 classify_error() {
   local err="$1"
-  local code="${2:-}"
+  local code="${2:-0}"
   case "$err" in
     *"Name or service not known"*|*"No address associated"*|*"Could not resolve host"*|*"Temporary failure"*)
-      echo "DNS_FAILURE"; return ;;
-    *"SSL"*|*"certificate"*|*"TLS"*|*"handshake"*) echo "SSL_FAILURE"; return ;;
-    *"Connection timed out"*|*"timed out"*|*"Operation timed out"*) echo "TIMEOUT"; return ;;
-    *"Connection refused"*|*"Connection reset"*) echo "CONNECTION_RESET"; return ;;
-    *"403"*|*"401"*|*"Forbidden"*|*"Unauthorized"*) echo "AUTH_REQUIRED"; return ;;
-    *"429"*|*"Too Many Requests"*|*"522"*) echo "RATE_LIMITED"; return ;;
-    *"404"*|*"Not Found"*) echo "NOT_FOUND"; return ;;
-    *"Unsupported codec"*|*"codec not found"*) echo "UNSUPPORTED_CODEC"; return ;;
-    *"playlist"*|*"M3U"*|*"PLS"*) echo "PLAYLIST_PARSE_ERROR"; return ;;
-    *"redirect"*|*"too many redirects"*) echo "REDIRECT_LOOP"; return ;;
-    "") [ -n "$code" ] && [ "$code" -eq 124 ] && echo "TIMEOUT" || echo "UNKNOWN"; return ;;
-    *) echo "UNKNOWN"; return ;;
+      echo "DNS_FAILURE" ;;
+    *"SSL"*|*"certificate"*|*"TLS"*|*"handshake"*)
+      echo "SSL_FAILURE" ;;
+    *"Connection timed out"*|*"timed out"*|*"Operation timed out"*)
+      echo "TIMEOUT" ;;
+    *"Connection refused"*|*"Connection reset"*)
+      echo "CONNECTION_RESET" ;;
+    *"403"*|*"401"*|*"Forbidden"*|*"Unauthorized"*)
+      echo "AUTH_REQUIRED" ;;
+    *"429"*|*"Too Many Requests"*|*"522"*)
+      echo "RATE_LIMITED" ;;
+    *"404"*|*"Not Found"*)
+      echo "NOT_FOUND" ;;
+    *"Unsupported codec"*|*"codec not found"*)
+      echo "UNSUPPORTED_CODEC" ;;
+    *"playlist"*|*"M3U"*|*"PLS"*)
+      echo "PLAYLIST_PARSE_ERROR" ;;
+    *"redirect"*|*"too many redirects"*)
+      echo "REDIRECT_LOOP" ;;
+    *)
+      if [ "$code" -eq 124 ] 2>/dev/null; then
+        echo "TIMEOUT"
+      else
+        echo "UNKNOWN"
+      fi
+      ;;
   esac
 }
 
-probe_with_retry() {
+probe_one_url() {
   local url="$1"
   local attempt=1
   local delay="$RETRY_BASE_DELAY"
-  local err=""
-  local status=0
+  local err status
 
-  while [ $attempt -le "$MAX_RETRIES" ]; do
-    set +e
-    err=$(
-      timeout "$PROBE_TIMEOUT" ffmpeg \
-        -hide_banner -v error -nostdin \
+  RESULT_CLASS="UNKNOWN"
+  RESULT_DETAIL=""
+  RESULT_SILENT="false"
+
+  while [ "$attempt" -le "$MAX_RETRIES" ]; do
+    err=$(timeout "$PROBE_TIMEOUT" ffmpeg \
+      -hide_banner -v error -nostdin \
+      -user_agent "$UA" \
+      -headers $'Accept: */*\r\n' \
+      -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
+      -i "$url" \
+      -map 0:a:0 -vn -sn -dn \
+      -t "$DECODE_SECONDS" \
+      -f null - \
+      2>&1 >/dev/null) || true
+    status=$?
+
+    if [ "$status" -eq 0 ]; then
+      local silence_out
+      silence_out=$(timeout "$PROBE_TIMEOUT" ffmpeg \
+        -hide_banner -v warning -nostdin \
         -user_agent "$UA" \
         -headers $'Accept: */*\r\n' \
         -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
         -i "$url" \
         -map 0:a:0 -vn -sn -dn \
         -t "$DECODE_SECONDS" \
+        -af "silencedetect=noise=$SILENCE_THRESHOLD:d=$SILENCE_DURATION" \
         -f null - \
-        2>&1 >/dev/null
-    )
-    status=$?
-    set -e
-
-    if [ "$status" -eq 0 ]; then
-      # Success - check silence
-      local silence_err=""
-      local silent_frames=0
-      set +e
-      silence_err=$(
-        timeout "$PROBE_TIMEOUT" ffmpeg \
-          -hide_banner -v warning -nostdin \
-          -user_agent "$UA" \
-          -headers $'Accept: */*\r\n' \
-          -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
-          -i "$url" \
-          -map 0:a:0 -vn -sn -dn \
-          -t "$DECODE_SECONDS" \
-          -af "silencedetect=noise=$SILENCE_THRESHOLD:d=$SILENCE_DURATION" \
-          -f null - \
-          2>&1
-      )
-      set -e
-      silent_frames=$(echo "$silence_err" | grep -c "silence_start" || echo 0)
-      RESULT_SILENT="false"
-      [ "$silent_frames" -gt 0 ] && RESULT_SILENT="true"
+        2>&1) || true
+      local silent_frames
+      silent_frames=$(echo "$silence_out" | grep -c "silence_start" || true)
+      [ "${silent_frames:-0}" -gt 0 ] && RESULT_SILENT="true"
       RESULT_CLASS="OK"
       RESULT_DETAIL=""
       return 0
     fi
 
-    local klass detail
-    klass=$(classify_error "$err" "$status")
-    detail=$(sanitize_text "$err")
-    [ -z "$detail" ] && detail="exit status $status"
-
     attempt=$((attempt + 1))
-    [ $attempt -le "$MAX_RETRIES" ] && sleep "$delay" && delay=$((delay * 2))
+    if [ "$attempt" -le "$MAX_RETRIES" ]; then
+      sleep "$delay"
+      delay=$((delay * 2))
+    fi
   done
 
   RESULT_CLASS=$(classify_error "$err" "$status")
   RESULT_DETAIL=$(sanitize_text "$err")
-  [ -z "$RESULT_DETAIL" ] && RESULT_DETAIL="exit status $status"
+  [ -z "$RESULT_DETAIL" ] && RESULT_DETAIL="exit $status"
   return 1
 }
 
 is_playlist_url() {
-  local url_lc="${1,,}"
+  local url_lc
+  url_lc=$(echo "$1" | tr '[:upper:]' '[:lower:]')
   case "$url_lc" in
     *.pls|*.pls\?*|*.m3u|*.m3u\?*|*.m3u8|*.m3u8\?*|*.asx|*.asx\?*|*.xspf|*.xspf\?*) return 0 ;;
     *) return 1 ;;
   esac
 }
 
-fetch_inner_urls() {
-  local url="$1"
-  local depth="$2"
-  local max_depth="$3"
-  [ "$depth" -gt "$max_depth" ] && return 0
-  local content
-  content=$(curl -fsSL --max-time "$PLAYLIST_TIMEOUT" --retry 2 --retry-delay 2 \
-    -A "$UA" "$url" 2>/dev/null | head -c 65536 || true)
-  [ -z "$content" ] && return 0
-  local inner_urls
-  # M3U
-  inner_urls=$(echo "$content" | grep -oE '^(https?://[^[:space:]]+)' || true)
-  [ -n "$inner_urls" ] && echo "$inner_urls" && return 0
-  # PLS
-  inner_urls=$(echo "$content" | grep -i '^File[0-9]*=' | sed -E 's/^File[0-9]*=//' | head -10 || true)
-  [ -n "$inner_urls" ] && echo "$inner_urls" && return 0
-  # ASX
-  inner_urls=$(echo "$content" | grep -oE 'href="[^"]+"' | sed -E 's/href="([^"]+)"/\1/' || true)
-  [ -n "$inner_urls" ] && echo "$inner_urls" && return 0
-  # XSPF
-  inner_urls=$(echo "$content" | grep -oE '<location>[^<]*</location>' | sed -E 's/<\/?location>//g' || true)
-  [ -n "$inner_urls" ] && echo "$inner_urls" && return 0
-  # fallback
-  inner_urls=$(echo "$content" | grep -oE 'https?://[^[:space:]<"'"'"']+' | sort -u || true)
-  echo "$inner_urls"
-}
-
 probe_url() {
   local url="$1"
   local depth="${2:-1}"
-  local max_depth="${3:-$MAX_PLAYLIST_DEPTH}"
 
-  RESULT_SILENT="false"
   RESULT_CLASS="UNKNOWN"
   RESULT_DETAIL=""
+  RESULT_SILENT="false"
 
-  if is_playlist_url "$url" && [ "$depth" -le "$max_depth" ]; then
-    local inner_urls=()
-    mapfile -t inner_urls < <(fetch_inner_urls "$url" "$depth" "$max_depth")
-    if [ ${#inner_urls[@]} -eq 0 ]; then
+  if is_playlist_url "$url" && [ "$depth" -le "$MAX_PLAYLIST_DEPTH" ]; then
+    local content inner
+    content=$(curl -fsSL --max-time "$PLAYLIST_TIMEOUT" --retry 2 --retry-delay 2 \
+      -A "$UA" "$url" 2>/dev/null | head -c 65536) || true
+    if [ -z "$content" ]; then
       RESULT_CLASS="EMPTY_PLAYLIST"
-      RESULT_DETAIL="playlist contained no inner URLs"
+      RESULT_DETAIL="no content fetched"
       return 1
     fi
-    for inner in "${inner_urls[@]}"; do
-      set +e
-      probe_url "$inner" $((depth+1)) "$max_depth"
-      set -e
+    # Try to find inner stream URLs
+    local inner_urls
+    inner_urls=$(echo "$content" | grep -oE '^https?://[^[:space:]]+' || true)
+    [ -z "$inner_urls" ] && inner_urls=$(echo "$content" | grep -i '^File[0-9]*=' | sed -E 's/^File[0-9]*=//' || true)
+    [ -z "$inner_urls" ] && inner_urls=$(echo "$content" | grep -oE 'https?://[^[:space:]<"'"'"']+' | sort -u || true)
+    if [ -z "$inner_urls" ]; then
+      RESULT_CLASS="EMPTY_PLAYLIST"
+      RESULT_DETAIL="no inner URLs found"
+      return 1
+    fi
+    while IFS= read -r inner; do
+      [ -z "$inner" ] && continue
+      probe_url "$inner" $((depth + 1))
       [ "$RESULT_CLASS" = "OK" ] && return 0
-    done
+    done <<< "$inner_urls"
     return 1
   fi
 
-  set +e
-  probe_with_retry "$url"
-  local ret=$?
-  set -e
-  return $ret
+  probe_one_url "$url"
+  return $?
 }
 
 # ----------------------------------------------------------------------------
 # Main
 # ----------------------------------------------------------------------------
-mapfile -t urls < <(extract_stream_urls)
-checked="${#urls[@]}"
-manual=0
-blocked=0
-manual_rows=""
-blocked_rows=""
-
 tmp_results="$(mktemp)"
 trap 'rm -f "$tmp_results"' EXIT
 
-echo "Probing $checked streams sequentially..."
+mapfile -t urls < <(extract_stream_urls)
+checked="${#urls[@]}"
+
+echo "Probing $checked streams..."
 
 for url in "${urls[@]}"; do
-  set +e
-  probe_url "$url" 1 3
-  set -e
+  probe_url "$url" 1
   printf "%s\t%s\t%s\t%s\n" "$RESULT_CLASS" "$url" "$RESULT_DETAIL" "$RESULT_SILENT" \
     >> "$tmp_results"
   echo "  [$RESULT_CLASS] $url"
 done
 
-declare -A category_counts
 total_ok=0
 total_silent=0
+manual=0
+blocked=0
+manual_rows=""
+blocked_rows=""
+declare -A category_counts
 
 while IFS=$'\t' read -r result url detail silent; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
@@ -263,7 +244,7 @@ done < "$tmp_results"
   echo "| Needs manual check | $manual |"
   echo "| Blocked (false positive) | $blocked |"
   echo ""
-  echo "## Error breakdown"
+  echo "## Error Breakdown"
   echo "| Category | Count |"
   echo "|---|---|"
   for cat in "${!category_counts[@]}"; do
