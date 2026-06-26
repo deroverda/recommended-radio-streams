@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# probe-streams.sh - v3.0
+# probe-streams.sh - v3.1
 # Probes every stream URL in README.md with detailed categories, silence warnings,
 # exponential retries, playlist expansion, and caching. Produces a structured report.
 #
@@ -97,7 +97,7 @@ probe_with_retry() {
     set -e
 
     if [ "$status" -eq 0 ]; then
-      # Success – check silence
+      # Success - check silence
       local silence_err=""
       local silent_frames=0
       set +e
@@ -213,9 +213,16 @@ probe_url() {
   fi
 }
 
+# Guard so sourcing this script in subshells does not re-run main logic
+if [ "${PROBE_STREAMS_SOURCED:-}" = "1" ]; then
+  return 0 2>/dev/null || true
+fi
+
 # ----------------------------------------------------------------------------
 # Main
 # ----------------------------------------------------------------------------
+SCRIPT_PATH="$(realpath "$0")"
+
 mapfile -t urls < <(extract_stream_urls)
 checked="${#urls[@]}"
 manual=0
@@ -226,12 +233,16 @@ blocked_rows=""
 tmp_results="$(mktemp)"
 trap 'rm -f "$tmp_results"' EXIT
 
-export UA DECODE_SECONDS PROBE_TIMEOUT PLAYLIST_TIMEOUT MAX_RETRIES RETRY_BASE_DELAY SILENCE_THRESHOLD SILENCE_DURATION MAX_PLAYLIST_DEPTH
-export -f sanitize_text classify_error probe_with_retry is_playlist_url fetch_inner_urls probe_url
+export UA DECODE_SECONDS PROBE_TIMEOUT PLAYLIST_TIMEOUT MAX_RETRIES RETRY_BASE_DELAY \
+       SILENCE_THRESHOLD SILENCE_DURATION MAX_PLAYLIST_DEPTH PROBE_STREAMS_SOURCED=1
 
 if [ "$checked" -gt 0 ]; then
   printf '%s\0' "${urls[@]}" \
-    | xargs -0 -n1 -P "$JOBS" bash -c 'probe_url "$1" 1 3; printf "%s\t%s\t%s\t%s\n" "$RESULT_CLASS" "$1" "$RESULT_DETAIL" "$RESULT_SILENT"' _ \
+    | xargs -0 -n1 -P "$JOBS" bash -c '
+        source "$2"
+        probe_url "$1" 1 3
+        printf "%s\t%s\t%s\t%s\n" "$RESULT_CLASS" "$1" "$RESULT_DETAIL" "$RESULT_SILENT"
+      ' _ {} "$SCRIPT_PATH" \
     > "$tmp_results" || true
 fi
 
@@ -247,7 +258,6 @@ while IFS=$'\t' read -r result url detail silent; do
       [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
       ;;
     DNS_FAILURE|SSL_FAILURE|TIMEOUT|AUTH_REQUIRED|FORBIDDEN|RATE_LIMITED|CONNECTION_RESET|UNSUPPORTED_CODEC|EMPTY_PLAYLIST|PLAYLIST_PARSE_ERROR|REDIRECT_LOOP|NOT_FOUND|UNKNOWN)
-      # Treat as manual unless it's a network/blocking issue
       if [[ "$result" =~ ^(TIMEOUT|RATE_LIMITED|AUTH_REQUIRED|FORBIDDEN|CONNECTION_RESET)$ ]]; then
         blocked_rows+="| <$url> | $result | ${detail:-} |"$'\n'
         blocked=$((blocked + 1))
@@ -273,7 +283,6 @@ done < "$tmp_results"
   echo "| Silent (warning) | $total_silent |"
   echo "| Needs manual check | $manual |"
   echo "| Blocked (false positive) | $blocked |"
-  echo "| Unique URLs cached | ${#CACHE[@]} |"
   echo ""
   echo "Error breakdown:"
   echo "| Category | Count |"
