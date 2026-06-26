@@ -419,13 +419,108 @@ def main(path):
     # GitHub Step Summary
     step_summary = os.environ.get("GITHUB_STEP_SUMMARY")
     if step_summary:
+        errors   = [(ln, msg) for ln, sev, msg in findings if sev == 'ERROR']
+        warnings = [(ln, msg) for ln, sev, msg in findings if sev == 'WARN']
+        infos    = [(ln, msg) for ln, sev, msg in findings if sev == 'INFO']
+
+        # Partition warnings into actionable groups
+        alpha    = [(ln, msg) for ln, msg in warnings if msg.startswith('Alpha order')]
+        short    = [(ln, msg) for ln, msg in warnings if msg.startswith('Description too short')]
+        dupes    = [(ln, msg) for ln, msg in warnings if 'Duplicate' in msg]
+        banned   = [(ln, msg) for ln, msg in warnings if msg.startswith('Banned')]
+        disc     = [(ln, msg) for ln, msg in warnings if msg.startswith('Discouraged')]
+        other_w  = [(ln, msg) for ln, msg in warnings
+                    if not any(msg.startswith(p) for p in ('Alpha order', 'Description too short', 'Banned', 'Discouraged'))
+                    and 'Duplicate' not in msg]
+
+        # Stats and category distribution from infos
+        stats    = [(ln, msg) for ln, msg in infos if 'Statistics' in msg or msg.startswith('  ') and 'Distribution' not in msg]
+        cat_dist = [(ln, msg) for ln, msg in infos if 'Distribution' in msg or (msg.startswith('  ') and any(c in msg for c in [cat for cat, _ in category_counts.items()]))]
+
         with open(step_summary, 'a', encoding='utf-8') as f:
-            f.write("# README Lint Report\n")
-            f.write(f"**{summary}**\n\n")
-            f.write("| Line | Severity | Issue |\n|---|---|---|\n")
-            for line_no, sev, msg in findings:
-                safe = msg.replace('|', '\\|')
-                f.write(f"| {line_no} | {sev} | {safe} |\n")
+            # Header
+            errors_icon   = '🔴' if errors else '✅'
+            warnings_icon = '🟡' if warnings else '✅'
+            f.write("# README Lint Report\n\n")
+            f.write(f"{errors_icon} **{counts['ERROR']} errors** &nbsp; {warnings_icon} **{counts['WARN']} warnings** &nbsp; ℹ️ **{counts['INFO']} info**\n\n")
+
+            # Errors (rare but important)
+            if errors:
+                f.write("## 🔴 Errors\n\n")
+                f.write("| Line | Issue |\n|---|---|\n")
+                for ln, msg in errors:
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n")
+
+            # Alpha order fixes
+            if alpha:
+                f.write("## 🔤 Alpha Order Fixes\n\n")
+                f.write("| Line | Fix |\n|---|---|\n")
+                for ln, msg in alpha:
+                    # Extract just the station names for a cleaner display
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n")
+
+            # Short descriptions
+            if short:
+                f.write("## ✏️ Descriptions Too Short\n\n")
+                f.write("| Line | Issue |\n|---|---|\n")
+                for ln, msg in short:
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n")
+
+            # Duplicate URLs (sub-channels share homepages - usually expected)
+            if dupes:
+                f.write("<details><summary>🔁 Duplicate URLs (%d) — usually expected for sub-channels</summary>\n\n" % len(dupes))
+                f.write("| Line | Issue |\n|---|---|\n")
+                for ln, msg in dupes:
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n</details>\n\n")
+
+            # Banned words
+            if banned:
+                f.write("## 🚫 Banned Words\n\n")
+                f.write("| Line | Issue |\n|---|---|\n")
+                for ln, msg in banned:
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n")
+
+            # Discouraged words (collapsed - very noisy due to 'community')
+            if disc:
+                f.write("<details><summary>⚠️ Discouraged Words (%d) — review manually</summary>\n\n" % len(disc))
+                f.write("| Line | Issue |\n|---|---|\n")
+                for ln, msg in disc:
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n</details>\n\n")
+
+            # Other warnings
+            if other_w:
+                f.write("## ⚠️ Other Warnings\n\n")
+                f.write("| Line | Issue |\n|---|---|\n")
+                for ln, msg in other_w:
+                    f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
+                f.write("\n")
+
+            # Stats (collapsed)
+            f.write("<details><summary>📊 Repository Statistics</summary>\n\n")
+            f.write("| Metric | Value |\n|---|---|\n")
+            f.write(f"| Stations | {total_stations} |\n")
+            f.write(f"| Categories | {len(repo.categories)} |\n")
+            if all_description_words:
+                avg = sum(all_description_words) / len(all_description_words)
+                med = median(all_description_words)
+                f.write(f"| Avg description | {avg:.1f} words |\n")
+                f.write(f"| Median description | {med:.1f} words |\n")
+                f.write(f"| Longest description | {max(all_description_words)} words |\n")
+                f.write(f"| Shortest description | {min(all_description_words)} words |\n")
+            f.write("\n")
+
+            # Category distribution as a table (no Unicode bars - renders badly)
+            f.write("**Category sizes:**\n\n")
+            f.write("| Category | Stations |\n|---|---|\n")
+            for cat, count in sorted(category_counts.items(), key=lambda x: -x[1]):
+                f.write(f"| {cat} | {count} |\n")
+            f.write("\n</details>\n")
 
     return 0
 
