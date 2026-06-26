@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Beatles Radio
 http://stream.zeno.fm/e4auhdgm6cquv
-#EXTINF:-1,Beyond the Beat Generation
-http://86.94.213.59:8000/;
 #EXTINF:-1,Flower Power Radio
 http://uk1.streamingpulse.com:7000/;
 #EXTINF:-1,J-Club Bandstand

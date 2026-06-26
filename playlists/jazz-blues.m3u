@@ -3,8 +3,6 @@
 http://edge4.peta.live365.net/b77280_128mp3
 #EXTINF:-1,Ábaco Libros y Café
 http://radio30.virtualtronics.com:8638/;
-#EXTINF:-1,Adroit Jazz Underground
-https://icecast.walmradio.com:8443/jazz
 #EXTINF:-1,AshiyaRadio
 https://s3.radio.co/sc8d895604/listen
 #EXTINF:-1,Concertzender - World of Jazz
@@ -47,12 +45,16 @@ http://sc1.mystreamserver.com:8052/;
 https://stream.srg-ssr.ch/m/rsj/aacp_96
 #EXTINF:-1,Shonan Beach FM
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+#EXTINF:-1,SomaFM - Sonic Universe
+https://somafm.com/sonicuniverse256.pls
 #EXTINF:-1,TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
 #EXTINF:-1,WBGO 88.3
 https://ais-sa8.cdnstream1.com/3629_128.mp3
 #EXTINF:-1,WDNA 88.9
 http://us9.streamingpulse.com:7033/stream
+#EXTINF:-1,WKCR 89.9
+https://wkcr.streamguys1.com:80/live
 #EXTINF:-1,WUCF 89.9
 http://peridot.streamguys.com:7830/WUCF
 #EXTINF:-1,WVPE - Blues3

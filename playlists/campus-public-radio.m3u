@@ -19,8 +19,6 @@ https://streams.kut.org/4428_192.mp3
 https://kvrx.org/now_playing/stream
 #EXTINF:-1,KXLU 88.9
 https://kxlu.streamguys1.com/kxlu-hi
-#EXTINF:-1,KZSC 88.1
-https://kzscfms1-geckohost.radioca.st/kzschigh
 #EXTINF:-1,KZSU Stanford 90.1
 http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
 #EXTINF:-1,Subcity Radio
@@ -37,12 +35,8 @@ https://wmse.streamguys1.com/wmselivemp3
 https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
 #EXTINF:-1,WRIR 97.3
 https://live.wrir.org/
-#EXTINF:-1,WSUM 91.7
-https://ice23.securenetsystems.net/WSUMFM
 #EXTINF:-1,WTJU 91.1
 https://streams.wtju.net/wtju-live.mp3
-#EXTINF:-1,WXTJ 100.1
-https://streams.wtju.net/wxtj-live.mp3
 #EXTINF:-1,WXYC 89.3
 https://audio-mp3.ibiblio.org/wxyc.mp3
 #EXTINF:-1,WZRD 88.3

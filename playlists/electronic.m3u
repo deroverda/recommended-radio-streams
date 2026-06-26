@@ -32,15 +32,13 @@ https://radio.plaza.one/ogg
 #EXTINF:-1,OpenLab FM
 https://ice09.fluidstream.net/openlab.aac
 #EXTINF:-1,Poolsuite FM
-https://s5.radio.co/sc9cb59935/listen?_t=1781242015700
+https://s5.radio.co/sc9cb59935/listen
 #EXTINF:-1,Radio BipTunia
 https://ecast.myautodj.com:1380/listen.mp3
 #EXTINF:-1,Radio DY10
 https://flux.radiody10.com/live
 #EXTINF:-1,Radio ItaloPower!
 https://stream.deevaradio.net:10443/italopower
-#EXTINF:-1,Radio Record - Phonk
-http://radiorecord.hostingradio.ru/phonk96.aacp
 #EXTINF:-1,Rinse UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 #EXTINF:-1,SerrebiRadio

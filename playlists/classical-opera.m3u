@@ -7,8 +7,10 @@ http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_ra
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
 #EXTINF:-1,Concertzender - Baroque
 http://streams.greenhost.nl:8080/barok
-#EXTINF:-1,CRB Classical 99.5
-https://wgbh-live.streamguys1.com/classical-hi
+#EXTINF:-1,France Musique
+http://icecast.radiofrance.fr/francemusique-hifi.aac
+#EXTINF:-1,France Musique - La Contemporaine
+http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
 #EXTINF:-1,Linn Classical
 http://radio.linn.co.uk:8004/stream
 #EXTINF:-1,MRG.fm - OperaRadio
