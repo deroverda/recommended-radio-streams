@@ -5,7 +5,7 @@
 
 <br>
 <br>
-   
+
 [![GitHub Stars](https://img.shields.io/github/stars/deroverda/recommended-radio-streams?style=flat-square&color=yellow)](https://github.com/deroverda/recommended-radio-streams/stargazers)
 [![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=deroverda&repo=recommended-radio-streams&countColor=%237B1E7A&style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
 [![Last Update](https://img.shields.io/github/last-commit/deroverda/recommended-radio-streams?style=flat-square)](https://github.com/deroverda/recommended-radio-streams)
@@ -97,13 +97,10 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [9128](https://9128.live): Ambient and drone from the *A Strangely Isolated Place* label. [Stream](https://streams.radio.co/s0aa1e6f4a/listen)
 - [Ambient.FM](https://ambient.fm/): Solar-powered ambient broadcast from the high desert of Tonopah, Nevada. [Stream](https://phoebe.streamerr.co:4140/ambient.mp3)
 - [Ambient Sleeping Pill](https://stereoscenic.com/): Beat-free stream for sleep or focus. [Stream](http://radio.stereoscenic.com/asp-h)
-- [Ambinature Radio](https://www.ambinature.xyz/): Natural soundscapes without music. [Stream](https://nature-rex.radioca.st/stream)
-- [Birdsong FM](https://www.birdsong.fm/): Live birdsong recordings from nature. [Stream](https://a1.radio.co/s5c5da6a36/listen)
 - [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
 - ⭐ [Echoes of Bluemars - Cryosleep](http://echoesofbluemars.org/cryosleep.php): Beatless drone reviving the cult Bluemars stream, 'music for the space traveler'. [Stream](http://streams.echoesofbluemars.org:8000/cryosleep)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Experimental ambient and modern classical from Daniel Crossley's Bristol label, since 2010. [Stream](http://uk4-vn.webcast-server.net:9270/;)
 - [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese ambient and field recordings, run by an Argentine band since 2005. [Stream](https://server.laradio.online:59009/live)
-- [Moon Phase Radio - Ambient](https://www.moonphaseradio.com/): Ambient, broadcasting since 2010, themed around the stillness of the moon. [Stream](https://cp12.serverse.com/proxy/moonphase/stream)
 - [myNoise - Zen Garden](https://mynoise.net/): Calm nature sounds and tones. [Stream](http://zengarden.radio.mynoise.net/)
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Copenhagen-based downtempo and lounge. [Stream](http://radio.streemlion.com:1160/stream)
 - [NTS - Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus): Drone, ambient, and ragas. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape)
@@ -116,7 +113,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ### Classical & Opera <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments. [Stream](https://mediaserv73.live-streams.nl:18058/stream)
 - ⭐ [BBC Radio 3](https://www.bbc.co.uk/radio3): Classical, jazz, and world music from the BBC. Live concerts and the Proms. [Stream](http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8)
-- [Classical California](https://www.kdfc.com/): San Francisco classical. [Stream](https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac)
 - [Concertzender - Baroque](https://www.concertzender.nl/): Dutch public broadcaster's baroque channel. [Stream](http://streams.greenhost.nl:8080/barok)
 - [France Musique](https://www.radiofrance.fr/francemusique): French public classical, jazz, and contemporary, with live concerts. [Stream](http://icecast.radiofrance.fr/francemusique-hifi.aac)
 - [France Musique - La Contemporaine](https://www.radiofrance.fr/francemusique/la-contemporaine): Modern and contemporary classical, living composers and premieres. [Stream](http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac)
@@ -139,7 +135,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [KALX 90.7](https://kalx.berkeley.edu/): Freeform radio from UC Berkeley. [Stream](https://stream.kalx.berkeley.edu:8443/kalx-320.aac)
 - ⭐ [KCRW - Eclectic24](https://www.kcrw.com/): KCRW's continuous music stream from Santa Monica - the public station's DJs, no talk breaks. [Stream](https://streams.kcrw.com/e24_mp3)
 - ⭐ [KFJC 89.7](https://kfjc.org): Experimental and obscure audio art from Los Altos Hills. [Stream](http://netcast.kfjc.org/kfjc-320k-aac)
-- [KSPC 88.7](https://kspc.org/): Claremont student-run featuring underground music and non-commercial culture. [Stream](https://kspc.radioca.st/stream)
 - [KUSF](https://www.kusf.org): Student-run freeform from USF. Internet-only since losing its FM signal in 2011. [Stream](https://listen.kusf.org/stream)
 - [KUTX 98.9](https://kutx.org): Austin public radio. Indie rock, Americana, and Texas music. [Stream](https://streams.kut.org/4428_192.mp3)
 - [KVRX 91.7](https://kvrx.org/): Student-run freeform from UT Austin. [Stream](https://kvrx.org/now_playing/stream)
@@ -150,9 +145,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [WFMU - Sheena's Jungle Room](https://wfmu.org/): Garage, surf, and rockabilly. [Stream](http://stream0.wfmu.org/sheena)
 - [WFMU 91.1](https://wfmu.org): The longest-running freeform station in the US; Jersey City since 1958. [Stream](https://wfmu.org/wfmu.pls)
 - [WMSE 91.7](https://wmse.org/): Freeform blues, rock, and indie from Milwaukee. [Stream](https://wmse.streamguys1.com/wmselivemp3)
-- [WNCW 88.7](http://wncw.org/): Folk, bluegrass, and world music. [Stream](https://wncw-live-a.edge.audiocdn.com/6286_56k.aac)
 - [WRIR 97.3](https://wrir.org): Community radio from Richmond, VA. [Stream](https://live.wrir.org/)
-- [WTJU 91.1](https://wtju.net): Classical to jazz to folk from the University of Virginia. [Stream](https://streams.wtju.net/wtju-live.mp3)
 - ⭐ [WXYC 89.3](https://wxyc.org/): Freeform radio from UNC Chapel Hill. First radio station to stream online, in 1994. [Stream](https://audio-mp3.ibiblio.org/wxyc.mp3)
 - [WZRD 88.3](https://wzrdchicago.org/): Experimental student station from Northeastern Illinois University. [Stream](https://wzrd.streamguys1.com/live)
 - [XRAY.fm](https://xray.fm/): Indie and experimental non-profit radio from Portland. [Stream](https://listen.xray.fm/stream)
@@ -160,7 +153,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 #### Global Independent & Online Communities <a id="global-indie-radio"></a>
 - [20ft Radio](https://www.20ftradio.net/): Music from a former factory in Kyiv. [Stream](https://20ft-radio.radiocult.fm/stream)
 - [313.FM](https://www.313.fm/): Detroit techno and underground electronic. [Stream](http://icecast.ofdoom.com:8000/burst.mp3)
-- [8 Ball Radio](https://8ballradio.nyc): NYC artist collective. Electronic music and talk. [Stream](https://eightball.out.airtime.pro/eightball_a)
 - [Aaja Music](https://aajamusic.com/): Electronic and DJ sets from a bar in a Deptford railway arch, London. [Channel 1](https://aaja.radiocult.fm/stream) / [Channel 2](https://aaja-2.radiocult.fm/stream)
 - [Amplitudes Radio](https://amplitudesradio.com/): DJ sets and regional culture from a Bordeaux-area collective. [Stream](https://listen.radioking.com/radio/591304/stream/654688)
 - [Bangkok Community Radio (BCR)](https://www.bangkokcommunityradio.com/): Underground electronic from a studio above a Bangkok record shop, since 2021. [Stream](https://bcr.radiocult.fm/stream)
@@ -184,7 +176,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Internet Public Radio](https://www.internetpublicradio.live/): Artist-hosted shows across electronic and experimental music. [Stream](https://stream-relay-geo.internetpublicradio.live/stream/main)
 - [KCHUNG Radio](https://www.kchungradio.org/): Artist-led collective in Chinatown Los Angeles, experimental audio. [Stream](https://kchung-radio-01e54a81.radiocult.fm/stream)
 - ⭐ [Kiosk Radio](https://kioskradio.com/): Electronic and jazz from a wooden shack in a park in Brussels. [Stream](https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b)
-- [KPISS](https://kpiss.fm/): DJ-run freeform from Brooklyn - 'The Golden Stream'. [Stream](https://das-edge14-live365-dal02.cdnstream.com/a18444)
 - [KWSX Radio](https://radio.kwsx.online/): Freeform experimental radio from London. [Stream](https://stream.kwsx.online/listen/kwsx/radio-med.mp3)
 - [The Lake Radio](https://thelakeradio.com): Copenhagen-based art radio. [Stream](http://hyades.shoutca.st:8627/stream)
 - ⭐ [Le Mellotron](https://lemellotron.com): Independent station from a Paris bar - soul, funk, hip-hop, jazz, and Brazilian beats. [Stream](https://listen.radioking.com/radio/477719/stream/534044)
@@ -212,7 +203,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio Banda Larga](https://rbl.media/): Started with a live broadcast from a terrace in Turin's Parco del Valentino, 2012. [Stream](https://rblmedia-a4a44e62.radiocult.fm/stream)
 - [Radio Buena Vida](https://buenavida.co.uk/): Community radio from a Glasgow record cafe. Music from experimental to disco to jungle. [Stream](https://s4.radio.co/s69b281ac0/listen)
 - [Radio Centraal](https://www.radiocentraal.be/): Independent and non-commercial from Antwerp since 1980. Brain and rhythm. [Stream](http://streams.movemedia.eu:8530/)
-- [Radio Free Phoenix](https://radiofreephoenix.com): Indie rock, deep tracks, and Americana from Phoenix. [Stream](http://69.162.73.34:8124/;stream.nsv)
 - [Radio Meuh](https://www.radiomeuh.com/): Electronic, soul, and funk from the French Alps. [Stream](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)
 - [Radio Nova](https://www.nova.fr/radios/radio-nova/): Global sounds, jazz, and hip-hop from France. [Stream](https://novazz.ice.infomaniak.ch/novazz-128.mp3)
 - [Radio Pinpon](https://www.facebook.com/radiopinpon/): Community radio from a psychiatric hospital in Niort, France. Run by patients and staff. [Stream](https://listen.radioking.com/radio/142627/stream/182797)
