@@ -1,45 +1,68 @@
 #EXTM3U
-#EXTINF:-1,Beatles Radio
+# Group: Decades, Oldies & Nostalgia
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Beatles Radio
+# Homepage: https://you.radio/station/exclusiveradio-beatles
 http://stream.zeno.fm/e4auhdgm6cquv
-#EXTINF:-1,Flower Power Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Flower Power Radio
+# Homepage: https://www.flowerpowerradio.com/
 http://uk1.streamingpulse.com:7000/;
-#EXTINF:-1,J-Club Bandstand
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",J-Club Bandstand
+# Homepage: https://jclubbandstand.torontocast.stream/stations/index.html
 https://cast1.torontocast.com:2060/stream
-#EXTINF:-1,LuxuriaMusic
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",LuxuriaMusic
+# Homepage: https://luxuriamusic.com
 http://ice10.securenetsystems.net/LUXOMP3
-#EXTINF:-1,Mad Music Radio - Oldies Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Mad Music Radio - Oldies Radio
+# Homepage: https://wgdr.rocks/
 http://janus.shoutca.st:8259/;
-#EXTINF:-1,Majestic Jukebox
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Majestic Jukebox
+# Homepage: https://www.majesticjukeboxradio.com
 https://uk3.internet-radio.com/proxy/majesticjukebox/live
-#EXTINF:-1,Old Time Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Old Time Radio
+# Homepage: https://oldtime.radio/
 https://kea.cdnstream.com/1893_128
-#EXTINF:-1,Psychedelicized
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Psychedelicized
+# Homepage: https://psychedelicized.com/
 https://cast1.asurahosting.com/proxy/psychedelicized/stream
-#EXTINF:-1,Pumpkin FM - 1940s
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Pumpkin FM - 1940s
+# Homepage: https://pumpkinfm.com/
 https://cast2.asurahosting.com/proxy/1940sradio/stream
-#EXTINF:-1,The Quiet Village
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",The Quiet Village
+# Homepage: https://www.digitiki.com/radio.html
 http://broadcast.shoutcheap.com:8424/stream
-#EXTINF:-1,Radio Caroline
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Radio Caroline
+# Homepage: https://radiocaroline.co.uk
 http://78.129.202.200:8040/;
-#EXTINF:-1,Radio Dismuke
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Radio Dismuke
+# Homepage: http://dismuke.org
 http://stream2.early1900s.org:8000/;
-#EXTINF:-1,The Retro Attic
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",The Retro Attic
+# Homepage: https://www.retroatticrareoldiesradio.com/
 http://103.226.246.212:8159/stream
-#EXTINF:-1,SMRN5001 - Oldies Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",SMRN5001 - Oldies Radio
+# Homepage: https://smrn5001.com/
 https://cast1.sql2.smrn.com/5001
-#EXTINF:-1,Technicolor Web of Sound
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Technicolor Web of Sound
+# Homepage: https://www.techwebsound.com/
 http://streaming.live365.com/a01650
-#EXTINF:-1,Time Capsule Show
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Time Capsule Show
+# Homepage: https://ckut.ca/timecapsule/
 http://sc3.mystreamserver.com:8060/stream
-#EXTINF:-1,Ultimate Oldies Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Ultimate Oldies Radio
+# Homepage: https://ultimateoldiesradio.com
 https://puma.streemlion.com:1785/stream
-#EXTINF:-1,Van Morrison Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Van Morrison Radio
+# Homepage: https://you.radio/station/exclusiveradio-van-morrison
 https://streaming.exclusive.radio/er/vanmorrison/icecast.audio
-#EXTINF:-1,Vintage Obscura Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Vintage Obscura Radio
+# Homepage: https://vintageobscura.net/
 https://radio.vintageobscura.net/stream
-#EXTINF:-1,WALM - Classic Vinyl
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",WALM - Classic Vinyl
+# Homepage: https://walmradio.com/classic/
 https://icecast.walmradio.com:8443/classic
-#EXTINF:-1,WALM - Old Time Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",WALM - Old Time Radio
+# Homepage: https://walmradio.com/otr
 https://icecast.walmradio.com:8443/otr
-#EXTINF:-1,Wayback Radio
+#EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Wayback Radio
+# Homepage: https://www.waybackradio.org/
 https://s5.citrus3.com:8244/stream

@@ -1,23 +1,35 @@
 #EXTM3U
-#EXTINF:-1,Mechanical Music Radio
+# Group: Experimental, Nerdy & Scanners
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Mechanical Music Radio
+# Homepage: https://mechanicalmusicradio.com
 https://global.citrus3.com:2020/stream/mechanicalmusicradio
-#EXTINF:-1,P-Node
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",P-Node
+# Homepage: https://p-node.org
 http://stream.p-node.org/dab.mp3
-#EXTINF:-1,Payphone Radio
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Payphone Radio
+# Homepage: https://www.payphone-project.com/payphone-radio/
 https://centova11.instainternet.com/proxy/marktho1?mp=/stream
-#EXTINF:-1,Pittsburgh Police, Fire, EMS
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Pittsburgh Police, Fire, EMS
+# Homepage: https://www.broadcastify.com/listen/feed/21738
 https://broadcastify.cdnstream1.com/21738
-#EXTINF:-1,Radio Brennpunkt
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Brennpunkt
+# Homepage: https://radiobrennpunkt.org/
 https://radio-brennpunkt.radiocult.fm/stream
-#EXTINF:-1,Radio is a Foreign Country
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio is a Foreign Country
+# Homepage: https://www.radioisaforeigncountry.org/
 https://s5.radio.co/s20251311a/listen
-#EXTINF:-1,Radio Paisajes
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Paisajes
+# Homepage: https://radiopaisajes.cl/
 https://stream.zeno.fm/nftv61u086etv
-#EXTINF:-1,Shirley & Spinoza
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Shirley & Spinoza
+# Homepage: https://compound-eye.org
 https://s2.radio.co/sec5fa6199/listen
-#EXTINF:-1,Spinning Seal FM
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Spinning Seal FM
+# Homepage: https://zeno.fm/radio/SpinningSeal/
 https://stream.zeno.fm/9q3ez3k3fchvv
-#EXTINF:-1,TildeRadio
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",TildeRadio
+# Homepage: https://tilderadio.org/
 https://azuracast.tilderadio.org/radio/8000/radio.mp3
-#EXTINF:-1,Wave Farm
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Wave Farm
+# Homepage: https://wavefarm.org/
 https://audio.wavefarm.org/pondstation.mp3

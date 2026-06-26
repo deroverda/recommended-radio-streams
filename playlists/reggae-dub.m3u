@@ -1,17 +1,26 @@
 #EXTM3U
-#EXTINF:-1,Alpha Boys School Radio
+# Group: Reggae & Dub
+#EXTINF:-1 group-title="Reggae & Dub",Alpha Boys School Radio
+# Homepage: https://alphaboysschoolradio.com/
 http://alphaboys-live.streamguys1.com/alphaboys.mp3
-#EXTINF:-1,Badam Radio
+#EXTINF:-1 group-title="Reggae & Dub",Badam Radio
+# Homepage: https://badam-radio.radioweb.co/
 https://listen.radioking.com/radio/105610/stream/144949
-#EXTINF:-1,Dr. Dick's Dub Shack
+#EXTINF:-1 group-title="Reggae & Dub",Dr. Dick's Dub Shack
+# Homepage: https://drdicksdubshack.com/
 https://streamer.radio.co/s0635c8b0d/listen
-#EXTINF:-1,FIP Reggae
+#EXTINF:-1 group-title="Reggae & Dub",FIP Reggae
+# Homepage: https://www.radiofrance.fr/fip/radio-reggae
 http://icecast.radiofrance.fr/fipreggae-hifi.aac
-#EXTINF:-1,Irie FM
+#EXTINF:-1 group-title="Reggae & Dub",Irie FM
+# Homepage: https://iriefm.net/
 https://usa19.fastcast4u.com:7430/;
-#EXTINF:-1,Jamaica Dancehall Radio
+#EXTINF:-1 group-title="Reggae & Dub",Jamaica Dancehall Radio
+# Homepage: https://jamaicadancehallradio.com/
 https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3
-#EXTINF:-1,King Dub Radio
+#EXTINF:-1 group-title="Reggae & Dub",King Dub Radio
+# Homepage: http://www.kingdubfamily.com/
 http://london-dedicated.myautodj.com:8862/stream
-#EXTINF:-1,UK Roots FM
+#EXTINF:-1 group-title="Reggae & Dub",UK Roots FM
+# Homepage: https://ukrootsfm.net/
 http://138.201.198.218:8043/;

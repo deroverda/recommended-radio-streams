@@ -1,25 +1,38 @@
 #EXTM3U
-#EXTINF:-1,Ancient FM
+# Group: Classical & Opera
+#EXTINF:-1 group-title="Classical & Opera",Ancient FM
+# Homepage: https://ancientfm.com/
 https://mediaserv73.live-streams.nl:18058/stream
-#EXTINF:-1,BBC Radio 3
+#EXTINF:-1 group-title="Classical & Opera",BBC Radio 3
+# Homepage: https://www.bbc.co.uk/radio3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
-#EXTINF:-1,Classical California
+#EXTINF:-1 group-title="Classical & Opera",Classical California
+# Homepage: https://www.kdfc.com/
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
-#EXTINF:-1,Concertzender - Baroque
+#EXTINF:-1 group-title="Classical & Opera",Concertzender - Baroque
+# Homepage: https://www.concertzender.nl/
 http://streams.greenhost.nl:8080/barok
-#EXTINF:-1,France Musique
+#EXTINF:-1 group-title="Classical & Opera",France Musique
+# Homepage: https://www.radiofrance.fr/francemusique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
-#EXTINF:-1,France Musique - La Contemporaine
+#EXTINF:-1 group-title="Classical & Opera",France Musique - La Contemporaine
+# Homepage: https://www.radiofrance.fr/francemusique/la-contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
-#EXTINF:-1,Linn Classical
+#EXTINF:-1 group-title="Classical & Opera",Linn Classical
+# Homepage: https://www.linn.co.uk/linn-radio
 http://radio.linn.co.uk:8004/stream
-#EXTINF:-1,MRG.fm - OperaRadio
+#EXTINF:-1 group-title="Classical & Opera",MRG.fm - OperaRadio
+# Homepage: https://www.w.mrg.fm/
 http://listen.mrg.fm:8110/;
-#EXTINF:-1,Radio Suisse Classique
+#EXTINF:-1 group-title="Classical & Opera",Radio Suisse Classique
+# Homepage: https://www.radioswissclassic.ch/en
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-#EXTINF:-1,WFMT - Classical
+#EXTINF:-1 group-title="Classical & Opera",WFMT - Classical
+# Homepage: https://www.wfmt.com/
 https://wfmt.streamguys1.com/main-source
-#EXTINF:-1,WQXR 105.9
+#EXTINF:-1 group-title="Classical & Opera",WQXR 105.9
+# Homepage: https://www.wqxr.org/
 http://stream.wqxr.org/wqxr
-#EXTINF:-1,WQXR Q2
+#EXTINF:-1 group-title="Classical & Opera",WQXR Q2
+# Homepage: https://www.wqxr.org/series/q2
 http://q2stream.wqxr.org/q2

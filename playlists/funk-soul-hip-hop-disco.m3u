@@ -1,43 +1,65 @@
 #EXTM3U
-#EXTINF:-1,Comala Radio
+# Group: Funk, Soul, Hip-Hop & Disco
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Comala Radio
+# Homepage: https://www.comalaradio.com/
 https://listen.radioking.com/radio/38120/stream/74519
-#EXTINF:-1,Funky Ass Tunes
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Funky Ass Tunes
+# Homepage: https://www.funkyasstunes.com/
 https://ams1.reliastream.com/proxy/john12/stream
-#EXTINF:-1,The Funky Channel
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",The Funky Channel
+# Homepage: https://thefunkychannel.com/
 http://cast3.my-control-panel.com:8170/stream
-#EXTINF:-1,Funky Radio
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Funky Radio
+# Homepage: https://funky.radio/
 https://funkyradio.streamingmedia.it/play.mp3
-#EXTINF:-1,Groove Cabane
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Groove Cabane
+# Homepage: https://www.groovecabane.com/
 https://listen.radioking.com/radio/314264/stream/361499
-#EXTINF:-1,International Rare Groove
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",International Rare Groove
+# Homepage: https://www.irgradio.net/
 https://s131.radiolize.com/radio/8110/radio.mp3
-#EXTINF:-1,La Patate Douce
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",La Patate Douce
+# Homepage: https://www.lapatatedouceradio.com/
 https://listen.radioking.com/radio/285742/stream/472984
-#EXTINF:-1,Le Bon Mix
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Le Bon Mix
+# Homepage: https://www.lebonmix.radio/en/
 https://stream10.xdevel.com/audio13s976748-2017/stream/icecast.audio
-#EXTINF:-1,Mad Radio - Bogotá
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Mad Radio - Bogotá
+# Homepage: https://madradio.co/
 https://c25.radioboss.fm/stream/171
-#EXTINF:-1,Mojo Radio
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Mojo Radio
+# Homepage: https://www.mojo.de/mojo-radio/
 https://stream.laut.fm/mojo
-#EXTINF:-1,MRG.fm - Planet Hip Hop
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",MRG.fm - Planet Hip Hop
+# Homepage: https://www.w.mrg.fm/
 http://listen.mrg.fm:8100/stream
-#EXTINF:-1,NTS - Low Key
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",NTS - Low Key
+# Homepage: https://www.nts.live/infinite-mixtapes/100-percent-hip-hop
 https://stream-mixtape-geo.ntslive.net/mixtape2
-#EXTINF:-1,Nuance Radio
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Nuance Radio
+# Homepage: https://nuance.radio/
 http://admin.nuance.radio/hls/nuance_radio/aac_hifi.m3u8
-#EXTINF:-1,Radio Bar Sardine
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Radio Bar Sardine
+# Homepage: https://radiobarsardine.wixsite.com/radio-bar-sardine
 https://listen.radioking.com/radio/552908/stream/612230
-#EXTINF:-1,Radio Krimi
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Radio Krimi
+# Homepage: http://radiokrimi.com
 https://radio13.pro-fhi.net/flux-nwsimjda2/stream
-#EXTINF:-1,Radio Nova - Hip-Hop
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Radio Nova - Hip-Hop
+# Homepage: https://www.nova.fr/radios/
 https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac
-#EXTINF:-1,Radio Nula - Classic
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Radio Nula - Classic
+# Homepage: https://radionula.com
 https://strm.radionula.com/channel4
-#EXTINF:-1,Retro Soul Radio UK
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Retro Soul Radio UK
+# Homepage: https://www.retrosoulradio.co.uk
 https://streaming.galaxywebsolutions.com/stream/retrosoul
-#EXTINF:-1,Totally Wired Radio
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Totally Wired Radio
+# Homepage: https://totallywiredradio.com
 https://totallywired.out.airtime.pro/totallywired_a
-#EXTINF:-1,WEFUNK
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",WEFUNK
+# Homepage: https://wefunkradio.com/
 http://www.wefunkradio.com/play/radio.pls
-#EXTINF:-1,WWOZ 90.7
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",WWOZ 90.7
+# Homepage: https://www.wwoz.org/
 https://www.wwoz.org/listen/hi

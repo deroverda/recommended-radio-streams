@@ -1,43 +1,65 @@
 #EXTM3U
-#EXTINF:-1,Ace Cafe Radio
+# Group: Rock, Indie, Alternative, Country & Folk
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Ace Cafe Radio
+# Homepage: https://acecafe.com/ace-cafe-radio/
 https://listen.radioking.com/radio/69079/stream/106852
-#EXTINF:-1,BAGeL Radio
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",BAGeL Radio
+# Homepage: https://www.bagelradio.com/
 http://ais-sa3.cdnstream1.com/2606_128.aac
-#EXTINF:-1,BBC Radio 6 Music
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",BBC Radio 6 Music
+# Homepage: https://www.bbc.co.uk/sounds/play/live/bbc_6music
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-#EXTINF:-1,Birch Street Radio
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Birch Street Radio
+# Homepage: https://birchstreetradio.com/
 https://streaming.live365.com/a97155
-#EXTINF:-1,Boogaloo Radio
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Boogaloo Radio
+# Homepage: https://www.boogalooradio.com/
 https://streams.radio.co/sb88c742f0/listen
-#EXTINF:-1,The Current
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",The Current
+# Homepage: https://thecurrent.org
 https://current.stream.publicradio.org/current.mp3
-#EXTINF:-1,DARE FM
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",DARE FM
+# Homepage: http://wdarefm.com/
 http://hydra.cdnstream.com/1552_128
-#EXTINF:-1,Delicious Agony
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Delicious Agony
+# Homepage: http://www.deliciousagony.com/
 http://deliciousagony.streamguys1.com/
-#EXTINF:-1,Folk Alley
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Folk Alley
+# Homepage: https://folkalley.com/
 https://freshgrass.streamguys1.com/folkalley-128mp3
-#EXTINF:-1,Grateful Dead Radio
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Grateful Dead Radio
+# Homepage: https://www.gdradio.net/
 http://cassini.shoutca.st:8574/stream
-#EXTINF:-1,Ignore Radio Shoegaze
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Ignore Radio Shoegaze
+# Homepage: https://ignoreradio.com/
 https://sp1.autopo.st/8026/stream
-#EXTINF:-1,ISKC Radio Group - Only Live
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",ISKC Radio Group - Only Live
+# Homepage: https://iskcrocks.com/
 https://mediaserv68.live-streams.nl:18012/OnlyLive
-#EXTINF:-1,KEXP 90.3
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",KEXP 90.3
+# Homepage: https://www.kexp.org/listen/
 https://kexp.streamguys1.com/kexp160.aac
-#EXTINF:-1,Live Jam Radio
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Live Jam Radio
+# Homepage: https://livejamradio.com/
 https://stations.radio-host.com/proxy/livejam/stream
-#EXTINF:-1,Morow
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Morow
+# Homepage: https://www.morow.com/
 https://www.morow.com/morow.pls
-#EXTINF:-1,Nugs Radio
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Nugs Radio
+# Homepage: https://www.nugs.net/
 https://radio.nugs.net/nugsnet
-#EXTINF:-1,Planet Pootwaddle
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Planet Pootwaddle
+# Homepage: https://planetpootwaddle.com/
 http://peridot.streamguys.com:7520/sgplayer-mp3
-#EXTINF:-1,Radio Paradise
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Radio Paradise
+# Homepage: https://radioparadise.com/
 http://stream-dc1.radioparadise.com/rp_192m.ogg
-#EXTINF:-1,Radio Woodstock
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Radio Woodstock
+# Homepage: https://radiowoodstock.com/
 https://stream.revma.ihrhls.com/zc7332
-#EXTINF:-1,The SoCal Sound
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",The SoCal Sound
+# Homepage: http://thesocalsound.org/
 https://stream.thesocalsound.org/1
-#EXTINF:-1,Yacht Rock Miami
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Yacht Rock Miami
+# Homepage: https://yachtrockmiami.com/
 https://usa20.fastcast4u.com:4100/1753014835
