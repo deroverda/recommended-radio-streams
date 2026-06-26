@@ -6,9 +6,6 @@ https://20ft-radio.radiocult.fm/stream
 #EXTINF:-1 group-title="Global Independent & Online Communities",313.FM
 # Homepage: https://www.313.fm/
 http://icecast.ofdoom.com:8000/burst.mp3
-#EXTINF:-1 group-title="Global Independent & Online Communities",8 Ball Radio
-# Homepage: https://8ballradio.nyc
-https://eightball.out.airtime.pro/eightball_a
 #EXTINF:-1 group-title="Global Independent & Online Communities",Aaja Music - Channel 1
 # Homepage: https://aajamusic.com/
 https://aaja.radiocult.fm/stream
@@ -81,9 +78,6 @@ https://kchung-radio-01e54a81.radiocult.fm/stream
 #EXTINF:-1 group-title="Global Independent & Online Communities",Kiosk Radio
 # Homepage: https://kioskradio.com/
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
-#EXTINF:-1 group-title="Global Independent & Online Communities",KPISS
-# Homepage: https://kpiss.fm/
-https://das-edge14-live365-dal02.cdnstream.com/a18444
 #EXTINF:-1 group-title="Global Independent & Online Communities",KWSX Radio
 # Homepage: https://radio.kwsx.online/
 https://stream.kwsx.online/listen/kwsx/radio-med.mp3
@@ -162,9 +156,6 @@ https://s4.radio.co/s69b281ac0/listen
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Centraal
 # Homepage: https://www.radiocentraal.be/
 http://streams.movemedia.eu:8530/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Free Phoenix
-# Homepage: https://radiofreephoenix.com
-http://69.162.73.34:8124/;stream.nsv
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Meuh
 # Homepage: https://www.radiomeuh.com/
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3

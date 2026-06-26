@@ -15,9 +15,6 @@ https://streams.kcrw.com/e24_mp3
 #EXTINF:-1 group-title="Campus & Public Radio",KFJC 89.7
 # Homepage: https://kfjc.org
 http://netcast.kfjc.org/kfjc-320k-aac
-#EXTINF:-1 group-title="Campus & Public Radio",KSPC 88.7
-# Homepage: https://kspc.org/
-https://kspc.radioca.st/stream
 #EXTINF:-1 group-title="Campus & Public Radio",KUSF
 # Homepage: https://www.kusf.org
 https://listen.kusf.org/stream
@@ -48,15 +45,9 @@ https://wfmu.org/wfmu.pls
 #EXTINF:-1 group-title="Campus & Public Radio",WMSE 91.7
 # Homepage: https://wmse.org/
 https://wmse.streamguys1.com/wmselivemp3
-#EXTINF:-1 group-title="Campus & Public Radio",WNCW 88.7
-# Homepage: http://wncw.org/
-https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
 #EXTINF:-1 group-title="Campus & Public Radio",WRIR 97.3
 # Homepage: https://wrir.org
 https://live.wrir.org/
-#EXTINF:-1 group-title="Campus & Public Radio",WTJU 91.1
-# Homepage: https://wtju.net
-https://streams.wtju.net/wtju-live.mp3
 #EXTINF:-1 group-title="Campus & Public Radio",WXYC 89.3
 # Homepage: https://wxyc.org/
 https://audio-mp3.ibiblio.org/wxyc.mp3

@@ -6,9 +6,6 @@ https://mediaserv73.live-streams.nl:18058/stream
 #EXTINF:-1 group-title="Classical & Opera",BBC Radio 3
 # Homepage: https://www.bbc.co.uk/radio3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
-#EXTINF:-1 group-title="Classical & Opera",Classical California
-# Homepage: https://www.kdfc.com/
-https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
 #EXTINF:-1 group-title="Classical & Opera",Concertzender - Baroque
 # Homepage: https://www.concertzender.nl/
 http://streams.greenhost.nl:8080/barok
