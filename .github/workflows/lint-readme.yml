@@ -7,11 +7,13 @@ on:
       - "README.md"
       - ".github/workflows/lint-readme.yml"
       - ".github/scripts/lint_readme.py"
+      - ".github/scripts/readme_to_m3u.py"
   pull_request:
     paths:
       - "README.md"
       - ".github/workflows/lint-readme.yml"
       - ".github/scripts/lint_readme.py"
+      - ".github/scripts/readme_to_m3u.py"
   workflow_dispatch:
 
 permissions:
@@ -44,5 +46,19 @@ jobs:
         with:
           name: readme-lint-report
           path: readme-lint-report.txt
+          if-no-files-found: warn
+          retention-days: 14
+
+      - name: Generate M3U playlists
+        shell: bash
+        run: |
+          python3 .github/scripts/readme_to_m3u.py README.md playlists/
+
+      - name: Upload playlists
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: m3u-playlists
+          path: playlists/
           if-no-files-found: warn
           retention-days: 14
