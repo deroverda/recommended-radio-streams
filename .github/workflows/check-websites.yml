@@ -1,0 +1,79 @@
+name: Check Websites
+
+on:
+  push:
+    branches: ["main"]
+    paths:
+      - "README.md"
+      - ".github/workflows/check-websites.yml"
+  pull_request:
+    paths:
+      - "README.md"
+      - ".github/workflows/check-websites.yml"
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: check-websites-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lychee:
+    name: Link Checker (websites only)
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Exclude stream URLs from Lychee
+        shell: bash
+        run: |
+          set -euo pipefail
+          grep -oE '\[(Stream|Channel [12]|[12])\]\(https?://[^)]+\)' README.md \
+            | sed -E 's/.*\((https?:\/\/[^)]+)\)/\1/' \
+            | sed -E 's/[][\\\\.^$?*+(){}|]/\\&/g' \
+            | sort -u > .lycheeignore
+          echo "Excluded $(wc -l < .lycheeignore) stream URLs."
+
+      - name: Run Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          fail: false
+          failIfEmpty: true
+          format: markdown
+          output: lychee/lychee-report.md
+          jobSummary: true
+          args: |
+            --verbose
+            --no-progress
+            --max-retries 3
+            --max-concurrency 6
+            --host-concurrency 2
+            --host-request-interval 1s
+            --timeout 30
+            --retry-wait-time 15
+            --user-agent "Mozilla/5.0"
+            --header "Accept: */*"
+            --accept "100..=103,200..=299,401,403,406,415,429"
+            --exclude "localhost"
+            --exclude "127.0.0.1"
+            README.md
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      - name: Upload Lychee report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lychee-report
+          path: lychee/lychee-report.md
+          if-no-files-found: warn
+          retention-days: 14
