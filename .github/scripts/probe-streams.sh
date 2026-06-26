@@ -1,7 +1,8 @@
 #!/usr/bin/env bash
-# probe-streams.sh - v3.1
+# probe-streams.sh - v3.2
 # Probes every stream URL in README.md with detailed categories, silence warnings,
-# exponential retries, playlist expansion, and caching. Produces a structured report.
+# exponential retries, and playlist expansion. Produces a structured report.
+# Runs sequentially to avoid subshell/export issues in CI environments.
 #
 # All configurable parameters are centralised below.
 
@@ -13,7 +14,6 @@ set -Eeuo pipefail
 UA="${UA:-Mozilla/5.0}"
 README_FILE="${README_FILE:-README.md}"
 REPORT="${REPORT:-stream-report.md}"
-JOBS="${JOBS:-8}"
 DECODE_SECONDS="${DECODE_SECONDS:-8}"
 PROBE_TIMEOUT="${PROBE_TIMEOUT:-45}"
 PLAYLIST_TIMEOUT="${PLAYLIST_TIMEOUT:-15}"
@@ -21,7 +21,6 @@ MAX_RETRIES="${MAX_RETRIES:-3}"
 RETRY_BASE_DELAY="${RETRY_BASE_DELAY:-2}"
 SILENCE_THRESHOLD="${SILENCE_THRESHOLD:-0.05}"
 SILENCE_DURATION="${SILENCE_DURATION:-0.5}"
-SILENCE_RATIO_WARN="${SILENCE_RATIO_WARN:-0.95}"
 MAX_PLAYLIST_DEPTH="${MAX_PLAYLIST_DEPTH:-3}"
 
 if ! command -v ffmpeg >/dev/null 2>&1; then
@@ -76,8 +75,6 @@ probe_with_retry() {
   local delay="$RETRY_BASE_DELAY"
   local err=""
   local status=0
-  local klass=""
-  local detail=""
 
   while [ $attempt -le "$MAX_RETRIES" ]; do
     set +e
@@ -117,14 +114,13 @@ probe_with_retry() {
       set -e
       silent_frames=$(echo "$silence_err" | grep -c "silence_start" || echo 0)
       RESULT_SILENT="false"
-      if [ "$silent_frames" -gt 0 ]; then
-        RESULT_SILENT="true"
-      fi
+      [ "$silent_frames" -gt 0 ] && RESULT_SILENT="true"
       RESULT_CLASS="OK"
       RESULT_DETAIL=""
       return 0
     fi
 
+    local klass detail
     klass=$(classify_error "$err" "$status")
     detail=$(sanitize_text "$err")
     [ -z "$detail" ] && detail="exit status $status"
@@ -133,8 +129,9 @@ probe_with_retry() {
     [ $attempt -le "$MAX_RETRIES" ] && sleep "$delay" && delay=$((delay * 2))
   done
 
-  RESULT_CLASS="$klass"
-  RESULT_DETAIL="$detail"
+  RESULT_CLASS=$(classify_error "$err" "$status")
+  RESULT_DETAIL=$(sanitize_text "$err")
+  [ -z "$RESULT_DETAIL" ] && RESULT_DETAIL="exit status $status"
   return 1
 }
 
@@ -152,10 +149,12 @@ fetch_inner_urls() {
   local max_depth="$3"
   [ "$depth" -gt "$max_depth" ] && return 0
   local content
-  content=$(curl -fsSL --max-time "$PLAYLIST_TIMEOUT" --retry 2 --retry-delay 2 -A "$UA" "$url" 2>/dev/null | head -c 65536 || true)
+  content=$(curl -fsSL --max-time "$PLAYLIST_TIMEOUT" --retry 2 --retry-delay 2 \
+    -A "$UA" "$url" 2>/dev/null | head -c 65536 || true)
   [ -z "$content" ] && return 0
+  local inner_urls
   # M3U
-  inner_urls=$(echo "$content" | grep -oE '^(https?://[^[:space:]]+|file://[^[:space:]]+)' || true)
+  inner_urls=$(echo "$content" | grep -oE '^(https?://[^[:space:]]+)' || true)
   [ -n "$inner_urls" ] && echo "$inner_urls" && return 0
   # PLS
   inner_urls=$(echo "$content" | grep -i '^File[0-9]*=' | sed -E 's/^File[0-9]*=//' | head -10 || true)
@@ -171,58 +170,42 @@ fetch_inner_urls() {
   echo "$inner_urls"
 }
 
-declare -A CACHE
-
 probe_url() {
   local url="$1"
   local depth="${2:-1}"
   local max_depth="${3:-$MAX_PLAYLIST_DEPTH}"
 
-  if [ -n "${CACHE[$url]:-}" ]; then
-    IFS=$'\t' read -r RESULT_CLASS RESULT_DETAIL RESULT_SILENT <<< "${CACHE[$url]}"
-    return 0
-  fi
-
   RESULT_SILENT="false"
+  RESULT_CLASS="UNKNOWN"
+  RESULT_DETAIL=""
 
   if is_playlist_url "$url" && [ "$depth" -le "$max_depth" ]; then
+    local inner_urls=()
     mapfile -t inner_urls < <(fetch_inner_urls "$url" "$depth" "$max_depth")
     if [ ${#inner_urls[@]} -eq 0 ]; then
       RESULT_CLASS="EMPTY_PLAYLIST"
       RESULT_DETAIL="playlist contained no inner URLs"
-      CACHE[$url]="$RESULT_CLASS\t$RESULT_DETAIL\t$RESULT_SILENT"
       return 1
     fi
     for inner in "${inner_urls[@]}"; do
+      set +e
       probe_url "$inner" $((depth+1)) "$max_depth"
-      if [ "$RESULT_CLASS" = "OK" ]; then
-        CACHE[$url]="$RESULT_CLASS\t$RESULT_DETAIL\t$RESULT_SILENT"
-        return 0
-      fi
+      set -e
+      [ "$RESULT_CLASS" = "OK" ] && return 0
     done
-    CACHE[$url]="$RESULT_CLASS\t$RESULT_DETAIL\t$RESULT_SILENT"
     return 1
   fi
 
-  if probe_with_retry "$url"; then
-    CACHE[$url]="$RESULT_CLASS\t$RESULT_DETAIL\t$RESULT_SILENT"
-    return 0
-  else
-    CACHE[$url]="$RESULT_CLASS\t$RESULT_DETAIL\t$RESULT_SILENT"
-    return 1
-  fi
+  set +e
+  probe_with_retry "$url"
+  local ret=$?
+  set -e
+  return $ret
 }
-
-# Guard so sourcing this script in subshells does not re-run main logic
-if [ "${PROBE_STREAMS_SOURCED:-}" = "1" ]; then
-  return 0 2>/dev/null || true
-fi
 
 # ----------------------------------------------------------------------------
 # Main
 # ----------------------------------------------------------------------------
-SCRIPT_PATH="$(realpath "$0")"
-
 mapfile -t urls < <(extract_stream_urls)
 checked="${#urls[@]}"
 manual=0
@@ -233,18 +216,16 @@ blocked_rows=""
 tmp_results="$(mktemp)"
 trap 'rm -f "$tmp_results"' EXIT
 
-export UA DECODE_SECONDS PROBE_TIMEOUT PLAYLIST_TIMEOUT MAX_RETRIES RETRY_BASE_DELAY \
-       SILENCE_THRESHOLD SILENCE_DURATION MAX_PLAYLIST_DEPTH PROBE_STREAMS_SOURCED=1
+echo "Probing $checked streams sequentially..."
 
-if [ "$checked" -gt 0 ]; then
-  printf '%s\0' "${urls[@]}" \
-    | xargs -0 -n1 -P "$JOBS" bash -c '
-        source "$2"
-        probe_url "$1" 1 3
-        printf "%s\t%s\t%s\t%s\n" "$RESULT_CLASS" "$1" "$RESULT_DETAIL" "$RESULT_SILENT"
-      ' _ {} "$SCRIPT_PATH" \
-    > "$tmp_results" || true
-fi
+for url in "${urls[@]}"; do
+  set +e
+  probe_url "$url" 1 3
+  set -e
+  printf "%s\t%s\t%s\t%s\n" "$RESULT_CLASS" "$url" "$RESULT_DETAIL" "$RESULT_SILENT" \
+    >> "$tmp_results"
+  echo "  [$RESULT_CLASS] $url"
+done
 
 declare -A category_counts
 total_ok=0
@@ -257,16 +238,14 @@ while IFS=$'\t' read -r result url detail silent; do
       total_ok=$((total_ok + 1))
       [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
       ;;
-    DNS_FAILURE|SSL_FAILURE|TIMEOUT|AUTH_REQUIRED|FORBIDDEN|RATE_LIMITED|CONNECTION_RESET|UNSUPPORTED_CODEC|EMPTY_PLAYLIST|PLAYLIST_PARSE_ERROR|REDIRECT_LOOP|NOT_FOUND|UNKNOWN)
-      if [[ "$result" =~ ^(TIMEOUT|RATE_LIMITED|AUTH_REQUIRED|FORBIDDEN|CONNECTION_RESET)$ ]]; then
-        blocked_rows+="| <$url> | $result | ${detail:-} |"$'\n'
-        blocked=$((blocked + 1))
-      else
-        manual_rows+="| <$url> | $result | ${detail:-} |"$'\n'
-        manual=$((manual + 1))
-      fi
+    TIMEOUT|RATE_LIMITED|AUTH_REQUIRED|FORBIDDEN|CONNECTION_RESET)
+      blocked_rows+="| <$url> | $result | ${detail:-} |"$'\n'
+      blocked=$((blocked + 1))
       ;;
-    *) manual_rows+="| <$url> | UNKNOWN | ${detail:-} |"$'\n'; manual=$((manual + 1)) ;;
+    *)
+      manual_rows+="| <$url> | $result | ${detail:-} |"$'\n'
+      manual=$((manual + 1))
+      ;;
   esac
 done < "$tmp_results"
 
@@ -284,7 +263,7 @@ done < "$tmp_results"
   echo "| Needs manual check | $manual |"
   echo "| Blocked (false positive) | $blocked |"
   echo ""
-  echo "Error breakdown:"
+  echo "## Error breakdown"
   echo "| Category | Count |"
   echo "|---|---|"
   for cat in "${!category_counts[@]}"; do
