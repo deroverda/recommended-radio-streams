@@ -15,6 +15,9 @@ https://streams.kcrw.com/e24_mp3
 # Homepage: https://kfjc.org
 #EXTINF:-1 group-title="Campus & Public Radio",KFJC 89.7
 http://netcast.kfjc.org/kfjc-320k-aac
+# Homepage: https://kspc.org/
+#EXTINF:-1 group-title="Campus & Public Radio",KSPC 88.7
+https://kspc.radioca.st/stream
 # Homepage: https://www.kusf.org
 #EXTINF:-1 group-title="Campus & Public Radio",KUSF
 https://listen.kusf.org/stream
@@ -30,6 +33,21 @@ https://kxlu.streamguys1.com/kxlu-hi
 # Homepage: https://kzsu.stanford.edu
 #EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
 http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
+# Homepage: https://kzsc.org
+#EXTINF:-1 group-title="Campus & Public Radio",KZSC 88.1
+https://kzscfms1-geckohost.radioca.st/kzschigh
+# Homepage: http://wncw.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WNCW 88.7
+https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
+# Homepage: https://wsum.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WSUM 91.7
+https://ice23.securenetsystems.net/WSUMFM
+# Homepage: https://wtju.net
+#EXTINF:-1 group-title="Campus & Public Radio",WTJU 91.1
+https://streams.wtju.net/wtju-live.mp3
+# Homepage: https://www.wxtj.fm/
+#EXTINF:-1 group-title="Campus & Public Radio",WXTJ 100.1
+https://streams.wtju.net/wxtj-live.mp3
 # Homepage: https://subcity.org/
 #EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
 https://stream.subcity.org/listen

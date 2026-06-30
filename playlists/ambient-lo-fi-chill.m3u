@@ -3,12 +3,27 @@
 # Homepage: https://9128.live
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",9128
 https://streams.radio.co/s0aa1e6f4a/listen
+# Homepage: https://amambient.com/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",a.m. Ambient
+http://radio.stereoscenic.com/ama-h
 # Homepage: https://ambient.fm/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambient.FM
 https://phoebe.streamerr.co:4140/ambient.mp3
 # Homepage: https://stereoscenic.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
+# Homepage: https://www.ambinature.xyz/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambinature Radio
+https://nature-rex.radioca.st/stream
+# Homepage: https://www.birdsong.fm/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Birdsong FM
+https://a1.radio.co/s5c5da6a36/listen
+# Homepage: https://www.freecodecamp.org/news/code-radio/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",CodeRadio
+https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3
+# Homepage: https://dinamo.fm/content/4/channels
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Dinamo.FM - Sleep
+http://channels.dinamo.fm/sleep-mp3
 # Homepage: https://somafm.com/listen/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",SomaFM - Drone Zone
 https://somafm.com/dronezone256.pls
@@ -21,6 +36,12 @@ http://uk4-vn.webcast-server.net:9270/;
 # Homepage: https://www.thekyotoconnection.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",The Kyoto Connection
 https://server.laradio.online:59009/live
+# Homepage: https://www.moonphaseradio.com/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Moon Phase Radio - Ambient
+https://cp12.serverse.com/proxy/moonphase/stream
+# Homepage: https://moss.garden
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Moss Garden
+https://radio.moss.garden/listen/moss_garden/radio.mp3
 # Homepage: https://mynoise.net/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",myNoise - Zen Garden
 http://zengarden.radio.mynoise.net/

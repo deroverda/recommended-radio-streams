@@ -24,6 +24,9 @@ https://dogglounge.com/listen.pls
 # Homepage: https://dub.ninja/
 #EXTINF:-1 group-title="Electronic",Dub Ninja
 https://dub.ninja/live
+# Homepage: https://www.eurodance-radio.com/
+#EXTINF:-1 group-title="Electronic",Eurodance Radio
+http://daydeeeurodance.stream.laut.fm/daydeeeurodance
 # Homepage: https://intergalactic.fm/
 #EXTINF:-1 group-title="Electronic",Intergalactic FM - Cybernetic Broadcasting System
 http://radio.intergalactic.fm:80/1

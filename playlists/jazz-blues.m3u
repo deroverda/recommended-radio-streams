@@ -48,6 +48,9 @@ https://knkx-live-a.edge.audiocdn.com/6285_256k
 # Homepage: https://kcsm.org/
 #EXTINF:-1 group-title="Jazz & Blues",KCSM Jazz 91.1
 http://ice7.securenetsystems.net/KCSM2
+# Homepage: https://www.ewu.edu/kewu/
+#EXTINF:-1 group-title="Jazz & Blues",KEWU 89.5
+https://streamer.radio.co/s3ba633066/listen
 # Homepage: https://kkjz.org/
 #EXTINF:-1 group-title="Jazz & Blues",KJazz 88.1
 https://streaming.live365.com/a49833

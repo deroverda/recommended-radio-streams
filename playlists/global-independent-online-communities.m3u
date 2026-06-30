@@ -1,5 +1,11 @@
 #EXTM3U
 # Group: Global Independent & Online Communities
+# Homepage: https://8ballradio.nyc
+#EXTINF:-1 group-title="Global Independent & Online Communities",8 Ball Radio
+https://eightball.out.airtime.pro/eightball_a
+# Homepage: https://8radio.com/
+#EXTINF:-1 group-title="Global Independent & Online Communities",8Radio.com
+https://edge4.audioxi.com/8RADIO
 # Homepage: https://www.20ftradio.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",20ft Radio
 https://20ft-radio.radiocult.fm/stream
@@ -66,6 +72,9 @@ http://icecast.radiofrance.fr/fip-hifi.aac
 # Homepage: https://fritto.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fritto FM
 https://frittofm2020.out.airtime.pro/frittofm2020_a
+# Homepage: https://hkcr.live/
+#EXTINF:-1 group-title="Global Independent & Online Communities",HKCR
+https://stream-test.hkcr.live/hls/main.m3u8
 # Homepage: https://www.hollowearthradio.org/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Hollow Earth Radio
 http://centova.rockhost.com:8001/stream
@@ -78,9 +87,15 @@ https://kchung-radio-01e54a81.radiocult.fm/stream
 # Homepage: https://kioskradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Kiosk Radio
 https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b
+# Homepage: https://kpiss.fm/
+#EXTINF:-1 group-title="Global Independent & Online Communities",KPISS
+https://das-edge14-live365-dal02.cdnstream.com/a18444
 # Homepage: https://radio.kwsx.online/
 #EXTINF:-1 group-title="Global Independent & Online Communities",KWSX Radio
 https://stream.kwsx.online/listen/kwsx/radio-med.mp3
+# Homepage: https://loose.fm/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Loose FM
+https://loosefm.radiocult.fm/stream
 # Homepage: https://thelakeradio.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",The Lake Radio
 http://hyades.shoutca.st:8627/stream
@@ -99,9 +114,6 @@ https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a
 # Homepage: https://lyl.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",LYL Radio
 https://icecast.lyl.live/live
-# Homepage: https://www.melodicdistraction.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Melodic Distraction
-https://streamer.radio.co/s5e1f4b6b9/listen
 # Homepage: https://radio.montezpress.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Montez Press Radio
 https://stream.montezpress.com/icecast/music
@@ -177,6 +189,9 @@ https://radioraheem.out.airtime.pro/radioraheem_b
 # Homepage: https://radiorelativa.eu/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
+# Homepage: https://radioreverb.com
+#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Reverb 97.2
+http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3
 # Homepage: https://samsam.world/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Sam Sam
 https://listen.radioking.com/radio/742276/stream/808768

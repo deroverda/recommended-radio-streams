@@ -39,6 +39,9 @@ https://mediaserv68.live-streams.nl:18012/OnlyLive
 # Homepage: https://www.kexp.org/listen/
 #EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",KEXP 90.3
 https://kexp.streamguys1.com/kexp160.aac
+# Homepage: https://laut.fm/alive
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",laut.fm - Alive
+https://stream.laut.fm/alive
 # Homepage: https://livejamradio.com/
 #EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Live Jam Radio
 https://stations.radio-host.com/proxy/livejam/stream
