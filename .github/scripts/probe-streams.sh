@@ -101,20 +101,26 @@ ENTRY_RE = re.compile(
     r'(?P<desc>.*)$'
 )
 STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
+HEADING_RE = re.compile(r'^#{2,4}\s+(.*)')
 
 path = sys.argv[1]
 with open(path, encoding='utf-8') as f:
     lines = f.readlines()
 
+current_section = '-'
 for raw in lines:
     s = raw.strip()
+    hm = HEADING_RE.match(s)
+    if hm:
+        title = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', hm.group(1)).strip()
+        current_section = title or '-'
+        continue
     m = ENTRY_RE.match(s)
     if not m:
         continue
     name = re.sub(r'\*+', '', m.group('name')).strip()
-    streams = STREAM_RE.findall(s)
-    for _label, url in streams:
-        print(f"{url}\t{name}")
+    for _label, url in STREAM_RE.findall(s):
+        print(f"{url}\t{name}\t{current_section}")
 PYEOF
 }
 
@@ -145,6 +151,10 @@ classify_error() {
       echo "NOT_FOUND" ;;
     *"Unsupported codec"*|*"codec not found"*)
       echo "UNSUPPORTED_CODEC" ;;
+    *"Invalid data found"*)
+      echo "PLAYLIST_PARSE_ERROR" ;;
+    *"low score"*|*"misdetection"*)
+      echo "UNSUPPORTED_FORMAT" ;;
     *"playlist"*|*"M3U"*|*"PLS"*)
       echo "PLAYLIST_PARSE_ERROR" ;;
     *"redirect"*)
@@ -383,12 +393,14 @@ probe_url() {
 }
 
 # ----------------------------------------------------------------------------
-# Build the URL -> station name map once, up front.
+# Build the URL -> station name and URL -> section maps once, up front.
 # ----------------------------------------------------------------------------
 declare -A url_to_name
-while IFS=$'\t' read -r u n; do
+declare -A url_to_section
+while IFS=$'\t' read -r u n sec; do
   [ -z "$u" ] && continue
   url_to_name["$u"]="$n"
+  url_to_section["$u"]="${sec:--}"
 done < <(build_name_map)
 
 # ----------------------------------------------------------------------------
@@ -422,9 +434,10 @@ for url in "${urls[@]}"; do
       verdict="$VERDICT"
     fi
     name="${url_to_name[$url]:-$url}"
-    printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
+    section="${url_to_section[$url]:--}"
+    printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
       "$RESULT_CLASS" "$url" "${RESULT_DETAIL:--}" "$RESULT_SILENT" \
-      "$name" "$codec" "$bitrate" "$verdict" > "$result_file"
+      "$name" "$codec" "$bitrate" "$verdict" "$section" > "$result_file"
     echo " [$RESULT_CLASS] $url"
   ) &
   # Cap concurrency at $JOBS using wait -n (bash 4.3+; GitHub-hosted
@@ -448,13 +461,13 @@ quality_tmp="$tmp_dir/quality.tsv"
 : > "$quality_tmp"
 declare -A category_counts
 
-while IFS=$'\t' read -r result url detail silent name codec bitrate verdict; do
+while IFS=$'\t' read -r result url detail silent name codec bitrate verdict section; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
   case "$result" in
     OK)
       total_ok=$((total_ok + 1))
       [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
-      printf "%s\t%s\t%s\t%s\n" "$name" "$codec" "$bitrate" "$verdict" >> "$quality_tmp"
+      printf "%s\t%s\t%s\t%s\t%s\n" "$name" "$codec" "$bitrate" "$verdict" "${section:--}" >> "$quality_tmp"
       ;;
     TIMEOUT|RATE_LIMITED|AUTH_REQUIRED|FORBIDDEN|CONNECTION_RESET)
       blocked_rows+="| <$url> | $result | ${detail:-} |"$'\n'
@@ -467,19 +480,28 @@ while IFS=$'\t' read -r result url detail silent name codec bitrate verdict; do
   esac
 done < "$tmp_results"
 
-quality_rows=""
+# Build quality table grouped by verdict
+declare -a verdict_order=( "Excellent" "Good" "Okay" "Poor" "N/A" )
+declare -A verdict_rows=()
+declare -A verdict_counts=()
+for v in "${verdict_order[@]}"; do
+  verdict_rows["$v"]=""
+  verdict_counts["$v"]=0
+done
 if [ -s "$quality_tmp" ]; then
-  while IFS=$'\t' read -r name codec bitrate verdict; do
+  while IFS=$'\t' read -r name codec bitrate verdict section; do
     bdisp="$bitrate"
     [ "$bdisp" != "-" ] && bdisp="${bdisp}k"
-    quality_rows+="| $name | $codec | $bdisp | $verdict |"$'\n'
-  done < <(sort -f -t$'\t' -k1,1 "$quality_tmp")
+    v="${verdict:-N/A}"
+    verdict_rows["$v"]+="| $section | $name | $codec | $bdisp | $v |"$'\n'
+    verdict_counts["$v"]=$(( ${verdict_counts["$v"]:-0} + 1 ))
+  done < <(sort -f -t$'\t' -k4,4 -k5,5 -k1,1 "$quality_tmp")
 fi
 
 {
   echo "# Stream Probe Report - $(date -u +%F)"
   echo ""
-  echo "Checked $checked streams. **$manual** need manual verification, **$blocked** likely GitHub-runner/network false positives."
+  echo "Checked $checked streams. **$manual** probe failures, **$blocked** runner-blocked (verify locally)."
   echo ""
   echo "## Statistics"
   echo "| Metric | Value |"
@@ -487,18 +509,33 @@ fi
   echo "| Total streams | $checked |"
   echo "| Playable (OK) | $total_ok |"
   echo "| Silent (warning) | $total_silent |"
-  echo "| Needs manual check | $manual |"
-  echo "| Blocked (false positive) | $blocked |"
+  echo "| Probe failures | $manual |"
+  echo "| Runner-blocked | $blocked |"
   echo ""
+
+  # Stream Quality: summary counts always visible, full table collapsed
   echo "## Stream Quality"
-  if [ -n "$quality_rows" ]; then
-    echo "| Station | Codec | Bitrate | Verdict |"
-    echo "|---|---|---|---|"
-    printf '%s' "$quality_rows"
-  else
-    echo "_None._"
+  echo ""
+  quality_summary=""
+  for v in "${verdict_order[@]}"; do
+    c="${verdict_counts[$v]:-0}"
+    [ "$c" -gt 0 ] && quality_summary+="**$v**: $c &nbsp;&nbsp; "
+  done
+  echo "${quality_summary:-_No data._}"
+  echo ""
+  if [ "$total_ok" -gt 0 ]; then
+    echo "<details><summary>Full table — $total_ok streams</summary>"
+    echo ""
+    echo "| Section | Station | Codec | Bitrate | Verdict |"
+    echo "|---|---|---|---|---|"
+    for v in "${verdict_order[@]}"; do
+      [ -n "${verdict_rows[$v]:-}" ] && printf '%s' "${verdict_rows[$v]}"
+    done
+    echo ""
+    echo "</details>"
   fi
   echo ""
+
   echo "## Error Breakdown"
   echo "| Category | Count |"
   echo "|---|---|"
@@ -506,7 +543,10 @@ fi
     echo "| $cat | ${category_counts[$cat]} |"
   done
   echo ""
-  echo "## NEEDS MANUAL CHECK"
+
+  echo "## Probe Failures"
+  echo "_Streams the script could not decode. Check README entry for a bad or outdated URL._"
+  echo ""
   if [ -n "$manual_rows" ]; then
     echo "| URL | Category | Details |"
     echo "|---|---|---|"
@@ -515,7 +555,10 @@ fi
     echo "_None._"
   fi
   echo ""
-  echo "## Likely FALSE POSITIVES (blocked, throttled, timed out, etc.)"
+
+  echo "## Runner-Blocked or Throttled"
+  echo "_Datacenter IP blocks and timeouts — likely fine on a residential IP. Verify in foobar2000/VLC before removing from README._"
+  echo ""
   if [ -n "$blocked_rows" ]; then
     echo "| URL | Category | Details |"
     echo "|---|---|---|"
@@ -523,8 +566,6 @@ fi
   else
     echo "_None._"
   fi
-  echo ""
-  echo "Confirm suspicious streams in foobar2000/VLC before editing README.md."
 } > "$REPORT"
 
 if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
