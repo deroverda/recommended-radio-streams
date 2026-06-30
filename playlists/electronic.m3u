@@ -1,80 +1,80 @@
 #EXTM3U
 # Group: Electronic
-#EXTINF:-1 group-title="Electronic",54house.fm
 # Homepage: https://www.54house.fm/
+#EXTINF:-1 group-title="Electronic",54house.fm
 https://54house.fm:9013/stream
-#EXTINF:-1 group-title="Electronic",After Hours FM
 # Homepage: https://ah.fm
+#EXTINF:-1 group-title="Electronic",After Hours FM
 http://fr.ah.fm:8000/;
-#EXTINF:-1 group-title="Electronic",Bad Radio
 # Homepage: https://badradio.nz/
+#EXTINF:-1 group-title="Electronic",Bad Radio
 http://server.badradio.biz:8000/stream
-#EXTINF:-1 group-title="Electronic",Blue Marlin Ibiza
 # Homepage: http://www.bluemarlinibiza.com/radio/live
+#EXTINF:-1 group-title="Electronic",Blue Marlin Ibiza
 https://ibizasonica.streaming-pro.com:8001/bluemarlin
-#EXTINF:-1 group-title="Electronic",Bondi Radio
 # Homepage: https://bondiradio.com.au/
+#EXTINF:-1 group-title="Electronic",Bondi Radio
 https://streaming.radio.co/sfd68ddd77/listen
-#EXTINF:-1 group-title="Electronic",Datafruits
 # Homepage: https://datafruits.fm/
+#EXTINF:-1 group-title="Electronic",Datafruits
 https://streampusher-relay.club/datafruits.mp3
-#EXTINF:-1 group-title="Electronic",Dogglounge
 # Homepage: https://dogglounge.com/
+#EXTINF:-1 group-title="Electronic",Dogglounge
 https://dogglounge.com/listen.pls
-#EXTINF:-1 group-title="Electronic",Dub Ninja
 # Homepage: https://dub.ninja/
+#EXTINF:-1 group-title="Electronic",Dub Ninja
 https://dub.ninja/live
-#EXTINF:-1 group-title="Electronic",Intergalactic FM - Cybernetic Broadcasting System
 # Homepage: https://intergalactic.fm/
+#EXTINF:-1 group-title="Electronic",Intergalactic FM - Cybernetic Broadcasting System
 http://radio.intergalactic.fm:80/1
-#EXTINF:-1 group-title="Electronic",Italoradio.fm
 # Homepage: https://italoradio.fm/
+#EXTINF:-1 group-title="Electronic",Italoradio.fm
 http://cc6.beheerstream.com:8102/stream
-#EXTINF:-1 group-title="Electronic",Limbik Frequencies
 # Homepage: https://limbikfreq.com/public/limbik_frequencies
+#EXTINF:-1 group-title="Electronic",Limbik Frequencies
 https://limbikfreq.com/listen/limbik_frequencies/320.mp3
-#EXTINF:-1 group-title="Electronic",Minimal Mix Radio
 # Homepage: https://minimalmix.com/
+#EXTINF:-1 group-title="Electronic",Minimal Mix Radio
 http://orion.shoutca.st:8750/stream
-#EXTINF:-1 group-title="Electronic",NTS - Poolside
 # Homepage: https://www.nts.live/infinite-mixtapes/poolside
+#EXTINF:-1 group-title="Electronic",NTS - Poolside
 https://stream-mixtape-geo.ntslive.net/mixtape4
-#EXTINF:-1 group-title="Electronic",Nightride FM
 # Homepage: https://nightride.fm/
+#EXTINF:-1 group-title="Electronic",Nightride FM
 https://stream.nightride.fm/nightride.mp3
-#EXTINF:-1 group-title="Electronic",Nightwave Plaza
 # Homepage: https://plaza.one/
+#EXTINF:-1 group-title="Electronic",Nightwave Plaza
 https://radio.plaza.one/ogg
-#EXTINF:-1 group-title="Electronic",OpenLab FM
 # Homepage: https://openlab.fm
+#EXTINF:-1 group-title="Electronic",OpenLab FM
 https://ice09.fluidstream.net/openlab.aac
-#EXTINF:-1 group-title="Electronic",Poolsuite FM
 # Homepage: https://poolsuite.net/
+#EXTINF:-1 group-title="Electronic",Poolsuite FM
 https://s5.radio.co/sc9cb59935/listen
-#EXTINF:-1 group-title="Electronic",Radio BipTunia
 # Homepage: https://biptunia.com/
+#EXTINF:-1 group-title="Electronic",Radio BipTunia
 https://ecast.myautodj.com:1380/listen.mp3
-#EXTINF:-1 group-title="Electronic",Radio DY10
 # Homepage: https://www.radiody10.com/
+#EXTINF:-1 group-title="Electronic",Radio DY10
 https://flux.radiody10.com/live
-#EXTINF:-1 group-title="Electronic",Radio ItaloPower!
 # Homepage: https://italopower.com
+#EXTINF:-1 group-title="Electronic",Radio ItaloPower!
 https://stream.deevaradio.net:10443/italopower
-#EXTINF:-1 group-title="Electronic",Rinse UK
 # Homepage: https://rinse.fm
+#EXTINF:-1 group-title="Electronic",Rinse UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
-#EXTINF:-1 group-title="Electronic",SerrebiRadio
 # Homepage: https://serrebiradio.com
+#EXTINF:-1 group-title="Electronic",SerrebiRadio
 https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
-#EXTINF:-1 group-title="Electronic",Skylab Radio
 # Homepage: https://skylabradio.com
+#EXTINF:-1 group-title="Electronic",Skylab Radio
 http://stream.skylab-radio.com:8000/live
-#EXTINF:-1 group-title="Electronic",Sub.FM
 # Homepage: https://www.sub.fm/
+#EXTINF:-1 group-title="Electronic",Sub.FM
 http://subfm.radioca.st/Sub.FM
-#EXTINF:-1 group-title="Electronic",TEKnival Radio
 # Homepage: https://teknivalradio.com/
+#EXTINF:-1 group-title="Electronic",TEKnival Radio
 https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3
-#EXTINF:-1 group-title="Electronic",TM Radio
 # Homepage: https://tm-radio.com/
+#EXTINF:-1 group-title="Electronic",TM Radio
 https://stream.tm-radio.com/tribalmixes

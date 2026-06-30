@@ -1,92 +1,92 @@
 #EXTM3U
 # Group: Jazz & Blues
-#EXTINF:-1 group-title="Jazz & Blues",Aardvark Blues FM
 # Homepage: https://aardvarkbluesfm.com/
+#EXTINF:-1 group-title="Jazz & Blues",Aardvark Blues FM
 http://edge4.peta.live365.net/b77280_128mp3
-#EXTINF:-1 group-title="Jazz & Blues",Ábaco Libros y Café
 # Homepage: https://abacolibrosycaferadio.blogspot.com/
+#EXTINF:-1 group-title="Jazz & Blues",Ábaco Libros y Café
 http://radio30.virtualtronics.com:8638/;
-#EXTINF:-1 group-title="Jazz & Blues",AshiyaRadio
 # Homepage: https://ashiya.radio/
+#EXTINF:-1 group-title="Jazz & Blues",AshiyaRadio
 https://s3.radio.co/sc8d895604/listen
-#EXTINF:-1 group-title="Jazz & Blues",Concertzender - World of Jazz
 # Homepage: https://www.concertzender.nl/en
+#EXTINF:-1 group-title="Jazz & Blues",Concertzender - World of Jazz
 https://streams.greenhost.nl:8006/jazz
-#EXTINF:-1 group-title="Jazz & Blues",Fine Music Radio
 # Homepage: https://www.fmr.co.za/
+#EXTINF:-1 group-title="Jazz & Blues",Fine Music Radio
 http://edge.iono.fm/xhls/fmr_live_medium.m3u8
-#EXTINF:-1 group-title="Jazz & Blues",FIP Jazz
 # Homepage: https://www.fip.fr/jazz
+#EXTINF:-1 group-title="Jazz & Blues",FIP Jazz
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
-#EXTINF:-1 group-title="Jazz & Blues",Giants of Jazz
 # Homepage: http://www.giantsofjazzradio.co.uk/
+#EXTINF:-1 group-title="Jazz & Blues",Giants of Jazz
 http://streaming.radio.co/s297e618a7/listen
-#EXTINF:-1 group-title="Jazz & Blues",Head Wax Radio
 # Homepage: https://www.headwaxradio.ie/
+#EXTINF:-1 group-title="Jazz & Blues",Head Wax Radio
 https://headwaxradio.radioca.st/stream
-#EXTINF:-1 group-title="Jazz & Blues",iFusion Radio
 # Homepage: https://www.ifusionradio.com/
+#EXTINF:-1 group-title="Jazz & Blues",iFusion Radio
 https://listen.radioking.com/radio/523747/stream/582004
-#EXTINF:-1 group-title="Jazz & Blues",J-Club Bandstand - Jazz Sakura
 # Homepage: https://jclubbandstand.torontocast.stream/stations/index.html
+#EXTINF:-1 group-title="Jazz & Blues",J-Club Bandstand - Jazz Sakura
 https://kathy.torontocast.com:3330/;
-#EXTINF:-1 group-title="Jazz & Blues",Jazz Con Class
 # Homepage: https://jazzconclass.com
+#EXTINF:-1 group-title="Jazz & Blues",Jazz Con Class
 http://streaming.live365.com/a73229
-#EXTINF:-1 group-title="Jazz & Blues",The Jazz Groove
 # Homepage: https://jazzgroove.org
+#EXTINF:-1 group-title="Jazz & Blues",The Jazz Groove
 http://east-mp3-128.streamthejazzgroove.com/stream
+# Homepage: https://www.jazzradio.fr/radio/webradio
 #EXTINF:-1 group-title="Jazz & Blues",Jazz Radio - Afro Jazz
-# Homepage: https://www.jazzradio.fr/radio/webradio
 https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3
-#EXTINF:-1 group-title="Jazz & Blues",Jazz Radio - Blue
 # Homepage: https://www.jazzradio.fr/radio/webradio
+#EXTINF:-1 group-title="Jazz & Blues",Jazz Radio - Blue
 http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3
-#EXTINF:-1 group-title="Jazz & Blues",Jazz24
 # Homepage: https://www.jazz24.org/
+#EXTINF:-1 group-title="Jazz & Blues",Jazz24
 https://knkx-live-a.edge.audiocdn.com/6285_256k
-#EXTINF:-1 group-title="Jazz & Blues",KCSM Jazz 91.1
 # Homepage: https://kcsm.org/
+#EXTINF:-1 group-title="Jazz & Blues",KCSM Jazz 91.1
 http://ice7.securenetsystems.net/KCSM2
-#EXTINF:-1 group-title="Jazz & Blues",KJazz 88.1
 # Homepage: https://kkjz.org/
+#EXTINF:-1 group-title="Jazz & Blues",KJazz 88.1
 https://streaming.live365.com/a49833
-#EXTINF:-1 group-title="Jazz & Blues",KSDS Jazz 88.3
 # Homepage: https://www.jazz88.org/
+#EXTINF:-1 group-title="Jazz & Blues",KSDS Jazz 88.3
 https://ksds-ice.streamguys1.com/ksds.mp3
-#EXTINF:-1 group-title="Jazz & Blues",Linn Jazz
 # Homepage: https://www.linn.co.uk/linn-radio
+#EXTINF:-1 group-title="Jazz & Blues",Linn Jazz
 http://radio.linn.co.uk:8000/autodj
-#EXTINF:-1 group-title="Jazz & Blues",Octave Radio
 # Homepage: https://www.psaudio.com/blogs/pauls-posts/octave-radio
+#EXTINF:-1 group-title="Jazz & Blues",Octave Radio
 https://octaverecords.out.airtime.pro/octaverecords_a
-#EXTINF:-1 group-title="Jazz & Blues",The Penthouse
 # Homepage: https://thepenthouse.fm/
+#EXTINF:-1 group-title="Jazz & Blues",The Penthouse
 http://sc1.mystreamserver.com:8052/;
-#EXTINF:-1 group-title="Jazz & Blues",Radio Suisse Jazz
 # Homepage: http://radiosuissejazz.ch
+#EXTINF:-1 group-title="Jazz & Blues",Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
-#EXTINF:-1 group-title="Jazz & Blues",Shonan Beach FM
 # Homepage: https://www.beachfm.co.jp/
+#EXTINF:-1 group-title="Jazz & Blues",Shonan Beach FM
 http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
-#EXTINF:-1 group-title="Jazz & Blues",SomaFM - Sonic Universe
 # Homepage: https://somafm.com/sonicuniverse/
+#EXTINF:-1 group-title="Jazz & Blues",SomaFM - Sonic Universe
 https://somafm.com/sonicuniverse256.pls
-#EXTINF:-1 group-title="Jazz & Blues",TSF Jazz
 # Homepage: https://www.tsfjazz.com/
+#EXTINF:-1 group-title="Jazz & Blues",TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-#EXTINF:-1 group-title="Jazz & Blues",WBGO 88.3
 # Homepage: http://wbgo.org
+#EXTINF:-1 group-title="Jazz & Blues",WBGO 88.3
 https://ais-sa8.cdnstream1.com/3629_128.mp3
-#EXTINF:-1 group-title="Jazz & Blues",WDNA 88.9
 # Homepage: https://wdnaradio.org
+#EXTINF:-1 group-title="Jazz & Blues",WDNA 88.9
 http://us9.streamingpulse.com:7033/stream
-#EXTINF:-1 group-title="Jazz & Blues",WKCR 89.9
 # Homepage: https://www.cc-seas.columbia.edu/wkcr/
+#EXTINF:-1 group-title="Jazz & Blues",WKCR 89.9
 https://wkcr.streamguys1.com:80/live
-#EXTINF:-1 group-title="Jazz & Blues",WUCF 89.9
 # Homepage: https://www.wucf.org
+#EXTINF:-1 group-title="Jazz & Blues",WUCF 89.9
 http://peridot.streamguys.com:7830/WUCF
-#EXTINF:-1 group-title="Jazz & Blues",WVPE - Blues3
 # Homepage: https://www.wvpe.org/show/blues-revue
+#EXTINF:-1 group-title="Jazz & Blues",WVPE - Blues3
 http://live.str3am.com:2240/live

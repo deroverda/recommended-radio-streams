@@ -1,35 +1,35 @@
 #EXTM3U
 # Group: Experimental, Nerdy & Scanners
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Mechanical Music Radio
 # Homepage: https://mechanicalmusicradio.com
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Mechanical Music Radio
 https://global.citrus3.com:2020/stream/mechanicalmusicradio
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",P-Node
 # Homepage: https://p-node.org
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",P-Node
 http://stream.p-node.org/dab.mp3
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Payphone Radio
 # Homepage: https://www.payphone-project.com/payphone-radio/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Payphone Radio
 https://centova11.instainternet.com/proxy/marktho1?mp=/stream
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Pittsburgh Police, Fire, EMS
 # Homepage: https://www.broadcastify.com/listen/feed/21738
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Pittsburgh Police, Fire, EMS
 https://broadcastify.cdnstream1.com/21738
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Brennpunkt
 # Homepage: https://radiobrennpunkt.org/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Brennpunkt
 https://radio-brennpunkt.radiocult.fm/stream
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio is a Foreign Country
 # Homepage: https://www.radioisaforeigncountry.org/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio is a Foreign Country
 https://s5.radio.co/s20251311a/listen
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Paisajes
 # Homepage: https://radiopaisajes.cl/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Paisajes
 https://stream.zeno.fm/nftv61u086etv
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Shirley & Spinoza
 # Homepage: https://compound-eye.org
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Shirley & Spinoza
 https://s2.radio.co/sec5fa6199/listen
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Spinning Seal FM
 # Homepage: https://zeno.fm/radio/SpinningSeal/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Spinning Seal FM
 https://stream.zeno.fm/9q3ez3k3fchvv
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",TildeRadio
 # Homepage: https://tilderadio.org/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",TildeRadio
 https://azuracast.tilderadio.org/radio/8000/radio.mp3
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Wave Farm
 # Homepage: https://wavefarm.org/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Wave Farm
 https://audio.wavefarm.org/pondstation.mp3

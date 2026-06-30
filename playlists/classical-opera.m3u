@@ -1,35 +1,35 @@
 #EXTM3U
 # Group: Classical & Opera
-#EXTINF:-1 group-title="Classical & Opera",Ancient FM
 # Homepage: https://ancientfm.com/
+#EXTINF:-1 group-title="Classical & Opera",Ancient FM
 https://mediaserv73.live-streams.nl:18058/stream
-#EXTINF:-1 group-title="Classical & Opera",BBC Radio 3
 # Homepage: https://www.bbc.co.uk/radio3
+#EXTINF:-1 group-title="Classical & Opera",BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
-#EXTINF:-1 group-title="Classical & Opera",Concertzender - Baroque
 # Homepage: https://www.concertzender.nl/
+#EXTINF:-1 group-title="Classical & Opera",Concertzender - Baroque
 http://streams.greenhost.nl:8080/barok
-#EXTINF:-1 group-title="Classical & Opera",France Musique
 # Homepage: https://www.radiofrance.fr/francemusique
+#EXTINF:-1 group-title="Classical & Opera",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
-#EXTINF:-1 group-title="Classical & Opera",France Musique - La Contemporaine
 # Homepage: https://www.radiofrance.fr/francemusique/la-contemporaine
+#EXTINF:-1 group-title="Classical & Opera",France Musique - La Contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
-#EXTINF:-1 group-title="Classical & Opera",Linn Classical
 # Homepage: https://www.linn.co.uk/linn-radio
+#EXTINF:-1 group-title="Classical & Opera",Linn Classical
 http://radio.linn.co.uk:8004/stream
-#EXTINF:-1 group-title="Classical & Opera",MRG.fm - OperaRadio
 # Homepage: https://www.w.mrg.fm/
+#EXTINF:-1 group-title="Classical & Opera",MRG.fm - OperaRadio
 http://listen.mrg.fm:8110/;
-#EXTINF:-1 group-title="Classical & Opera",Radio Suisse Classique
 # Homepage: https://www.radioswissclassic.ch/en
+#EXTINF:-1 group-title="Classical & Opera",Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-#EXTINF:-1 group-title="Classical & Opera",WFMT - Classical
 # Homepage: https://www.wfmt.com/
+#EXTINF:-1 group-title="Classical & Opera",WFMT - Classical
 https://wfmt.streamguys1.com/main-source
-#EXTINF:-1 group-title="Classical & Opera",WQXR 105.9
 # Homepage: https://www.wqxr.org/
+#EXTINF:-1 group-title="Classical & Opera",WQXR 105.9
 http://stream.wqxr.org/wqxr
-#EXTINF:-1 group-title="Classical & Opera",WQXR Q2
 # Homepage: https://www.wqxr.org/series/q2
+#EXTINF:-1 group-title="Classical & Opera",WQXR Q2
 http://q2stream.wqxr.org/q2

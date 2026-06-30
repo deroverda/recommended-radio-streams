@@ -1,65 +1,65 @@
 #EXTM3U
 # Group: World & Regional
-#EXTINF:-1 group-title="World & Regional",Alefa Music
 # Homepage: https://alefamusic.net/
+#EXTINF:-1 group-title="World & Regional",Alefa Music
 http://www.radioking.com/play/alefamusic
-#EXTINF:-1 group-title="World & Regional",Celtic Music Radio
 # Homepage: https://www.celticmusicradio.net/
+#EXTINF:-1 group-title="World & Regional",Celtic Music Radio
 http://stream.celticmusicradio.net:8000/celticmusic.mp3
-#EXTINF:-1 group-title="World & Regional",CeolFM
 # Homepage: https://ceol.fm/
+#EXTINF:-1 group-title="World & Regional",CeolFM
 https://listen.ceol.fm/auto
-#EXTINF:-1 group-title="World & Regional",Dansbandskanalen
 # Homepage: https://www.dansbandskanalen.se/
+#EXTINF:-1 group-title="World & Regional",Dansbandskanalen
 https://fm09-ice.stream.khz.se/fm09_mp3
-#EXTINF:-1 group-title="World & Regional",Gladys Palmera Colección
 # Homepage: https://gladyspalmera.com/coleccion
+#EXTINF:-1 group-title="World & Regional",Gladys Palmera Colección
 http://streams.radio.co/s496c4d2e8/listen
-#EXTINF:-1 group-title="World & Regional",J-Pop Sakura
 # Homepage: https://asiadreamradio.torontocast.stream/stations/en/index.html
+#EXTINF:-1 group-title="World & Regional",J-Pop Sakura
 https://quincy.torontocast.com:2070/stream
-#EXTINF:-1 group-title="World & Regional",J1 Radio - Gold
 # Homepage: https://www.j1fm.tokyo
+#EXTINF:-1 group-title="World & Regional",J1 Radio - Gold
 http://gold.j1fm.tokyo/
-#EXTINF:-1 group-title="World & Regional",KBON 101.1
 # Homepage: https://www.kbon.com/
+#EXTINF:-1 group-title="World & Regional",KBON 101.1
 http://ice64.securenetsystems.net/KBON
-#EXTINF:-1 group-title="World & Regional",Lahmacun Radio
 # Homepage: https://www.lahmacun.hu/
+#EXTINF:-1 group-title="World & Regional",Lahmacun Radio
 https://streaming.lahmacun.hu/radio/8000/radio.mp3
-#EXTINF:-1 group-title="World & Regional",Le Grigri
 # Homepage: https://www.le-grigri.com/
+#EXTINF:-1 group-title="World & Regional",Le Grigri
 https://www.radioking.com/play/legrigri/273715
-#EXTINF:-1 group-title="World & Regional",listen.moe
 # Homepage: https://listen.moe/
+#EXTINF:-1 group-title="World & Regional",listen.moe
 https://listen.moe/stream
-#EXTINF:-1 group-title="World & Regional",Mondo Bongo Radio
 # Homepage: https://mondobongoradio.com
+#EXTINF:-1 group-title="World & Regional",Mondo Bongo Radio
 https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
-#EXTINF:-1 group-title="World & Regional",Oroko Radio
 # Homepage: https://oroko.live/
+#EXTINF:-1 group-title="World & Regional",Oroko Radio
 https://oroko-radio.radiocult.fm/stream
-#EXTINF:-1 group-title="World & Regional",Pan African Space Station
 # Homepage: https://panafricanspacestation.org.za/
+#EXTINF:-1 group-title="World & Regional",Pan African Space Station
 https://pass.out.airtime.pro/pass_a
-#EXTINF:-1 group-title="World & Regional",Pyongyang Radio FM
 # Homepage: https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/
+#EXTINF:-1 group-title="World & Regional",Pyongyang Radio FM
 https://listen7.myradio24.com/69366
-#EXTINF:-1 group-title="World & Regional",Radio Al-Hara
 # Homepage: https://www.radioalhara.net/
+#EXTINF:-1 group-title="World & Regional",Radio Al-Hara
 https://stream.radiojar.com/78cxy6wkxtzuv
-#EXTINF:-1 group-title="World & Regional",Radio Flouka
 # Homepage: https://www.radioflouka.com/
+#EXTINF:-1 group-title="World & Regional",Radio Flouka
 https://flouka.out.airtime.pro/flouka_a
+# Homepage: https://www.radioislanegra.com/
 #EXTINF:-1 group-title="World & Regional",Radio Isla Negra - Slowbeat
-# Homepage: https://www.radioislanegra.com/
 https://radioislanegra.org/radio/8000/basic.aac
-#EXTINF:-1 group-title="World & Regional",Radio Isla Negra - Upbeat
 # Homepage: https://www.radioislanegra.com/
+#EXTINF:-1 group-title="World & Regional",Radio Isla Negra - Upbeat
 https://radioislanegra.org/radio/8030/basic.aac
-#EXTINF:-1 group-title="World & Regional",Seribatu
 # Homepage: https://www.radioseribatu.com/radioseribatu
+#EXTINF:-1 group-title="World & Regional",Seribatu
 http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
-#EXTINF:-1 group-title="World & Regional",Svensk Folkmusik AkkA
 # Homepage: https://www.svenskfolkmusik.nu/
+#EXTINF:-1 group-title="World & Regional",Svensk Folkmusik AkkA
 https://mediaserv38.live-streams.nl:8107/stream

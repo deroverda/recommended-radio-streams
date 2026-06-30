@@ -1,23 +1,23 @@
 #EXTM3U
 # Group: Metal & Heavy
-#EXTINF:-1 group-title="Metal & Heavy",Core Radio
 # Homepage: https://coreradio.online/
+#EXTINF:-1 group-title="Metal & Heavy",Core Radio
 http://serv.coreradio.online:8000/coreradio
-#EXTINF:-1 group-title="Metal & Heavy",Doomnation Radio
 # Homepage: https://www.doomnationradio.com/
+#EXTINF:-1 group-title="Metal & Heavy",Doomnation Radio
 https://s2.voscast.com:11123/stream
-#EXTINF:-1 group-title="Metal & Heavy",ISKC - Extreme Metal
 # Homepage: https://iskcrocks.com/
+#EXTINF:-1 group-title="Metal & Heavy",ISKC - Extreme Metal
 https://mediaserv68.live-streams.nl:2199/tunein/iskcrocks-ExtremeMetal.pls
-#EXTINF:-1 group-title="Metal & Heavy",Metal Devastation
 # Homepage: https://metaldevastationradio.com/
+#EXTINF:-1 group-title="Metal & Heavy",Metal Devastation
 https://c13.radioboss.fm:18099/stream
-#EXTINF:-1 group-title="Metal & Heavy",OÜI FM - Bring The Noise
 # Homepage: https://www.ouifm.fr/bring-the-noise-1
+#EXTINF:-1 group-title="Metal & Heavy",OÜI FM - Bring The Noise
 https://ouifmbringthenoise.ice.infomaniak.ch/ouifmbringthenoise.mp3
-#EXTINF:-1 group-title="Metal & Heavy",Prog Palace Radio
 # Homepage: https://www.progpalaceradio.com/
+#EXTINF:-1 group-title="Metal & Heavy",Prog Palace Radio
 https://cheetah.streemlion.com/progpalace64
-#EXTINF:-1 group-title="Metal & Heavy",SomaFM - Metal Detector
 # Homepage: https://somafm.com/metal/
+#EXTINF:-1 group-title="Metal & Heavy",SomaFM - Metal Detector
 https://ice1.somafm.com/metal-128-aac

@@ -1,59 +1,59 @@
 #EXTM3U
 # Group: Campus & Public Radio
-#EXTINF:-1 group-title="Campus & Public Radio",CIUT 89.5
 # Homepage: https://www.ciut.fm/
+#EXTINF:-1 group-title="Campus & Public Radio",CIUT 89.5
 https://ice23.securenetsystems.net/CIUT
-#EXTINF:-1 group-title="Campus & Public Radio",CKUT 90.3
 # Homepage: https://ckut.ca
+#EXTINF:-1 group-title="Campus & Public Radio",CKUT 90.3
 https://ckut.out.airtime.pro/ckut_a
-#EXTINF:-1 group-title="Campus & Public Radio",KALX 90.7
 # Homepage: https://kalx.berkeley.edu/
+#EXTINF:-1 group-title="Campus & Public Radio",KALX 90.7
 https://stream.kalx.berkeley.edu:8443/kalx-320.aac
-#EXTINF:-1 group-title="Campus & Public Radio",KCRW - Eclectic24
 # Homepage: https://www.kcrw.com/
+#EXTINF:-1 group-title="Campus & Public Radio",KCRW - Eclectic24
 https://streams.kcrw.com/e24_mp3
-#EXTINF:-1 group-title="Campus & Public Radio",KFJC 89.7
 # Homepage: https://kfjc.org
+#EXTINF:-1 group-title="Campus & Public Radio",KFJC 89.7
 http://netcast.kfjc.org/kfjc-320k-aac
-#EXTINF:-1 group-title="Campus & Public Radio",KUSF
 # Homepage: https://www.kusf.org
+#EXTINF:-1 group-title="Campus & Public Radio",KUSF
 https://listen.kusf.org/stream
-#EXTINF:-1 group-title="Campus & Public Radio",KUTX 98.9
 # Homepage: https://kutx.org
+#EXTINF:-1 group-title="Campus & Public Radio",KUTX 98.9
 https://streams.kut.org/4428_192.mp3
-#EXTINF:-1 group-title="Campus & Public Radio",KVRX 91.7
 # Homepage: https://kvrx.org/
+#EXTINF:-1 group-title="Campus & Public Radio",KVRX 91.7
 https://kvrx.org/now_playing/stream
-#EXTINF:-1 group-title="Campus & Public Radio",KXLU 88.9
 # Homepage: https://kxlu.com/
+#EXTINF:-1 group-title="Campus & Public Radio",KXLU 88.9
 https://kxlu.streamguys1.com/kxlu-hi
-#EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
 # Homepage: https://kzsu.stanford.edu
+#EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
 http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
-#EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
 # Homepage: https://subcity.org/
+#EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
 https://stream.subcity.org/listen
+# Homepage: https://wfmu.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WFMU - Rock 'n' Soul
-# Homepage: https://wfmu.org/
 http://wfmu.org/wfmu_rock.pls
-#EXTINF:-1 group-title="Campus & Public Radio",WFMU - Sheena's Jungle Room
 # Homepage: https://wfmu.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WFMU - Sheena's Jungle Room
 http://stream0.wfmu.org/sheena
-#EXTINF:-1 group-title="Campus & Public Radio",WFMU 91.1
 # Homepage: https://wfmu.org
+#EXTINF:-1 group-title="Campus & Public Radio",WFMU 91.1
 https://wfmu.org/wfmu.pls
-#EXTINF:-1 group-title="Campus & Public Radio",WMSE 91.7
 # Homepage: https://wmse.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WMSE 91.7
 https://wmse.streamguys1.com/wmselivemp3
-#EXTINF:-1 group-title="Campus & Public Radio",WRIR 97.3
 # Homepage: https://wrir.org
+#EXTINF:-1 group-title="Campus & Public Radio",WRIR 97.3
 https://live.wrir.org/
-#EXTINF:-1 group-title="Campus & Public Radio",WXYC 89.3
 # Homepage: https://wxyc.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WXYC 89.3
 https://audio-mp3.ibiblio.org/wxyc.mp3
-#EXTINF:-1 group-title="Campus & Public Radio",WZRD 88.3
 # Homepage: https://wzrdchicago.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WZRD 88.3
 https://wzrd.streamguys1.com/live
-#EXTINF:-1 group-title="Campus & Public Radio",XRAY.fm
 # Homepage: https://xray.fm/
+#EXTINF:-1 group-title="Campus & Public Radio",XRAY.fm
 https://listen.xray.fm/stream
