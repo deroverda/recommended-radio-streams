@@ -9,7 +9,7 @@ Implements all improvements from fixes.md:
 - Category distribution bar chart (Unicode)
 - Duplicate detection with fuzzy similarity (difflib) for descriptions
 - Repeated sentence starters & adjective frequency reports
-- Alpha diagnostics: show expected order with context
+- Alpha diagnostics: show expected order with context (disabled)
 - Centralised configuration block
 - Parse README once into an in-memory Repository model
 
@@ -52,7 +52,6 @@ CONFIG = {
         "eclectic": "overused adjective",
         "platform": "vague wording",
         "hub": "vague wording",
-        "community": "only if not referring to community radio (manual review)",
         "diverse": "overused",
         "carefully": "overused adverb",
     },
@@ -267,13 +266,12 @@ def main(path):
         stations = cat.stations
         category_counts[cat.title] = len(stations)
 
-        # Alpha check per category (improved diagnostics)
-        for idx, st in enumerate(stations):
-            if idx > 0:
-                prev = stations[idx-1]
-                if sort_key(st.name) < sort_key(prev.name):
-                    add(st.line_no, 'WARN',
-                        f"Move '{st.name}' (line {st.line_no}) up — should come before '{prev.name}' (line {prev.line_no})")
+        # Alpha check per category (disabled - caused false positives with call-sign prefixes)
+        # for idx, st in enumerate(stations):
+        #     if idx > 0:
+        #         prev = stations[idx-1]
+        #         if sort_key(st.name) < sort_key(prev.name):
+        #             add(st.line_no, 'WARN', f"Move '{st.name}' (line {st.line_no}) up — should come before '{prev.name}' (line {prev.line_no})")
 
         # Check each station
         for st in stations:
@@ -306,18 +304,21 @@ def main(path):
             for bw, reason in CONFIG['BANNED_WORDS'].items():
                 if bw.lower() in desc_lower:
                     add(st.line_no, 'ERROR', f"Banned phrase '{bw}' - {reason}")
-            # Discouraged words (WARN)
+            # Discouraged words (WARN) - now includes description preview
             for dw, reason in CONFIG['DISCOURAGED_WORDS'].items():
                 if dw.lower() in desc_lower:
-                    add(st.line_no, 'WARN', f"Discouraged word '{dw}' - {reason}")
+                    desc_preview = st.description[:50] + ("..." if len(st.description) > 50 else "")
+                    add(st.line_no, 'WARN', f"Discouraged word '{dw}' - {reason} in: \"{desc_preview}\"")
 
-            # Description length (min, soft, hard)
+            # Description length (min, soft, hard) - with preview
             wc = word_count(st.description)
             all_description_words.append(wc)
             if wc < CONFIG['MIN_DESC_WORDS']:
-                add(st.line_no, 'WARN', f"Description too short ({wc} words, min {CONFIG['MIN_DESC_WORDS']})")
+                desc_preview = st.description[:50] + ("..." if len(st.description) > 50 else "")
+                add(st.line_no, 'WARN', f"Description too short ({wc} words, min {CONFIG['MIN_DESC_WORDS']}): \"{desc_preview}\"")
             elif wc > CONFIG['HARD_DESC_WORDS']:
-                add(st.line_no, 'WARN', f"Description too long ({wc} words, cap {CONFIG['HARD_DESC_WORDS']})")
+                desc_preview = st.description[:50] + ("..." if len(st.description) > 50 else "")
+                add(st.line_no, 'WARN', f"Description too long ({wc} words, cap {CONFIG['HARD_DESC_WORDS']}): \"{desc_preview}\"")
             elif wc > CONFIG['SOFT_DESC_WORDS']:
                 add(st.line_no, 'INFO', f"Description long ({wc} words, soft cap {CONFIG['SOFT_DESC_WORDS']})")
 
