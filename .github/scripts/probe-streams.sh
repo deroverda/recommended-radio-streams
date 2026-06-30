@@ -393,15 +393,22 @@ probe_url() {
 }
 
 # ----------------------------------------------------------------------------
+# Set up temporary directory FIRST
+# ----------------------------------------------------------------------------
+tmp_dir="$(mktemp -d)"
+trap 'rm -rf "$tmp_dir"' EXIT
+
+# ----------------------------------------------------------------------------
 # Build the URL -> station name and URL -> section maps once, up front.
 # ----------------------------------------------------------------------------
 declare -A url_to_name
 declare -A url_to_section
+build_name_map > "$tmp_dir/station_map.tsv"
 while IFS=$'\t' read -r u n sec; do
   [ -z "$u" ] && continue
   url_to_name["$u"]="$n"
   url_to_section["$u"]="${sec:--}"
-done < <(build_name_map)
+done < "$tmp_dir/station_map.tsv"
 
 # ----------------------------------------------------------------------------
 # Main - probes run in parallel (capped at $JOBS) via forked subshells.
@@ -411,9 +418,6 @@ done < <(build_name_map)
 # Each writes its one result line to its own file to avoid concurrent writes
 # to a shared file, then we concatenate everything at the end.
 # ----------------------------------------------------------------------------
-tmp_dir="$(mktemp -d)"
-trap 'rm -rf "$tmp_dir"' EXIT
-
 mapfile -t urls < <(extract_stream_urls)
 checked="${#urls[@]}"
 echo "Probing $checked streams (up to $JOBS in parallel)..."
@@ -463,6 +467,8 @@ declare -A category_counts
 
 while IFS=$'\t' read -r result url detail silent name codec bitrate verdict section; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
+  safe_name="${name//|/\\|}"
+  safe_section="${section//|/\\|}"
   case "$result" in
     OK)
       total_ok=$((total_ok + 1))
@@ -470,11 +476,11 @@ while IFS=$'\t' read -r result url detail silent name codec bitrate verdict sect
       printf "%s\t%s\t%s\t%s\t%s\n" "$name" "$codec" "$bitrate" "$verdict" "${section:--}" >> "$quality_tmp"
       ;;
     TIMEOUT|RATE_LIMITED|AUTH_REQUIRED|FORBIDDEN|CONNECTION_RESET)
-      blocked_rows+="| <$url> | $result | ${detail:-} |"$'\n'
+      blocked_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
       blocked=$((blocked + 1))
       ;;
     *)
-      manual_rows+="| <$url> | $result | ${detail:-} |"$'\n'
+      manual_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
       manual=$((manual + 1))
       ;;
   esac
@@ -490,8 +496,8 @@ for v in "${verdict_order[@]}"; do
 done
 if [ -s "$quality_tmp" ]; then
   # FIX: Sort by section order (as they appear in README), not alphabetically
-  # Build section order from quality_tmp (sections in README order)
-  awk -F'\t' '{print $5}' "$quality_tmp" | awk '!seen[$0]++' > "$tmp_dir/section_order.tmp"
+  # Build section order from station_map (sections in README order)
+  awk -F'\t' '!seen[$3]++ {print $3}' "$tmp_dir/station_map.tsv" > "$tmp_dir/section_order.tmp"
   # Add section index column
   awk -F'\t' 'NR==FNR{a[$0]=NR;next} {print $0 "\t" a[$5]}' "$tmp_dir/section_order.tmp" "$quality_tmp" > "$tmp_dir/quality_with_order.tmp"
   # Sort by verdict, then section order, then station name
@@ -555,24 +561,24 @@ fi
   echo "_Streams the script could not decode. Check README entry for a bad or outdated URL._"
   echo ""
   if [ -n "$manual_rows" ]; then
-    echo "| URL | Category | Details |"
-    echo "|---|---|---|"
-    printf '%s' "$manual_rows"
-  else
-    echo "_None._"
-  fi
+  echo "| Section | Station | URL | Category | Details |"
+  echo "|---|---|---|---|---|"
+  printf '%s' "$manual_rows"
+else
+  echo "_None._"
+fi
   echo ""
 
   echo "## Runner-Blocked or Throttled"
-  echo "_Datacenter IP blocks and timeouts — likely fine on a residential IP. Verify in foobar2000/VLC before removing from README._"
-  echo ""
-  if [ -n "$blocked_rows" ]; then
-    echo "| URL | Category | Details |"
-    echo "|---|---|---|"
-    printf '%s' "$blocked_rows"
-  else
-    echo "_None._"
-  fi
+echo "_Datacenter IP blocks and timeouts — likely fine on a residential IP. Verify in foobar2000/VLC before removing from README._"
+echo ""
+if [ -n "$blocked_rows" ]; then
+  echo "| Section | Station | URL | Category | Details |"
+  echo "|---|---|---|---|---|"
+  printf '%s' "$blocked_rows"
+else
+  echo "_None._"
+fi
 } > "$REPORT"
 
 if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
