@@ -30,12 +30,15 @@ https://kvrx.org/now_playing/stream
 # Homepage: https://kxlu.com/
 #EXTINF:-1 group-title="Campus & Public Radio",KXLU 88.9
 https://kxlu.streamguys1.com/kxlu-hi
-# Homepage: https://kzsu.stanford.edu
-#EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
-http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
 # Homepage: https://kzsc.org
 #EXTINF:-1 group-title="Campus & Public Radio",KZSC 88.1
 https://kzscfms1-geckohost.radioca.st/kzschigh
+# Homepage: https://kzsu.stanford.edu
+#EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
+http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
+# Homepage: https://subcity.org/
+#EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
+https://stream.subcity.org/listen
 # Homepage: http://wncw.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WNCW 88.7
 https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
@@ -48,9 +51,6 @@ https://streams.wtju.net/wtju-live.mp3
 # Homepage: https://www.wxtj.fm/
 #EXTINF:-1 group-title="Campus & Public Radio",WXTJ 100.1
 https://streams.wtju.net/wxtj-live.mp3
-# Homepage: https://subcity.org/
-#EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
-https://stream.subcity.org/listen
 # Homepage: https://wfmu.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WFMU - Rock 'n' Soul
 http://wfmu.org/wfmu_rock.pls

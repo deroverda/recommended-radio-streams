@@ -44,7 +44,7 @@ http://necta.burn.net:8000/nectarine
 https://listen.nolife-radio.com/stream
 # Homepage: https://www.radiosega.net/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",RadioSEGA
-https://www.radiosega.net/play/
+http://content.radiosega.net:8006/live
 # Homepage: https://rainwave.cc/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Rainwave - Game
 https://relay.rainwave.cc/game.ogg

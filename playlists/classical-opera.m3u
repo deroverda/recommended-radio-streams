@@ -30,12 +30,12 @@ http://listen.mrg.fm:8110/;
 # Homepage: https://www.radioswissclassic.ch/en
 #EXTINF:-1 group-title="Classical & Opera",Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-# Homepage: https://www.wfmt.com/
-#EXTINF:-1 group-title="Classical & Opera",WFMT - Classical
-https://wfmt.streamguys1.com/main-source
 # Homepage: https://www.wbjc.com/
 #EXTINF:-1 group-title="Classical & Opera",WBJC 91.5
 https://ice64.securenetsystems.net/WBJC
+# Homepage: https://www.wfmt.com/
+#EXTINF:-1 group-title="Classical & Opera",WFMT - Classical
+https://wfmt.streamguys1.com/main-source
 # Homepage: https://www.wmnr.org/
 #EXTINF:-1 group-title="Classical & Opera",WMNR
 https://wmnr.streamguys1.com/live

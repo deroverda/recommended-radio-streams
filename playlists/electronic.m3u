@@ -39,15 +39,15 @@ https://limbikfreq.com/listen/limbik_frequencies/320.mp3
 # Homepage: https://minimalmix.com/
 #EXTINF:-1 group-title="Electronic",Minimal Mix Radio
 http://orion.shoutca.st:8750/stream
-# Homepage: https://www.nts.live/infinite-mixtapes/poolside
-#EXTINF:-1 group-title="Electronic",NTS - Poolside
-https://stream-mixtape-geo.ntslive.net/mixtape4
 # Homepage: https://nightride.fm/
 #EXTINF:-1 group-title="Electronic",Nightride FM
 https://stream.nightride.fm/nightride.mp3
 # Homepage: https://plaza.one/
 #EXTINF:-1 group-title="Electronic",Nightwave Plaza
 https://radio.plaza.one/ogg
+# Homepage: https://www.nts.live/infinite-mixtapes/poolside
+#EXTINF:-1 group-title="Electronic",NTS - Poolside
+https://stream-mixtape-geo.ntslive.net/mixtape4
 # Homepage: https://openlab.fm
 #EXTINF:-1 group-title="Electronic",OpenLab FM
 https://ice09.fluidstream.net/openlab.aac

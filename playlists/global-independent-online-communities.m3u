@@ -1,17 +1,17 @@
 #EXTM3U
 # Group: Global Independent & Online Communities
-# Homepage: https://8ballradio.nyc
-#EXTINF:-1 group-title="Global Independent & Online Communities",8 Ball Radio
-https://eightball.out.airtime.pro/eightball_a
-# Homepage: https://8radio.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",8Radio.com
-https://edge4.audioxi.com/8RADIO
 # Homepage: https://www.20ftradio.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",20ft Radio
 https://20ft-radio.radiocult.fm/stream
 # Homepage: https://www.313.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",313.FM
 http://icecast.ofdoom.com:8000/burst.mp3
+# Homepage: https://8ballradio.nyc
+#EXTINF:-1 group-title="Global Independent & Online Communities",8 Ball Radio
+https://eightball.out.airtime.pro/eightball_a
+# Homepage: https://8radio.com/
+#EXTINF:-1 group-title="Global Independent & Online Communities",8Radio.com
+https://edge4.audioxi.com/8RADIO
 # Homepage: https://aajamusic.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Aaja Music - Channel 1
 https://aaja.radiocult.fm/stream
@@ -63,12 +63,12 @@ https://stream.radiojar.com/072mdmpbfq8uv
 # Homepage: https://www.fangoradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fango Radio
 https://pantano.ovh:8444/pantano
-# Homepage: https://foundation.fm/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Foundation FM
-https://streamer.radio.co/s0628bdd53/listen
 # Homepage: https://www.radiofrance.fr/fip
 #EXTINF:-1 group-title="Global Independent & Online Communities",FIP
 http://icecast.radiofrance.fr/fip-hifi.aac
+# Homepage: https://foundation.fm/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Foundation FM
+https://streamer.radio.co/s0628bdd53/listen
 # Homepage: https://fritto.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fritto FM
 https://frittofm2020.out.airtime.pro/frittofm2020_a
@@ -93,21 +93,21 @@ https://das-edge14-live365-dal02.cdnstream.com/a18444
 # Homepage: https://radio.kwsx.online/
 #EXTINF:-1 group-title="Global Independent & Online Communities",KWSX Radio
 https://stream.kwsx.online/listen/kwsx/radio-med.mp3
-# Homepage: https://loose.fm/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Loose FM
-https://loosefm.radiocult.fm/stream
 # Homepage: https://thelakeradio.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",The Lake Radio
 http://hyades.shoutca.st:8627/stream
 # Homepage: https://lemellotron.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",Le Mellotron
 https://listen.radioking.com/radio/477719/stream/534044
-# Homepage: https://www.thelotradio.com
-#EXTINF:-1 group-title="Global Independent & Online Communities",The Lot Radio
-https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
 # Homepage: https://looseantenna.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Loose Antenna
 https://stream.looseantenna.fm/radio/8000/default.mp3
+# Homepage: https://loose.fm/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Loose FM
+https://loosefm.radiocult.fm/stream
+# Homepage: https://www.thelotradio.com
+#EXTINF:-1 group-title="Global Independent & Online Communities",The Lot Radio
+https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
 # Homepage: https://lovewillsavetheday.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Love Will Save The Day FM
 https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a
@@ -198,12 +198,12 @@ https://listen.radioking.com/radio/742276/stream/808768
 # Homepage: https://www.radio-sofa.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Sofa
 https://listen.radioking.com/radio/292531/stream/338878
-# Homepage: https://radiovilnius.live/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Vilnius
-https://transliacija.audiomastering.lt/radiovilnius-mp3
 # Homepage: https://www.radioquantica.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Quantica
 https://libretime.radioquantica.com/main.mp3
+# Homepage: https://radiovilnius.live/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Vilnius
+https://transliacija.audiomastering.lt/radiovilnius-mp3
 # Homepage: https://www.reformradio.co.uk/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Reform Radio
 https://testform.out.airtime.pro/testform_a
@@ -237,9 +237,9 @@ https://sounds.threedradio.com/stream
 # Homepage: https://www.tirkultura.lv/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Tīrkultūra
 https://s3.radio.co/s216811754/listen
-# Homepage: https://worldwidefm.net/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Worldwide FM
-https://worldwide-fm.radiocult.fm/stream
 # Homepage: https://wavefarm.org/radio/wgxc/schedule
 #EXTINF:-1 group-title="Global Independent & Online Communities",WGXC 90.7-FM
 https://audio.wavefarm.org/wgxc.mp3
+# Homepage: https://worldwidefm.net/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Worldwide FM
+https://worldwide-fm.radiocult.fm/stream

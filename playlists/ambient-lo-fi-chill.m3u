@@ -6,12 +6,12 @@ https://streams.radio.co/s0aa1e6f4a/listen
 # Homepage: https://amambient.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",a.m. Ambient
 http://radio.stereoscenic.com/ama-h
-# Homepage: https://ambient.fm/
-#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambient.FM
-https://phoebe.streamerr.co:4140/ambient.mp3
 # Homepage: https://stereoscenic.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambient Sleeping Pill
 http://radio.stereoscenic.com/asp-h
+# Homepage: https://ambient.fm/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambient.FM
+https://phoebe.streamerr.co:4140/ambient.mp3
 # Homepage: https://www.ambinature.xyz/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Ambinature Radio
 https://nature-rex.radioca.st/stream
@@ -24,9 +24,6 @@ https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3
 # Homepage: https://dinamo.fm/content/4/channels
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Dinamo.FM - Sleep
 http://channels.dinamo.fm/sleep-mp3
-# Homepage: https://somafm.com/listen/
-#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",SomaFM - Drone Zone
-https://somafm.com/dronezone256.pls
 # Homepage: http://echoesofbluemars.org/cryosleep.php
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Echoes of Bluemars - Cryosleep
 http://streams.echoesofbluemars.org:8000/cryosleep
@@ -54,3 +51,6 @@ https://stream-mixtape-geo.ntslive.net/mixtape
 # Homepage: http://schizoid.in/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Radio Schizoid - Chillout
 http://94.130.113.214:8000/chill
+# Homepage: https://somafm.com/listen/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",SomaFM - Drone Zone
+https://somafm.com/dronezone256.pls
