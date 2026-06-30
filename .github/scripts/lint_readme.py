@@ -268,17 +268,12 @@ def main(path):
         category_counts[cat.title] = len(stations)
 
         # Alpha check per category (improved diagnostics)
-        sorted_stations = sorted(stations, key=lambda s: sort_key(s.name))
         for idx, st in enumerate(stations):
             if idx > 0:
                 prev = stations[idx-1]
                 if sort_key(st.name) < sort_key(prev.name):
-                    # Show expected order context
-                    expected_names = [s.name for s in sorted_stations]
-                    pos = expected_names.index(st.name)
-                    context = expected_names[max(0,pos-2):min(len(expected_names),pos+3)]
                     add(st.line_no, 'WARN',
-                        f"Alpha order: '{st.name}' should precede '{prev.name}' (line {prev.line_no}). Expected around: {' ... '.join(context)}")
+                        f"Move '{st.name}' (line {st.line_no}) up — should come before '{prev.name}' (line {prev.line_no})")
 
         # Check each station
         for st in stations:
@@ -424,7 +419,7 @@ def main(path):
         infos    = [(ln, msg) for ln, sev, msg in findings if sev == 'INFO']
 
         # Partition warnings into actionable groups
-        alpha    = [(ln, msg) for ln, msg in warnings if msg.startswith('Alpha order')]
+        alpha    = [(ln, msg) for ln, msg in warnings if msg.startswith('Move ')]
         short    = [(ln, msg) for ln, msg in warnings if msg.startswith('Description too short')]
         dupes    = [(ln, msg) for ln, msg in warnings if 'Duplicate' in msg]
         banned   = [(ln, msg) for ln, msg in warnings if msg.startswith('Banned')]
