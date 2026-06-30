@@ -423,7 +423,7 @@ for url in "${urls[@]}"; do
     fi
     name="${url_to_name[$url]:-$url}"
     printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
-      "$RESULT_CLASS" "$url" "$RESULT_DETAIL" "$RESULT_SILENT" \
+      "$RESULT_CLASS" "$url" "${RESULT_DETAIL:--}" "$RESULT_SILENT" \
       "$name" "$codec" "$bitrate" "$verdict" > "$result_file"
     echo " [$RESULT_CLASS] $url"
   ) &
