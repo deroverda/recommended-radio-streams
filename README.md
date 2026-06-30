@@ -130,7 +130,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio Suisse Classique](https://www.radioswissclassic.ch/en): Swiss public radio for classical and opera. [Stream](http://stream.srg-ssr.ch/m/rsc_fr/mp3_128)
 - [WBJC 91.5](https://www.wbjc.com/): Classical from Baltimore City Community College. [Stream](https://ice64.securenetsystems.net/WBJC)
 - [WFMT - Classical](https://www.wfmt.com/): Classical and opera from Chicago. [Stream](https://wfmt.streamguys1.com/main-source)
-- [WMNR](https://www.wmnr.org/): Connecticut-based classical music. [Stream](https://wmnr.streamguys1.com/live)
+- [WMNR](https://www.wmnr.org/): Listener-funded classical station and Boston Symphony broadcasts from Connecticut. [Stream](https://wmnr.streamguys1.com/live)
 - [WQXR 105.9](https://www.wqxr.org/): New York City's classical station. [Stream](http://stream.wqxr.org/wqxr)
 - ⭐ [WQXR Q2](https://www.wqxr.org/series/q2): Contemporary classical and experimental works. [Stream](http://q2stream.wqxr.org/q2)
 
@@ -198,7 +198,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [Kiosk Radio](https://kioskradio.com/): Electronic and jazz from a wooden shack in a park in Brussels. [Stream](https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b)
 - [KPISS](https://kpiss.fm/): DJ-run freeform from Brooklyn - 'The Golden Stream'. [Stream](https://das-edge14-live365-dal02.cdnstream.com/a18444)
 - [KWSX Radio](https://radio.kwsx.online/): Freeform experimental radio from London. [Stream](https://stream.kwsx.online/listen/kwsx/radio-med.mp3)
-- [The Lake Radio](https://thelakeradio.com): Copenhagen-based art radio. [Stream](http://hyades.shoutca.st:8627/stream)
+- [The Lake Radio](https://thelakeradio.com): Copenhagen art radio with a fully randomized stream - nobody knows what plays next. [Stream](http://hyades.shoutca.st:8627/stream)
 - ⭐ [Le Mellotron](https://lemellotron.com): Independent station from a Paris bar - soul, funk, hip-hop, jazz, and Brazilian beats. [Stream](https://listen.radioking.com/radio/477719/stream/534044)
 - [Loose Antenna](https://looseantenna.fm/): Community and pirate radio tradition from Lausanne; DJ sets and voices from the margins. [Stream](https://stream.looseantenna.fm/radio/8000/default.mp3)
 - [Loose FM](https://loose.fm/): Experimental music and community broadcasts from London. [Stream](https://loosefm.radiocult.fm/stream)
@@ -301,7 +301,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Poolsuite FM](https://poolsuite.net/): Retro summer soundtrack - disco, yacht rock, and Balearic tracks. [Stream](https://s5.radio.co/sc9cb59935/listen)
 - [Radio BipTunia](https://biptunia.com/): One artist's experimental electronic catalog. [Stream](https://ecast.myautodj.com:1380/listen.mp3)
 - [Radio DY10](https://www.radiody10.com/): Dance and trippy electronic from Nantes. [Stream](https://flux.radiody10.com/live)
-- [Radio ItaloPower!](https://italopower.com): Italo-disco hits. [Stream](https://stream.deevaradio.net:10443/italopower)
+- [Radio ItaloPower!](https://italopower.com): Italo disco, Hi-NRG and spacesynth from the golden synth-pop years. [Stream](https://stream.deevaradio.net:10443/italopower)
 - ⭐ [Rinse UK](https://rinse.fm): East London pirate-turned-legal since 1994; birthplace of grime, garage, and dubstep. [Stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream)
 - [SerrebiRadio](https://serrebiradio.com): House, trance, and hard dance - curated by a blind DJ in Vancouver. [Stream](https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio)
 - [Skylab Radio](https://skylabradio.com): Experimental electronic and avant-garde from Melbourne. [Stream](http://stream.skylab-radio.com:8000/live)
@@ -353,7 +353,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [J-Club Bandstand - Jazz Sakura](https://jclubbandstand.torontocast.stream/stations/index.html): Japanese jazz artists across the Showa and Heisei eras. [Stream](https://kathy.torontocast.com:3330/;)
 - [Jazz Con Class](https://jazzconclass.com): Traditional jazz from the late 1940s to early 1970s, with themed streams. [Stream](http://streaming.live365.com/a73229)
 - ⭐ [The Jazz Groove](https://jazzgroove.org): Two channels of laid-back and vocal jazz. [Stream](http://east-mp3-128.streamthejazzgroove.com/stream)
-- [Jazz Radio - Afro Jazz](https://www.jazzradio.fr/radio/webradio): Afro-jazz fusion. [Stream](https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)
+- [Jazz Radio - Afro Jazz](https://www.jazzradio.fr/radio/webradio): African rhythms and jazz fusion from France's jazz giant. [Stream](https://jazz-radio-afro.ice.infomaniak.ch/jazz-radio-afro.mp3)
 - [Jazz Radio - Blue](https://www.jazzradio.fr/radio/webradio): Mix of jazz and blues. [Stream](http://jazzblues.ice.infomaniak.ch/jazzblues-high.mp3)
 - ⭐ [Jazz24](https://www.jazz24.org/): Jazz from Seattle and Tacoma, seasoned with blues, funk, and Latin jazz. [Stream](https://knkx-live-a.edge.audiocdn.com/6285_256k)
 - [KCSM Jazz 91.1](https://kcsm.org/): One of the last full-time jazz stations in the US, from the College of San Mateo. [Stream](http://ice7.securenetsystems.net/KCSM2)
@@ -461,7 +461,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [No Life Radio](https://nolife-radio.com/): Game OSTs and anime arrangements. [Stream](https://listen.nolife-radio.com/stream)
 - [RadioSEGA](https://www.radiosega.net/): Music from SEGA games. [Stream](http://content.radiosega.net:8006/live)
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](https://relay.rainwave.cc/game.ogg)
-- [RPGamers Radio](https://www.rpgamers.net/radio/): RPG soundtracks. [Stream](https://listen.rpgamers.net/rpgn)
+- [RPGamers Radio](https://www.rpgamers.net/radio/): Video game music from a fan site that has existed since 1996. [Stream](https://listen.rpgamers.net/rpgn)
 - [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax)
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999; Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
@@ -472,7 +472,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ---
 
 ### World & Regional <a id="world-regional"></a>
-- [Alefa Music](https://alefamusic.net/): Malagasy salegy rhythms. [Stream](http://www.radioking.com/play/alefamusic)
+- [Alefa Music](https://alefamusic.net/): Malagasy salegy and tsapiky from a Paris-based diaspora project. [Stream](http://www.radioking.com/play/alefamusic)
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Volunteer-run Scottish station for folk, roots, and traditional music. [Stream](http://stream.celticmusicradio.net:8000/celticmusic.mp3)
 - [CeolFM](https://ceol.fm/): Trad Irish jigs and reels from a Drogheda uilleann piper; multiple mood streams. [Stream](https://listen.ceol.fm/auto)
 - [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish "Dansband" music. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
