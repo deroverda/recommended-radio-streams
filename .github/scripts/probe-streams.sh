@@ -489,13 +489,20 @@ for v in "${verdict_order[@]}"; do
   verdict_counts["$v"]=0
 done
 if [ -s "$quality_tmp" ]; then
+  # FIX: Sort by section order (as they appear in README), not alphabetically
+  # Build section order from quality_tmp (sections in README order)
+  awk -F'\t' '{print $5}' "$quality_tmp" | awk '!seen[$0]++' > "$tmp_dir/section_order.tmp"
+  # Add section index column
+  awk -F'\t' 'NR==FNR{a[$0]=NR;next} {print $0 "\t" a[$5]}' "$tmp_dir/section_order.tmp" "$quality_tmp" > "$tmp_dir/quality_with_order.tmp"
+  # Sort by verdict, then section order, then station name
+  sort -t$'\t' -k4,4 -k6,6n -k1,1 "$tmp_dir/quality_with_order.tmp" | cut -f1-5 > "$tmp_dir/quality_sorted.tmp"
   while IFS=$'\t' read -r name codec bitrate verdict section; do
     bdisp="$bitrate"
     [ "$bdisp" != "-" ] && bdisp="${bdisp}k"
     v="${verdict:-N/A}"
     verdict_rows["$v"]+="| $section | $name | $codec | $bdisp | $v |"$'\n'
     verdict_counts["$v"]=$(( ${verdict_counts["$v"]:-0} + 1 ))
-  done < <(sort -f -t$'\t' -k4,4 -k5,5 -k1,1 "$quality_tmp")
+  done < "$tmp_dir/quality_sorted.tmp"
 fi
 
 {
