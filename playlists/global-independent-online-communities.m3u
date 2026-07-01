@@ -190,11 +190,8 @@ https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Meuh
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 # Homepage: https://radionopal.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Nopal - Channel 1
-https://radio.mensajito.mx/nopalA
-# Homepage: https://radionopal.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Nopal - Channel 2
-https://radio.mensajito.mx/nopalVentana
+#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Nopal
+http://mensajito.mx:8000/nopalVentana
 # Homepage: https://www.nova.fr/radios/radio-nova/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Nova
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
