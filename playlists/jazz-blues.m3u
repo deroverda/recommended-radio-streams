@@ -15,7 +15,7 @@ https://streams.greenhost.nl:8006/jazz
 # Homepage: https://www.fmr.co.za/
 #EXTINF:-1 group-title="Jazz & Blues",Fine Music Radio
 http://edge.iono.fm/xhls/fmr_live_medium.m3u8
-# Homepage: https://www.fip.fr/jazz
+# Homepage: https://www.radiofrance.fr/musique/jazz
 #EXTINF:-1 group-title="Jazz & Blues",FIP Jazz
 http://icecast.radiofrance.fr/fipjazz-hifi.aac
 # Homepage: http://www.giantsofjazzradio.co.uk/

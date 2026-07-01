@@ -3,10 +3,10 @@
 # Homepage: http://www.audiobookradio.net/
 #EXTINF:-1 group-title="News & Spoken Word",AudioBookRadio
 https://audiobookradio.out.airtime.pro/audiobookradio_a
-# Homepage: https://www.bbc.co.uk/radio4
+# Homepage: https://www.bbc.co.uk/sounds/play/live/bbc_radio_fourfm
 #EXTINF:-1 group-title="News & Spoken Word",BBC Radio 4
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8
-# Homepage: https://www.bbc.co.uk/worldserviceradio
+# Homepage: https://www.bbc.co.uk/sounds/play/live/bbc_world_service
 #EXTINF:-1 group-title="News & Spoken Word",BBC World Service
 http://stream.live.vc.bbcmedia.co.uk/bbc_world_service
 # Homepage: https://historyradio.org
