@@ -266,12 +266,16 @@ def main(path):
         stations = cat.stations
         category_counts[cat.title] = len(stations)
 
-        # Alpha check per category (disabled - caused false positives with call-sign prefixes)
-        # for idx, st in enumerate(stations):
-        #     if idx > 0:
-        #         prev = stations[idx-1]
-        #         if sort_key(st.name) < sort_key(prev.name):
-        #             add(st.line_no, 'WARN', f"Move '{st.name}' (line {st.line_no}) up — should come before '{prev.name}' (line {prev.line_no})")
+        # Alpha order check - full pass within this section only
+        sorted_stations = sorted(stations, key=lambda s: sort_key(s.name))
+        sorted_names = [s.name for s in sorted_stations]
+        for idx, st in enumerate(stations):
+            expected_idx = sorted_names.index(st.name)
+            if expected_idx != idx:
+                if expected_idx + 1 < len(sorted_names):
+                    should_precede = sorted_stations[expected_idx + 1]
+                    add(st.line_no, 'WARN',
+                        f"Move '{st.name}' (line {st.line_no}) up — should come before '{should_precede.name}' (line {should_precede.line_no})")
 
         # Check each station
         for st in stations:
