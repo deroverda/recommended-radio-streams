@@ -453,7 +453,7 @@ done
 wait
 
 tmp_results="$tmp_dir/all.tsv"
-cat "$tmp_dir"/*.tsv > "$tmp_results" 2>/dev/null || true
+cat "$tmp_dir"/[0-9]*.tsv > "$tmp_results" 2>/dev/null || true
 
 total_ok=0
 total_silent=0
