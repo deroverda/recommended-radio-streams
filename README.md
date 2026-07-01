@@ -230,7 +230,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio Centraal](https://www.radiocentraal.be/): Independent and non-commercial from Antwerp since 1980. Brain and rhythm. [Stream](http://streams.movemedia.eu:8530/)
 - [Radio Kapitał](https://radiokapital.pl/): Artist and activist collective broadcasting music, culture, and spoken word from Warsaw's Old Town, since 2019. [Stream](https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a)
 - [Radio Meuh](https://www.radiomeuh.com/): Electronic, soul, and funk from the French Alps. [Stream](http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3)
-- [Radio Nopal](https://radionopal.com/): Collective broadcasting live from a storefront in San Rafael, Mexico City, using open-source hardware. [Channel 1](https://radio.mensajito.mx/nopalA) / [Channel 2](https://radio.mensajito.mx/nopalVentana)
+- [Radio Nopal](https://radionopal.com/): Collective broadcasting live from a storefront in San Rafael, Mexico City, using open-source hardware. [Stream](http://mensajito.mx:8000/nopalVentana)
 - [Radio Nova](https://www.nova.fr/radios/radio-nova/): Global sounds, jazz, and hip-hop from France. [Stream](https://novazz.ice.infomaniak.ch/novazz-128.mp3)
 - [Radio Pinpon](https://www.facebook.com/radiopinpon/): Community radio from a psychiatric hospital in Niort, France. Run by patients and staff. [Stream](https://listen.radioking.com/radio/142627/stream/182797)
 - [Radio Quantica](https://www.radioquantica.com/): Underground shows from a Lisbon community collective, since 2015. [Stream](https://libretime.radioquantica.com/main.mp3)
