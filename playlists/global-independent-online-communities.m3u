@@ -183,6 +183,9 @@ https://novazz.ice.infomaniak.ch/novazz-128.mp3
 # Homepage: https://www.facebook.com/radiopinpon/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Pinpon
 https://listen.radioking.com/radio/142627/stream/182797
+# Homepage: https://www.radioquantica.com/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Quantica
+https://libretime.radioquantica.com/main.mp3
 # Homepage: https://www.radioraheem.it/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Raheem
 https://radioraheem.out.airtime.pro/radioraheem_b
@@ -198,9 +201,6 @@ https://listen.radioking.com/radio/742276/stream/808768
 # Homepage: https://www.radio-sofa.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Sofa
 https://listen.radioking.com/radio/292531/stream/338878
-# Homepage: https://www.radioquantica.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Quantica
-https://libretime.radioquantica.com/main.mp3
 # Homepage: https://radiovilnius.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Vilnius
 https://transliacija.audiomastering.lt/radiovilnius-mp3

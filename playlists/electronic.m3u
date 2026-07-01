@@ -20,7 +20,7 @@ https://streaming.radio.co/sfd68ddd77/listen
 https://streampusher-relay.club/datafruits.mp3
 # Homepage: https://dogglounge.com/
 #EXTINF:-1 group-title="Electronic",Dogglounge
-https://dogglounge.com/listen.pls
+http://dogglounge.com:8000/;
 # Homepage: https://dub.ninja/
 #EXTINF:-1 group-title="Electronic",Dub Ninja
 https://dub.ninja/live

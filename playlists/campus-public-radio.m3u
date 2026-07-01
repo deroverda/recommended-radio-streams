@@ -39,18 +39,6 @@ http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
 # Homepage: https://subcity.org/
 #EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
 https://stream.subcity.org/listen
-# Homepage: http://wncw.org/
-#EXTINF:-1 group-title="Campus & Public Radio",WNCW 88.7
-https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
-# Homepage: https://wsum.org/
-#EXTINF:-1 group-title="Campus & Public Radio",WSUM 91.7
-https://ice23.securenetsystems.net/WSUMFM
-# Homepage: https://wtju.net
-#EXTINF:-1 group-title="Campus & Public Radio",WTJU 91.1
-https://streams.wtju.net/wtju-live.mp3
-# Homepage: https://www.wxtj.fm/
-#EXTINF:-1 group-title="Campus & Public Radio",WXTJ 100.1
-https://streams.wtju.net/wxtj-live.mp3
 # Homepage: https://wfmu.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WFMU - Rock 'n' Soul
 http://wfmu.org/wfmu_rock.pls
@@ -63,9 +51,21 @@ https://wfmu.org/wfmu.pls
 # Homepage: https://wmse.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WMSE 91.7
 https://wmse.streamguys1.com/wmselivemp3
+# Homepage: http://wncw.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WNCW 88.7
+https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
 # Homepage: https://wrir.org
 #EXTINF:-1 group-title="Campus & Public Radio",WRIR 97.3
 https://live.wrir.org/
+# Homepage: https://wsum.org/
+#EXTINF:-1 group-title="Campus & Public Radio",WSUM 91.7
+https://ice23.securenetsystems.net/WSUMFM
+# Homepage: https://wtju.net
+#EXTINF:-1 group-title="Campus & Public Radio",WTJU 91.1
+https://streams.wtju.net/wtju-live.mp3
+# Homepage: https://www.wxtj.fm/
+#EXTINF:-1 group-title="Campus & Public Radio",WXTJ 100.1
+https://streams.wtju.net/wxtj-live.mp3
 # Homepage: https://wxyc.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WXYC 89.3
 https://audio-mp3.ibiblio.org/wxyc.mp3
