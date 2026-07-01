@@ -7,13 +7,11 @@ on:
       - "README.md"
       - ".github/workflows/link-check.yml"
       - ".github/scripts/probe-streams.sh"
-      - ".github/scripts/lint_readme.py"
   pull_request:
     paths:
       - "README.md"
       - ".github/workflows/link-check.yml"
       - ".github/scripts/probe-streams.sh"
-      - ".github/scripts/lint_readme.py"
   schedule:
     - cron: "0 0 * * 1" # weekly on Monday at UTC midnight
   workflow_dispatch:
@@ -36,15 +34,13 @@ jobs:
         with:
           persist-credentials: false
 
-      # Lychee reads .lycheeignore (one regex per line) from the working
-      # directory automatically, no --exclude-file flag needed.
       - name: Exclude stream URLs from Lychee
         shell: bash
         run: |
           set -euo pipefail
           grep -oE '\[(Stream|Channel [12]|[12])\]\(https?://[^)]+\)' README.md \
             | sed -E 's/.*\((https?:\/\/[^)]+)\)/\1/' \
-            | sed -E 's/[][\\.^$?*+(){}|]/\\&/g' \
+            | sed -E 's/[][\\\.^$?*+(){}|]/\\&/g' \
             | sort -u > .lycheeignore
           echo "Excluded $(wc -l < .lycheeignore) stream URLs from Lychee."
 
@@ -118,29 +114,4 @@ jobs:
           name: stream-probe-report
           path: stream-report.md
           if-no-files-found: error
-          retention-days: 14
-
-  readme-lint:
-    name: README Structure & Style Lint
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v7
-        with:
-          persist-credentials: false
-
-      - name: Lint README structure
-        shell: bash
-        run: |
-          python3 .github/scripts/lint_readme.py README.md | tee readme-lint-report.txt
-          # Warn only - the script always exits 0, never fails the build.
-
-      - name: Upload lint report
-        if: always()
-        uses: actions/upload-artifact@v7
-        with:
-          name: readme-lint-report
-          path: readme-lint-report.txt
-          if-no-files-found: warn
           retention-days: 14
