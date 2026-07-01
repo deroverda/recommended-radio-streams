@@ -63,7 +63,7 @@ https://stream.radiojar.com/072mdmpbfq8uv
 # Homepage: https://www.fangoradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fango Radio
 https://pantano.ovh:8444/pantano
-# Homepage: https://fbi.radio/
+# Homepage: https://www.fbi.radio/
 #EXTINF:-1 group-title="Global Independent & Online Communities",fbi.radio
 https://streamer.fbiradio.com/stream
 # Homepage: https://www.radiofrance.fr/fip
@@ -81,7 +81,7 @@ https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f
 # Homepage: https://hkcr.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",HKCR
 https://stream-test.hkcr.live/hls/main.m3u8
-# Homepage: https://www.hollowearthradio.org/
+# Homepage: https://khuh.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Hollow Earth Radio
 http://centova.rockhost.com:8001/stream
 # Homepage: https://www.internetpublicradio.live/
@@ -234,7 +234,7 @@ https://radio.veneno.live/stream/main
 # Homepage: https://www.reformradio.co.uk/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Reform Radio
 https://testform.out.airtime.pro/testform_a
-# Homepage: https://retreatradio.net/
+# Homepage: https://www.retreatradio.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Retreat Radio
 https://retreatradio.out.airtime.pro/retreatradio_b
 # Homepage: https://refugeworldwide.com/
@@ -276,6 +276,6 @@ https://edge.mixlr.com/channel/vgmet
 # Homepage: https://wavefarm.org/radio/wgxc/schedule
 #EXTINF:-1 group-title="Global Independent & Online Communities",WGXC 90.7-FM
 https://audio.wavefarm.org/wgxc.mp3
-# Homepage: https://worldwidefm.net/
+# Homepage: https://www.worldwidefm.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Worldwide FM
 https://worldwide-fm.radiocult.fm/stream

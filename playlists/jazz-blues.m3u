@@ -66,7 +66,7 @@ https://octaverecords.out.airtime.pro/octaverecords_a
 # Homepage: https://thepenthouse.fm/
 #EXTINF:-1 group-title="Jazz & Blues",The Penthouse
 http://sc1.mystreamserver.com:8052/;
-# Homepage: http://radiosuissejazz.ch
+# Homepage: https://www.radioswissjazz.ch/en
 #EXTINF:-1 group-title="Jazz & Blues",Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
 # Homepage: https://www.beachfm.co.jp/
@@ -78,7 +78,7 @@ https://somafm.com/sonicuniverse256.pls
 # Homepage: https://www.tsfjazz.com/
 #EXTINF:-1 group-title="Jazz & Blues",TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
-# Homepage: http://wbgo.org
+# Homepage: https://www.wbgo.org/
 #EXTINF:-1 group-title="Jazz & Blues",WBGO 88.3
 https://ais-sa8.cdnstream1.com/3629_128.mp3
 # Homepage: https://wdnaradio.org
