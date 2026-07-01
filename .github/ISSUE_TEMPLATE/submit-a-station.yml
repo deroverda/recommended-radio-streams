@@ -13,7 +13,7 @@ body:
     attributes:
       label: Station Name
       description: Official name of the station.
-      placeholder: e.g. FIP Radio
+      placeholder: e.g. Kiosk Radio
     validations:
       required: true
 
@@ -21,48 +21,65 @@ body:
     id: description
     attributes:
       label: Description
-      description: One line. Genre and/or location. Keep it factual.
-      placeholder: e.g. French public radio mixing jazz, rock, and world music. Ad-free.
+      description: >
+        10-12 words. Genre and/or location. Must come from the station's own
+        website or Radio Browser - never invented. Avoid generic terms like
+        "curated," "eclectic," "diverse," "24/7," "ad-free."
+      placeholder: e.g. Electronic and jazz from a wooden shack in a park in Brussels.
     validations:
       required: true
+
+  - type: input
+    id: description-source
+    attributes:
+      label: Description Source
+      description: Where did the description come from? (URL or "Radio Browser")
+      placeholder: https://kioskradio.com/about
+    validations:
+      required: true
+
+  - type: textarea
+    id: why-notable
+    attributes:
+      label: Anything that makes it stand out? (optional)
+      description: >
+        A named curator, unusual location, or notable history - if there is one.
+        Not required. Good music is reason enough on its own.
+      placeholder: e.g. Run from a shipping container in a public park.
+    validations:
+      required: false
 
   - type: dropdown
     id: genre
     attributes:
-      label: Category / Genre
-      description: Pick the closest section.
+      label: Category / Section
+      description: Pick the closest existing section in the README.
       multiple: true
       options:
         - Ambient, Lo-Fi & Chill
         - Classical & Opera
         - College, Freeform & Community
         - Decades, Oldies & Nostalgia
-        - "Electronic: General, House & Techno"
-        - "Electronic: Hyperpop & Glitchcore"
-        - "Electronic: Phonk & Drift"
-        - "Electronic: Synthwave & Retrowave"
-        - Funk, Soul & Disco
-        - Hip-Hop & Rap
+        - Electronic
+        - Funk, Soul, Hip-Hop & Disco
         - Jazz & Blues
         - Metal & Heavy
         - News & Spoken Word
         - Reggae & Dub
-        - Rock, Indie, Alt, Country & Folk
-        - Video Game & Chiptune
-        - Soundtracks & Movie Scores
+        - Rock, Indie, Alternative, Country & Folk
+        - Video Game, Chiptune & Soundtracks
         - World & Regional
-        - Christmas Music & Holiday
-        - HiRes / Lossless
-        - Multi-Station Network
+        - Christmas & Holiday
         - Experimental, Nerdy & Scanners
-        - Other (specify below)
+        - Multi-Station Network
+        - Not sure / other (specify below)
     validations:
       required: true
 
   - type: input
     id: other-genre
     attributes:
-      label: Custom Genre (if "Other" selected)
+      label: Custom Genre (if "Not sure / other" selected)
       placeholder: e.g. K-Pop, Bluegrass, Math Rock
     validations:
       required: false
@@ -71,7 +88,6 @@ body:
     id: website
     attributes:
       label: Official Website / Web Player
-      description: Prefer the station homepage over a direct stream URL.
       placeholder: https://www.radiofrance.fr/fip
     validations:
       required: true
@@ -79,7 +95,8 @@ body:
   - type: input
     id: stream-url
     attributes:
-      label: Direct Stream URL (Optional)
+      label: Direct Stream URL
+      description: If known. A .pls or .m3u playlist link is fine too.
       placeholder: https://icecast.radiofrance.fr/fip-midfi.mp3
     validations:
       required: false
@@ -88,19 +105,7 @@ body:
     id: location
     attributes:
       label: Location
-      placeholder: Paris, France
-    validations:
-      required: false
-
-  - type: dropdown
-    id: quality
-    attributes:
-      label: Audio Quality
-      options:
-        - Unknown
-        - Standard (128kbps MP3/AAC)
-        - High (192kbps - 256kbps)
-        - Lossless / Hi-Res (FLAC/ALAC)
+      placeholder: Brussels, Belgium
     validations:
       required: false
 
@@ -113,5 +118,5 @@ body:
           required: true
         - label: Works globally (no geo-blocking).
           required: true
-        - label: Human-curated (no AI-generated playlists).
+        - label: The description is sourced, not written from general impression.
           required: true
