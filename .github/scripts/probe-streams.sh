@@ -112,11 +112,19 @@ for raw in lines:
 PYEOF
 }
 
+# Collapses whitespace, escapes markdown table pipes, then truncates to a
+# maximum length. Truncation breaks at the last full word rather than cutting
+# mid-word, so error snippets stay readable in the report.
 sanitize_text() {
-  printf '%s' "$1" \
+  local out
+  out=$(printf '%s' "$1" \
     | tr '\n\t' ' ' \
-    | sed -E 's/[[:space:]]+/ /g; s/^ //; s/ $//; s/\|/\\|/g' \
-    | cut -c1-200
+    | sed -E 's/[[:space:]]+/ /g; s/^ //; s/ $//; s/\|/\\|/g')
+  if [ "${#out}" -gt 200 ]; then
+    out="${out:0:200}"
+    out="${out% *}..."
+  fi
+  printf '%s' "$out"
 }
 
 classify_error() {
@@ -372,7 +380,7 @@ done < "$tmp_results"
   done
   echo ""
   echo "## Probe Failures"
-  echo "_Streams the runner could not decode. Likely a bad or dead URL — check the README entry._"
+  echo "_Streams the runner could not decode. Could be genuinely dead, or the same datacenter-IP blocking seen elsewhere - verify from a residential IP before removing the README entry._"
   echo ""
   if [ -n "$manual_rows" ]; then
     echo "| Section | Station | URL | Result | Details |"
@@ -383,7 +391,7 @@ done < "$tmp_results"
   fi
   echo ""
   echo "## Access-Blocked"
-  echo "_401/403 from the datacenter IP. Almost certainly fine from a residential IP — safe to ignore unless persistent across many runs._"
+  echo "_401/403 from the datacenter IP. Almost certainly fine from a residential IP - safe to ignore unless persistent across many runs._"
   echo ""
   if [ -n "$access_rows" ]; then
     echo "| Section | Station | URL | Result | Details |"
