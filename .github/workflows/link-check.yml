@@ -70,6 +70,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
 
+      - name: Add reliability caveat to Lychee report
+        if: always()
+        shell: bash
+        run: |
+          CAVEAT="> Note: this report reflects a single run from GitHub's datacenter IP.
+          > Many hosts block or rate-limit that IP range, which can show up as SSL,
+          > connection-reset, or HTTP-level errors even when a site is fine.
+          > Treat single-run errors as inconclusive - only investigate a URL if it
+          > appears as an error across multiple consecutive weekly runs."
+
+          if [ -f lychee/lychee-report.md ]; then
+            { echo "$CAVEAT"; echo ""; cat lychee/lychee-report.md; } > lychee/lychee-report.tmp.md
+            mv lychee/lychee-report.tmp.md lychee/lychee-report.md
+          fi
+
+          if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
+            { echo ""; echo "$CAVEAT"; } >> "$GITHUB_STEP_SUMMARY"
+          fi
+
       - name: Upload Lychee report
         if: always()
         uses: actions/upload-artifact@v7
