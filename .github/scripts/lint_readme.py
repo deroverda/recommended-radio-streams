@@ -267,15 +267,19 @@ def main(path):
         category_counts[cat.title] = len(stations)
 
         # Alpha order check - full pass within this section only
+        # Only flags stations that are genuinely too late (a station that
+        # should sort earlier appears after one that should sort later).
+        # This avoids cascade warnings where every station after a single
+        # misplaced entry gets flagged.
         sorted_stations = sorted(stations, key=lambda s: sort_key(s.name))
-        sorted_names = [s.name for s in sorted_stations]
-        for idx, st in enumerate(stations):
-            expected_idx = sorted_names.index(st.name)
-            if expected_idx != idx:
-                if expected_idx + 1 < len(sorted_names):
-                    should_precede = sorted_stations[expected_idx + 1]
-                    add(st.line_no, 'WARN',
-                        f"Move '{st.name}' (line {st.line_no}) up — should come before '{should_precede.name}' (line {should_precede.line_no})")
+        for sorted_idx, expected_st in enumerate(sorted_stations):
+            actual_idx = next(i for i, s in enumerate(stations) if s.name == expected_st.name)
+            if actual_idx > sorted_idx:
+                # This station appears too late in the file
+                if sorted_idx + 1 < len(sorted_stations):
+                    should_precede = sorted_stations[sorted_idx + 1]
+                    add(expected_st.line_no, 'WARN',
+                        f"Move '{expected_st.name}' (line {expected_st.line_no}) up — should come before '{should_precede.name}' (line {should_precede.line_no})")
 
         # Check each station
         for st in stations:
@@ -430,7 +434,7 @@ def main(path):
         banned   = [(ln, msg) for ln, msg in warnings if msg.startswith('Banned')]
         disc     = [(ln, msg) for ln, msg in warnings if msg.startswith('Discouraged')]
         other_w  = [(ln, msg) for ln, msg in warnings
-                    if not any(msg.startswith(p) for p in ('Alpha order', 'Description too short', 'Banned', 'Discouraged'))
+                    if not any(msg.startswith(p) for p in ('Move ', 'Description too short', 'Banned', 'Discouraged'))
                     and 'Duplicate' not in msg]
 
         # Stats and category distribution from infos
@@ -454,12 +458,11 @@ def main(path):
 
             # Alpha order fixes
             if alpha:
-                f.write("## 🔤 Alpha Order Fixes\n\n")
+                f.write("<details><summary>🔤 Alpha Order Fixes (%d)</summary>\n\n" % len(alpha))
                 f.write("| Line | Fix |\n|---|---|\n")
                 for ln, msg in alpha:
-                    # Extract just the station names for a cleaner display
                     f.write(f"| {ln} | {msg.replace('|', chr(124))} |\n")
-                f.write("\n")
+                f.write("\n</details>\n\n")
 
             # Short descriptions
             if short:
