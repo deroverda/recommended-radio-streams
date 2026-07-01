@@ -120,7 +120,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 
 ### Classical & Opera <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments. [Stream](https://mediaserv73.live-streams.nl:18058/stream)
-- ⭐ [BBC Radio 3](https://www.bbc.co.uk/radio3): Classical, jazz, and world music from the BBC. Live concerts and the Proms. [Stream](http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8)
+- ⭐ [BBC Radio 3](https://www.bbc.co.uk/sounds/play/live/bbc_radio_three): Classical, jazz, and world music from the BBC. Live concerts and the Proms. [Stream](http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8)
 - [Classical California KDFC](https://www.classicalcalifornia.org/): San Francisco classical. Rare catalog recordings and deep cuts. [Stream](https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac)
 - [Concertzender - Baroque](https://www.concertzender.nl/): Dutch public broadcaster's baroque channel. [Stream](http://streams.greenhost.nl:8080/barok)
 - [CRB Classical 99.5](https://www.classicalwcrb.org/): Home of the Boston Symphony Orchestra. [Stream](https://wgbh-live.streamguys1.com/classical-hi)
@@ -358,7 +358,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [AshiyaRadio](https://ashiya.radio/): Jazz and bossa nova from Kobe, Japan. [Stream](https://s3.radio.co/sc8d895604/listen)
 - [Concertzender - World of Jazz](https://www.concertzender.nl/en): Jazz and world fusion from the Netherlands. [Stream](https://streams.greenhost.nl:8006/jazz)
 - [Fine Music Radio](https://www.fmr.co.za/): Classical and jazz from Cape Town. [Stream](http://edge.iono.fm/xhls/fmr_live_medium.m3u8)
-- ⭐ [FIP Jazz](https://www.fip.fr/jazz): Jazz in all forms from Radio France - unreleased tracks alongside classics. [Stream](http://icecast.radiofrance.fr/fipjazz-hifi.aac)
+- ⭐ [FIP Jazz](https://www.radiofrance.fr/musique/jazz): Jazz in all forms from Radio France - unreleased tracks alongside classics. [Stream](http://icecast.radiofrance.fr/fipjazz-hifi.aac)
 - [Giants of Jazz](http://www.giantsofjazzradio.co.uk/): Classic jazz from the 40s-70s, broadcast from the UK since 2012. [Stream](http://streaming.radio.co/s297e618a7/listen)
 - [Head Wax Radio](https://www.headwaxradio.ie/): Future jazz and funk from Dublin. [Stream](https://headwaxradio.radioca.st/stream)
 - [iFusion Radio](https://www.ifusionradio.com/): Progressive rock and jazz fusion. [Stream](https://listen.radioking.com/radio/523747/stream/582004)
@@ -404,8 +404,8 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 
 ### News & Spoken Word <a id="news-spoken-word"></a>
 - [AudioBookRadio](http://www.audiobookradio.net/): Audiobooks, poetry, and classic plays. [Stream](https://audiobookradio.out.airtime.pro/audiobookradio_a)
-- [BBC Radio 4](https://www.bbc.co.uk/radio4): UK news, drama, and comedy. [Stream](http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8)
-- [BBC World Service](https://www.bbc.co.uk/worldserviceradio): International news and culture. [Stream](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
+- [BBC Radio 4](https://www.bbc.co.uk/sounds/play/live/bbc_radio_fourfm): UK news, drama, and comedy. [Stream](http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8)
+- [BBC World Service](https://www.bbc.co.uk/sounds/play/live/bbc_world_service): International news and culture. [Stream](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
 - [Historyradio.org](https://historyradio.org): Literature, speeches, and audiobooks. [Stream](http://stream.radiojar.com/6bmecgg3wd5tv)
 - [Horror Radio](https://darkentertainments.com/): Vintage horror plays and eerie soundscapes, broadcasting from beyond the grave. [Stream](https://eu1.fastcast4u.com/proxy/stevende1?mp=/;)
 - [The Ultimate Art Bell](https://www.willstare.com/art-bell-repository/): Classic Coast to Coast AM paranormal talk episodes. [Stream](http://stream.willstare.com:8450/;)
