@@ -315,9 +315,11 @@ cat "$tmp_dir"/[0-9]*.tsv > "$tmp_results" 2>/dev/null || true
 total_ok=0
 total_silent=0
 manual=0
-blocked=0
+access_blocked=0
+timeout_blocked=0
 manual_rows=""
-blocked_rows=""
+access_rows=""
+timeout_rows=""
 declare -A category_counts
 
 while IFS=$'\t' read -r result url detail silent name section; do
@@ -329,9 +331,13 @@ while IFS=$'\t' read -r result url detail silent name section; do
       total_ok=$((total_ok + 1))
       [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
       ;;
-    TIMEOUT|RATE_LIMITED|AUTH_REQUIRED|FORBIDDEN|CONNECTION_RESET)
-      blocked_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
-      blocked=$((blocked + 1))
+    AUTH_REQUIRED|FORBIDDEN|RATE_LIMITED)
+      access_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+      access_blocked=$((access_blocked + 1))
+      ;;
+    TIMEOUT|CONNECTION_RESET)
+      timeout_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+      timeout_blocked=$((timeout_blocked + 1))
       ;;
     *)
       manual_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
@@ -346,7 +352,7 @@ done < "$tmp_results"
 {
   echo "# Stream Probe Report - $(date -u +%F)"
   echo ""
-  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** probe failures, **$blocked** runner-blocked."
+  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** probe failures, **$access_blocked** access-blocked, **$timeout_blocked** timed out."
   echo ""
   echo "## Statistics"
   echo "| Metric | Value |"
@@ -355,7 +361,8 @@ done < "$tmp_results"
   echo "| Playable (OK) | $total_ok |"
   echo "| Silent streams (warning) | $total_silent |"
   echo "| Probe failures | $manual |"
-  echo "| Runner-blocked | $blocked |"
+  echo "| Access-blocked (CI) | $access_blocked |"
+  echo "| Timed out | $timeout_blocked |"
   echo ""
   echo "## Result Breakdown"
   echo "| Result | Count |"
@@ -375,13 +382,24 @@ done < "$tmp_results"
     echo "_None._"
   fi
   echo ""
-  echo "## Runner-Blocked or Throttled"
-  echo "_AUTH_REQUIRED / TIMEOUT / CONNECTION_RESET from the datacenter IP. Usually fine from a residential IP — verify in foobar2000 or VLC before removing from README._"
+  echo "## Access-Blocked"
+  echo "_401/403 from the datacenter IP. Almost certainly fine from a residential IP — safe to ignore unless persistent across many runs._"
   echo ""
-  if [ -n "$blocked_rows" ]; then
+  if [ -n "$access_rows" ]; then
     echo "| Section | Station | URL | Result | Details |"
     echo "|---|---|---|---|---|"
-    printf '%s' "$blocked_rows"
+    printf '%s' "$access_rows"
+  else
+    echo "_None._"
+  fi
+  echo ""
+  echo "## Timed Out"
+  echo "_TIMEOUT / CONNECTION_RESET from the datacenter IP. Usually fine from residential IP, but verify in foobar2000 or VLC if a stream times out consistently across multiple runs._"
+  echo ""
+  if [ -n "$timeout_rows" ]; then
+    echo "| Section | Station | URL | Result | Details |"
+    echo "|---|---|---|---|---|"
+    printf '%s' "$timeout_rows"
   else
     echo "_None._"
   fi
