@@ -54,7 +54,6 @@ jobs:
           output: lychee/lychee-report.md
           jobSummary: true
           args: |
-            --verbose
             --no-progress
             --max-retries 3
             --max-concurrency 6
