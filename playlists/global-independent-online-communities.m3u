@@ -39,6 +39,9 @@ https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
 # Homepage: https://dandelionradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Dandelion Radio
 https://www.dandelionradio.com/DandelionRadio.pls
+# Homepage: https://datafruits.fm/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Datafruits
+https://streampusher-relay.club/datafruits.mp3
 # Homepage: https://www.diaradio.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",DIA!
 https://livestream.diaradio.live/main
@@ -66,9 +69,6 @@ https://pantano.ovh:8444/pantano
 # Homepage: https://www.fbi.radio/
 #EXTINF:-1 group-title="Global Independent & Online Communities",fbi.radio
 https://streamer.fbiradio.com/stream
-# Homepage: https://www.radiofrance.fr/fip
-#EXTINF:-1 group-title="Global Independent & Online Communities",FIP
-http://icecast.radiofrance.fr/fip-hifi.aac
 # Homepage: https://foundation.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Foundation FM
 https://streamer.radio.co/s0628bdd53/listen
@@ -105,6 +105,9 @@ https://stream.kwsx.online/listen/kwsx/radio-med.mp3
 # Homepage: https://thelakeradio.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",The Lake Radio
 http://hyades.shoutca.st:8627/stream
+# Homepage: https://www.lahmacun.hu/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Lahmacun Radio
+https://streaming.lahmacun.hu/radio/8000/radio.mp3
 # Homepage: https://lemellotron.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",Le Mellotron
 https://listen.radioking.com/radio/477719/stream/534044
@@ -123,6 +126,9 @@ https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a
 # Homepage: https://lyl.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",LYL Radio
 https://icecast.lyl.live/live
+# Homepage: https://mondobongoradio.com
+#EXTINF:-1 group-title="Global Independent & Online Communities",Mondo Bongo Radio
+https://cast.mndbng.com/hls/mondobongo/aac_hifi.m3u8
 # Homepage: https://radio.montezpress.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Montez Press Radio
 https://stream.montezpress.com/icecast/music
@@ -191,7 +197,7 @@ https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
 http://radiomeuh.ice.infomaniak.ch/radiomeuh-128.mp3
 # Homepage: https://radionopal.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Nopal
-http://mensajito.mx:8000/nopalVentana
+https://radio.mensajito.mx/nopalA
 # Homepage: https://www.nova.fr/radios/radio-nova/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Nova
 https://novazz.ice.infomaniak.ch/novazz-128.mp3
@@ -259,7 +265,7 @@ https://studioneau.out.airtime.pro/studioneau_a
 #EXTINF:-1 group-title="Global Independent & Online Communities",THF Radio
 https://thf-radio-7ec0e6ee.radiocult.fm/stream
 # Homepage: https://www.threedradio.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",ThreeDRadio
+#EXTINF:-1 group-title="Global Independent & Online Communities",Three D Radio 93.7 FM
 https://sounds.threedradio.com/stream
 # Homepage: https://www.tirkultura.lv/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Tīrkultūra
@@ -276,3 +282,6 @@ https://audio.wavefarm.org/wgxc.mp3
 # Homepage: https://www.worldwidefm.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Worldwide FM
 https://worldwide-fm.radiocult.fm/stream
+# Homepage: https://xray.fm/
+#EXTINF:-1 group-title="Global Independent & Online Communities",XRAY.fm
+https://listen.xray.fm/stream

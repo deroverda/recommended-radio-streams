@@ -3,6 +3,12 @@
 # Homepage: https://www.comalaradio.com/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Comala Radio
 https://listen.radioking.com/radio/38120/stream/74519
+# Homepage: https://dinamo.fm/content/4/channels
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",dinamo.fm - DiSCOTHEQUE
+http://channels.dinamo.fm/discotheque-mp3
+# Homepage: https://funkthepla.net/
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Funk the Planet
+https://streaming.live365.com/a01484
 # Homepage: https://www.funkyasstunes.com/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Funky Ass Tunes
 https://ams1.reliastream.com/proxy/john12/stream
@@ -54,6 +60,9 @@ https://strm.radionula.com/channel4
 # Homepage: https://www.retrosoulradio.co.uk
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Retro Soul Radio UK
 https://streaming.galaxywebsolutions.com/stream/retrosoul
+# Homepage: https://www.streetsoundsradio.com/
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Street Sounds Radio
+https://streaming.broadcastradio.com:10525/streetsd
 # Homepage: https://totallywiredradio.com
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Totally Wired Radio
 https://totallywired.out.airtime.pro/totallywired_a

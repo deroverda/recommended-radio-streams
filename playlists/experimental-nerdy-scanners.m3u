@@ -9,9 +9,6 @@ http://stream.p-node.org/dab.mp3
 # Homepage: https://www.payphone-project.com/payphone-radio/
 #EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Payphone Radio
 https://centova11.instainternet.com/proxy/marktho1?mp=/stream
-# Homepage: https://www.broadcastify.com/listen/feed/21738
-#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Pittsburgh Police, Fire, EMS
-https://broadcastify.cdnstream1.com/21738
 # Homepage: https://radiobrennpunkt.org/
 #EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Radio Brennpunkt
 https://radio-brennpunkt.radiocult.fm/stream

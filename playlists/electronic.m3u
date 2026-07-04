@@ -15,9 +15,6 @@ https://ibizasonica.streaming-pro.com:8001/bluemarlin
 # Homepage: https://bondiradio.com.au/
 #EXTINF:-1 group-title="Electronic",Bondi Radio
 https://streaming.radio.co/sfd68ddd77/listen
-# Homepage: https://datafruits.fm/
-#EXTINF:-1 group-title="Electronic",Datafruits
-https://streampusher-relay.club/datafruits.mp3
 # Homepage: https://dogglounge.com/
 #EXTINF:-1 group-title="Electronic",Dogglounge
 http://dogglounge.com:8000/;
@@ -27,6 +24,9 @@ https://dub.ninja/live
 # Homepage: https://www.eurodance-radio.com/
 #EXTINF:-1 group-title="Electronic",Eurodance Radio
 http://daydeeeurodance.stream.laut.fm/daydeeeurodance
+# Homepage: https://frisky.fm/
+#EXTINF:-1 group-title="Electronic",Frisky Radio
+http://stream2.friskyradio.com/frisky_mp3_hi
 # Homepage: https://intergalactic.fm/
 #EXTINF:-1 group-title="Electronic",Intergalactic FM - Cybernetic Broadcasting System
 http://radio.intergalactic.fm:80/1
@@ -63,6 +63,9 @@ https://flux.radiody10.com/live
 # Homepage: https://italopower.com
 #EXTINF:-1 group-title="Electronic",Radio ItaloPower!
 https://stream.deevaradio.net:10443/italopower
+# Homepage: https://rekt.network/
+#EXTINF:-1 group-title="Electronic",Rekt Network
+https://stream.rekt.network/hls/rekt/aac_hifi.m3u8
 # Homepage: https://www.rinse.fm/
 #EXTINF:-1 group-title="Electronic",Rinse UK
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream

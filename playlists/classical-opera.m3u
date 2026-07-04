@@ -7,7 +7,7 @@ https://mediaserv73.live-streams.nl:18058/stream
 #EXTINF:-1 group-title="Classical & Opera",BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 # Homepage: https://www.classicalcalifornia.org/
-#EXTINF:-1 group-title="Classical & Opera",Classical California KDFC
+#EXTINF:-1 group-title="Classical & Opera",Classical California
 https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac
 # Homepage: https://www.concertzender.nl/
 #EXTINF:-1 group-title="Classical & Opera",Concertzender - Baroque
@@ -18,7 +18,7 @@ https://wgbh-live.streamguys1.com/classical-hi
 # Homepage: https://www.radiofrance.fr/francemusique
 #EXTINF:-1 group-title="Classical & Opera",France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
-# Homepage: https://www.radiofrance.fr/francemusique/la-contemporaine
+# Homepage: https://www.radiofrance.fr/francemusique/radio-contemporaine
 #EXTINF:-1 group-title="Classical & Opera",France Musique - La Contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
 # Homepage: https://www.linn.co.uk/linn-radio
@@ -34,7 +34,7 @@ http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
 #EXTINF:-1 group-title="Classical & Opera",WBJC 91.5
 https://ice64.securenetsystems.net/WBJC
 # Homepage: https://www.wfmt.com/
-#EXTINF:-1 group-title="Classical & Opera",WFMT - Classical
+#EXTINF:-1 group-title="Classical & Opera",WFMT
 https://wfmt.streamguys1.com/main-source
 # Homepage: https://www.wmnr.org/
 #EXTINF:-1 group-title="Classical & Opera",WMNR
