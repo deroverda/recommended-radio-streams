@@ -240,7 +240,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio Relativa](https://radiorelativa.eu/): Experimental sounds and young artists from a Madrid community collective. [Stream](https://streamer.radio.co/sd6131729c/listen)
 - [Radio Reverb 97.2](https://radioreverb.com): Brighton's licensed community station, started during the 2004 Brighton Festival. [Stream](http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3)
 - [Radio Sam Sam](https://samsam.world/): World grooves, jazz, and psych-folk from Paris. [Stream](https://listen.radioking.com/radio/742276/stream/808768)
-- [Radio Sofa](https://www.radio-sofa.com/): Dub, reggae, and electronic from a Paris-based collective. [Stream](https://listen.radioking.com/radio/292531/stream/338878)
+- [Radio Sofa](https://www.radio-sofa.com/): Dub, reggae, and electronic from a Paris-based collective. [Stream](https://radio.radio-sofa.com/listen/radio_sofa/radio.mp3)
 - [Radio Tsonami](https://radiotsonami.org/): Sound art and experimental broadcasting from Valparaíso, treating radio as social communication. [Stream](https://radio-tsonami-b24c40dc.radiocult.fm/stream)
 - [Radio Vilnius](https://radiovilnius.live/): Independent community radio and physical meeting point in Vilnius, with 100-plus residents. [Stream](https://transliacija.audiomastering.lt/radiovilnius-mp3)
 - [radio.syg.ma](https://radio.syg.ma/): Archive and broadcast platform for independent musicians and sound artists, based in Moscow. [Stream](https://radio.syg.ma/audio.ogg)
