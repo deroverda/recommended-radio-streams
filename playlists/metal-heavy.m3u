@@ -1,11 +1,17 @@
 #EXTM3U
 # Group: Metal & Heavy
+# Homepage: https://www.big4radio.com/
+#EXTINF:-1 group-title="Metal & Heavy",Big4Radio
+https://uk1freenew.listen2myradio.com/live.mp3?typeportmount=s1_14549_stream_689974865
 # Homepage: https://coreradio.online/
 #EXTINF:-1 group-title="Metal & Heavy",Core Radio
 http://serv.coreradio.online:8000/coreradio
 # Homepage: https://www.doomnationradio.com/
 #EXTINF:-1 group-title="Metal & Heavy",Doomnation Radio
 https://s2.voscast.com:11123/stream
+# Homepage: https://hardrockhellradio.com/
+#EXTINF:-1 group-title="Metal & Heavy",Hard Rock Hell Radio
+http://167.114.174.197:9254/stream
 # Homepage: https://iskcrocks.com/
 #EXTINF:-1 group-title="Metal & Heavy",ISKC - Extreme Metal
 https://mediaserv68.live-streams.nl:2199/tunein/iskcrocks-ExtremeMetal.pls
@@ -18,3 +24,6 @@ https://cheetah.streemlion.com/progpalace64
 # Homepage: https://somafm.com/metal/
 #EXTINF:-1 group-title="Metal & Heavy",SomaFM - Metal Detector
 https://ice1.somafm.com/metal-128-aac
+# Homepage: https://www.terrarelicta.com/
+#EXTINF:-1 group-title="Metal & Heavy",Terra Relicta Radio
+https://a3.asurahosting.com/listen/terra/radio.mp3

@@ -102,12 +102,15 @@ https://das-edge14-live365-dal02.cdnstream.com/a18444
 # Homepage: https://radio.kwsx.online/
 #EXTINF:-1 group-title="Global Independent & Online Communities",KWSX Radio
 https://stream.kwsx.online/listen/kwsx/radio-med.mp3
-# Homepage: https://thelakeradio.com
-#EXTINF:-1 group-title="Global Independent & Online Communities",The Lake Radio
-http://hyades.shoutca.st:8627/stream
 # Homepage: https://www.lahmacun.hu/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Lahmacun Radio
 https://streaming.lahmacun.hu/radio/8000/radio.mp3
+# Homepage: https://thelakeradio.com
+#EXTINF:-1 group-title="Global Independent & Online Communities",The Lake Radio
+http://hyades.shoutca.st:8627/stream
+# Homepage: https://www.le-grigri.com/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Le Grigri
+https://www.radioking.com/play/legrigri/273715
 # Homepage: https://lemellotron.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",Le Mellotron
 https://listen.radioking.com/radio/477719/stream/534044
@@ -207,9 +210,9 @@ https://listen.radioking.com/radio/142627/stream/182797
 # Homepage: https://www.radioquantica.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Quantica
 https://libretime.radioquantica.com/main.mp3
-# Homepage: https://www.radioraheem.it/
+# Homepage: https://radioraheem.it/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Raheem
-https://radioraheem.out.airtime.pro/radioraheem_b
+https://radioraheem.out.airtime.pro/radioraheem_a
 # Homepage: https://radiorelativa.eu/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Relativa
 https://streamer.radio.co/sd6131729c/listen
@@ -243,6 +246,9 @@ http://stream.resonance.fm:8000/resonance
 # Homepage: https://www.retreatradio.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Retreat Radio
 https://retreatradio.out.airtime.pro/retreatradio_b
+# Homepage: https://www.rinse.fm/channels/uk
+#EXTINF:-1 group-title="Global Independent & Online Communities",Rinse FM
+https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 # Homepage: https://www.saunaradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Sauna Radio
 https://stream.saunaradio.com/live

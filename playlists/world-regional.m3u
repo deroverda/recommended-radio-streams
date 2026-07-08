@@ -21,9 +21,6 @@ http://gold.j1fm.tokyo/
 # Homepage: https://www.kbon.com/
 #EXTINF:-1 group-title="World & Regional",KBON 101.1
 http://ice64.securenetsystems.net/KBON
-# Homepage: https://www.le-grigri.com/
-#EXTINF:-1 group-title="World & Regional",Le Grigri
-https://www.radioking.com/play/legrigri/273715
 # Homepage: https://listen.moe/
 #EXTINF:-1 group-title="World & Regional",listen.moe
 https://listen.moe/stream
@@ -42,12 +39,6 @@ https://stream.radiojar.com/78cxy6wkxtzuv
 # Homepage: https://www.radioflouka.com/
 #EXTINF:-1 group-title="World & Regional",Radio Flouka
 https://flouka.out.airtime.pro/flouka_a
-# Homepage: https://www.radioislanegra.com/
-#EXTINF:-1 group-title="World & Regional",Radio Isla Negra - Slowbeat
-https://radioislanegra.org/radio/8000/basic.aac
-# Homepage: https://www.radioislanegra.com/
-#EXTINF:-1 group-title="World & Regional",Radio Isla Negra - Upbeat
-https://radioislanegra.org/radio/8030/basic.aac
 # Homepage: https://www.radioseribatu.com/radioseribatu
 #EXTINF:-1 group-title="World & Regional",Seribatu
 http://radioseribatu.out.airtime.pro:8000/radioseribatu_a

@@ -21,9 +21,6 @@ https://stream.laut.fm/gta-classics
 # Homepage: http://gyusyabu.ddo.jp/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Gyusyabu
 http://gyusyabu.ddo.jp:8000/;stream.mp3
-# Homepage: https://isekoi-radio.com/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",ISEKOI Radio
-https://public.isekoi-radio.com/listen/isekoi/radio.mp3
 # Homepage: https://kaaosradio.fi/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Kaaosradio
 https://kaaosradio.fi:8001/chip
@@ -47,7 +44,7 @@ https://listen.nolife-radio.com/stream
 http://content.radiosega.net:8006/live
 # Homepage: https://rainwave.cc/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Rainwave - Game
-https://relay.rainwave.cc/game.ogg
+http://allrelays.rainwave.cc/game.mp3
 # Homepage: https://www.rpgamers.net/radio/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",RPGamers Radio
 https://listen.rpgamers.net/rpgn

@@ -30,9 +30,15 @@ http://stream2.friskyradio.com/frisky_mp3_hi
 # Homepage: https://intergalactic.fm/
 #EXTINF:-1 group-title="Electronic",Intergalactic FM - Cybernetic Broadcasting System
 http://radio.intergalactic.fm:80/1
+# Homepage: https://isekoi-radio.com/
+#EXTINF:-1 group-title="Electronic",ISEKOI Radio - Main Channel
+https://public.isekoi-radio.com/listen/isekoi/radio.mp3
 # Homepage: https://italoradio.fm/
 #EXTINF:-1 group-title="Electronic",Italoradio.fm
 http://cc6.beheerstream.com:8102/stream
+# Homepage: https://www.rinse.fm/channels/kool
+#EXTINF:-1 group-title="Electronic",Kool FM
+https://admin.stream.rinse.fm/proxy/kool/stream
 # Homepage: https://limbikfreq.com/public/limbik_frequencies
 #EXTINF:-1 group-title="Electronic",Limbik Frequencies
 https://limbikfreq.com/listen/limbik_frequencies/320.mp3
@@ -66,9 +72,6 @@ https://stream.deevaradio.net:10443/italopower
 # Homepage: https://rekt.network/
 #EXTINF:-1 group-title="Electronic",Rekt Network
 https://stream.rekt.network/hls/rekt/aac_hifi.m3u8
-# Homepage: https://www.rinse.fm/
-#EXTINF:-1 group-title="Electronic",Rinse UK
-https://admin.stream.rinse.fm/proxy/rinse_uk/stream
 # Homepage: https://serrebiradio.com
 #EXTINF:-1 group-title="Electronic",SerrebiRadio
 https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
