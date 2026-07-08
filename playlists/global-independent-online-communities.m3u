@@ -45,6 +45,9 @@ https://streampusher-relay.club/datafruits.mp3
 # Homepage: https://www.diaradio.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",DIA!
 https://livestream.diaradio.live/main
+# Homepage: https://dialradio.live/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Dial Radio
+https://cast.dialradio.live/stream.aac
 # Homepage: https://doyou.world/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Do!! You!!! Radio
 https://doyouworld.out.airtime.pro/doyouworld_a
@@ -267,9 +270,6 @@ https://stream.saunaradio.com/live
 # Homepage: https://sohoradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Soho Radio
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3
-# Homepage: https://somafm.com/groovesalad/
-#EXTINF:-1 group-title="Global Independent & Online Communities",SomaFM - Groove Salad
-https://somafm.com/groovesalad256.pls
 # Homepage: https://stationstation.fr/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Station Station
 https://libretime.stationstation.fr/main

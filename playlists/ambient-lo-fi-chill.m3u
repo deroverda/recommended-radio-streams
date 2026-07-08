@@ -54,3 +54,6 @@ https://radioislanegra.org/radio/8000/basic.aac
 # Homepage: https://somafm.com/listen/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",SomaFM - Drone Zone
 https://somafm.com/dronezone256.pls
+# Homepage: https://somafm.com/groovesalad/
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",SomaFM - Groove Salad
+https://somafm.com/groovesalad256.pls
