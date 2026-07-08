@@ -1,5 +1,8 @@
 #EXTM3U
 # Group: Campus & Public Radio
+# Homepage: https://bff.fm/
+#EXTINF:-1 group-title="Campus & Public Radio",BFF.fm
+http://stream.bff.fm/1/BFF.fm.mp3
 # Homepage: https://www.ciut.fm/
 #EXTINF:-1 group-title="Campus & Public Radio",CIUT 89.5
 https://ice23.securenetsystems.net/CIUT
@@ -36,9 +39,15 @@ https://kzscfms1-geckohost.radioca.st/kzschigh
 # Homepage: https://kzsu.stanford.edu
 #EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
 http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
+# Homepage: https://radiokrs.com/
+#EXTINF:-1 group-title="Campus & Public Radio",Radio KRŠ
+https://stream.radiokrs.me:8443/lq.mp3
 # Homepage: https://subcity.org/
 #EXTINF:-1 group-title="Campus & Public Radio",Subcity Radio
 https://stream.subcity.org/listen
+# Homepage: https://www.uct.ac.za/radio
+#EXTINF:-1 group-title="Campus & Public Radio",UCT Radio
+https://edge.iono.fm/xice/uctradio_live_high.aac
 # Homepage: https://wfmu.org/
 #EXTINF:-1 group-title="Campus & Public Radio",WFMU - Rock 'n' Soul
 http://wfmu.org/wfmu_rock.pls
