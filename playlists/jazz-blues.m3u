@@ -5,7 +5,7 @@
 http://edge4.peta.live365.net/b77280_128mp3
 # Homepage: https://abacolibrosycaferadio.blogspot.com/
 #EXTINF:-1 group-title="Jazz & Blues",Ábaco Libros y Café
-http://radio30.virtualtronics.com:8638/;
+http://radio30.virtualtronics.com:8638/,
 # Homepage: https://ashiya.radio/
 #EXTINF:-1 group-title="Jazz & Blues",AshiyaRadio
 https://s3.radio.co/sc8d895604/listen
@@ -29,7 +29,7 @@ https://headwaxradio.radioca.st/stream
 https://listen.radioking.com/radio/523747/stream/582004
 # Homepage: https://jclubbandstand.torontocast.stream/stations/index.html
 #EXTINF:-1 group-title="Jazz & Blues",J-Club Bandstand - Jazz Sakura
-https://kathy.torontocast.com:3330/;
+https://kathy.torontocast.com:3330/,
 # Homepage: https://jazzconclass.com
 #EXTINF:-1 group-title="Jazz & Blues",Jazz Con Class
 http://streaming.live365.com/a73229
@@ -65,7 +65,7 @@ http://radio.linn.co.uk:8000/autodj
 https://octaverecords.out.airtime.pro/octaverecords_a
 # Homepage: https://thepenthouse.fm/
 #EXTINF:-1 group-title="Jazz & Blues",The Penthouse
-http://sc1.mystreamserver.com:8052/;
+http://sc1.mystreamserver.com:8052/,
 # Homepage: https://www.radioswissjazz.ch/en
 #EXTINF:-1 group-title="Jazz & Blues",Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96

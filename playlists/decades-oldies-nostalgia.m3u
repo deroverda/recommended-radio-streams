@@ -5,7 +5,7 @@
 http://stream.zeno.fm/e4auhdgm6cquv
 # Homepage: https://www.flowerpowerradio.com/
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Flower Power Radio
-http://uk1.streamingpulse.com:7000/;
+http://uk1.streamingpulse.com:7000/,
 # Homepage: https://jclubbandstand.torontocast.stream/stations/index.html
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",J-Club Bandstand
 https://cast1.torontocast.com:2060/stream
@@ -14,7 +14,7 @@ https://cast1.torontocast.com:2060/stream
 http://ice10.securenetsystems.net/LUXOMP3
 # Homepage: https://wgdr.rocks/
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Mad Music Radio - Oldies Radio
-http://janus.shoutca.st:8259/;
+http://janus.shoutca.st:8259/,
 # Homepage: https://www.majesticjukeboxradio.com
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Majestic Jukebox
 https://uk3.internet-radio.com/proxy/majesticjukebox/live
@@ -32,10 +32,10 @@ https://cast2.asurahosting.com/proxy/1940sradio/stream
 http://broadcast.shoutcheap.com:8424/stream
 # Homepage: https://radiocaroline.co.uk
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Radio Caroline
-http://78.129.202.200:8040/;
+http://78.129.202.200:8040/,
 # Homepage: http://dismuke.org
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",Radio Dismuke
-http://stream2.early1900s.org:8000/;
+http://stream2.early1900s.org:8000/,
 # Homepage: https://www.retroatticrareoldiesradio.com/
 #EXTINF:-1 group-title="Decades, Oldies & Nostalgia",The Retro Attic
 http://103.226.246.212:8159/stream

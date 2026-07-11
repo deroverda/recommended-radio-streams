@@ -6,12 +6,21 @@ https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
 # Homepage: https://www.cinemix.us/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Cinemix
 https://kathy.torontocast.com:1825/stream
+# Homepage: https://www.classicfm.com/discover-music/periods-genres/video-game/
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Classic FM - Video Game Music
+https://icecast.thisisdax.com/ClassicFM-M-Gaming
 # Homepage: https://www.classic-videogames.de/radio/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Classic Videogames
 http://195.201.9.210:1541/stream/2/
+# Homepage: https://commodexplorer.c-prod.net/
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",COMMODEXPLORER
+https://manager8.streamradio.fr:2295/stream
 # Homepage: https://www.cvgm.net/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",CVGM
 https://slacker.cvgm.net/cvgm192
+# Homepage: https://radio.ericade.net/
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Ericade Radio
+https://radio.ericade.net/sc/stream/1/
 # Homepage: https://gensokyoradio.net
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Gensokyo Radio
 https://stream.gensokyoradio.net/3
@@ -39,6 +48,9 @@ http://necta.burn.net:8000/nectarine
 # Homepage: https://nolife-radio.com/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",No Life Radio
 https://listen.nolife-radio.com/stream
+# Homepage: https://radiorivendell.com/
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Radio Rivendell
+https://play.radiorivendell.com/radio/8000/radio.mp3
 # Homepage: https://www.radiosega.net/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",RadioSEGA
 http://content.radiosega.net:8006/live
