@@ -108,12 +108,14 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Dinamo.FM - Sleep](https://dinamo.fm/content/4/channels): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3)
 - ⭐ [Echoes of Bluemars](http://echoesofbluemars.org/): Archived tribute to Bluemars, the ambient stream that went dark in 2013. [Bluemars](http://streams.echoesofbluemars.org:8000/bluemars) / [Cryosleep](http://streams.echoesofbluemars.org:8000/cryosleep) / [Voices From Within](http://streams.echoesofbluemars.org:8000/voicesfromwithin)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Experimental ambient and modern classical from Daniel Crossley's Bristol label, since 2010. [Stream](http://uk4-vn.webcast-server.net:9270/,)
+- [Lofi Radio](https://boxradio.net/en/radio/lofi-radio) Lo-fi beats overlapping with tracks also heard on Lofi Girl's streams. [Stream](https://boxradio-edge-00.streamafrica.net/lofi)
 - [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese-inspired ambient from an Argentine band that waited 20 years to visit Japan. [Stream](https://server.laradio.online:59009/live)
 - [Moon Phase Radio - Ambient](https://www.moonphaseradio.com/): Ambient, broadcasting since 2010, themed around the stillness of the moon. [Stream](https://cp12.serverse.com/proxy/moonphase/stream)
 - [Moss Garden](https://moss.garden): Ambient stream layered with listener-submitted field recordings from around the world. [Stream](https://radio.moss.garden/listen/moss_garden/radio.mp3)
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Copenhagen-based downtempo and lounge. [Stream](http://radio.streemlion.com:1160/stream)
 - [NTS - Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus): Drone, ambient, and ragas. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape)
 - [Radio Isla Negra - Slowbeat](https://www.radioislanegra.com/): Listener-supported downtempo and ambient from Isla Negra, Chile, since 1999. [Stream](https://radioislanegra.org/radio/8000/basic.aac)
+- [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds) Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain)
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean wave sounds for sleep, from the creator of The Ultimate Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
 - [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
 - ⭐ [SomaFM - Groove Salad](https://somafm.com/groovesalad/): Ambient and downtempo beats and grooves. [Stream](https://somafm.com/groovesalad256.pls)
@@ -333,6 +335,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Poolsuite FM](https://poolsuite.net/): Poolside soundtrack of disco, yacht rock, Balearic, and summer classics. [Stream](https://s5.radio.co/sc9cb59935/listen)
 - [Radio BipTunia](https://biptunia.com/): One artist's experimental electronic catalog. [Stream](https://ecast.myautodj.com:1380/listen.mp3)
 - [Radio DY10](https://www.radiody10.com/): Dance and trippy electronic from Nantes. [Stream](https://flux.radiody10.com/live)
+- [Radio Isla Negra - Upbeat](https://www.radioislanegra.com/): High-energy electronica from the same Chilean station as Slowbeat, since 1999. [Stream](https://radioislanegra.org/listen/up/stream)
 - [Radio ItaloPower!](https://italopower.com): Italo disco, Hi-NRG and spacesynth from the golden synth-pop years. [Stream](https://stream.deevaradio.net:10443/italopower)
 - [Rekt Network](https://rekt.network/): Drum and bass, dubstep, and dark techno, the main channel of Rekt Network. [Stream](https://stream.rekt.network/hls/rekt/aac_hifi.m3u8)
 - [SerrebiRadio](https://serrebiradio.com): House, trance, and hard dance, programmed by a blind DJ in Vancouver. [Stream](https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio)
@@ -403,6 +406,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Radio Suisse Jazz](https://www.radioswissjazz.ch/en): Jazz, soul, and blues from Swiss public radio. [Stream](https://stream.srg-ssr.ch/m/rsj/aacp_96)
 - [Shonan Beach FM](https://www.beachfm.co.jp/): Jazz and pop from the Japanese coast. [Stream](http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a)
 - [SomaFM - Sonic Universe](https://somafm.com/sonicuniverse/): Avant-garde jazz that bends tradition. [Stream](https://somafm.com/sonicuniverse256.pls)
+- [The Jazz Groove - Mix 1](https://jazzgroove.org/?channel=mix1): Laid-back jazz spanning the 1950s to today, from a nonprofit funded entirely by listeners. [Stream](http://west-mp3-128.streamthejazzgroove.com/stream)
 - [TSF Jazz](https://www.tsfjazz.com/): Jazz and talk from Paris. [Stream](http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3)
 - ⭐ [WBGO 88.3](https://www.wbgo.org/): Public jazz station from Newark, NJ, NPR member station. [Stream](https://ais-sa8.cdnstream1.com/3629_128.mp3)
 - [WDNA 88.9](https://wdnaradio.org): Jazz and Latin jazz from Miami. [Stream](http://us9.streamingpulse.com:7033/stream)
@@ -651,10 +655,13 @@ A heavier-duty sniffer with dedicated HLS (.m3u8) and DASH (MPD) parsers - usefu
 
 ## Music Discovery & Non-Radio Listening <a id="non-radio-listening"></a>
 - [Every Noise at Once](https://everynoise.com/): Genre-space scatter-plot of Spotify's catalog, now a frozen snapshot after its creator's 2023 layoff.
+- [Generative.fm](https://play.generative.fm): 50+ ambient music generators composed by one person, not AI, that never repeat.
+- [MailTape](https://www.mailta.pe/): Nonprofit collective releasing a weekly Sunday playlist co-created with a different guest, since 2011.
 - [Music For Programming](https://musicforprogramming.net/): Long-form ambient mixes for focus, compiled by Datassette since 2009.
 - [Music-Map](https://www.music-map.com/): Enter an artist, get a visual map of mutually-liked artists nearby.
 - [Radiooooo](https://app.radiooooo.com/): Interactive musical time machine, pick a country and decade to hear music from that era.
-- [youarelistening.to](https://youarelistening.to/): Ambient music blended with city sounds - scanners, air traffic control, transit - since 2011.
+- [Reverberation Radio](https://reverberationradio.com/): Weekly mixes of forgotten strange pop and instrumentals from a collector collective, dormant since 2023.
+- [youarelistening.to](https://youarelistening.to/): Ambient music blended with city sounds, scanners, air traffic control, transit, since 2011.
 
 ---
 
