@@ -72,6 +72,9 @@ https://ecast.myautodj.com:1380/listen.mp3
 # Homepage: https://www.radiody10.com/
 #EXTINF:-1 group-title="Electronic",Radio DY10
 https://flux.radiody10.com/live
+# Homepage: https://www.radioislanegra.com/
+#EXTINF:-1 group-title="Electronic",Radio Isla Negra - Upbeat
+https://radioislanegra.org/listen/up/stream
 # Homepage: https://italopower.com
 #EXTINF:-1 group-title="Electronic",Radio ItaloPower!
 https://stream.deevaradio.net:10443/italopower

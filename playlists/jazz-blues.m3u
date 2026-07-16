@@ -75,6 +75,9 @@ http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 # Homepage: https://somafm.com/sonicuniverse/
 #EXTINF:-1 group-title="Jazz & Blues",SomaFM - Sonic Universe
 https://somafm.com/sonicuniverse256.pls
+# Homepage: https://jazzgroove.org/?channel=mix1
+#EXTINF:-1 group-title="Jazz & Blues",The Jazz Groove - Mix 1
+http://west-mp3-128.streamthejazzgroove.com/stream
 # Homepage: https://www.tsfjazz.com/
 #EXTINF:-1 group-title="Jazz & Blues",TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
