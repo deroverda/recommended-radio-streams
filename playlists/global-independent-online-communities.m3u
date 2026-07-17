@@ -261,6 +261,9 @@ https://retreatradio.out.airtime.pro/retreatradio_b
 # Homepage: https://www.rinse.fm/channels/uk
 #EXTINF:-1 group-title="Global Independent & Online Communities",Rinse FM
 https://admin.stream.rinse.fm/proxy/rinse_uk/stream
+# Homepage: https://www.rovr.live/
+#EXTINF:-1 group-title="Global Independent & Online Communities",ROVR
+https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8
 # Homepage: https://rytmabad.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Rytmabad Radio
 https://radio.filmtastic.uz/listen/rytmabad/radio.mp3

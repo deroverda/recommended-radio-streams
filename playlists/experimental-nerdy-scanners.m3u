@@ -1,5 +1,8 @@
 #EXTM3U
 # Group: Experimental, Nerdy & Scanners
+# Homepage: https://bestairadio.com/
+#EXTINF:-1 group-title="Experimental, Nerdy & Scanners",The Frequency
+https://stream.bestairadio.com/live
 # Homepage: https://mechanicalmusicradio.com
 #EXTINF:-1 group-title="Experimental, Nerdy & Scanners",Mechanical Music Radio
 https://global.citrus3.com:2020/stream/mechanicalmusicradio
