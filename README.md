@@ -264,6 +264,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Resonance 104.4 FM](https://www.resonancefm.com/): London's radio art station, run by the London Musicians' Collective since 2002. [Stream](http://stream.resonance.fm:8000/resonance)
 - [Retreat Radio](https://www.retreatradio.net/): Independent non-commercial broadcasts and events from Malmö, Scandinavia and beyond. [Stream](https://retreatradio.out.airtime.pro/retreatradio_b)
 - ⭐ [Rinse FM](https://www.rinse.fm/channels/uk): London pirate-turned-legal, pioneering grime and dubstep from Tower Hamlets since 1994. [Stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream)
+- [ROVR](https://www.rovr.live/): Anti-algorithm mix, no talk or ads, from a record shop and café in Soho, London. [Stream](https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8)
 - [Rytmabad Radio](https://rytmabad.com/): Tashkent's community station for Central Asia's underground electronic DJs and producers. [Stream](https://radio.filmtastic.uz/listen/rytmabad/radio.mp3)
 - [Sauna Radio](https://www.saunaradio.com/): DJ sets and performances broadcast from a sauna cabin in Stockholm, Saturdays. [Stream](https://stream.saunaradio.com/live)
 - [Soho Radio](https://sohoradio.com/): Independent from a street-level Soho studio, every genre from rockabilly to jazz, since 2014. [Stream](https://sohoradiomusic.doughunt.co.uk:8010/320mp3)
@@ -549,6 +550,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 *Some entries here are tools, not streams.*
 - [Broadcastify](https://www.broadcastify.com/): Largest platform for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
+- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live)
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
