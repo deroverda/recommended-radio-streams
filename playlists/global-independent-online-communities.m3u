@@ -60,9 +60,6 @@ https://dublin-digital-radio.radiocult.fm/stream
 # Homepage: https://www.thedumpradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",The Dump
 https://radio.turbo.net.au/stream-hq
-# Homepage: https://www.ehfm.live/
-#EXTINF:-1 group-title="Global Independent & Online Communities",EH-FM
-https://ehfm.out.airtime.pro/ehfm_a
 # Homepage: https://fade.radio/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fade Radio
 https://stream.radiojar.com/072mdmpbfq8uv
@@ -90,9 +87,6 @@ http://centova.rockhost.com:8001/stream
 # Homepage: https://www.internetpublicradio.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Internet Public Radio
 https://stream-relay-geo.internetpublicradio.live/stream/main
-# Homepage: https://www.kanal103.com.mk/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Kanal 103
-https://radiostream.neotel.mk/kanal103
 # Homepage: https://www.kchungradio.org/
 #EXTINF:-1 group-title="Global Independent & Online Communities",KCHUNG Radio
 https://kchung-radio-01e54a81.radiocult.fm/stream
@@ -129,9 +123,6 @@ https://loosefm.radiocult.fm/stream
 # Homepage: https://www.thelotradio.com
 #EXTINF:-1 group-title="Global Independent & Online Communities",The Lot Radio
 https://livepeercdn.studio/hls/85c28sa2o8wppm58/index.m3u8
-# Homepage: https://lovewillsavetheday.fm/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Love Will Save The Day FM
-https://lovewillsavetheday.out.airtime.pro/lovewillsavetheday_a
 # Homepage: https://lyl.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",LYL Radio
 https://icecast.lyl.live/live
@@ -155,7 +146,7 @@ https://n10as.radiocult.fm/stream
 https://listen.radioking.com/radio/314507/stream/361754
 # Homepage: https://nessradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Ness Radio
-http://playerservices.streamtheworld.com/api/livestream-redirect/3MGBAAC.aac
+https://radio.nessradio.net:8212/nessradio-hd
 # Homepage: https://netilradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Netil Radio
 https://netilradio.out.airtime.pro/netilradio_a

@@ -36,6 +36,9 @@ http://uk4-vn.webcast-server.net:9270/,
 # Homepage: https://www.thekyotoconnection.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",The Kyoto Connection
 https://server.laradio.online:59009/live
+# Homepage: https://boxradio.net/en/radio/lofi-radio
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Lofi Radio
+https://boxradio-edge-00.streamafrica.net/lofi
 # Homepage: https://www.moonphaseradio.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Moon Phase Radio - Ambient
 https://cp12.serverse.com/proxy/moonphase/stream
@@ -51,6 +54,9 @@ https://stream-mixtape-geo.ntslive.net/mixtape
 # Homepage: https://www.radioislanegra.com/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Radio Isla Negra - Slowbeat
 https://radioislanegra.org/radio/8000/basic.aac
+# Homepage: https://boxradio.net/en/radio/rain-thunderstorms-sounds
+#EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",Rain & Thunderstorms Sounds
+https://boxradio-edge-01.streamafrica.net/rain
 # Homepage: https://somafm.com/listen/
 #EXTINF:-1 group-title="Ambient, Lo-Fi & Chill",SomaFM - Drone Zone
 https://somafm.com/dronezone256.pls
