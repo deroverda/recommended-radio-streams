@@ -351,6 +351,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ---
 
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
+
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
 - [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3)
 - [Funk the Planet](https://funkthepla.net/): Programmed by Santa Barbara DJ Vince Leo, classic and modern funk. [Stream](https://streaming.live365.com/a01484)
@@ -366,6 +367,8 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [MRG.fm - Planet Hip Hop](https://www.w.mrg.fm/): Old-school rap and hip-hop from The Mondello Radio Group. [Stream](http://listen.mrg.fm:8100/stream)
 - [NTS - Low Key](https://www.nts.live/infinite-mixtapes/100-percent-hip-hop): Lo-fi hip-hop and smooth R&B. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape2)
 - [Nuance Radio](https://nuance.radio/): Jazz, funk, electronic, and hip-hop, from a French collective. [Stream](http://admin.nuance.radio/hls/nuance_radio/aac_hifi.m3u8)
+- [Panacea Radio](https://www.panacearadio.net/): Named from Latin for all-healing, playing jazz funk and soul with live UK presenters. [Stream](https://stream-15.aiir.com/kqwcuxfxcwhtv)
+- [Pool FM](https://www.poolfm.com.br/): São Paulo dance station since 1985, credited with starting Brazil's remix scene. [Stream](https://radios.poolwebwork.com.br/8010/stream)
 - [Radio Bar Sardine](https://radiobarsardine.wixsite.com/radio-bar-sardine): Jazz, folk, soul, and disco from Bordeaux. [Stream](https://listen.radioking.com/radio/552908/stream/612230)
 - ⭐ [Radio Krimi](http://radiokrimi.com): Hip-hop, funk, and jazz with a noir aesthetic. [Stream](https://radio13.pro-fhi.net/flux-nwsimjda2/stream)
 - [Radio Nova - Hip-Hop](https://www.nova.fr/radios/): Nova's dedicated hip-hop channel, French and international. [Stream](https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac)
@@ -375,6 +378,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Totally Wired Radio](https://totallywiredradio.com): Soul, mod, and rare groove from the Acid Jazz Records label, London. [Stream](https://totallywired.out.airtime.pro/totallywired_a)
 - [WEFUNK](https://wefunkradio.com/): Montreal hip-hop, funk, and soul mix-show since 1996. [Stream](http://www.wefunkradio.com/play/radio.pls)
 - ⭐ [WWOZ 90.7](https://www.wwoz.org/): New Orleans jazz, funk, and soul. [Stream](https://www.wwoz.org/listen/hi)
+- [Yumi Co. Radio](https://yumicoradio.net/): Future funk, city pop and anime groove, running since 2019. [Stream](https://yumicoradio.net:8443/stream)
 
 [↑ back to top](#top)
 
@@ -427,6 +431,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Prog Palace Radio](https://www.progpalaceradio.com/): Progressive and power metal since 1999, for fans of Dream Theater and Kamelot. [Stream](https://cheetah.streemlion.com/progpalace64)
 - [SomaFM - Metal Detector](https://somafm.com/metal/): Black, doom, thrash, sludge, and industrial metal. [Stream](https://ice1.somafm.com/metal-128-aac)
 - [Terra Relicta Radio](https://www.terrarelicta.com/): Dark metal, doom, gothic, and black metal from a Slovenian dark-music webzine, since 2020. [Stream](https://a3.asurahosting.com/listen/terra/radio.mp3)
+- [Violent Forces Radio - General Thrash](https://www.violentforcesradio.com): Thrash metal from the 1980s to today, dedicated to underground and established bands. [Stream](https://www.tuneintoradio1.com/listen/violent_forces_radio/radio.mp3)
 
 [↑ back to top](#top)
 
@@ -492,6 +497,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [COMMODEXPLORER](https://commodexplorer.c-prod.net/): Demo and retro game music from Amiga, Commodore, and Amstrad, run since 2013 by Stef. [Stream](https://manager8.streamradio.fr:2295/stream)
 - [CVGM](https://www.cvgm.net/): Video game, demoscene, and computer music from thousands of original composers. [Stream](https://slacker.cvgm.net/cvgm192)
 - [Ericade Radio](https://radio.ericade.net/): Tracked music and chiptunes from Stockholm's DJ Daemon, relaunched in 2020 after a decade off. [Stream](https://radio.ericade.net/sc/stream/1/)
+- [FunkyUncleFM](https://funkyunclefm.net:8443/): Fan-made community radio for the Bomb Rush Cyberfunk game. [Stream](http://funkyunclefm.net:8000/fufm)
 - [Gensokyo Radio](https://gensokyoradio.net): Fan-made Touhou Project music supporting independent artists and original album releases since 2011. [Stream](https://stream.gensokyoradio.net/3)
 - [GTA Radio](https://laut.fm/gta-classics): Soundtracks from the Grand Theft Auto series. [Stream](https://stream.laut.fm/gta-classics)
 - [Gyusyabu](http://gyusyabu.ddo.jp/): Retro Japanese PC game music from the 1980s-90s, PSG and FM synthesis only. [Stream](http://gyusyabu.ddo.jp:8000/;stream.mp3)
