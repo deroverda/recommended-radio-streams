@@ -497,7 +497,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [COMMODEXPLORER](https://commodexplorer.c-prod.net/): Demo and retro game music from Amiga, Commodore, and Amstrad, run since 2013 by Stef. [Stream](https://manager8.streamradio.fr:2295/stream)
 - [CVGM](https://www.cvgm.net/): Video game, demoscene, and computer music from thousands of original composers. [Stream](https://slacker.cvgm.net/cvgm192)
 - [Ericade Radio](https://radio.ericade.net/): Tracked music and chiptunes from Stockholm's DJ Daemon, relaunched in 2020 after a decade off. [Stream](https://radio.ericade.net/sc/stream/1/)
-- [FunkyUncleFM](https://funkyunclefm.net:8443/): Fan-made community radio for the Bomb Rush Cyberfunk game. [Stream](http://funkyunclefm.net:8000/fufm)
+- [FunkyUncleFM](https://funkyunclefm.ne): Fan-made community radio for the Bomb Rush Cyberfunk game. [Stream](https://funkyunclefm.net/stream_vorbis192)
 - [Gensokyo Radio](https://gensokyoradio.net): Fan-made Touhou Project music supporting independent artists and original album releases since 2011. [Stream](https://stream.gensokyoradio.net/3)
 - [GTA Radio](https://laut.fm/gta-classics): Soundtracks from the Grand Theft Auto series. [Stream](https://stream.laut.fm/gta-classics)
 - [Gyusyabu](http://gyusyabu.ddo.jp/): Retro Japanese PC game music from the 1980s-90s, PSG and FM synthesis only. [Stream](http://gyusyabu.ddo.jp:8000/;stream.mp3)
