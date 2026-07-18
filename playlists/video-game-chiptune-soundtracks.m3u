@@ -21,6 +21,9 @@ https://slacker.cvgm.net/cvgm192
 # Homepage: https://radio.ericade.net/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Ericade Radio
 https://radio.ericade.net/sc/stream/1/
+# Homepage: https://funkyunclefm.net:8443/
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",FunkyUncleFM
+http://funkyunclefm.net:8000/fufm
 # Homepage: https://gensokyoradio.net
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Gensokyo Radio
 https://stream.gensokyoradio.net/3

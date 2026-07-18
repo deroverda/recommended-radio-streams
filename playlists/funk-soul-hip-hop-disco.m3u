@@ -45,6 +45,12 @@ https://stream-mixtape-geo.ntslive.net/mixtape2
 # Homepage: https://nuance.radio/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Nuance Radio
 http://admin.nuance.radio/hls/nuance_radio/aac_hifi.m3u8
+# Homepage: https://www.panacearadio.net/
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Panacea Radio
+https://stream-15.aiir.com/kqwcuxfxcwhtv
+# Homepage: https://www.poolfm.com.br/
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Pool FM
+https://radios.poolwebwork.com.br/8010/stream
 # Homepage: https://radiobarsardine.wixsite.com/radio-bar-sardine
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Radio Bar Sardine
 https://listen.radioking.com/radio/552908/stream/612230
@@ -72,3 +78,6 @@ http://www.wefunkradio.com/play/radio.pls
 # Homepage: https://www.wwoz.org/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",WWOZ 90.7
 https://www.wwoz.org/listen/hi
+# Homepage: https://yumicoradio.net/
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Yumi Co. Radio
+https://yumicoradio.net:8443/stream
