@@ -21,9 +21,15 @@ http://dogglounge.com:8000/,
 # Homepage: https://dub.ninja/
 #EXTINF:-1 group-title="Electronic",Dub Ninja
 https://dub.ninja/live
+# Homepage: https://www.ebm-radio.org/
+#EXTINF:-1 group-title="Electronic",EBM Radio
+http://www.ebm-radio.org:9000/ebm_high.ogg
 # Homepage: https://www.eurodance-radio.com/
 #EXTINF:-1 group-title="Electronic",Eurodance Radio
 http://daydeeeurodance.stream.laut.fm/daydeeeurodance
+# Homepage: https://freakbeats.nexuscast.com
+#EXTINF:-1 group-title="Electronic",Freak Beats Tekno Radio
+http://fr1.nexuscast.com:8042/;stream.mp3
 # Homepage: https://frisky.fm/
 #EXTINF:-1 group-title="Electronic",Frisky Radio
 http://stream2.friskyradio.com/frisky_mp3_hi
