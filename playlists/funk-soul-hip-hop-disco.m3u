@@ -6,6 +6,9 @@ https://listen.radioking.com/radio/38120/stream/74519
 # Homepage: https://dinamo.fm/content/4/channels
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",dinamo.fm - DiSCOTHEQUE
 http://channels.dinamo.fm/discotheque-mp3
+# Homepage: https://thefaceradio.com/
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",The Face Radio
+https://the-face-radio.radiocult.fm/stream
 # Homepage: https://funkthepla.net/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Funk the Planet
 https://streaming.live365.com/a01484

@@ -9,12 +9,18 @@ http://fr.ah.fm:8000/,
 # Homepage: https://badradio.nz/
 #EXTINF:-1 group-title="Electronic",Bad Radio
 http://server.badradio.biz:8000/stream
+# Homepage: https://www.bassdrive.com
+#EXTINF:-1 group-title="Electronic",Bassdrive
+https://www.bassdrive.com/bassdrive.m3u
 # Homepage: http://www.bluemarlinibiza.com/radio/live
 #EXTINF:-1 group-title="Electronic",Blue Marlin Ibiza
 https://ibizasonica.streaming-pro.com:8001/bluemarlin
 # Homepage: https://bondiradio.com.au/
 #EXTINF:-1 group-title="Electronic",Bondi Radio
 https://streaming.radio.co/sfd68ddd77/listen
+# Homepage: http://www.deepvibes.co.uk/
+#EXTINF:-1 group-title="Electronic",Deepvibes Radio
+http://88.208.218.19:9106/stream
 # Homepage: https://dogglounge.com/
 #EXTINF:-1 group-title="Electronic",Dogglounge
 http://dogglounge.com:8000/,
