@@ -312,8 +312,10 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [54house.fm](https://www.54house.fm/): House via weekly label shows from Defected, Toolroom, Circoloco, and more. [Stream](https://54house.fm:9013/stream)
 - [After Hours FM](https://ah.fm): Trance and progressive live sets since 2006, home of the End of Year Countdown. [Stream](http://fr.ah.fm:8000/,)
 - [Bad Radio](https://badradio.nz/): Phonk and dark trap from New Zealand. [Stream](http://server.badradio.biz:8000/stream)
+- [Bassdrive](https://www.bassdrive.com): Drum and bass since 2001, with live sets from DJs worldwide. [Stream](https://www.bassdrive.com/bassdrive.m3u)
 - [Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live): House and lounge from Ibiza. [Stream](https://ibizasonica.streaming-pro.com:8001/bluemarlin)
 - [Bondi Radio](https://bondiradio.com.au/): Sydney house and deep grooves, relaunched by DJ Hodgie in the 2020 lockdown. [Stream](https://streaming.radio.co/sfd68ddd77/listen)
+- [Deepvibes Radio](http://www.deepvibes.co.uk/): Deep house mixes from DJs worldwide, featuring live sessions and guest mixes. [Stream](http://88.208.218.19:9106/stream)
 - [Dogglounge](https://dogglounge.com/): Deep house and live DJ sets from around the world. [Stream](http://dogglounge.com:8000/,)
 - [Dub Ninja](https://dub.ninja/): Dub techno and ambient for focus. [Stream](https://dub.ninja/live)
 - [EBM Radio](https://www.ebm-radio.org/): EBM, dark electro, industrial, synthpop and related electronic sounds from Germany. [Stream](http://www.ebm-radio.org:9000/ebm_high.ogg)
@@ -354,6 +356,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
 - [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3)
+- [The Face Radio](https://thefaceradio.com/): Soul, funk, disco and mod from a Brooklyn collective, since 2016. [Stream](https://the-face-radio.radiocult.fm/stream)
 - [Funk the Planet](https://funkthepla.net/): Programmed by Santa Barbara DJ Vince Leo, classic and modern funk. [Stream](https://streaming.live365.com/a01484)
 - [Funky Ass Tunes](https://www.funkyasstunes.com/): Funk, soul, rare groove, and lounge from Dublin. [Stream](https://ams1.reliastream.com/proxy/john12/stream)
 - [The Funky Channel](https://thefunkychannel.com/): Driven by a couple of old-school funk and disco addicts. [Stream](http://cast3.my-control-panel.com:8170/stream)
