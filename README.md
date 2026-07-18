@@ -21,8 +21,8 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 
 1. Choose a player from [Apps & Players](#apps-players).
 2. Search the player's built-in radio directory first.
-3. If it's not listed, long-press or right-click to copy the [Stream] link - a direct audio URL you paste into any media player to tune in instantly.
-4. Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list - download the one matching your interests.
+3. If it's not listed, long-press or right-click to copy the [Stream] link, then paste it into any media player to tune in.
+4.  Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list - download the one matching your interests.
 
 *Tip: Click a station's name to visit its official site. ⭐ = Personal favorites.*
 
@@ -646,8 +646,8 @@ A fast way to capture hidden stream URLs from embedded web players.
 Open the web player, right-click and select **Inspect** (or press `F12`). Go to the **Network** tab, filter by "Media" or "XHR," and start the player. Look for requests ending in `.mp3`, `.aac`, `.m3u`, `.m3u8`, `.pls` or starting with `icecast`/`shoutcast`.
 
 **4. The Cat-Catch Method (for HLS/DASH streams the above don't catch)**
-A heavier-duty sniffer with dedicated HLS (.m3u8) and DASH (MPD) parsers - useful when Stream Detector or the Inspector method don't surface a clean, playable URL.
-* Install cat-catch for [Chrome](https://chrome.google.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb), [Edge](https://microsoftedge.microsoft.com/addons/detail/oohmdefbjalncfplafanlagojlakmjci), or [Firefox](https://addons.mozilla.org/addon/cat-catch/) - use only these official links, the maintainers themselves warn of ad-injected fake copies elsewhere.
+A heavier-duty sniffer with dedicated HLS (.m3u8) and DASH (MPD) parsers. Use it when Stream Detector or the Inspector method don't surface a clean, playable URL.
+* Install cat-catch for [Chrome](https://chrome.google.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb), [Edge](https://microsoftedge.microsoft.com/addons/detail/oohmdefbjalncfplafanlagojlakmjci), or [Firefox](https://addons.mozilla.org/addon/cat-catch/) - use only these official links - the maintainers warn of ad-injected fake copies elsewhere.
 * Play the station, open the extension, and use the built-in M3U8/DASH parser to resolve the manifest into a direct stream URL.
 
 ---
