@@ -225,6 +225,9 @@ http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3
 # Homepage: https://samsam.world/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Sam Sam
 https://listen.radioking.com/radio/742276/stream/808768
+# Homepage: https://radiosantana.blogspot.com/?m=0
+#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Santana Breda
+https://server7.radio-streams.net/proxy/santana/stream
 # Homepage: https://www.radio-sofa.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Sofa
 https://radio.radio-sofa.com/listen/radio_sofa/radio.mp3
@@ -261,6 +264,9 @@ https://radio.filmtastic.uz/listen/rytmabad/radio.mp3
 # Homepage: https://www.saunaradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Sauna Radio
 https://stream.saunaradio.com/live
+# Homepage: https://www.slackradio.org/
+#EXTINF:-1 group-title="Global Independent & Online Communities",Slack Radio
+https://s4.radio.co/s62c60f538/listen
 # Homepage: https://sohoradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Soho Radio
 https://sohoradiomusic.doughunt.co.uk:8010/320mp3

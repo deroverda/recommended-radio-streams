@@ -6,6 +6,9 @@ https://listen.radioking.com/radio/38120/stream/74519
 # Homepage: https://dinamo.fm/content/4/channels
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",dinamo.fm - DiSCOTHEQUE
 http://channels.dinamo.fm/discotheque-mp3
+# Homepage: https://www.discofactory.fm
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Disco Factory FM
+https://s5.radio.co/s253044a7a/listen
 # Homepage: https://thefaceradio.com/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",The Face Radio
 https://the-face-radio.radiocult.fm/stream
@@ -69,9 +72,15 @@ https://strm.radionula.com/channel4
 # Homepage: https://www.retrosoulradio.co.uk
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Retro Soul Radio UK
 https://streaming.galaxywebsolutions.com/stream/retrosoul
+# Homepage: https://sensimedia.net/radio/stations/hiphop
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Sensimedia Hip Hop
+https://sensihiphop.radioca.st/stream
 # Homepage: https://www.streetsoundsradio.com/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Street Sounds Radio
 https://streaming.broadcastradio.com:10525/streetsd
+# Homepage: https://www.swissgroove.ch
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Swiss Groove
+https://relay1.swissgroove.ch/;
 # Homepage: https://totallywiredradio.com
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Totally Wired Radio
 https://totallywired.out.airtime.pro/totallywired_a

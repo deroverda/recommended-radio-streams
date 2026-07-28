@@ -18,6 +18,9 @@ https://ibizasonica.streaming-pro.com:8001/bluemarlin
 # Homepage: https://bondiradio.com.au/
 #EXTINF:-1 group-title="Electronic",Bondi Radio
 https://streaming.radio.co/sfd68ddd77/listen
+# Homepage: https://radio.deepershades.net
+#EXTINF:-1 group-title="Electronic",Deeper Shades of House
+https://andromeda.housejunkie.ca/radio/8000/radio.mp3
 # Homepage: http://www.deepvibes.co.uk/
 #EXTINF:-1 group-title="Electronic",Deepvibes Radio
 http://88.208.218.19:9106/stream
@@ -39,6 +42,9 @@ http://fr1.nexuscast.com:8042/;stream.mp3
 # Homepage: https://frisky.fm/
 #EXTINF:-1 group-title="Electronic",Frisky Radio
 http://stream2.friskyradio.com/frisky_mp3_hi
+# Homepage: https://www.grooveradio.com/
+#EXTINF:-1 group-title="Electronic",GROOVE RADIO
+https://streams.radio.co/s14193ab17/listen
 # Homepage: https://intergalactic.fm/
 #EXTINF:-1 group-title="Electronic",Intergalactic FM - Cybernetic Broadcasting System
 http://radio.intergalactic.fm:80/1

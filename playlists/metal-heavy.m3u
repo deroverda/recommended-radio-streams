@@ -1,8 +1,14 @@
 #EXTM3U
 # Group: Metal & Heavy
+# Homepage: https://celtcast.com/
+#EXTINF:-1 group-title="Metal & Heavy",CeltCast
+http://caster04.streampakket.com:8982/1_mp3_192
 # Homepage: https://coreradio.online/
 #EXTINF:-1 group-title="Metal & Heavy",Core Radio
 http://serv.coreradio.online:8000/coreradio
+# Homepage: https://death.fm/
+#EXTINF:-1 group-title="Metal & Heavy",Death.FM
+http://hi5.death.fm/
 # Homepage: https://www.doomnationradio.com/
 #EXTINF:-1 group-title="Metal & Heavy",Doomnation Radio
 https://s2.voscast.com:11123/stream
@@ -24,6 +30,9 @@ https://ice1.somafm.com/metal-128-aac
 # Homepage: https://www.terrarelicta.com/
 #EXTINF:-1 group-title="Metal & Heavy",Terra Relicta Radio
 https://a3.asurahosting.com/listen/terra/radio.mp3
+# Homepage: https://www.totalrock.com/
+#EXTINF:-1 group-title="Metal & Heavy",TotalRock
+https://totalrock.com/live.m3u
 # Homepage: https://www.violentforcesradio.com
 #EXTINF:-1 group-title="Metal & Heavy",Violent Forces Radio - General Thrash
 https://www.tuneintoradio1.com/listen/violent_forces_radio/radio.mp3

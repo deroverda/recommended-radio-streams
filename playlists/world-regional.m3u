@@ -12,6 +12,9 @@ https://listen.ceol.fm/auto
 # Homepage: https://www.dansbandskanalen.se/
 #EXTINF:-1 group-title="World & Regional",Dansbandskanalen
 https://fm09-ice.stream.khz.se/fm09_mp3
+# Homepage: https://daybreakstarradio.com
+#EXTINF:-1 group-title="World & Regional",Daybreak Star Radio
+http://ice9.securenetsystems.net/DSR
 # Homepage: https://gladyspalmera.com/coleccion
 #EXTINF:-1 group-title="World & Regional",Gladys Palmera Colección
 http://streams.radio.co/s496c4d2e8/listen
