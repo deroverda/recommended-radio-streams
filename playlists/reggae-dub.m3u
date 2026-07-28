@@ -15,9 +15,6 @@ http://icecast.radiofrance.fr/fipreggae-hifi.aac
 # Homepage: https://iriefm.net/
 #EXTINF:-1 group-title="Reggae & Dub",Irie FM
 https://usa19.fastcast4u.com:7430/,
-# Homepage: https://jamaicadancehallradio.com/
-#EXTINF:-1 group-title="Reggae & Dub",Jamaica Dancehall Radio
-https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3
 # Homepage: http://www.kingdubfamily.com/
 #EXTINF:-1 group-title="Reggae & Dub",King Dub Radio
 http://london-dedicated.myautodj.com:8862/stream

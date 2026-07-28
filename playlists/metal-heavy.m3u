@@ -8,7 +8,7 @@ http://caster04.streampakket.com:8982/1_mp3_192
 http://serv.coreradio.online:8000/coreradio
 # Homepage: https://death.fm/
 #EXTINF:-1 group-title="Metal & Heavy",Death.FM
-http://hi5.death.fm/
+https://death.fm/listen.m3u
 # Homepage: https://www.doomnationradio.com/
 #EXTINF:-1 group-title="Metal & Heavy",Doomnation Radio
 https://s2.voscast.com:11123/stream

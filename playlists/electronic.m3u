@@ -30,7 +30,7 @@ http://dogglounge.com:8000/,
 # Homepage: https://dub.ninja/
 #EXTINF:-1 group-title="Electronic",Dub Ninja
 https://dub.ninja/live
-# Homepage: https://www.ebm-radio.org/
+# Homepage: https://www.ebm-radio.de/index.php
 #EXTINF:-1 group-title="Electronic",EBM Radio
 http://www.ebm-radio.org:7000/hq
 # Homepage: https://www.eurodance-radio.com/
@@ -57,7 +57,7 @@ http://cc6.beheerstream.com:8102/stream
 # Homepage: https://www.rinse.fm/channels/kool
 #EXTINF:-1 group-title="Electronic",Kool FM
 https://admin.stream.rinse.fm/proxy/kool/stream
-# Homepage: https://ksol.live/from-the-valleys-of-kasol
+# Homepage: https://ksol.live/valleys-of-kasol
 #EXTINF:-1 group-title="Electronic",KSOL - From the Valleys of Kasol
 https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8
 # Homepage: https://ksol.live/suno-toh-sahi
