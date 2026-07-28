@@ -323,7 +323,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [Deepvibes Radio](http://www.deepvibes.co.uk/): Deep house mixes from DJs worldwide, featuring live sessions and guest mixes. [Stream](http://88.208.218.19:9106/stream)
 - [Dogglounge](https://dogglounge.com/): Deep house and live DJ sets from around the world. [Stream](http://dogglounge.com:8000/,)
 - [Dub Ninja](https://dub.ninja/): Dub techno and ambient for focus. [Stream](https://dub.ninja/live)
-- [EBM Radio](https://www.ebm-radio.org/): EBM, dark electro, industrial, synthpop and related electronic sounds from Germany. [Stream](http://www.ebm-radio.org:7000/hq)
+- [EBM Radio](https://www.ebm-radio.de/index.php): EBM, dark electro, industrial, synthpop and related electronic sounds from Germany. [Stream](http://www.ebm-radio.org:7000/hq)
 - [Eurodance Radio](https://www.eurodance-radio.com/): 90s Eurodance from a private maxi-CD collection, remastered by the owner. [Stream](http://daydeeeurodance.stream.laut.fm/daydeeeurodance)
 - [Freak Beats Tekno Radio](https://freakbeats.nexuscast.com): Tribe, hardtek and acid techno from the underground European free-party scene. [Stream](http://fr1.nexuscast.com:8042/;stream.mp3)
 - [Frisky Radio](https://frisky.fm/): Underground electronic DJ mixes since 2008. [Stream](http://stream2.friskyradio.com/frisky_mp3_hi)
@@ -332,7 +332,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [ISEKOI Radio - Main Channel](https://isekoi-radio.com/): Electronic music framed as transmissions from an exoplanet 63 light-years away, since 2023. [Stream](https://public.isekoi-radio.com/listen/isekoi/radio.mp3)
 - [Italoradio.fm](https://italoradio.fm/): Classic and new Italo-disco. [Stream](http://cc6.beheerstream.com:8102/stream)
 - [Kool FM](https://www.rinse.fm/channels/kool): Jungle and drum and bass pioneer from 1991, now broadcasting from Rinse FM's studio. [Stream](https://admin.stream.rinse.fm/proxy/kool/stream)
-- [KSOL - From the Valleys of Kasol](https://ksol.live/from-the-valleys-of-kasol): Psytrance and goa trance for following the bass into the forest. [Stream](https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8)
+- [KSOL - From the Valleys of Kasol](https://ksol.live/valleys-of-kasol): Psytrance and goa trance for following the bass into the forest. [Stream](https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8)
 - [KSOL - Suno Toh Sahi](https://ksol.live/suno-toh-sahi): Desi electronica, funk, and disco house, where a grandmother's playlist meets a DJ set. [Stream](https://ksol.live/hls/suno_toh_sahi/aac_hifi.m3u8)
 - [Limbik Frequencies](https://limbikfreq.com/public/limbik_frequencies): Bass-heavy experimental electronic. [Stream](https://limbikfreq.com/listen/limbik_frequencies/320.mp3)
 - [Minimal Mix Radio](https://minimalmix.com/): Deep tech house and dub techno mixes from a Polish DJ trio. [Stream](http://orion.shoutca.st:8750/stream)
@@ -428,7 +428,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - [WDNA 88.9](https://wdnaradio.org): Jazz and Latin jazz from Miami. [Stream](http://us9.streamingpulse.com:7033/stream)
 - [WKCR 89.9](https://www.cc-seas.columbia.edu/wkcr/): Columbia's deep jazz since 1941, including the Charlie Parker show Bird Flight. [Stream](https://wkcr.streamguys1.com:80/live)
 - [WUCF 89.9](https://www.wucf.org): Jazz from the University of Central Florida in Orlando, since 1991. [Stream](http://peridot.streamguys.com:7830/WUCF)
-- [WVPE - Blues3](https://www.wvpe.org/show/blues-revue): Dedicated blues output from WVPE in Elkhart, Indiana. [Stream](http://live.str3am.com:2240/live)
+- [WVPE - Blues3](https://www.wvpe.org/show/blues-revue): Dedicated blues output from WVPE in Elkhart, Indiana. [Stream](https://wvpe-live.streamguys1.com/live)
 
 [↑ back to top](#top)
 
@@ -437,7 +437,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ### Metal & Heavy <a id="metal-heavy"></a>
 - [CeltCast](https://celtcast.com/): Volunteer-run Viking, Pagan and Celtic folk station since 2014, with its own Fantasy Awards. [Stream](http://caster04.streampakket.com:8982/1_mp3_192)
 - [Core Radio](https://coreradio.online/): Deathcore, metalcore, post-hardcore, and hardcore. [Stream](http://serv.coreradio.online:8000/coreradio)
-- [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](http://hi5.death.fm/)
+- [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](https://death.fm/listen.m3u)
 - [Doomnation Radio](https://www.doomnationradio.com/): Doom, sludge, stoner, and funeral doom from a metal webzine running since 2013. [Stream](https://s2.voscast.com:11123/stream)
 - [Hard Rock Hell Radio](https://hardrockhellradio.com/): Rock and metal from the UK-based HRH Magazine, with named DJs and weekly shows. [Stream](http://167.114.174.197:9254/stream)
 - [ISKC - Extreme Metal](https://iskcrocks.com/): Extreme metal sub-channel from the Netherlands-based ISKC Radio Group. [Stream](http://mediaserv68.live-streams.nl:8012/ExtremeMetal)
@@ -471,7 +471,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com/): Dub, reggae, and bass-heavy electronic from Bermuda. [Stream](https://streamer.radio.co/s0635c8b0d/listen)
 - [FIP Reggae](https://www.radiofrance.fr/fip/radio-reggae): Roots, dub, and rocksteady from the French public broadcaster in Paris. [Stream](http://icecast.radiofrance.fr/fipreggae-hifi.aac)
 - [Irie FM](https://iriefm.net/): Jamaica's first all-reggae broadcaster, from Ocho Rios since 1990. [Stream](https://usa19.fastcast4u.com:7430/,)
-- [Jamaica Dancehall Radio](https://jamaicadancehallradio.com/): Reggae and dancehall with live DJ commentary. [Stream](https://stream.jamaicadancehallradio.com/listen/jamaica_dancehall_radio/radio.mp3)
 - [King Dub Radio](http://www.kingdubfamily.com/): Roots and digital dub from France's King Dub Records label. [Stream](http://london-dedicated.myautodj.com:8862/stream)
 - [UK Roots FM](https://ukrootsfm.net/): London's self-styled 'foundation station' - roots and revival since 1999. [Stream](http://138.201.198.218:8043/,)
 
@@ -538,7 +537,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ### World & Regional <a id="world-regional"></a>
 *Music defined by a specific place or culture, played in its regional or traditional style - distinct from Global Independent's focus on independent identity over geography.*
 - [Alefa Music](https://alefamusic.net/): Malagasy salegy and tsapiky from a Paris-based diaspora project. [Stream](http://www.radioking.com/play/alefamusic)
-- [Celtic Music Radio](https://www.celticmusicradio.net/): Glasgow's volunteer community broadcaster for Celtic, folk, and traditional music, with ties to Celtic Connections. [Stream](http://stream.celticmusicradio.net:8000/celticmusic.mp3)
+- [Celtic Music Radio](https://www.celticmusicradio.net/): Glasgow's volunteer community broadcaster for Celtic, folk, and traditional music, with ties to Celtic Connections. [Stream](https://streaming.broadcastradio.com:11135/celtic)
 - [CeolFM](https://ceol.fm/): Musician-led Irish traditional music with dedicated fiddle, pipes, songs, and reel streams. [Stream](https://listen.ceol.fm/auto)
 - [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish "Dansband" music. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
 - [Daybreak Star Radio](https://daybreakstarradio.com): Indigenous music network from Seattle's Daybreak Star Cultural Center, since 2021. [Stream](http://ice9.securenetsystems.net/DSR)
@@ -631,6 +630,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [FMStream](https://fmstream.org/): Tools for finding raw stream URLs.
 - [Freeform Radio Directory](https://www.freeformradio.directory/): Directory of freeform and independent stations with direct stream links.
 - [Icecast Directory](https://dir.xiph.org): Open directory of Icecast streaming stations.
+- [internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) (github): Curated station list, one m3u file per stream, quality over quantity.
 - [m3u radio music playlists](https://junguler.github.io/m3u-radio-music-playlists/): GitHub scrape of 50+ directory sites into genre-sorted playlists, over a million unique streams.
 - [Monoskop](https://monoskop.org/Community_radio): Wiki directory of community and freeform radio stations worldwide, with links and station histories.
 - [PublicRadioFan](https://publicradiofan.com/): Program schedules and live stream listings for public radio stations worldwide.
