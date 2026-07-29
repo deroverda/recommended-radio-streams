@@ -36,6 +36,9 @@ https://kxlu.streamguys1.com/kxlu-hi
 # Homepage: https://kzsc.org
 #EXTINF:-1 group-title="Campus & Public Radio",KZSC 88.1
 https://kzscfms1-geckohost.radioca.st/kzschigh
+# Homepage: https://www.prun.net/
+#EXTINF:-1 group-title="Campus & Public Radio",Prun'
+https://www.prun.net/stream
 # Homepage: https://kzsu.stanford.edu
 #EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
 http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
