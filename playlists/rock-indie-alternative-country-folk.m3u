@@ -36,6 +36,9 @@ https://sp1.autopo.st/8026/stream
 # Homepage: https://www.kexp.org/listen/
 #EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",KEXP 90.3
 https://kexp.streamguys1.com/kexp160.aac
+# Homepage: https://krautrockworld.com/
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Krautrock-World
+https://krautrockworld.stream.laut.fm/krautrockworld
 # Homepage: https://livejamradio.com/
 #EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Live Jam Radio
 https://stations.radio-host.com/proxy/livejam/stream
@@ -51,6 +54,9 @@ http://stream-dc1.radioparadise.com/rp_192m.ogg
 # Homepage: https://radiowoodstock.com/
 #EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Radio Woodstock
 https://stream.revma.ihrhls.com/zc7332
+# Homepage: https://realpunkradio.com/
+#EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",Real Punk Radio
+http://149.56.155.73:8080/stream
 # Homepage: https://thesocalsound.org/
 #EXTINF:-1 group-title="Rock, Indie, Alternative, Country & Folk",The SoCal Sound
 https://stream.thesocalsound.org/1

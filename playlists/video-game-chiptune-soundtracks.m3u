@@ -66,6 +66,9 @@ https://listen.rpgamers.net/rpgn
 # Homepage: https://scenesat.com/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",SceneSat
 http://oscar.scenesat.com:8000/scenesatmax
+# Homepage: https://shmupradio.com/en/
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Shmup Radio
+https://stream.shmupradio.com/320
 # Homepage: https://slayradio.org/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Slay Radio
 http://relay4.slayradio.org:8300/
