@@ -3,6 +3,9 @@
 # Homepage: https://alefamusic.net/
 #EXTINF:-1 group-title="World & Regional",Alefa Music
 http://www.radioking.com/play/alefamusic
+# Homepage: https://celtcast.com/
+#EXTINF:-1 group-title="World & Regional",CeltCast
+http://caster04.streampakket.com:8982/1_mp3_192
 # Homepage: https://www.celticmusicradio.net/
 #EXTINF:-1 group-title="World & Regional",Celtic Music Radio
 https://streaming.broadcastradio.com:11135/celtic
