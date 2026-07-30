@@ -450,7 +450,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ---
 
 ### Metal & Heavy <a id="metal-heavy"></a>
-- [CeltCast](https://celtcast.com/): Volunteer-run Viking, Pagan and Celtic folk station since 2014, with its own Fantasy Awards. [Stream](http://caster04.streampakket.com:8982/1_mp3_192)
 - [Core Radio](https://coreradio.online/): Deathcore, metalcore, post-hardcore, and hardcore. [Stream](http://serv.coreradio.online:8000/coreradio)
 - [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](https://death.fm/listen.m3u)
 - [Doomnation Radio](https://www.doomnationradio.com/): Doom, sludge, stoner, and funeral doom from a metal webzine running since 2013. [Stream](https://s2.voscast.com:11123/stream)
@@ -555,6 +554,7 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 ### World & Regional <a id="world-regional"></a>
 *Music defined by a specific place or culture, played in its regional or traditional style - distinct from Global Independent's focus on independent identity over geography.*
 - [Alefa Music](https://alefamusic.net/): Malagasy salegy and tsapiky from a Paris-based diaspora project. [Stream](http://www.radioking.com/play/alefamusic)
+- [CeltCast](https://celtcast.com/): Volunteer-run Viking, Pagan and Celtic folk station since 2014, with its own Fantasy Awards. [Stream](http://caster04.streampakket.com:8982/1_mp3_192)
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Glasgow's volunteer community broadcaster for Celtic, folk, and traditional music, with ties to Celtic Connections. [Stream](https://streaming.broadcastradio.com:11135/celtic)
 - [CeolFM](https://ceol.fm/): Musician-led Irish traditional music with dedicated fiddle, pipes, songs, and reel streams. [Stream](https://listen.ceol.fm/auto)
 - [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish "Dansband" music. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
