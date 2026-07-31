@@ -39,12 +39,6 @@ https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
 # Homepage: https://dandelionradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Dandelion Radio
 https://www.dandelionradio.com/DandelionRadio.pls
-# Homepage: https://datafruits.fm/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Datafruits
-https://streampusher-relay.club/datafruits.mp3
-# Homepage: https://www.depa.radio/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Depa Radio
-https://servidor15-2.brlogic.com:7006/live
 # Homepage: https://www.diaradio.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",DIA!
 https://livestream.diaradio.live/main
@@ -63,9 +57,6 @@ https://dublin-digital-radio.radiocult.fm/stream
 # Homepage: https://www.thedumpradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",The Dump
 https://radio.turbo.net.au/stream-hq
-# Homepage: https://eastvillageradio.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",East Village Radio
-https://east-village-radio.radiocult.fm/stream
 # Homepage: https://fade.radio/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fade Radio
 https://stream.radiojar.com/072mdmpbfq8uv
@@ -81,9 +72,6 @@ https://streamer.radio.co/s0628bdd53/listen
 # Homepage: https://fritto.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Fritto FM
 https://frittofm2020.out.airtime.pro/frittofm2020_a
-# Homepage: https://gatekeeperradio.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Gatekeeper Radio
-https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3
 # Homepage: https://greatcircles.net/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Great Circles
 https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f
@@ -93,9 +81,6 @@ https://stream-test.hkcr.live/hls/main.m3u8
 # Homepage: https://khuh.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Hollow Earth Radio
 http://centova.rockhost.com:8001/stream
-# Homepage: https://www.idaidaida.net/
-#EXTINF:-1 group-title="Global Independent & Online Communities",IDA
-https://broadcast.idaidaida.net:8000/stream
 # Homepage: https://www.internetpublicradio.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Internet Public Radio
 https://stream-relay-geo.internetpublicradio.live/stream/main
@@ -195,12 +180,6 @@ https://stream.palanga.live:8443/palanga128.mp3
 # Homepage: https://www.paranoiseradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Paranoise Radio
 https://paranoisewebcast.radioca.st/stream
-# Homepage: https://parearadio.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Parea Radio
-https://parea-radio-b7474105.radiocult.fm/stream
-# Homepage: https://www.particle.fm/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Particle FM
-https://azuracast.particle.fm/radio/8000/radio.mp3
 # Homepage: https://www.pinataradio.com/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Piñata Radio
 https://listen.radioking.com/radio/96031/stream/134656
@@ -216,9 +195,6 @@ https://s4.radio.co/s69b281ac0/listen
 # Homepage: https://www.radiocentraal.be/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Centraal
 http://streams.movemedia.eu:8530/
-# Homepage: https://radiodopo.it/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Radio Dopo
-https://streaming.radio.co/s807721f02/listen
 # Homepage: https://radiokapital.pl/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Radio Kapitał
 https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a
@@ -303,18 +279,12 @@ https://sohoradiomusic.doughunt.co.uk:8010/320mp3
 # Homepage: https://stationstation.fr/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Station Station
 https://libretime.stationstation.fr/main
-# Homepage: https://stayfm.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",stayfm
-https://stayfm.com:8443/archive
 # Homepage: https://stegi.radio/
 #EXTINF:-1 group-title="Global Independent & Online Communities",STEGI.RADIO
 https://movementathens.out.airtime.pro/movementathens_a
 # Homepage: https://www.studioneau.be/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Studio Néau
 https://studioneau.out.airtime.pro/studioneau_a
-# Homepage: https://www.subtleradio.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Subtle Radio
-https://subtle.out.airtime.pro/subtle_a
 # Homepage: https://www.thfradio.de/
 #EXTINF:-1 group-title="Global Independent & Online Communities",THF Radio
 https://thf-radio-7ec0e6ee.radiocult.fm/stream
@@ -330,9 +300,6 @@ https://edge.mixlr.com/channel/vgmet
 # Homepage: https://veneno.live/
 #EXTINF:-1 group-title="Global Independent & Online Communities",Veneno
 https://radio.veneno.live/stream/main
-# Homepage: https://www.wearevarious.com/
-#EXTINF:-1 group-title="Global Independent & Online Communities",We Are Various
-https://azuracast.wearevarious.com/listen/we_are_various/live.mp3
 # Homepage: https://wavefarm.org/radio/wgxc/schedule
 #EXTINF:-1 group-title="Global Independent & Online Communities",WGXC 90.7-FM
 https://audio.wavefarm.org/wgxc.mp3
@@ -342,6 +309,3 @@ https://worldwide-fm.radiocult.fm/stream
 # Homepage: https://xray.fm/
 #EXTINF:-1 group-title="Global Independent & Online Communities",XRAY.fm
 https://listen.xray.fm/stream
-# Homepage: https://www.zabrijradio.org/
-#EXTINF:-1 group-title="Global Independent & Online Communities",Zabrij Radio
-https://zabrij-radio.radiocult.fm/stream
