@@ -39,6 +39,9 @@ https://kzscfms1-geckohost.radioca.st/kzschigh
 # Homepage: https://kzsu.stanford.edu
 #EXTINF:-1 group-title="Campus & Public Radio",KZSU Stanford 90.1
 http://kzsu-streams.stanford.edu/kzsu-1-256.mp3
+# Homepage: https://www.prun.net/
+#EXTINF:-1 group-title="Campus & Public Radio",Prun'
+https://www.prun.net/stream
 # Homepage: https://radiokrs.com/
 #EXTINF:-1 group-title="Campus & Public Radio",Radio KRŠ
 https://stream.radiokrs.me:8443/lq.mp3
