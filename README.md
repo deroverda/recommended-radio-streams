@@ -398,7 +398,6 @@ Internet radio I actually listen to - underground electronic, freeform, jazz, am
 - ⭐ [Radio Krimi](http://radiokrimi.com): Hip-hop, funk, and jazz with a noir aesthetic. [Stream](https://radio13.pro-fhi.net/flux-nwsimjda2/stream)
 - [Radio Nova - Hip-Hop](https://www.nova.fr/radios/): Nova's dedicated hip-hop channel, French and international. [Stream](https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac)
 - [Radio Nula - Classic](https://radionula.com): Soul, funk, disco, and hip-hop from a Ljubljana DJ collective, since 2008. [Stream](https://strm.radionula.com/channel4)
-- [Retro Soul Radio UK](https://www.retrosoulradio.co.uk): Soul, funk, and disco-funk from a London DJ team, since 2010. [Stream](https://streaming.galaxywebsolutions.com/stream/retrosoul)
 - [Sensimedia Hip Hop](https://sensimedia.net/radio/stations/hiphop): LA reggae and hip-hop network since 1999, among the first broadcasting online. [Stream](https://sensihiphop.radioca.st/stream)
 - [Street Sounds Radio](https://www.streetsoundsradio.com/): Soul, boogie, jazz-funk, and electro from the Street Sounds label, since 1982. [Stream](https://streaming.broadcastradio.com:10525/streetsd)
 - [Swiss Groove](https://www.swissgroove.ch): Non-profit jazz and funk founded 2003 by Zurich music collectors. [Stream](https://relay1.swissgroove.ch/;)
