@@ -18,6 +18,9 @@ http://mediaserv68.live-streams.nl:8012/ExtremeMetal
 # Homepage: https://metaldevastationradio.com/
 #EXTINF:-1 group-title="Metal & Heavy",Metal Devastation
 https://c13.radioboss.fm:18099/stream
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Metal & Heavy",NTS - The Pit
+https://stream-mixtape-geo.ntslive.net/mixtape34
 # Homepage: https://www.progpalaceradio.com/
 #EXTINF:-1 group-title="Metal & Heavy",Prog Palace Radio
 https://cheetah.streemlion.com/progpalace64

@@ -63,6 +63,9 @@ https://ksds-ice.streamguys1.com/ksds.mp3
 # Homepage: https://www.linn.co.uk/linn-radio
 #EXTINF:-1 group-title="Jazz & Blues",Linn Jazz
 http://radio.linn.co.uk:8000/autodj
+# Homepage: https://www.nts.live/infinite-mixtapes/expansions
+#EXTINF:-1 group-title="Jazz & Blues",NTS - Expansions
+https://stream-mixtape-geo.ntslive.net/mixtape3
 # Homepage: https://www.psaudio.com/blogs/pauls-posts/octave-radio
 #EXTINF:-1 group-title="Jazz & Blues",Octave Radio
 https://octaverecords.out.airtime.pro/octaverecords_a

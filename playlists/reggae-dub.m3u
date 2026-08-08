@@ -18,6 +18,9 @@ https://usa19.fastcast4u.com:7430/,
 # Homepage: http://www.kingdubfamily.com/
 #EXTINF:-1 group-title="Reggae & Dub",King Dub Radio
 http://london-dedicated.myautodj.com:8862/stream
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Reggae & Dub",NTS - Island Time
+https://stream-mixtape-geo.ntslive.net/mixtape21
 # Homepage: https://ukrootsfm.net/
 #EXTINF:-1 group-title="Reggae & Dub",UK Roots FM
 http://138.201.198.218:8043/,

@@ -75,9 +75,18 @@ https://stream.nightride.fm/nightride.mp3
 # Homepage: https://plaza.one/
 #EXTINF:-1 group-title="Electronic",Nightwave Plaza
 https://radio.plaza.one/ogg
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Electronic",NTS - 4 To The Floor
+https://stream-mixtape-geo.ntslive.net/mixtape5
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Electronic",NTS - Labyrinth
+https://stream-mixtape-geo.ntslive.net/mixtape31
 # Homepage: https://www.nts.live/infinite-mixtapes/poolside
 #EXTINF:-1 group-title="Electronic",NTS - Poolside
 https://stream-mixtape-geo.ntslive.net/mixtape4
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Electronic",NTS - Sweat
+https://stream-mixtape-geo.ntslive.net/mixtape24
 # Homepage: https://openlab.fm
 #EXTINF:-1 group-title="Electronic",OpenLab FM
 https://ice09.fluidstream.net/openlab.aac

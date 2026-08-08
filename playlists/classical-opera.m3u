@@ -27,6 +27,9 @@ http://radio.linn.co.uk:8004/stream
 # Homepage: https://www.w.mrg.fm/
 #EXTINF:-1 group-title="Classical & Opera",MRG.fm - OperaRadio
 http://listen.mrg.fm:8110/,
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Classical & Opera",NTS - Sheet Music
+https://stream-mixtape-geo.ntslive.net/mixtape35
 # Homepage: https://www.radioswissclassic.ch/en
 #EXTINF:-1 group-title="Classical & Opera",Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128

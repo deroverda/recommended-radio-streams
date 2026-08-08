@@ -45,9 +45,15 @@ https://stream.laut.fm/mojo
 # Homepage: https://www.w.mrg.fm/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",MRG.fm - Planet Hip Hop
 http://listen.mrg.fm:8100/stream
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",NTS - Feelings
+https://stream-mixtape-geo.ntslive.net/mixtape27
 # Homepage: https://www.nts.live/infinite-mixtapes/100-percent-hip-hop
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",NTS - Low Key
 https://stream-mixtape-geo.ntslive.net/mixtape2
+# Homepage: https://www.nts.live/infinite-mixtapes
+#EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",NTS - Rap House
+https://stream-mixtape-geo.ntslive.net/mixtape22
 # Homepage: https://nuance.radio/
 #EXTINF:-1 group-title="Funk, Soul, Hip-Hop & Disco",Nuance Radio
 http://admin.nuance.radio/hls/nuance_radio/aac_hifi.m3u8

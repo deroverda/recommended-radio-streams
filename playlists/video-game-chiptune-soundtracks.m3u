@@ -51,6 +51,9 @@ http://necta.burn.net:8000/nectarine
 # Homepage: https://nolife-radio.com/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",No Life Radio
 https://listen.nolife-radio.com/stream
+# Homepage: https://www.nts.live/infinite-mixtapes/otaku
+#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",NTS - Otaku
+https://stream-mixtape-geo.ntslive.net/mixtape36
 # Homepage: https://radiorivendell.com/
 #EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Radio Rivendell
 https://play.radiorivendell.com/radio/8000/radio.mp3
