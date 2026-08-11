@@ -314,7 +314,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Mad Music Radio - Oldies Radio](https://wgdr.rocks/): Oldies and soft rock hits through the 70s. [Stream](http://janus.shoutca.st:8259/,)
 - [Majestic Jukebox](https://www.majesticjukeboxradio.com): 40s-80s oldies, jazz, swing, rock'n'roll and big band. [Stream](https://uk3.internet-radio.com/proxy/majesticjukebox/live)
 - [Old Time Radio](https://oldtime.radio/): 1930s-50s radio shows (comedy, westerns, mystery). [Stream](https://kea.cdnstream.com/1893_128)
-- ⭐ [Psychedelicized](https://psychedelicized.com/): 60s-70s psychedelic and garage rock. [Stream](https://cast1.asurahosting.com/proxy/psychedelicized/stream)
+- ⭐ [Psychedelicized](https://psychedelicized.com/): 60s-70s psychedelic and garage rock. [Stream](https://stream.psychedelicized.com/listen/psychedelicized/radio.mp3)
 - [Pumpkin FM - 1940s](https://pumpkinfm.com/): Hits and shows from the 1940s. [Stream](https://cast2.asurahosting.com/proxy/1940sradio/stream)
 - [The Quiet Village](https://www.digitiki.com/radio.html): Exotica, Hawaiian, and lounge music. [Stream](http://broadcast.shoutcheap.com:8424/stream)
 - ⭐ [Radio Caroline](https://radiocaroline.co.uk): Album rock from the original 1964 pirate ship station, now licensed. [Stream](http://78.129.202.200:8040/,)
@@ -557,11 +557,11 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [RadioSEGA](https://www.radiosega.net/): SEGA game music and remixes, broadcasting fan shows since 2006. [Stream](http://content.radiosega.net:8006/live)
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](http://allrelays.rainwave.cc/game.mp3)
 - [RPGamers Radio](https://www.rpgamers.net/radio/): Listener-driven game music from 8-bit NES to modern releases, with a request system. [Stream](https://listen.rpgamers.net/rpgn)
-- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax)
+- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax) *temporarily off the air*
 - [Shmup Radio](https://shmupradio.com/en/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999, Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
-- [Streaming Soundtracks](http://www.streamingsoundtracks.com/): Scores from movies, TV, and anime. [Stream](http://hi5.streamingsoundtracks.com/;)
+- [Streaming Soundtracks](http://www.streamingsoundtracks.com/): Scores from movies, TV, and anime. [Stream](http://hi5.streamingsoundtracks.com/) 
 
 [↑ back to top](#top)
 
