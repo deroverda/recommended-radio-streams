@@ -131,7 +131,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Classical & Opera <a id="classical-opera"></a>
 - [Ancient FM](https://ancientfm.com/): Medieval and Renaissance music on period instruments. [Stream](https://mediaserv73.live-streams.nl:18058/stream)
 - ⭐ [BBC Radio 3](https://www.bbc.co.uk/sounds/play/live/bbc_radio_three): Classical, jazz, and world music from the BBC. Live concerts and the Proms. [Stream](http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8)
-- [Classical California](https://www.classicalcalifornia.org/): Classical from LA and San Francisco, home of SF Symphony and SF Opera broadcasts. [Stream](https://playerservices.streamtheworld.com/api/livestream-redirect/KDFCFMAAC.aac)
+- [Classical California](https://www.classicalcalifornia.org/): Classical from LA and San Francisco, home of SF Symphony and SF Opera broadcasts. [Stream](https://14103.live.streamtheworld.com/KUSCAAC96.aac)
 - [Concertzender - Baroque](https://www.concertzender.nl/): Independent Dutch station's baroque channel, focused on lesser-known works and period performance. [Stream](http://streams.greenhost.nl:8080/barok)
 - [CRB Classical 99.5](https://www.classicalwcrb.org/): Home of the Boston Symphony Orchestra. [Stream](https://wgbh-live.streamguys1.com/classical-hi)
 - [France Musique](https://www.radiofrance.fr/francemusique): French public classical, jazz, and contemporary, with live concerts. [Stream](http://icecast.radiofrance.fr/francemusique-hifi.aac)
@@ -164,7 +164,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [KUTX 98.9](https://kutx.org): Austin public radio. Indie rock, Americana, and Texas music. [Stream](https://streams.kut.org/4428_192.mp3)
 - [KVRX 91.7](https://kvrx.org/): Student-run freeform from UT Austin. [Stream](https://kvrx.org/now_playing/stream)
 - [KXLU 88.9](https://kxlu.com/): Los Angeles student-run, focused on underground rock and independent sets. [Stream](https://kxlu.streamguys1.com/kxlu-hi)
-- [KZSC 88.1](https://kzsc.org): Community and student radio from Santa Cruz. [Stream](https://kzscfms1-geckohost.radioca.st/kzschigh)
 - [KZSU Stanford 90.1](https://kzsu.stanford.edu): Student-run from Stanford, with a 80,000-disc library and an annual Day of Noise. [Stream](http://kzsu-streams.stanford.edu/kzsu-1-256.mp3)
 - [Prun'](https://www.prun.net/): Student station from Nantes since 1999, covering emerging artists across groove, hip-hop, funk, and electronic. [Stream](https://www.prun.net/stream)
 - [Radio KRŠ](https://radiokrs.com/): Montenegro's first student station, since 2014, slogan translates to 'We break the silence.' [Stream](https://stream.radiokrs.me:8443/lq.mp3)
@@ -290,7 +289,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [stayfm](https://stayfm.com/): Independent, member-run community station from Augsburg, founded in 2018 as a non-profit association. [Stream](https://stayfm.com:8443/archive)
 - [STEGI.RADIO](https://stegi.radio/): Art radio from the Onassis Stegi cultural centre in Athens, with Mediterranean and global sounds. [Stream](https://movementathens.out.airtime.pro/movementathens_a)
 - [Studio Néau](https://www.studioneau.be/): Free community radio in a converted shipping container in Eupen, East Belgium, since 2021. [Stream](https://studioneau.out.airtime.pro/studioneau_a)
-- [Subtle Radio](https://www.subtleradio.com/): Community-led station from Hackney, London, broadcasting since 2018 to support grassroots electronic music. [Stream](https://subtle.out.airtime.pro/subtle_a)
+- [Subtle Radio](https://www.subtleradio.com/): Community-led station from Hackney, London, broadcasting since 2018 to support grassroots electronic music. [Stream](https://subtle-radio-dd2656d9.radiocult.fm/stream)
 - [THF Radio](https://www.thfradio.de/): Experimental broadcasts from the former gatehouse at Tempelhof Airport, Berlin. [Stream](https://thf-radio-7ec0e6ee.radiocult.fm/stream)
 - [Three D Radio 93.7 FM](https://www.threedradio.com/): Volunteer-run alternative FM from Adelaide, no playlists, 120+ announcers, since 1979. [Stream](https://sounds.threedradio.com/stream)
 - [Tīrkultūra](https://www.tirkultura.lv/): Experimental radio art from Riga, founded in 2015 by a fashion designer and two artists. [Stream](https://s3.radio.co/s216811754/listen)
@@ -385,7 +384,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
 
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
-- [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3)
+- [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3) *temporarily off the air*
 - [Disco Factory FM](https://www.discofactory.fm): Volunteer friends spinning vinyl-only 12-inch disco, funk, and soul from the 70s-80s. [Stream](https://s5.radio.co/s253044a7a/listen)
 - [The Face Radio](https://thefaceradio.com/): Soul, funk, disco and mod from a Brooklyn collective, since 2016. [Stream](https://the-face-radio.radiocult.fm/stream)
 - [Funk the Planet](https://funkthepla.net/): Programmed by Santa Barbara DJ Vince Leo, classic and modern funk. [Stream](https://streaming.live365.com/a01484)
@@ -513,7 +512,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Boogaloo Radio](https://www.boogalooradio.com/): Live from The Boogaloo pub in Highgate, London, rock, soul, and chat. [Stream](https://streams.radio.co/sb88c742f0/listen)
 - ⭐ [The Current](https://thecurrent.org): Indie rock and pop from Minnesota Public Radio. [Stream](https://current.stream.publicradio.org/current.mp3)
 - [DARE FM](https://wdarefm.com/): New York's first alternative rock outlet, formerly WLIR, broadcasting since 1980. [Stream](http://hydra.cdnstream.com/1552_128)
-- [Delicious Agony](http://www.deliciousagony.com/): Rarities and full albums from progressive rock. [Stream](http://deliciousagony.streamguys1.com/)
+- [Delicious Agony](http://www.deliciousagony.com/): Rarities and full albums from progressive rock. [Stream](http://deliciousagony.streamguys1.com/) *temporarily off the air*
 - [Folk Alley](https://folkalley.com/): Folk, roots, and Americana since 2003, now run by the FreshGrass Foundation. [Stream](https://freshgrass.streamguys1.com/folkalley-128mp3)
 - [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead, Jerry Garcia Band, Ratdog, and other Dead-family projects. [Stream](http://cassini.shoutca.st:8574/stream)
 - [Ignore Radio Shoegaze](https://ignoreradio.com/): Shoegaze and dream pop. [Stream](https://sp1.autopo.st/8026/stream)
@@ -583,7 +582,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Live music, performance, and experimental pan-African sounds from Cape Town. [Stream](https://pass.out.airtime.pro/pass_a)
 - [Pyongyang Radio FM](https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/): North Korean state radio via online relays. [Stream](https://listen7.myradio24.com/69366)
 - [Radio Al-Hara](https://www.radioalhara.net/): Experimental beats, talk, and underground Palestinian culture, broadcasting since 2020. [Stream](https://stream.radiojar.com/78cxy6wkxtzuv)
-- [Radio Flouka](https://www.radioflouka.com/): Contemporary Arab and North African music, from Mashriq to Maghreb, Paris-based. [Stream](https://flouka.out.airtime.pro/flouka_a)
+- [Radio Flouka](https://www.radioflouka.com/): Contemporary Arab and North African music, from Mashriq to Maghreb, Paris-based. [Stream](https://flouka.out.airtime.pro/flouka_a) *temporarily off the air*
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Javanese and Balinese gamelan recordings. [Stream](http://radioseribatu.out.airtime.pro:8000/radioseribatu_a)
 - [Svensk Folkmusik AkkA](https://www.svenskfolkmusik.nu/): 33,000+ tracks of Swedish folk music, run by two enthusiasts in the Netherlands. [Stream](https://mediaserv38.live-streams.nl:8107/stream)
 
@@ -604,7 +603,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 *Some entries here are tools, not streams.*
 - [Broadcastify](https://www.broadcastify.com/): Largest directory for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
-- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live)
+- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live) *temporarily off the air*
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
