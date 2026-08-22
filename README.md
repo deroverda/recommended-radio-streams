@@ -275,7 +275,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Radio Sofa](https://www.radio-sofa.com/): Electronic music collective, founded in April 2020 to keep Paris venues alive during COVID closures. [Stream](https://radio.radio-sofa.com/listen/radio_sofa/radio.mp3)
 - [Radio Tsonami](https://radiotsonami.org/): Experimental broadcasting from Valparaíso, treating radio as social communication. [Stream](https://radio-tsonami-b24c40dc.radiocult.fm/stream)
 - [Radio Vilnius](https://radiovilnius.live/): Independent community radio and physical meeting point in Vilnius, with 100-plus residents. [Stream](https://transliacija.audiomastering.lt/radiovilnius-mp3)
-- [radio.syg.ma](https://radio.syg.ma/): Independent music and sound art from syg.ma, a Russian arts-publishing outlet since 2014. [Stream](https://radio.syg.ma/audio.ogg)
 - [Reform Radio](https://www.reformradio.co.uk/): Started in a South Manchester basement in 2013, now at Old Granada Studios. [Stream](https://testform.out.airtime.pro/testform_a)
 - [Refuge Worldwide](https://refugeworldwide.com/): Berlin community radio born from refugee-aid fundraisers in Neukölln. [Stream](https://streaming.radio.co/s3699c5e49/listen)
 - [Resonance 104.4 FM](https://www.resonancefm.com/): London's radio art station, run by the London Musicians' Collective since 2002. [Stream](http://stream.resonance.fm:8000/resonance)
