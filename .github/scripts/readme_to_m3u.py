@@ -95,7 +95,7 @@ def write_m3u(path, entries, group_title):
             # keeping every EXTINF immediately followed by its URL.
             if homepage:
                 f.write(f"# Homepage: {homepage}\n")
-            f.write(f'#EXTINF:-1 group-title="{group_title}",{name}\n')
+            f.write(f"#EXTINF:-1,{name}\n")
             f.write(f"{url}\n")
 
 def main():
