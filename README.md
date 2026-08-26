@@ -109,7 +109,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [ChillTraxx](https://www.chilltrax.com/): Listener-supported downtempo and chillout, broadcast from Oakland, California. [Stream](https://streamssleu.chilltrax.com/stream)
 - [CodeRadio](https://www.freecodecamp.org/news/code-radio/): Jazzy beats to code to, from freeCodeCamp. [Stream](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3)
 - [Dark Ambient Radio](https://www.darkambientradio.de/news.php): Dark ambient only since 2006, with track info provided through forum comments. [Stream](http://s3.viastreaming.net:8835/,)
-- [Dinamo.FM - Sleep](https://dinamo.fm/content/4/channels): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3)
+- [Dinamo.FM - Sleep](https://dinamo.fm/content/4/channels): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3) *(down, cause unknown, kept for now)*
 - ⭐ [Echoes of Bluemars](http://echoesofbluemars.org/): Archived tribute to Bluemars, the ambient stream that went dark in 2013. [Bluemars](http://streams.echoesofbluemars.org:8000/bluemars) / [Cryosleep](http://streams.echoesofbluemars.org:8000/cryosleep) / [Voices From Within](http://streams.echoesofbluemars.org:8000/voicesfromwithin)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Experimental ambient and modern classical from Daniel Crossley's Bristol label, since 2010. [Stream](http://uk4-vn.webcast-server.net:9270/,)
 - [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese-inspired ambient from an Argentine band that waited 20 years to visit Japan. [Stream](https://server.laradio.online:59009/live)
@@ -215,7 +215,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Fango Radio](https://www.fangoradio.com/): Unusual and rarely-heard music, words, and sounds from Pistoia, Tuscany. [Stream](https://pantano.ovh:8444/pantano)
 - [fbi.radio](https://www.fbi.radio/): Sydney's independent non-profit, half Australian music, half of that from Sydney, since 2003. [Stream](https://streamer.fbiradio.com/stream)
 - [Foundation FM](https://foundation.fm/): House, garage, and bass from a women and queer-led London collective. [Stream](https://streamer.radio.co/s0628bdd53/listen)
-- [Fritto FM](https://fritto.fm/): Community-built from Milan, hosting live shows and mixes from emerging local artists, since 2015. [Stream](https://frittofm2020.out.airtime.pro/frittofm2020_a)
+- [Fritto FM](https://fritto.fm/): Community-built from Milan, hosting live shows and mixes from emerging local artists, since 2015. [Stream](https://frittofm2020.out.airtime.pro/frittofm2020_a) *(down, cause unknown, kept for now)*
 - [Gatekeeper Radio](https://gatekeeperradio.com/): Non-profit experimental station from Berlin, turning urban spaces into temporary physical broadcast sites. [Stream](https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3)
 - [Great Circles](https://greatcircles.net/): Record shop, label, and live broadcasts from a Frankford Avenue studio in Philadelphia. [Stream](https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f)
 - [HKCR](https://hkcr.live/): Artist and musician-run outlet in Wan Chai, Hong Kong, since 2016. [Stream](https://stream-test.hkcr.live/hls/main.m3u8)
@@ -239,7 +239,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Montez Press Radio](https://radio.montezpress.com/): Publisher-run art broadcasts from a Canal Street storefront in Manhattan's Chinatown. [Stream](https://stream.montezpress.com/icecast/music)
 - [Mouthfull](https://mouthfull.live/): Non-profit from Aotearoa New Zealand since 2017, with a live listener chatroom alongside every show. [Stream](https://mouthfull-radio.radiocult.fm/stream)
 - [Muito Radio](https://www.muitoradio.com/): Independent community radio from Buenos Aires built on the syncretic spirit of 1960s Brazilian tropicalismo. [Stream](https://muitoradio.out.airtime.pro/muitoradio_a)
-- [Mutant Radio](https://www.mutantradio.net): Experimental electronic from a former power station in Tbilisi. [Stream](https://listen.radioking.com/radio/282820/stream/328621)
+- [Mutant Radio](https://www.mutantradio.net): Experimental electronic from a former power station in Tbilisi. [Stream](https://listen.radioking.com/radio/282820/stream/328621) *(down, cause unknown, kept for now)*
 - [n10.as](https://n10.as/): Volunteer-run Montreal freeform, death metal to dub to medieval music. Pronounced "antennas." [Stream](https://n10as.radiocult.fm/stream)
 - [Nebulah Radio](https://www.nebulah-radio.com/): World music and electronic from Brest, run by Mascarade Records since 2019. [Stream](https://listen.radioking.com/radio/314507/stream/361754)
 - [Ness Radio](https://nessradio.com/): House, electro, jazz, soul, and hip-hop from Marrakech, active since 2008. [Stream](https://radio.nessradio.net:8212/nessradio-hd)
@@ -385,7 +385,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
 
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
-- [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3) *temporarily off the air*
+- [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3) *(down, cause unknown, kept for now)*
 - [Disco Factory FM](https://www.discofactory.fm): Volunteer friends spinning vinyl-only 12-inch disco, funk, and soul from the 70s-80s. [Stream](https://s5.radio.co/s253044a7a/listen)
 - [The Face Radio](https://thefaceradio.com/): Soul, funk, disco and mod from a Brooklyn collective, since 2016. [Stream](https://the-face-radio.radiocult.fm/stream)
 - [Funk the Planet](https://funkthepla.net/): Programmed by Santa Barbara DJ Vince Leo, classic and modern funk. [Stream](https://streaming.live365.com/a01484)
@@ -557,7 +557,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [RadioSEGA](https://www.radiosega.net/): SEGA game music and remixes, broadcasting fan shows since 2006. [Stream](http://content.radiosega.net:8006/live)
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](http://allrelays.rainwave.cc/game.mp3)
 - [RPGamers Radio](https://www.rpgamers.net/radio/): Listener-driven game music from 8-bit NES to modern releases, with a request system. [Stream](https://listen.rpgamers.net/rpgn)
-- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax) *temporarily off the air*
+- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax) *(down since Aug 2026, hardware failure, rebuilding)*
 - [Shmup Radio](https://shmupradio.com/en/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999, Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
@@ -583,7 +583,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Live music, performance, and experimental pan-African sounds from Cape Town. [Stream](https://pass.out.airtime.pro/pass_a)
 - [Pyongyang Radio FM](https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/): North Korean state radio via online relays. [Stream](https://listen7.myradio24.com/69366)
 - [Radio Al-Hara](https://www.radioalhara.net/): Experimental beats, talk, and underground Palestinian culture, broadcasting since 2020. [Stream](https://stream.radiojar.com/78cxy6wkxtzuv)
-- [Radio Flouka](https://www.radioflouka.com/): Contemporary Arab and North African music, from Mashriq to Maghreb, Paris-based. [Stream](https://flouka.out.airtime.pro/flouka_a) *temporarily off the air*
+- [Radio Flouka](https://www.radioflouka.com/): Contemporary Arab and North African music, from Mashriq to Maghreb, Paris-based. [Stream](https://flouka.out.airtime.pro/flouka_a) *(down, cause unknown, kept for now)*
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Javanese and Balinese gamelan recordings. [Stream](http://radioseribatu.out.airtime.pro:8000/radioseribatu_a)
 - [Svensk Folkmusik AkkA](https://www.svenskfolkmusik.nu/): 33,000+ tracks of Swedish folk music, run by two enthusiasts in the Netherlands. [Stream](https://mediaserv38.live-streams.nl:8107/stream)
 
@@ -604,7 +604,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 *Some entries here are tools, not streams.*
 - [Broadcastify](https://www.broadcastify.com/): Largest directory for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
-- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live) *temporarily off the air*
+- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live) *(down, cause unknown, kept for now)*
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
