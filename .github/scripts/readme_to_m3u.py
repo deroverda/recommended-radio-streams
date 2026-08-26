@@ -85,7 +85,9 @@ def parse_sections(path):
     return sections
 
 def write_m3u(path, entries, group_title):
-    with open(path, 'w', encoding='utf-8') as f:
+    # utf-8-sig writes a BOM: without one, players like Foobar misread multi-byte
+    # accented characters as a different codepage (e.g. Radio Krå -> Radio KrÃ¥).
+    with open(path, 'w', encoding='utf-8-sig') as f:
         f.write("#EXTM3U\n")
         f.write(f"# Group: {group_title}\n")
         for name, url, homepage in entries:
