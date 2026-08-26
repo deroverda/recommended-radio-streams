@@ -1,53 +1,53 @@
 #EXTM3U
 # Group: Classical & Opera
 # Homepage: https://ancientfm.com/
-#EXTINF:-1 group-title="Classical & Opera",Ancient FM
+#EXTINF:-1,Ancient FM
 https://mediaserv73.live-streams.nl:18058/stream
 # Homepage: https://www.bbc.co.uk/sounds/play/live/bbc_radio_three
-#EXTINF:-1 group-title="Classical & Opera",BBC Radio 3
+#EXTINF:-1,BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
 # Homepage: https://www.classicalcalifornia.org/
-#EXTINF:-1 group-title="Classical & Opera",Classical California
+#EXTINF:-1,Classical California
 https://14103.live.streamtheworld.com/KUSCAAC96.aac
 # Homepage: https://www.concertzender.nl/
-#EXTINF:-1 group-title="Classical & Opera",Concertzender - Baroque
+#EXTINF:-1,Concertzender - Baroque
 http://streams.greenhost.nl:8080/barok
 # Homepage: https://www.classicalwcrb.org/
-#EXTINF:-1 group-title="Classical & Opera",CRB Classical 99.5
+#EXTINF:-1,CRB Classical 99.5
 https://wgbh-live.streamguys1.com/classical-hi
 # Homepage: https://www.radiofrance.fr/francemusique
-#EXTINF:-1 group-title="Classical & Opera",France Musique
+#EXTINF:-1,France Musique
 http://icecast.radiofrance.fr/francemusique-hifi.aac
 # Homepage: https://www.radiofrance.fr/francemusique/radio-contemporaine
-#EXTINF:-1 group-title="Classical & Opera",France Musique - La Contemporaine
+#EXTINF:-1,France Musique - La Contemporaine
 http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac
 # Homepage: https://www.linn.co.uk/linn-radio
-#EXTINF:-1 group-title="Classical & Opera",Linn Classical
+#EXTINF:-1,Linn Classical
 http://radio.linn.co.uk:8004/stream
 # Homepage: https://www.w.mrg.fm/
-#EXTINF:-1 group-title="Classical & Opera",MRG.fm - OperaRadio
+#EXTINF:-1,MRG.fm - OperaRadio
 http://listen.mrg.fm:8110/,
 # Homepage: https://www.nts.live/infinite-mixtapes
-#EXTINF:-1 group-title="Classical & Opera",NTS - Sheet Music
+#EXTINF:-1,NTS - Sheet Music
 https://stream-mixtape-geo.ntslive.net/mixtape35
 # Homepage: https://www.radioswissclassic.ch/en
-#EXTINF:-1 group-title="Classical & Opera",Radio Suisse Classique
+#EXTINF:-1,Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
 # Homepage: https://www.wbjc.com/
-#EXTINF:-1 group-title="Classical & Opera",WBJC 91.5
+#EXTINF:-1,WBJC 91.5
 https://ice64.securenetsystems.net/WBJC
 # Homepage: https://www.wfmt.com/
-#EXTINF:-1 group-title="Classical & Opera",WFMT
+#EXTINF:-1,WFMT
 https://wfmt.streamguys1.com/main-source
 # Homepage: https://www.solopianoradio.com/
-#EXTINF:-1 group-title="Classical & Opera",Whisperings: Solo Piano Radio
+#EXTINF:-1,Whisperings: Solo Piano Radio
 https://pianosolo.streamguys1.com/live
 # Homepage: https://www.wmnr.org/
-#EXTINF:-1 group-title="Classical & Opera",WMNR
+#EXTINF:-1,WMNR
 https://wmnr.streamguys1.com/live
 # Homepage: https://www.wqxr.org/
-#EXTINF:-1 group-title="Classical & Opera",WQXR 105.9
+#EXTINF:-1,WQXR 105.9
 http://stream.wqxr.org/wqxr
 # Homepage: https://www.wqxr.org/series/q2
-#EXTINF:-1 group-title="Classical & Opera",WQXR Q2
+#EXTINF:-1,WQXR Q2
 http://q2stream.wqxr.org/q2

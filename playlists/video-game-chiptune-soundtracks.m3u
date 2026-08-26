@@ -1,83 +1,83 @@
 #EXTM3U
 # Group: Video Game, Chiptune & Soundtracks
 # Homepage: https://arcaderadio.com/index.html
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Arcade Radio
+#EXTINF:-1,Arcade Radio
 https://server10.reliastream.com/proxy/arcaderadio?mp=/stream2
 # Homepage: https://www.cinemix.us/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Cinemix
+#EXTINF:-1,Cinemix
 https://kathy.torontocast.com:1825/stream
 # Homepage: https://www.classicfm.com/discover-music/periods-genres/video-game/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Classic FM - Video Game Music
+#EXTINF:-1,Classic FM - Video Game Music
 https://icecast.thisisdax.com/ClassicFM-M-Gaming
 # Homepage: https://www.classic-videogames.de/radio/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Classic Videogames
+#EXTINF:-1,Classic Videogames
 http://195.201.9.210:1541/stream/2/
 # Homepage: https://commodexplorer.c-prod.net/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",COMMODEXPLORER
+#EXTINF:-1,COMMODEXPLORER
 https://manager8.streamradio.fr:2295/stream
 # Homepage: https://www.cvgm.net/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",CVGM
+#EXTINF:-1,CVGM
 https://slacker.cvgm.net/cvgm192
 # Homepage: https://radio.ericade.net/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Ericade Radio
+#EXTINF:-1,Ericade Radio
 https://radio.ericade.net/sc/stream/1/
 # Homepage: https://funkyunclefm.net
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",FunkyUncleFM
+#EXTINF:-1,FunkyUncleFM
 https://funkyunclefm.net/stream_vorbis192
 # Homepage: https://gensokyoradio.net
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Gensokyo Radio
+#EXTINF:-1,Gensokyo Radio
 https://stream.gensokyoradio.net/3
 # Homepage: https://laut.fm/gta-classics
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",GTA Radio
+#EXTINF:-1,GTA Radio
 https://stream.laut.fm/gta-classics
 # Homepage: http://gyusyabu.ddo.jp/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Gyusyabu
+#EXTINF:-1,Gyusyabu
 http://gyusyabu.ddo.jp:8000/;stream.mp3
 # Homepage: https://kaaosradio.fi/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Kaaosradio
+#EXTINF:-1,Kaaosradio
 https://kaaosradio.fi:8001/chip
 # Homepage: https://kohina.com
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Kohina
+#EXTINF:-1,Kohina
 https://kohina.duckdns.org/icecast/stream.ogg
 # Homepage: https://lapfoxradio.com
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",LapFox Radio
+#EXTINF:-1,LapFox Radio
 https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg
 # Homepage: https://liquiddoom.net/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Liquid DooM Radio
+#EXTINF:-1,Liquid DooM Radio
 http://83.240.65.106:8000/doom
 # Homepage: https://www.scenestream.net/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Nectarine
+#EXTINF:-1,Nectarine
 http://necta.burn.net:8000/nectarine
 # Homepage: https://nolife-radio.com/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",No Life Radio
+#EXTINF:-1,No Life Radio
 https://listen.nolife-radio.com/stream
 # Homepage: https://www.nts.live/infinite-mixtapes/otaku
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",NTS - Otaku
+#EXTINF:-1,NTS - Otaku
 https://stream-mixtape-geo.ntslive.net/mixtape36
 # Homepage: https://radiorivendell.com/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Radio Rivendell
+#EXTINF:-1,Radio Rivendell
 https://play.radiorivendell.com/radio/8000/radio.mp3
 # Homepage: https://www.radiosega.net/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",RadioSEGA
+#EXTINF:-1,RadioSEGA
 http://content.radiosega.net:8006/live
 # Homepage: https://rainwave.cc/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Rainwave - Game
+#EXTINF:-1,Rainwave - Game
 http://allrelays.rainwave.cc/game.mp3
 # Homepage: https://www.rpgamers.net/radio/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",RPGamers Radio
+#EXTINF:-1,RPGamers Radio
 https://listen.rpgamers.net/rpgn
 # Homepage: https://scenesat.com/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",SceneSat
+#EXTINF:-1,SceneSat
 http://oscar.scenesat.com:8000/scenesatmax
 # Homepage: https://shmupradio.com/en/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Shmup Radio
+#EXTINF:-1,Shmup Radio
 https://stream.shmupradio.com/320
 # Homepage: https://slayradio.org/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Slay Radio
+#EXTINF:-1,Slay Radio
 http://relay4.slayradio.org:8300/
 # Homepage: https://www.spritelayerradio.com/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",SpriteLayer
+#EXTINF:-1,SpriteLayer
 http://www.spritelayerradio.com:8010/all
 # Homepage: http://www.streamingsoundtracks.com/
-#EXTINF:-1 group-title="Video Game, Chiptune & Soundtracks",Streaming Soundtracks
+#EXTINF:-1,Streaming Soundtracks
 http://hi5.streamingsoundtracks.com/

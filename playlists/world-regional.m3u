@@ -1,53 +1,53 @@
 #EXTM3U
 # Group: World & Regional
 # Homepage: https://alefamusic.net/
-#EXTINF:-1 group-title="World & Regional",Alefa Music
+#EXTINF:-1,Alefa Music
 http://www.radioking.com/play/alefamusic
 # Homepage: https://celtcast.com/
-#EXTINF:-1 group-title="World & Regional",CeltCast
+#EXTINF:-1,CeltCast
 http://caster04.streampakket.com:8982/1_mp3_192
 # Homepage: https://www.celticmusicradio.net/
-#EXTINF:-1 group-title="World & Regional",Celtic Music Radio
+#EXTINF:-1,Celtic Music Radio
 https://streaming.broadcastradio.com:11135/celtic
 # Homepage: https://ceol.fm/
-#EXTINF:-1 group-title="World & Regional",CeolFM
+#EXTINF:-1,CeolFM
 https://listen.ceol.fm/auto
 # Homepage: https://www.dansbandskanalen.se/
-#EXTINF:-1 group-title="World & Regional",Dansbandskanalen
+#EXTINF:-1,Dansbandskanalen
 https://fm09-ice.stream.khz.se/fm09_mp3
 # Homepage: https://daybreakstarradio.com
-#EXTINF:-1 group-title="World & Regional",Daybreak Star Radio
+#EXTINF:-1,Daybreak Star Radio
 http://ice9.securenetsystems.net/DSR
 # Homepage: https://gladyspalmera.com/coleccion
-#EXTINF:-1 group-title="World & Regional",Gladys Palmera Colección
+#EXTINF:-1,Gladys Palmera Colección
 http://streams.radio.co/s496c4d2e8/listen
 # Homepage: https://www.j1fm.tokyo
-#EXTINF:-1 group-title="World & Regional",J1 Radio - Gold
+#EXTINF:-1,J1 Radio - Gold
 http://gold.j1fm.tokyo/
 # Homepage: https://www.kbon.com/
-#EXTINF:-1 group-title="World & Regional",KBON 101.1
+#EXTINF:-1,KBON 101.1
 http://ice64.securenetsystems.net/KBON
 # Homepage: https://listen.moe/
-#EXTINF:-1 group-title="World & Regional",listen.moe
+#EXTINF:-1,listen.moe
 https://listen.moe/stream
 # Homepage: https://oroko.live/
-#EXTINF:-1 group-title="World & Regional",Oroko Radio
+#EXTINF:-1,Oroko Radio
 https://oroko-radio.radiocult.fm/stream
 # Homepage: https://panafricanspacestation.org.za/
-#EXTINF:-1 group-title="World & Regional",Pan African Space Station
+#EXTINF:-1,Pan African Space Station
 https://pass.out.airtime.pro/pass_a
 # Homepage: https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/
-#EXTINF:-1 group-title="World & Regional",Pyongyang Radio FM
+#EXTINF:-1,Pyongyang Radio FM
 https://listen7.myradio24.com/69366
 # Homepage: https://www.radioalhara.net/
-#EXTINF:-1 group-title="World & Regional",Radio Al-Hara
+#EXTINF:-1,Radio Al-Hara
 https://stream.radiojar.com/78cxy6wkxtzuv
 # Homepage: https://www.radioflouka.com/
-#EXTINF:-1 group-title="World & Regional",Radio Flouka
+#EXTINF:-1,Radio Flouka
 https://flouka.out.airtime.pro/flouka_a
 # Homepage: https://www.radioseribatu.com/radioseribatu
-#EXTINF:-1 group-title="World & Regional",Seribatu
+#EXTINF:-1,Seribatu
 http://radioseribatu.out.airtime.pro:8000/radioseribatu_a
 # Homepage: https://www.svenskfolkmusik.nu/
-#EXTINF:-1 group-title="World & Regional",Svensk Folkmusik AkkA
+#EXTINF:-1,Svensk Folkmusik AkkA
 https://mediaserv38.live-streams.nl:8107/stream

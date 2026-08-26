@@ -1,38 +1,38 @@
 #EXTM3U
 # Group: Metal & Heavy
 # Homepage: https://coreradio.online/
-#EXTINF:-1 group-title="Metal & Heavy",Core Radio
+#EXTINF:-1,Core Radio
 http://serv.coreradio.online:8000/coreradio
 # Homepage: https://death.fm/
-#EXTINF:-1 group-title="Metal & Heavy",Death.FM
+#EXTINF:-1,Death.FM
 https://death.fm/listen.m3u
 # Homepage: https://www.doomnationradio.com/
-#EXTINF:-1 group-title="Metal & Heavy",Doomnation Radio
+#EXTINF:-1,Doomnation Radio
 https://s2.voscast.com:11123/stream
 # Homepage: https://hardrockhellradio.com/
-#EXTINF:-1 group-title="Metal & Heavy",Hard Rock Hell Radio
+#EXTINF:-1,Hard Rock Hell Radio
 http://167.114.174.197:9254/stream
 # Homepage: https://iskcrocks.com/
-#EXTINF:-1 group-title="Metal & Heavy",ISKC - Extreme Metal
+#EXTINF:-1,ISKC - Extreme Metal
 http://mediaserv68.live-streams.nl:8012/ExtremeMetal
 # Homepage: https://metaldevastationradio.com/
-#EXTINF:-1 group-title="Metal & Heavy",Metal Devastation
+#EXTINF:-1,Metal Devastation
 https://c13.radioboss.fm:18099/stream
 # Homepage: https://www.nts.live/infinite-mixtapes
-#EXTINF:-1 group-title="Metal & Heavy",NTS - The Pit
+#EXTINF:-1,NTS - The Pit
 https://stream-mixtape-geo.ntslive.net/mixtape34
 # Homepage: https://www.progpalaceradio.com/
-#EXTINF:-1 group-title="Metal & Heavy",Prog Palace Radio
+#EXTINF:-1,Prog Palace Radio
 https://cheetah.streemlion.com/progpalace64
 # Homepage: https://somafm.com/metal/
-#EXTINF:-1 group-title="Metal & Heavy",SomaFM - Metal Detector
+#EXTINF:-1,SomaFM - Metal Detector
 https://ice1.somafm.com/metal-128-aac
 # Homepage: https://www.terrarelicta.com/
-#EXTINF:-1 group-title="Metal & Heavy",Terra Relicta Radio
+#EXTINF:-1,Terra Relicta Radio
 https://a3.asurahosting.com/listen/terra/radio.mp3
 # Homepage: https://www.totalrock.com/
-#EXTINF:-1 group-title="Metal & Heavy",TotalRock
+#EXTINF:-1,TotalRock
 https://s3.citrus3.com:8056/stream
 # Homepage: https://www.violentforcesradio.com
-#EXTINF:-1 group-title="Metal & Heavy",Violent Forces Radio - General Thrash
+#EXTINF:-1,Violent Forces Radio - General Thrash
 https://www.tuneintoradio1.com/listen/violent_forces_radio/radio.mp3

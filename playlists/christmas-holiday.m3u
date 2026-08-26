@@ -1,8 +1,8 @@
 #EXTM3U
 # Group: Christmas & Holiday
 # Homepage: https://christmasfm.com/
-#EXTINF:-1 group-title="Christmas & Holiday",Christmas FM Ireland
+#EXTINF:-1,Christmas FM Ireland
 https://christmasfm.cdnstream1.com/2547_128.mp3
 # Homepage: https://walmradio.com/station.php?station=christmas
-#EXTINF:-1 group-title="Christmas & Holiday",WALM - Christmas Vinyl
+#EXTINF:-1,WALM - Christmas Vinyl
 https://icecast.walmradio.com:8443/christmas
