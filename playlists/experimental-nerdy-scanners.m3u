@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 # Group: Experimental, Nerdy & Scanners
+# Homepage: https://driftconditions.org/
+#EXTINF:-1,DriftConditions
+https://usa14.fastcast4u.com/proxy/wmodes?mp=/1
 # Homepage: https://bestairadio.com/
 #EXTINF:-1,The Frequency
 https://stream.bestairadio.com/live

@@ -69,6 +69,9 @@ https://limbikfreq.com/listen/limbik_frequencies/320.mp3
 # Homepage: https://minimalmix.com/
 #EXTINF:-1,Minimal Mix Radio
 http://orion.shoutca.st:8750/stream
+# Homepage: https://modular-station.com/
+#EXTINF:-1,Modular Station
+https://broadcast.modular-station.com/listen/modular_station/radio.aac
 # Homepage: https://nightride.fm/
 #EXTINF:-1,Nightride FM
 https://stream.nightride.fm/nightride.mp3
@@ -87,6 +90,9 @@ https://stream-mixtape-geo.ntslive.net/mixtape4
 # Homepage: https://www.nts.live/infinite-mixtapes
 #EXTINF:-1,NTS - Sweat
 https://stream-mixtape-geo.ntslive.net/mixtape24
+# Homepage: https://oldskoolravetapes.co.uk/
+#EXTINF:-1,Old Skool Rave Tapes
+https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen
 # Homepage: https://openlab.fm
 #EXTINF:-1,OpenLab FM
 https://ice09.fluidstream.net/openlab.aac
@@ -123,6 +129,9 @@ https://mediaserv38.live-streams.nl:18040/live
 # Homepage: https://syntheticfm.com/about
 #EXTINF:-1,Synthetic FM - New Italo Generation
 https://mediaserv38.live-streams.nl:18030/stream
+# Homepage: https://systrum.net/
+#EXTINF:-1,Systrum Sistum - SSR2
+https://systrum.net/SSR2
 # Homepage: https://teknivalradio.com/
 #EXTINF:-1,TEKnival Radio
 https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3

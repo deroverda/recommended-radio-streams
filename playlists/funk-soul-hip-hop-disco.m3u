@@ -45,6 +45,9 @@ https://stream.laut.fm/mojo
 # Homepage: https://www.w.mrg.fm/
 #EXTINF:-1,MRG.fm - Planet Hip Hop
 http://listen.mrg.fm:8100/stream
+# Homepage: https://nonstopcasiopea.com/
+#EXTINF:-1,Nonstop Casiopea
+https://nonstopcasiopea.radioca.st/
 # Homepage: https://www.nts.live/infinite-mixtapes
 #EXTINF:-1,NTS - Feelings
 https://stream-mixtape-geo.ntslive.net/mixtape27

@@ -63,6 +63,9 @@ https://radioislanegra.org/radio/8000/basic.aac
 # Homepage: https://boxradio.net/en/radio/rain-thunderstorms-sounds
 #EXTINF:-1,Rain & Thunderstorms Sounds
 https://boxradio-edge-01.streamafrica.net/rain
+# Homepage: https://sleepbot.com/ambience/broadcast/
+#EXTINF:-1,Sleepbot Environmental Broadcast
+http://primarystream.sleepbot.com:8218/seb
 # Homepage: https://somafm.com/listen/
 #EXTINF:-1,SomaFM - Drone Zone
 https://somafm.com/dronezone256.pls
