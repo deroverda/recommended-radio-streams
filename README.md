@@ -122,6 +122,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Psyndora - Chillout](https://www.psyndora.com/chill.html): Ambient and psybient channel from a Patras, Greece psytrance station. [Stream](https://cast.magicstreams.gr:9125/;)
 - [Radio Isla Negra - Slowbeat](https://www.radioislanegra.com/): Listener-supported downtempo and ambient from Isla Negra, Chile, since 1999. [Stream](https://radioislanegra.org/radio/8000/basic.aac)
 - [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain)
+- [Sleepbot Environmental Broadcast](https://sleepbot.com/ambience/broadcast/): One of the oldest ambient streams online, running since 1999 as Ambience for the Masses. [Stream](http://primarystream.sleepbot.com:8218/seb)
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean waves for sleep, from the creator of an Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
 - [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
 - ⭐ [SomaFM - Groove Salad](https://somafm.com/groovesalad/): Ambient and downtempo beats and grooves. [Stream](https://somafm.com/groovesalad256.pls)
@@ -340,7 +341,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Bassdrive](https://www.bassdrive.com): Drum and bass since 2001, with live sets from DJs worldwide. [Stream](https://www.bassdrive.com/bassdrive.m3u)
 - [Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live): House and lounge from Ibiza. [Stream](https://ibizasonica.streaming-pro.com:8001/bluemarlin)
 - [Bondi Radio](https://bondiradio.com.au/): Sydney house and deep grooves, relaunched by DJ Hodgie in the 2020 lockdown. [Stream](https://streaming.radio.co/sfd68ddd77/listen)
-- [Deeper Shades of House](https://radio.deepershades.net): Weekly deep house show hosted by Lars Behrenroth since 2002 on JAM FM Berlin. [Stream](https://andromeda.housejunkie.ca/radio/8000/radio.mp3)
+- [Deeper Shades of House](https://radio.deepershades.net): Weekly deep house, hand-mixed by Lars Behrenroth since 2002, no generative AI in the selection. [Stream](https://andromeda.housejunkie.ca/radio/8000/radio.mp3)
 - [Deepvibes Radio](http://www.deepvibes.co.uk/): Deep house mixes from DJs worldwide, featuring live sessions and guest mixes. [Stream](http://88.208.218.19:9106/stream)
 - [Dogglounge](https://dogglounge.com/): Deep house sets from founder Odogg, streaming continuously since 2003. [Stream](http://dogglounge.com:8000/,)
 - [Dub Ninja](https://dub.ninja/): Dub techno and ambient for focus. [Stream](https://dub.ninja/live)
@@ -355,14 +356,16 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Kool FM](https://www.rinse.fm/channels/kool): Jungle and drum and bass pioneer from 1991, now broadcasting from Rinse FM's studio. [Stream](https://admin.stream.rinse.fm/proxy/kool/stream)
 - [KSOL - From the Valleys of Kasol](https://ksol.live/valleys-of-kasol): Psytrance and goa trance for following the bass into the forest. [Stream](https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8)
 - [KSOL - Suno Toh Sahi](https://ksol.live/suno-toh-sahi): Desi electronica, funk, and disco house, where a grandmother's playlist meets a DJ set. [Stream](https://ksol.live/hls/suno_toh_sahi/aac_hifi.m3u8)
-- [Limbik Frequencies](https://limbikfreq.com/public/limbik_frequencies): Bass-heavy experimental electronic. [Stream](https://limbikfreq.com/listen/limbik_frequencies/320.mp3)
+- [Limbik Frequencies](https://limbikfreq.com/public/limbik_frequencies): A mix of ambient, downtempo, glitch, and electronica from Milwaukee, leaning late-90s IDM. [Stream](https://limbikfreq.com/listen/limbik_frequencies/320.mp3)
 - [Minimal Mix Radio](https://minimalmix.com/): Deep tech house and dub techno mixes from a Polish DJ trio. [Stream](http://orion.shoutca.st:8750/stream)
+- [Modular Station](https://modular-station.com/): Modular-synth and test-gear music, techno to musique concrète to noise, English-language, French-run, since 2014. [Stream](https://broadcast.modular-station.com/listen/modular_station/radio.aac)
 - ⭐ [Nightride FM](https://nightride.fm/): Synthwave, darksynth, chillsynth, and EBSM from a sister station to Rekt Network. [Stream](https://stream.nightride.fm/nightride.mp3)
 - [Nightwave Plaza](https://plaza.one/): Vaporwave, future funk, and city pop. [Stream](https://radio.plaza.one/ogg)
 - [NTS - 4 To The Floor](https://www.nts.live/infinite-mixtapes): House and techno across the decades, Chicago to Detroit. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape5)
 - [NTS - Labyrinth](https://www.nts.live/infinite-mixtapes): Atmospheric breaks and tripped-out techno for getting lost in. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape31)
 - [NTS - Poolside](https://www.nts.live/infinite-mixtapes/poolside): Balearic, boogie, and sophisti-pop. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape4)
 - [NTS - Sweat](https://www.nts.live/infinite-mixtapes): Party music from soundsystems, block parties, and carnivals worldwide. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape24)
+- [Old Skool Rave Tapes](https://oldskoolravetapes.co.uk/): UK old skool rave, hardcore, jungle, and early drum and bass from restored pirate-radio tapes. [Stream](https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen)
 - [OpenLab FM](https://openlab.fm): Live DJ sets from Ibiza, broadcasting the island's club and beach scene. [Stream](https://ice09.fluidstream.net/openlab.aac)
 - [Poolsuite FM](https://poolsuite.net/): Poolside soundtrack of disco, yacht rock, Balearic, and summer classics. [Stream](https://s5.radio.co/sc9cb59935/listen)
 - [Radio BipTunia](https://biptunia.com/): One artist's experimental electronic catalog. [Stream](https://ecast.myautodj.com:1380/listen.mp3)
@@ -375,6 +378,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Sub.FM](https://www.sub.fm/): Community-run bass music since 2004, dubstep, garage, and grime. [Stream](http://subfm.radioca.st/Sub.FM)
 - ⭐ [Synthetic FM](https://syntheticfm.com/about): Synth, darkwave, and EBM from three hobbyists building playlists by hand, no algorithms. [Stream](https://mediaserv38.live-streams.nl:18040/live)
 - [Synthetic FM - New Italo Generation](https://syntheticfm.com/about): Italo disco and synth pop from three hobbyists building playlists by hand, no algorithms. [Stream](https://mediaserv38.live-streams.nl:18030/stream)
+- [Systrum Sistum - SSR2](https://systrum.net/): IDM, glitch, and downtempo from a not-for-profit revived in 2018, broadcasting between Brisbane and Budapest. [Stream](https://systrum.net/SSR2)
 - [TEKnival Radio](https://teknivalradio.com/): Hard techno and rave. [Stream](https://listen.teknivalradio.com/listen/teknivalradio/radio.mp3)
 - [TM Radio](https://tm-radio.com/): Underground DJ mixes since 2006, progressive house, tech house, and deep techno. [Stream](https://stream.tm-radio.com/tribalmixes)
 
@@ -399,6 +403,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Mad Radio - Bogotá](https://madradio.co/): Funk, disco, hip-hop, and indie from a Bogotá vinyl bar, since 2017. [Stream](https://c25.radioboss.fm/stream/171)
 - [Mojo Radio](https://www.mojo.de/mojo-radio/): Deep funk and dancefloor jazz from the Mojo Club on Hamburg's Reeperbahn. [Stream](https://stream.laut.fm/mojo)
 - [MRG.fm - Planet Hip Hop](https://www.w.mrg.fm/): Old-school rap and hip-hop from The Mondello Radio Group. [Stream](http://listen.mrg.fm:8100/stream)
+- [Nonstop Casiopea](https://nonstopcasiopea.com/): Nothing but the Japanese fusion band Casiopea, studio albums and live recordings, from Japan. [Stream](https://nonstopcasiopea.radioca.st/)
 - [NTS - Feelings](https://www.nts.live/infinite-mixtapes): Soul, gospel, and boogie warmth from doo-wop to disco. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape27)
 - [NTS - Low Key](https://www.nts.live/infinite-mixtapes/100-percent-hip-hop): Lo-fi hip-hop and smooth R&B. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape2)
 - [NTS - Rap House](https://www.nts.live/infinite-mixtapes): Nonstop trap, drill, and rap from both sides of the Atlantic. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape22)
@@ -573,7 +578,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [CeltCast](https://celtcast.com/): Volunteer-run Viking, Pagan and Celtic folk station since 2014, with its own Fantasy Awards. [Stream](http://caster04.streampakket.com:8982/1_mp3_192)
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Glasgow's volunteer community broadcaster for Celtic, folk, and traditional music, with ties to Celtic Connections. [Stream](https://streaming.broadcastradio.com:11135/celtic)
 - [CeolFM](https://ceol.fm/): Musician-led Irish traditional music with dedicated fiddle, pipes, songs, and reel streams. [Stream](https://listen.ceol.fm/auto)
-- [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish "Dansband" music. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
+- [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish dansband, schlager and country blended for the Swedish partner-dance bugg, from Staffanstorp, Sweden. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
 - [Daybreak Star Radio](https://daybreakstarradio.com): Indigenous music network from Seattle's Daybreak Star Cultural Center, since 2021. [Stream](http://ice9.securenetsystems.net/DSR)
 - ⭐ [Gladys Palmera Colección](https://gladyspalmera.com/coleccion): Archive of vintage Latin and Afro-Caribbean music. [Stream](http://streams.radio.co/s496c4d2e8/listen)
 - [J1 Radio - Gold](https://www.j1fm.tokyo): Japanese pop and enka, 1950s to 1989. [Stream](http://gold.j1fm.tokyo/)
@@ -594,7 +599,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Christmas & Holiday <a id="christmas-music-holiday"></a>
 - [Christmas FM Ireland](https://christmasfm.com/): Irish seasonal broadcasts supporting children's charities nationwide. [Stream](https://christmasfm.cdnstream1.com/2547_128.mp3)
 - [SomaFM - Holiday Broadcasts](https://somafm.com/holiday/): Various holiday channels, returns in October.
-- [WALM - Christmas Vinyl](https://walmradio.com/station.php?station=christmas): Vintage Christmas music. [Stream](https://icecast.walmradio.com:8443/christmas)
+- [WALM - Christmas Vinyl](https://walmradio.com/station.php?station=christmas): Golden-age Christmas standards played for the warm crackle of vinyl. [Stream](https://icecast.walmradio.com:8443/christmas)
 
 [↑ back to top](#top)
 
@@ -604,6 +609,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 *Some entries here are tools, not streams.*
 - [Broadcastify](https://www.broadcastify.com/): Largest directory for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
+- [DriftConditions](https://driftconditions.org/): Procedurally mixed found sound, spoken word, and shortwave crosstalk, assembled live by code and never repeated. [Stream](https://usa14.fastcast4u.com/proxy/wmodes?mp=/1)
 - [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live) *(down, cause unknown, kept for now)*
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
