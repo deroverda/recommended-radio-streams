@@ -27,7 +27,7 @@ http://radio.linn.co.uk:8004/stream
 # Homepage: https://www.w.mrg.fm/
 #EXTINF:-1,MRG.fm - OperaRadio
 http://listen.mrg.fm:8110/,
-# Homepage: https://www.nts.live/infinite-mixtapes
+# Homepage: https://www.nts.live/infinite-mixtapes/sheet-music
 #EXTINF:-1,NTS - Sheet Music
 https://stream-mixtape-geo.ntslive.net/mixtape35
 # Homepage: https://www.radioswissclassic.ch/en
