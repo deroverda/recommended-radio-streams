@@ -49,6 +49,7 @@ RETRY_BASE_DELAY="${RETRY_BASE_DELAY:-2}"
 SILENCE_THRESHOLD="${SILENCE_THRESHOLD:-0.05}"
 SILENCE_DURATION="${SILENCE_DURATION:-0.5}"
 MAX_PLAYLIST_DEPTH="${MAX_PLAYLIST_DEPTH:-3}"
+STATE_FILE="${STATE_FILE:-.github/probe-state.json}"
 
 if ! command -v ffmpeg >/dev/null 2>&1; then
   echo "Error: ffmpeg is required." >&2; exit 2
@@ -153,7 +154,13 @@ sanitize_text() {
 }
 
 classify_error() {
-  local err="$1"
+  # Strip the probed URL out of the error text before matching - ffmpeg
+  # echoes the URL into its own failure output (e.g. "Error opening input
+  # file https://.../stream/534044."), and a URL containing digits like
+  # "404" would otherwise decide the classification instead of the actual
+  # error. $3 is quoted so a URL with glob characters (many carry a "?"
+  # query string) is matched literally, not as a pattern.
+  local err="${1//"$3"/}"
   local code="${2:-0}"
   case "$err" in
     *"Name or service not known"*|*"No address associated"*|*"Could not resolve host"*|*"Temporary failure"*)
@@ -170,6 +177,17 @@ classify_error() {
       echo "RATE_LIMITED" ;;
     *"404"*|*"Not Found"*)
       echo "NOT_FOUND" ;;
+    *"5XX"*)
+      # ffmpeg's libavutil groups every 500-599 response into this exact
+      # literal string - it never prints the real status (500 vs 503 vs
+      # 504 are indistinguishable to us). Without this case, every 5xx
+      # response fell through to UNKNOWN and got reported as an
+      # unexplained "unexpected failure" instead of a labeled server error.
+      echo "SERVER_ERROR" ;;
+    *"4XX"*)
+      # Same grouping ffmpeg does for any 4xx code other than 400/401/403/404,
+      # which do get their own specific number and are matched above.
+      echo "CLIENT_ERROR" ;;
     *"Unsupported codec"*|*"codec not found"*)
       echo "UNSUPPORTED_CODEC" ;;
     *"Invalid data found"*)
@@ -201,32 +219,36 @@ probe_one_url() {
   RESULT_SILENT="false"
 
   while [ "$attempt" -le "$MAX_RETRIES" ]; do
+    # Single connection does both the health check and silence detection -
+    # previously this was two separate ffmpeg connections per successful
+    # probe, and the second one's exit status was never checked, so a
+    # stream whose *second* connection failed (403, timeout, whatever)
+    # still got reported OK.
+    #
+    # -v warning suppresses silencedetect's own "silence_start" log lines
+    # (they're logged at AV_LOG_INFO, above warning) - so silence detection
+    # would silently never fire at this log level. ametadata=mode=print
+    # sends the same silence_start marker to stdout instead, bypassing the
+    # log level entirely, while -v stays at warning so $err doesn't fill up
+    # with the Input/Stream mapping/Output banner that -v info would add
+    # (sanitize_text only keeps the first 200 chars, so that banner would
+    # crowd out the actual error text on a failure).
+    local silent_frames
     err=$(timeout "$PROBE_TIMEOUT" ffmpeg \
-      -hide_banner -v error -nostdin \
+      -hide_banner -v warning -nostdin \
       -user_agent "$UA" \
       -headers $'Accept: */*\r\n' \
       -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
       -i "$url" \
       -map 0:a:0 -vn -sn -dn \
       -t "$DECODE_SECONDS" \
+      -af "silencedetect=noise=$SILENCE_THRESHOLD:d=$SILENCE_DURATION,ametadata=mode=print:key=lavfi.silence_start:file=-" \
       -f null - \
-      2>&1 >/dev/null)
+      2>&1)
     status=$?
 
     if [ "$status" -eq 0 ]; then
-      local silence_out silent_frames
-      silence_out=$(timeout "$PROBE_TIMEOUT" ffmpeg \
-        -hide_banner -v warning -nostdin \
-        -user_agent "$UA" \
-        -headers $'Accept: */*\r\n' \
-        -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
-        -i "$url" \
-        -map 0:a:0 -vn -sn -dn \
-        -t "$DECODE_SECONDS" \
-        -af "silencedetect=noise=$SILENCE_THRESHOLD:d=$SILENCE_DURATION" \
-        -f null - \
-        2>&1)
-      silent_frames=$(echo "$silence_out" | grep -c "silence_start" || true)
+      silent_frames=$(echo "$err" | grep -c "silence_start" || true)
       [ "${silent_frames:-0}" -gt 0 ] && RESULT_SILENT="true"
       RESULT_CLASS="OK"
       RESULT_DETAIL=""
@@ -240,7 +262,7 @@ probe_one_url() {
     fi
   done
 
-  RESULT_CLASS=$(classify_error "$err" "$status")
+  RESULT_CLASS=$(classify_error "$err" "$status" "$url")
   RESULT_DETAIL=$(sanitize_text "$err")
   [ -z "$RESULT_DETAIL" ] && RESULT_DETAIL="exit $status"
   return 1
@@ -311,6 +333,31 @@ while IFS=$'\t' read -r u n sec down; do
   url_to_down["$u"]="${down:-0}"
 done < "$tmp_dir/station_map.tsv"
 
+# Load last run's consecutive-failure counts, if any - lets the report say
+# "3rd consecutive failure" instead of treating every failure as a fresh
+# surprise. Missing/corrupt state file just means everyone starts at 0.
+declare -A prev_fail_count
+if [ -f "$STATE_FILE" ]; then
+  while IFS=$'\t' read -r u c; do
+    [ -z "$u" ] && continue
+    prev_fail_count["$u"]="${c%$'\r'}"   # defensive: strip a stray \r if one ever shows up
+  done < <(python3 - "$STATE_FILE" <<'PYEOF'
+import json
+import sys
+
+path = sys.argv[1]
+try:
+    with open(path, encoding='utf-8') as f:
+        data = json.load(f)
+except Exception:
+    data = {}
+
+for url, entry in data.items():
+    print(f"{url}\t{entry.get('consecutive_failures', 0)}")
+PYEOF
+  )
+fi
+
 # ----------------------------------------------------------------------------
 # Main - parallel probing capped at $JOBS
 # Each subshell writes one 7-field TSV line to its own file; concatenated after.
@@ -361,11 +408,25 @@ timeout_rows=""
 known_down_rows=""
 recovered_rows=""
 declare -A category_counts
+declare -A new_fail_count
 
 while IFS=$'\t' read -r result url detail silent name section down; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
   safe_name=$(sanitize_text "$name")
   safe_section=$(sanitize_text "$section")
+
+  # Track the running streak for next run's comparison - reset on OK,
+  # otherwise carry forward and increment. Applies to every URL regardless
+  # of category so a stream's history survives it moving between buckets.
+  if [ "$result" = "OK" ]; then
+    new_fail_count["$url"]=0
+  else
+    new_fail_count["$url"]=$(( ${prev_fail_count[$url]:-0} + 1 ))
+  fi
+  # Only worth mentioning once it's more than a single blip - a first-time
+  # failure needs no extra alarm, that's just what "Probe Failures" already means.
+  fail_note=""
+  [ "${new_fail_count[$url]}" -gt 1 ] && fail_note=" [${new_fail_count[$url]} consecutive runs]"
 
   # Entry is tagged "*(down)*" in README and probing OK again - surface it
   # as a recovery hint, still count it as OK.
@@ -390,15 +451,15 @@ while IFS=$'\t' read -r result url detail silent name section down; do
       [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
       ;;
     AUTH_REQUIRED|FORBIDDEN|RATE_LIMITED)
-      access_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+      access_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
       access_blocked=$((access_blocked + 1))
       ;;
     TIMEOUT|CONNECTION_RESET)
-      timeout_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+      timeout_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
       timeout_blocked=$((timeout_blocked + 1))
       ;;
     *)
-      manual_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+      manual_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
       manual=$((manual + 1))
       ;;
   esac
@@ -486,6 +547,42 @@ done < "$tmp_results"
     echo "_None._"
   fi
 } > "$REPORT"
+
+# Persist this run's streak counts for next run's comparison. Rewritten
+# from scratch each run (not merged with the old file) so a station removed
+# from README.md simply stops appearing here instead of accumulating stale
+# entries forever.
+# Written to a temp file rather than piped - a heredoc script (the "python3 -"
+# below) already occupies stdin to receive its own source, so piped data
+# would silently vanish instead of reaching the script's own stdin read.
+fail_count_tsv="$tmp_dir/fail_counts.tsv"
+: > "$fail_count_tsv"
+for url in "${!new_fail_count[@]}"; do
+  printf '%s\t%s\n' "$url" "${new_fail_count[$url]}"
+done > "$fail_count_tsv"
+
+python3 - "$fail_count_tsv" "$STATE_FILE" <<'PYEOF'
+import json
+import sys
+
+tsv_path, state_path = sys.argv[1], sys.argv[2]
+data = {}
+with open(tsv_path, encoding='utf-8') as f:
+    for line in f:
+        line = line.rstrip('\n')
+        if not line:
+            continue
+        url, count = line.split('\t')
+        count = int(count)
+        if count == 0:
+            continue  # only failures are worth persisting - absence means healthy,
+                      # and it keeps the file (and its weekly commit) small
+        data[url] = {"consecutive_failures": count}
+
+with open(state_path, 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=2, sort_keys=True)
+    f.write('\n')
+PYEOF
 
 if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
   cat "$REPORT" >> "$GITHUB_STEP_SUMMARY"
