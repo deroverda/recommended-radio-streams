@@ -1,4 +1,4 @@
-name: Check Stream Links
+name: Link & Stream Health Checks
 
 on:
   push:
@@ -38,10 +38,42 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          grep -oE '\[(Stream|Channel [12]|[12])\]\(https?://[^)]+\)' README.md \
-            | sed -E 's/.*\((https?:\/\/[^)]+)\)/\1/' \
-            | sed -E 's/[][\\\.^$?*+(){}|]/\\&/g' \
-            | sort -u > .lycheeignore
+          # Same URL-extraction logic as build_name_map() in probe-streams.sh
+          # (trailing "/"-joined chain of any-labeled links at end of line,
+          # narrow Stream/Channel-N/N form as fallback) - the old grep here
+          # only recognized that narrow form and silently let custom-labeled
+          # multi-stream entries (Echoes of Bluemars, Sleepscapes, Subsonic
+          # Radio) through to Lychee as if they were ordinary web pages.
+          python3 - README.md > /tmp/stream_urls.txt <<'PYEOF'
+          import re
+          import sys
+
+          ENTRY_RE = re.compile(
+              r'^-\s*(?:⭐\s*)?\[(?P<name>[^\]]+)\]\((?P<homepage>[^)]+)\):\s*'
+              r'(?P<desc>.*)$'
+          )
+          STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
+          STREAM_CHAIN_RE = re.compile(
+              r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*$'
+          )
+          STREAM_LINK_RE = re.compile(r'\[[^\]]+\]\((?P<url>[^)]+)\)')
+
+          def entry_stream_urls(line):
+              m = STREAM_CHAIN_RE.search(line)
+              if m:
+                  urls = STREAM_LINK_RE.findall(m.group(0))
+                  if urls:
+                      return urls
+              return [u for _label, u in STREAM_RE.findall(line)]
+
+          with open(sys.argv[1], encoding='utf-8') as f:
+              for raw in f:
+                  s = raw.strip()
+                  if ENTRY_RE.match(s):
+                      for url in entry_stream_urls(s):
+                          print(url)
+          PYEOF
+          sed -E 's/[][\\\.^$?*+(){}|]/\\&/g' /tmp/stream_urls.txt | sort -u > .lycheeignore
           echo "Excluded $(wc -l < .lycheeignore) stream URLs from Lychee."
 
       - name: Run Link Checker
@@ -101,12 +133,13 @@ jobs:
   stream-probe:
     name: Stream Audio Probe
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit the updated probe-state.json back - the
+                         # workflow-level default above is read-only for the lychee job
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
-        with:
-          persist-credentials: false
 
       - name: Install ffmpeg
         shell: bash
@@ -124,6 +157,24 @@ jobs:
           MAX_RETRIES: 2
           RETRY_BASE_DELAY: 2
         run: bash .github/scripts/probe-streams.sh || true
+
+      - name: Commit updated probe state
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # The probe step above is allowed to fail (`|| true`) so one bad run
+          # never fails the whole job - which means the state file may not
+          # exist yet. Nothing to commit in that case.
+          [ -f .github/probe-state.json ] || exit 0
+          git add .github/probe-state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update probe state (consecutive-failure tracking)"
+          # generate-playlists.yml also pushes to main on a README change, so
+          # this push can lose a race to it - rebase onto whatever landed
+          # first instead of failing the job over an unrelated push.
+          git pull --rebase --autostash
+          git push
 
       - name: Upload stream report
         if: always()
