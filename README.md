@@ -402,7 +402,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Mad Radio - Bogotá](https://madradio.co/): Funk, disco, hip-hop, and indie from a Bogotá vinyl bar, since 2017. [Stream](https://c25.radioboss.fm/stream/171)
 - [Mojo Radio](https://www.mojo.de/mojo-radio/): Deep funk and dancefloor jazz from the Mojo Club on Hamburg's Reeperbahn. [Stream](https://stream.laut.fm/mojo)
 - [MRG.fm - Planet Hip Hop](https://www.w.mrg.fm/): Old-school rap and hip-hop from The Mondello Radio Group. [Stream](http://listen.mrg.fm:8100/stream)
-- [Nonstop Casiopea](https://nonstopcasiopea.com/): Nothing but the Japanese fusion band Casiopea, studio albums and live recordings, from Japan. [Stream](https://nonstopcasiopea.radioca.st/)
+- [Nonstop Casiopea](https://nonstopcasiopea.com/): Nothing but the Japanese fusion band Casiopea, studio albums and live recordings, from Japan. [Stream](https://nonstopcasiopea.radioca.st/;)
 - [NTS - Feelings](https://www.nts.live/infinite-mixtapes/feelings): Soul, gospel, and boogie warmth from doo-wop to disco. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape27)
 - [NTS - Low Key](https://www.nts.live/infinite-mixtapes/100-percent-hip-hop): Lo-fi hip-hop and smooth R&B. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape2)
 - [NTS - Rap House](https://www.nts.live/infinite-mixtapes/rap-house): Nonstop trap, drill, and rap from both sides of the Atlantic. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape22)
@@ -466,7 +466,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 
 ### Metal & Heavy <a id="metal-heavy"></a>
 - [Core Radio](https://coreradio.online/): Deathcore, metalcore, post-hardcore, and hardcore. [Stream](http://serv.coreradio.online:8000/coreradio)
-- [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](https://death.fm/listen.m3u)
+- [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](http://hi.death.fm/dfm)
 - [Doomnation Radio](https://www.doomnationradio.com/): Doom, sludge, stoner, and funeral doom from a metal webzine running since 2013. [Stream](https://s2.voscast.com:11123/stream)
 - [Hard Rock Hell Radio](https://hardrockhellradio.com/): Rock and metal from the UK-based HRH Magazine, with named DJs and weekly shows. [Stream](http://167.114.174.197:9254/stream)
 - [ISKC - Extreme Metal](https://iskcrocks.com/): Extreme metal sub-channel from the Netherlands, based ISKC Radio Group. [Stream](http://mediaserv68.live-streams.nl:8012/ExtremeMetal)
