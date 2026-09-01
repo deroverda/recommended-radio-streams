@@ -30,6 +30,15 @@ http://s3.viastreaming.net:8835/,
 # Homepage: https://dinamo.fm/content/4/channels
 #EXTINF:-1,Dinamo.FM - Sleep
 http://channels.dinamo.fm/sleep-mp3
+# Homepage: http://echoesofbluemars.org/
+#EXTINF:-1,Echoes of Bluemars - Bluemars
+http://streams.echoesofbluemars.org:8000/bluemars
+# Homepage: http://echoesofbluemars.org/
+#EXTINF:-1,Echoes of Bluemars - Cryosleep
+http://streams.echoesofbluemars.org:8000/cryosleep
+# Homepage: http://echoesofbluemars.org/
+#EXTINF:-1,Echoes of Bluemars - Voices From Within
+http://streams.echoesofbluemars.org:8000/voicesfromwithin
 # Homepage: https://www.fluid-radio.co.uk/
 #EXTINF:-1,Fluid Radio
 http://uk4-vn.webcast-server.net:9270/,
@@ -66,9 +75,24 @@ https://boxradio-edge-01.streamafrica.net/rain
 # Homepage: https://sleepbot.com/ambience/broadcast/
 #EXTINF:-1,Sleepbot Environmental Broadcast
 http://primarystream.sleepbot.com:8218/seb
+# Homepage: https://www.willstare.com/sleep/
+#EXTINF:-1,Sleepscapes - Rain
+https://stream.willstare.com:8850/,
+# Homepage: https://www.willstare.com/sleep/
+#EXTINF:-1,Sleepscapes - Waves
+https://stream.willstare.com:8860/,
 # Homepage: https://somafm.com/listen/
 #EXTINF:-1,SomaFM - Drone Zone
 https://somafm.com/dronezone256.pls
 # Homepage: https://somafm.com/groovesalad/
 #EXTINF:-1,SomaFM - Groove Salad
 https://somafm.com/groovesalad256.pls
+# Homepage: https://www.subsonicradio.com/
+#EXTINF:-1,Subsonic Radio - Future Land
+https://www.subsonicradio.com:8443/future_land.mp3
+# Homepage: https://www.subsonicradio.com/
+#EXTINF:-1,Subsonic Radio - Main Street USA
+https://www.subsonicradio.com:8443/main_street.mp3
+# Homepage: https://www.subsonicradio.com/
+#EXTINF:-1,Subsonic Radio - Wilderness Junction
+https://www.subsonicradio.com:8443/wilderness_junction.mp3
