@@ -113,7 +113,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Echoes of Bluemars](http://echoesofbluemars.org/): Archived tribute to Bluemars, the ambient stream that went dark in 2013. [Bluemars](http://streams.echoesofbluemars.org:8000/bluemars) / [Cryosleep](http://streams.echoesofbluemars.org:8000/cryosleep) / [Voices From Within](http://streams.echoesofbluemars.org:8000/voicesfromwithin)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Experimental ambient and modern classical from Daniel Crossley's Bristol label, since 2010. [Stream](http://uk4-vn.webcast-server.net:9270/,)
 - [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese-inspired ambient from an Argentine band that waited 20 years to visit Japan. [Stream](https://server.laradio.online:59009/live)
-- [Lofi Radio](https://boxradio.net/en/radio/lofi-radio): Lo-fi beats overlapping with tracks also heard on Lofi Girl's streams. [Stream](https://boxradio-edge-00.streamafrica.net/lofi)
+- [Lofi Radio](https://boxradio.net/en/radio/lofi-radio): Lo-fi beats overlapping with tracks also heard on Lofi Girl's streams. [Stream](https://boxradio-edge-00.streamafrica.net/lofi) *(down, host maintenance)*
 - [Moon Phase Radio - Ambient](https://www.moonphaseradio.com/): Ambient, broadcasting since 2010, themed around the stillness of the moon. [Stream](https://cp12.serverse.com/proxy/moonphase/stream)
 - [Moss Garden](https://moss.garden): Ambient stream layered with listener-submitted field recordings from around the world. [Stream](https://radio.moss.garden/listen/moss_garden/radio.mp3)
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Copenhagen-based downtempo and lounge. [Stream](http://radio.streemlion.com:1160/stream)
@@ -121,7 +121,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [NTS - Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus): Drone, ambient, and ragas. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape)
 - [Psyndora - Chillout](https://www.psyndora.com/chill.html): Ambient and psybient channel from a Patras, Greece psytrance station. [Stream](https://cast.magicstreams.gr:9125/;)
 - [Radio Isla Negra - Slowbeat](https://www.radioislanegra.com/): Listener-supported downtempo and ambient from Isla Negra, Chile, since 1999. [Stream](https://radioislanegra.org/radio/8000/basic.aac)
-- [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain)
+- [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain) *(down, host maintenance)*
 - [Sleepbot Environmental Broadcast](https://sleepbot.com/ambience/broadcast/): One of the oldest ambient streams online, running since 1999 as Ambience for the Masses. [Stream](http://primarystream.sleepbot.com:8218/seb)
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean waves for sleep, from the creator of an Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
 - [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
@@ -181,7 +181,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [WRIR 97.3](https://wrir.org): All-volunteer low-power FM from Richmond, playing what other stations won't, since 2005. [Stream](https://live.wrir.org/)
 - [WSUM 91.7](https://wsum.org/): Student-run from UW-Madison, named Best College Station in the Nation by IBS. [Stream](https://ice23.securenetsystems.net/WSUMFM)
 - [WTJU 91.1](https://wtju.net): Classical to jazz to folk from the University of Virginia. [Stream](https://streams.wtju.net/wtju-live.mp3)
-- [WXTJ 100.1](https://www.wxtj.fm/): Student-run freeform sister station to WTJU. [Stream](https://streams.wtju.net/wxtj-live.mp3)
 - ⭐ [WXYC 89.3](https://wxyc.org/): From UNC Chapel Hill, first to stream online, in 1994. [Stream](https://audio-mp3.ibiblio.org/wxyc.mp3)
 - [WZRD 88.3](https://wzrdchicago.org/): Freeform from Northeastern Illinois University, students and alumni on air since 1974. [Stream](https://wzrd.streamguys1.com/live)
 
@@ -216,7 +215,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Fango Radio](https://www.fangoradio.com/): Unusual and rarely-heard music, words, and sounds from Pistoia, Tuscany. [Stream](https://pantano.ovh:8444/pantano)
 - [fbi.radio](https://www.fbi.radio/): Sydney's independent non-profit, half Australian music, half of that from Sydney, since 2003. [Stream](https://streamer.fbiradio.com/stream)
 - [Foundation FM](https://foundation.fm/): House, garage, and bass from a women and queer-led London collective. [Stream](https://streamer.radio.co/s0628bdd53/listen)
-- [Fritto FM](https://fritto.fm/): Community-built from Milan, hosting live shows and mixes from emerging local artists, since 2015. [Stream](https://frittofm2020.out.airtime.pro/frittofm2020_a) *(down, cause unknown, kept for now)*
+- [Fritto FM](https://fritto.fm/): Community-built from Milan, hosting live shows and mixes from emerging local artists, since 2015. [Stream](https://frittofm2020.out.airtime.pro/frittofm2020_a)
 - [Gatekeeper Radio](https://gatekeeperradio.com/): Non-profit experimental station from Berlin, turning urban spaces into temporary physical broadcast sites. [Stream](https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3)
 - [Great Circles](https://greatcircles.net/): Record shop, label, and live broadcasts from a Frankford Avenue studio in Philadelphia. [Stream](https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f)
 - [HKCR](https://hkcr.live/): Artist and musician-run outlet in Wan Chai, Hong Kong, since 2016. [Stream](https://stream-test.hkcr.live/hls/main.m3u8)
@@ -240,7 +239,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Montez Press Radio](https://radio.montezpress.com/): Publisher-run art broadcasts from a Canal Street storefront in Manhattan's Chinatown. [Stream](https://stream.montezpress.com/icecast/music)
 - [Mouthfull](https://mouthfull.live/): Non-profit from Aotearoa New Zealand since 2017, with a live listener chatroom alongside every show. [Stream](https://mouthfull-radio.radiocult.fm/stream)
 - [Muito Radio](https://www.muitoradio.com/): Independent community radio from Buenos Aires built on the syncretic spirit of 1960s Brazilian tropicalismo. [Stream](https://muitoradio.out.airtime.pro/muitoradio_a)
-- [Mutant Radio](https://www.mutantradio.net): Experimental electronic from a former power station in Tbilisi. [Stream](https://listen.radioking.com/radio/282820/stream/328621) *(down, cause unknown, kept for now)*
+- [Mutant Radio](https://www.mutantradio.net): Experimental electronic from a former power station in Tbilisi. [Stream](https://listen.radioking.com/radio/282820/stream/328621)
 - [n10.as](https://n10.as/): Volunteer-run Montreal freeform, death metal to dub to medieval music. Pronounced "antennas." [Stream](https://n10as.radiocult.fm/stream)
 - [Nebulah Radio](https://www.nebulah-radio.com/): World music and electronic from Brest, run by Mascarade Records since 2019. [Stream](https://listen.radioking.com/radio/314507/stream/361754)
 - [Ness Radio](https://nessradio.com/): House, electro, jazz, soul, and hip-hop from Marrakech, active since 2008. [Stream](https://radio.nessradio.net:8212/nessradio-hd)
@@ -267,7 +266,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Radio Nova](https://www.nova.fr/radios/radio-nova/): Paris station founded in 1981, pioneering hip-hop, world music, and electronic in France. [Stream](https://novazz.ice.infomaniak.ch/novazz-128.mp3)
 - [Radio Pinpon](https://www.facebook.com/radiopinpon/): Community radio from a psychiatric hospital in Niort, France, run by patients and staff. [Stream](https://listen.radioking.com/radio/142627/stream/182797)
 - [Radio Quantica](https://www.radioquantica.com/): Underground shows from a Lisbon community collective, since 2015. [Stream](https://libretime.radioquantica.com/main.mp3)
-- [Radio Raheem](https://radioraheem.it/): Independent Milan digital media platform, music-focused and based at the Triennale since 2017. [Stream](https://radioraheem.out.airtime.pro/radioraheem_a)
+- [Radio Raheem](https://radioraheem.it/): Independent, music-focused Milan station based at the Triennale since 2017. [Stream](https://radioraheem.out.airtime.pro/radioraheem_a)
 - [Radio Relativa](https://radiorelativa.eu/): Experimental sounds and young artists from a Madrid community collective. [Stream](https://streamer.radio.co/sd6131729c/listen)
 - [Radio Reverb 97.2](https://radioreverb.com): Brighton's licensed community station, started during the 2004 Brighton Festival. [Stream](http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3)
 - [Radio Sam Sam](https://samsam.world/): World grooves, jazz beats, and psych-folk from the SAM SAM Festival in the Fontainebleau Forest. [Stream](https://listen.radioking.com/radio/742276/stream/808768)
@@ -520,7 +519,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Boogaloo Radio](https://www.boogalooradio.com/): Live from The Boogaloo pub in Highgate, London, rock, soul, and chat. [Stream](https://streams.radio.co/sb88c742f0/listen)
 - ⭐ [The Current](https://thecurrent.org): Indie rock and pop from Minnesota Public Radio. [Stream](https://current.stream.publicradio.org/current.mp3)
 - [DARE FM](https://wdarefm.com/): New York's first alternative rock outlet, formerly WLIR, broadcasting since 1980. [Stream](http://hydra.cdnstream.com/1552_128)
-- [Delicious Agony](http://www.deliciousagony.com/): Rarities and full albums from progressive rock. [Stream](http://deliciousagony.streamguys1.com/) *temporarily off the air*
+- [Delicious Agony](http://www.deliciousagony.com/): Rarities and full albums from progressive rock. [Stream](http://deliciousagony.streamguys1.com/)
 - [Folk Alley](https://folkalley.com/): Folk, roots, and Americana since 2003, now run by the FreshGrass Foundation. [Stream](https://freshgrass.streamguys1.com/folkalley-128mp3)
 - [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead, Jerry Garcia Band, Ratdog, and other Dead-family projects. [Stream](http://cassini.shoutca.st:8574/stream)
 - [Ignore Radio Shoegaze](https://ignoreradio.com/): Shoegaze and dream pop. [Stream](https://sp1.autopo.st/8026/stream)
@@ -612,7 +611,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Broadcastify](https://www.broadcastify.com/): Largest directory for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
 - [DriftConditions](https://driftconditions.org/): Procedurally mixed found sound, spoken word, and shortwave crosstalk, assembled live by code and never repeated. [Stream](https://usa14.fastcast4u.com/proxy/wmodes?mp=/1)
-- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live) *(down, cause unknown, kept for now)*
+- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live)
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
