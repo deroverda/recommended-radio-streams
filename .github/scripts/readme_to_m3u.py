@@ -17,13 +17,29 @@ ENTRY_RE = re.compile(
     r'^-\s*(?:⭐\s*)?\[(?P<name>[^\]]+)\]\((?P<homepage>[^)]+)\):\s*'
     r'(?P<desc>.*)$'
 )
-# Matches [Stream](url), [Channel 1/2](url), and the bare [1]/[2] labels
-# used by entries like NTS's two main channels. Intentionally narrow (only
-# 1 and 2, not any digit) to mirror probe-streams.sh's extraction pattern
-# exactly and avoid accidentally matching unrelated numeric link labels
-# elsewhere in the README, e.g. "[9128](https://9128.live)" is a station's
-# own homepage link, not a stream tag.
+# Narrow by design, and mirrors probe-streams.sh's pattern. Broadening it
+# would re-match two things that look like stream tags but aren't: a
+# station's own homepage link when the name is numeric (e.g. "[1234](url)"),
+# and an inline link inside a description. Kept as a fallback for lines
+# where the stream links aren't last: a trailing "*(down, ...)*" status
+# note, or a parenthetical channel list like "([1](url), [2](url))".
 STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
+# Preferred path: the "/"-joined chain of links at the very end of the
+# line. Any label is safe here because the end-of-line anchor excludes
+# inline description links (which sit before trailing text/punctuation).
+STREAM_CHAIN_RE = re.compile(
+    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*$'
+)
+STREAM_LINK_RE = re.compile(r'\[(?P<label>[^\]]+)\]\((?P<url>[^)]+)\)')
+
+def extract_streams(line):
+    """Return [(label, url), ...] for a README entry line's stream link(s)."""
+    m = STREAM_CHAIN_RE.search(line)
+    if m:
+        streams = STREAM_LINK_RE.findall(m.group(0))
+        if streams:
+            return streams
+    return STREAM_RE.findall(line)
 HEADER_RE = re.compile(r'^(#{2,4})\s+(.*)')
 
 def strip_md_links(text):
@@ -69,7 +85,7 @@ def parse_sections(path):
         m = ENTRY_RE.match(s)
         if not m:
             continue
-        streams = STREAM_RE.findall(s)
+        streams = extract_streams(s)
         if not streams:
             continue
 
