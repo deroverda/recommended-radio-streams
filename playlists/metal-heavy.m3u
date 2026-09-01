@@ -5,7 +5,7 @@
 http://serv.coreradio.online:8000/coreradio
 # Homepage: https://death.fm/
 #EXTINF:-1,Death.FM
-https://death.fm/listen.m3u
+http://hi.death.fm/dfm
 # Homepage: https://www.doomnationradio.com/
 #EXTINF:-1,Doomnation Radio
 https://s2.voscast.com:11123/stream
