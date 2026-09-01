@@ -67,9 +67,10 @@ fi
 # Helper functions
 # ----------------------------------------------------------------------------
 extract_stream_urls() {
-  grep -oE '\[(Stream|Channel [12]|[12])\]\(https?://[^)]+\)' "$README_FILE" \
-    | sed -E 's/.*\((https?:\/\/[^)]+)\)/\1/' \
-    | sort -u
+  # Derived from build_name_map (defined below) so both use the same parser -
+  # including the trailing "/"-joined chain that catches custom sub-stream
+  # labels like "[Bluemars](url) / [Cryosleep](url)".
+  build_name_map | cut -f1 | sort -u
 }
 
 # Parses README.md once and emits url<TAB>name<TAB>section for every stream
@@ -85,7 +86,26 @@ ENTRY_RE = re.compile(
     r'(?P<desc>.*)$'
 )
 STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
+# Custom sub-stream labels ("[Bluemars](url) / [Cryosleep](url)") aren't in
+# STREAM_RE's whitelist. Accept any label when it's part of the "/"-joined
+# chain of links at the very end of the line - the end-of-line anchor keeps
+# this from matching an inline description link that sits before trailing text.
+STREAM_CHAIN_RE = re.compile(
+    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*$'
+)
+STREAM_LINK_RE = re.compile(r'\[[^\]]+\]\((?P<url>[^)]+)\)')
 HEADING_RE = re.compile(r'^#{2,4}\s+(.*)')
+
+
+def entry_stream_urls(line):
+    """URLs for a README entry line's stream link(s), any label."""
+    m = STREAM_CHAIN_RE.search(line)
+    if m:
+        urls = STREAM_LINK_RE.findall(m.group(0))
+        if urls:
+            return urls
+    return [u for _label, u in STREAM_RE.findall(line)]
+
 
 path = sys.argv[1]
 with open(path, encoding='utf-8') as f:
@@ -107,8 +127,13 @@ for raw in lines:
     if not m:
         continue
     name = re.sub(r'\*+', '', m.group('name')).strip()
-    for _label, url in STREAM_RE.findall(s):
-        print(f"{url}\t{name}\t{current_section}")
+    # 4th field: 1 if the entry line carries a "*(down ...)*" status note.
+    # Lets the report separate "already known down" from unexpected failures.
+    # Matches the established form only: "*(" then "down". A bare "*down*"
+    # would risk colliding with ordinary italic text elsewhere in the README.
+    down = '1' if re.search(r'\*\(\s*down\b', s, re.I) else '0'
+    for url in entry_stream_urls(s):
+        print(f"{url}\t{name}\t{current_section}\t{down}")
 PYEOF
 }
 
@@ -277,17 +302,19 @@ trap 'rm -rf "$tmp_dir"' EXIT
 
 declare -A url_to_name
 declare -A url_to_section
+declare -A url_to_down
 build_name_map > "$tmp_dir/station_map.tsv"
-while IFS=$'\t' read -r u n sec; do
+while IFS=$'\t' read -r u n sec down; do
   [ -z "$u" ] && continue
   url_to_name["$u"]="$n"
   url_to_section["$u"]="${sec:--}"
+  url_to_down["$u"]="${down:-0}"
 done < "$tmp_dir/station_map.tsv"
 
 # ----------------------------------------------------------------------------
 # Main - parallel probing capped at $JOBS
-# Each subshell writes one 6-field TSV line to its own file; concatenated after.
-# Fields: result<TAB>url<TAB>detail<TAB>silent<TAB>name<TAB>section
+# Each subshell writes one 7-field TSV line to its own file; concatenated after.
+# Fields: result<TAB>url<TAB>detail<TAB>silent<TAB>name<TAB>section<TAB>down
 # ----------------------------------------------------------------------------
 mapfile -t urls < <(extract_stream_urls)
 checked="${#urls[@]}"
@@ -301,9 +328,10 @@ for url in "${urls[@]}"; do
     probe_url "$url" 1
     name="${url_to_name[$url]:-$url}"
     section="${url_to_section[$url]:--}"
-    printf "%s\t%s\t%s\t%s\t%s\t%s\n" \
+    down="${url_to_down[$url]:-0}"
+    printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
       "$RESULT_CLASS" "$url" "${RESULT_DETAIL:--}" "$RESULT_SILENT" \
-      "$name" "$section" > "$result_file"
+      "$name" "$section" "$down" > "$result_file"
     echo " [$RESULT_CLASS] $url"
   ) &
   while [ "$(jobs -r -p | wc -l)" -ge "$JOBS" ]; do
@@ -325,15 +353,37 @@ total_silent=0
 manual=0
 access_blocked=0
 timeout_blocked=0
+known_down=0
+recovered=0
 manual_rows=""
 access_rows=""
 timeout_rows=""
+known_down_rows=""
+recovered_rows=""
 declare -A category_counts
 
-while IFS=$'\t' read -r result url detail silent name section; do
+while IFS=$'\t' read -r result url detail silent name section down; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
   safe_name=$(sanitize_text "$name")
   safe_section=$(sanitize_text "$section")
+
+  # Entry is tagged "*(down)*" in README and probing OK again - surface it
+  # as a recovery hint, still count it as OK.
+  if [ "$down" = "1" ] && [ "$result" = "OK" ]; then
+    recovered_rows+="| $safe_section | $safe_name | <$url> | probing OK - consider removing the *(down)* note |"$'\n'
+    recovered=$((recovered + 1))
+    total_ok=$((total_ok + 1))
+    [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
+    continue
+  fi
+  # Entry is tagged "*(down)*" in README and still failing - expected, keep
+  # it out of "Probe Failures" so that list only holds unexpected failures.
+  if [ "$down" = "1" ] && [ "$result" != "OK" ]; then
+    known_down_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+    known_down=$((known_down + 1))
+    continue
+  fi
+
   case "$result" in
     OK)
       total_ok=$((total_ok + 1))
@@ -360,7 +410,7 @@ done < "$tmp_results"
 {
   echo "# Stream Probe Report - $(date -u +%F)"
   echo ""
-  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** probe failures, **$access_blocked** access-blocked, **$timeout_blocked** timed out."
+  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$known_down** known-down, **$recovered** recovered, **$access_blocked** access-blocked, **$timeout_blocked** timed out."
   echo ""
   echo "## Statistics"
   echo "| Metric | Value |"
@@ -368,7 +418,9 @@ done < "$tmp_results"
   echo "| Total streams checked | $checked |"
   echo "| Playable (OK) | $total_ok |"
   echo "| Silent streams (warning) | $total_silent |"
-  echo "| Probe failures | $manual |"
+  echo "| Unexpected failures | $manual |"
+  echo "| Known-down (tagged in README) | $known_down |"
+  echo "| Recovered (tagged down, now OK) | $recovered |"
   echo "| Access-blocked (CI) | $access_blocked |"
   echo "| Timed out | $timeout_blocked |"
   echo ""
@@ -379,13 +431,35 @@ done < "$tmp_results"
     echo "| $cat | ${category_counts[$cat]} |"
   done
   echo ""
-  echo "## Probe Failures"
-  echo "_Streams the runner could not decode. Could be genuinely dead, or the same datacenter-IP blocking seen elsewhere - verify from a residential IP before removing the README entry._"
+  echo "## Probe Failures (unexpected)"
+  echo "_Streams that failed AND are not tagged \`*(down)*\` in README. These are the ones to look at. Could be genuinely dead, or the same datacenter-IP blocking seen elsewhere - verify from a residential IP before removing the README entry._"
   echo ""
   if [ -n "$manual_rows" ]; then
     echo "| Section | Station | URL | Result | Details |"
     echo "|---|---|---|---|---|"
     printf '%s' "$manual_rows"
+  else
+    echo "_None._"
+  fi
+  echo ""
+  echo "## Recovered"
+  echo "_Tagged \`*(down)*\` in README but probing OK now. If it holds across a couple of runs, remove the status note on GitHub and drop it from standing-context.md._"
+  echo ""
+  if [ -n "$recovered_rows" ]; then
+    echo "| Section | Station | URL | Note |"
+    echo "|---|---|---|---|"
+    printf '%s' "$recovered_rows"
+  else
+    echo "_None._"
+  fi
+  echo ""
+  echo "## Known-Down (already tagged in README)"
+  echo "_Expected failures - these entries already carry a \`*(down)*\` note. Nothing to do unless you're actively chasing one. Listed separately so Probe Failures above stays signal-only._"
+  echo ""
+  if [ -n "$known_down_rows" ]; then
+    echo "| Section | Station | URL | Result | Details |"
+    echo "|---|---|---|---|---|"
+    printf '%s' "$known_down_rows"
   else
     echo "_None._"
   fi
