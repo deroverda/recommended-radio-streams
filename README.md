@@ -113,7 +113,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Echoes of Bluemars](http://echoesofbluemars.org/): Archived tribute to Bluemars, the ambient stream that went dark in 2013. [Bluemars](http://streams.echoesofbluemars.org:8000/bluemars) / [Cryosleep](http://streams.echoesofbluemars.org:8000/cryosleep) / [Voices From Within](http://streams.echoesofbluemars.org:8000/voicesfromwithin)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Experimental ambient and modern classical from Daniel Crossley's Bristol label, since 2010. [Stream](http://uk4-vn.webcast-server.net:9270/,)
 - [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese-inspired ambient from an Argentine band that waited 20 years to visit Japan. [Stream](https://server.laradio.online:59009/live)
-- [Lofi Radio](https://boxradio.net/en/radio/lofi-radio): Lo-fi beats overlapping with tracks also heard on Lofi Girl's streams. [Stream](https://boxradio-edge-00.streamafrica.net/lofi) *(down, host maintenance)*
+- [Lofi Radio](https://boxradio.net/en/radio/lofi-radio): Lo-fi beats overlapping with tracks also heard on Lofi Girl's streams. [Stream](https://boxradio-edge-00.streamafrica.net/lofi)
 - [Moon Phase Radio - Ambient](https://www.moonphaseradio.com/): Ambient, broadcasting since 2010, themed around the stillness of the moon. [Stream](https://cp12.serverse.com/proxy/moonphase/stream)
 - [Moss Garden](https://moss.garden): Ambient stream layered with listener-submitted field recordings from around the world. [Stream](https://radio.moss.garden/listen/moss_garden/radio.mp3)
 - [Nordic Lodge](https://www.nordiclodgeradio.com/): Copenhagen-based downtempo and lounge. [Stream](http://radio.streemlion.com:1160/stream)
@@ -121,7 +121,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [NTS - Slow Focus](https://www.nts.live/infinite-mixtapes/slow-focus): Drone, ambient, and ragas. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape)
 - [Psyndora - Chillout](https://www.psyndora.com/chill.html): Ambient and psybient channel from a Patras, Greece psytrance station. [Stream](https://cast.magicstreams.gr:9125/;)
 - [Radio Isla Negra - Slowbeat](https://www.radioislanegra.com/): Listener-supported downtempo and ambient from Isla Negra, Chile, since 1999. [Stream](https://radioislanegra.org/radio/8000/basic.aac)
-- [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain) *(down, host maintenance)*
+- [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain)
 - [Sleepbot Environmental Broadcast](https://sleepbot.com/ambience/broadcast/): One of the oldest ambient streams online, running since 1999 as Ambience for the Masses. [Stream](http://primarystream.sleepbot.com:8218/seb)
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean waves for sleep, from the creator of an Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
 - [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
