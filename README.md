@@ -524,7 +524,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead, Jerry Garcia Band, Ratdog, and other Dead-family projects. [Stream](http://cassini.shoutca.st:8574/stream)
 - [Ignore Radio Shoegaze](https://ignoreradio.com/): Shoegaze and dream pop. [Stream](https://sp1.autopo.st/8026/stream)
 - [KEXP 90.3](https://www.kexp.org/listen/): Indie rock from Seattle, famous for live in-studio sessions. [Stream](https://kexp.streamguys1.com/kexp160.aac)
-- [Krautrock-World](https://krautrockworld.com/): Dedicated krautrock, psychedelic, space rock, and progressive rock, run for an active listener community. [Stream](https://krautrockworld.stream.laut.fm/krautrockworld)
+- [Krautrock-World](https://krautrock-world.com/): Dedicated krautrock, psychedelic, space rock, and progressive rock, run for an active listener community. [Stream](https://krautrockworld.stream.laut.fm/krautrockworld)
 - [Live Jam Radio](https://livejamradio.com/): Exclusively live versions, every track, every artist, no studio recordings. [Stream](https://stations.radio-host.com/proxy/livejam/stream)
 - [Morow](https://www.morow.com/): Progressive rock from Paris. [Stream](https://www.morow.com/morow.pls)
 - [NTS - Memory Lane](https://www.nts.live/infinite-mixtapes/memory-lane): Psychedelic folk and garage rock from the counterculture era. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape6)
@@ -564,7 +564,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](http://allrelays.rainwave.cc/game.mp3)
 - [RPGamers Radio](https://www.rpgamers.net/radio/): Listener-driven game music from 8-bit NES to modern releases, with a request system. [Stream](https://listen.rpgamers.net/rpgn)
 - [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax) *(down since Aug 2026, hardware failure, rebuilding)*
-- [Shmup Radio](https://shmupradio.com/en/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
+- [Shmup Radio](https://shmupradio.com/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999, Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
 - [Streaming Soundtracks](http://www.streamingsoundtracks.com/): Scores from movies, TV, and anime. [Stream](http://hi5.streamingsoundtracks.com/)
