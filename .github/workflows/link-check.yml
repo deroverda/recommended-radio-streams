@@ -27,6 +27,9 @@ jobs:
   lychee:
     name: Link Checker (websites only)
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit the updated lychee-state.json back - the
+                         # workflow-level default above is read-only
 
     steps:
       - name: Checkout repository
@@ -84,10 +87,10 @@ jobs:
           failIfEmpty: true
           format: markdown
           output: lychee/lychee-report.md
-          jobSummary: true
+          jobSummary: false   # written manually below, once the report carries the
+                               # caveat and consecutive-failure notes
           args: |
             --no-progress
-            --max-retries 3
             --max-concurrency 6
             --host-concurrency 2
             --host-request-interval 1s
@@ -116,9 +119,72 @@ jobs:
             { echo "$CAVEAT"; echo ""; cat lychee/lychee-report.md; } > lychee/lychee-report.tmp.md
             mv lychee/lychee-report.tmp.md lychee/lychee-report.md
           fi
+          # Job summary is written once, further down, after the report also
+          # carries consecutive-failure notes - no separate append here.
 
-          if [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
-            { echo ""; echo "$CAVEAT"; } >> "$GITHUB_STEP_SUMMARY"
+      - name: Track consecutive Lychee failures
+        if: always()
+        shell: bash
+        run: |
+          [ -f lychee/lychee-report.md ] || exit 0
+          # Reads the report just produced, tracks how many consecutive runs each
+          # failing URL has appeared for (persisted in .github/lychee-state.json,
+          # committed further down), and appends a "[N consecutive runs]" note to
+          # any URL that's failed more than once in a row - mirrors probe-streams.sh's
+          # consecutive-failure tracking, so a false positive that's been noisy for
+          # months reads differently from a fresh, first-time failure. Only failing
+          # URLs are ever written to the state file - a URL that stops failing simply
+          # drops out next run.
+          python3 - lychee/lychee-report.md .github/lychee-state.json <<'PYEOF'
+          import json
+          import re
+          import sys
+
+          # Matches a lychee markdown report error/timeout bullet, e.g.:
+          # * [404] <https://fade.radio/> (at 214:3) | Rejected status code: 404 Not Found
+          ENTRY_RE = re.compile(r'^\* \[(?P<code>[^\]]+)\] <(?P<url>[^>]+)> \(at [^)]+\) \| (?P<detail>.*)$')
+
+          report_path, state_path = sys.argv[1], sys.argv[2]
+
+          with open(report_path, encoding='utf-8') as f:
+              lines = f.readlines()
+
+          urls_this_run = [m.group('url') for line in lines if (m := ENTRY_RE.match(line.strip()))]
+
+          try:
+              with open(state_path, encoding='utf-8') as f:
+                  prev = json.load(f)
+          except Exception:
+              prev = {}
+
+          new_state = {
+              url: {"consecutive_failures": prev.get(url, {}).get("consecutive_failures", 0) + 1}
+              for url in urls_this_run
+          }
+
+          with open(state_path, 'w', encoding='utf-8') as f:
+              json.dump(new_state, f, indent=2, sort_keys=True)
+              f.write('\n')
+
+          out_lines = []
+          for line in lines:
+              m = ENTRY_RE.match(line.strip())
+              if m:
+                  count = new_state[m.group('url')]['consecutive_failures']
+                  if count > 1:
+                      line = line.rstrip('\n') + f" **[{count} consecutive runs]**\n"
+              out_lines.append(line)
+
+          with open(report_path, 'w', encoding='utf-8') as f:
+              f.writelines(out_lines)
+          PYEOF
+
+      - name: Write Lychee job summary
+        if: always()
+        shell: bash
+        run: |
+          if [ -f lychee/lychee-report.md ] && [ -n "${GITHUB_STEP_SUMMARY:-}" ]; then
+            cat lychee/lychee-report.md >> "$GITHUB_STEP_SUMMARY"
           fi
 
       - name: Upload Lychee report
@@ -129,6 +195,21 @@ jobs:
           path: lychee/lychee-report.md
           if-no-files-found: warn
           retention-days: 14
+
+      - name: Commit updated lychee state
+        if: github.event_name != 'pull_request'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          [ -f .github/lychee-state.json ] || exit 0
+          git add .github/lychee-state.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Update lychee state (consecutive-failure tracking)"
+          # generate-playlists.yml and the stream-probe job below can also push
+          # to main - rebase onto whatever landed first instead of failing the
+          # job over an unrelated push.
+          git pull --rebase --autostash
+          git push
 
   stream-probe:
     name: Stream Audio Probe
