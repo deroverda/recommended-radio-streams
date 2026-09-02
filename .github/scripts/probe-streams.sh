@@ -401,11 +401,13 @@ manual=0
 access_blocked=0
 timeout_blocked=0
 known_down=0
+known_down_recheck=0
 recovered=0
 manual_rows=""
 access_rows=""
 timeout_rows=""
 known_down_rows=""
+known_down_recheck_rows=""
 recovered_rows=""
 declare -A category_counts
 declare -A new_fail_count
@@ -437,11 +439,24 @@ while IFS=$'\t' read -r result url detail silent name section down; do
     [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
     continue
   fi
-  # Entry is tagged "*(down)*" in README and still failing - expected, keep
-  # it out of "Probe Failures" so that list only holds unexpected failures.
+  # Entry is tagged "*(down)*" in README and still failing. Split by whether
+  # CI can actually tell it's dead. NOT_FOUND / DNS_FAILURE / SERVER_ERROR
+  # and the like look the same from any IP, so "still down" is trustworthy.
+  # AUTH_REQUIRED / FORBIDDEN / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are
+  # exactly what a datacenter-IP block produces, so CI can't say whether the
+  # stream came back - those go to a "recheck from home" list instead of
+  # being reported as confirmed-down.
   if [ "$down" = "1" ] && [ "$result" != "OK" ]; then
-    known_down_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
-    known_down=$((known_down + 1))
+    case "$result" in
+      AUTH_REQUIRED|FORBIDDEN|TIMEOUT|CONNECTION_RESET|RATE_LIMITED)
+        known_down_recheck_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
+        known_down_recheck=$((known_down_recheck + 1))
+        ;;
+      *)
+        known_down_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+        known_down=$((known_down + 1))
+        ;;
+    esac
     continue
   fi
 
@@ -471,7 +486,7 @@ done < "$tmp_results"
 {
   echo "# Stream Probe Report - $(date -u +%F)"
   echo ""
-  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$known_down** known-down, **$recovered** recovered, **$access_blocked** access-blocked, **$timeout_blocked** timed out."
+  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$known_down** known-down, **$known_down_recheck** tagged-down needing recheck, **$recovered** recovered, **$access_blocked** access-blocked, **$timeout_blocked** timed out."
   echo ""
   echo "## Statistics"
   echo "| Metric | Value |"
@@ -481,6 +496,7 @@ done < "$tmp_results"
   echo "| Silent streams (warning) | $total_silent |"
   echo "| Unexpected failures | $manual |"
   echo "| Known-down (tagged in README) | $known_down |"
+  echo "| Tagged-down, CI blocked (recheck from home) | $known_down_recheck |"
   echo "| Recovered (tagged down, now OK) | $recovered |"
   echo "| Access-blocked (CI) | $access_blocked |"
   echo "| Timed out | $timeout_blocked |"
@@ -514,8 +530,19 @@ done < "$tmp_results"
     echo "_None._"
   fi
   echo ""
+  echo "## Known-Down - CI can't confirm (recheck from home)"
+  echo "_Tagged \`*(down)*\` in README and still failing from CI, but only with an error a datacenter-IP block also produces (401/403/timeout/reset). CI can't tell whether the stream recovered. Check these in VLC or foobar2000 from a home connection - if one plays, remove its \`*(down)*\` note on GitHub._"
+  echo ""
+  if [ -n "$known_down_recheck_rows" ]; then
+    echo "| Section | Station | URL | Result | Details |"
+    echo "|---|---|---|---|---|"
+    printf '%s' "$known_down_recheck_rows"
+  else
+    echo "_None._"
+  fi
+  echo ""
   echo "## Known-Down (already tagged in README)"
-  echo "_Expected failures - these entries already carry a \`*(down)*\` note. Nothing to do unless you're actively chasing one. Listed separately so Probe Failures above stays signal-only._"
+  echo "_Expected failures with an error CI can trust from any IP (404, DNS, server error) - these entries carry a \`*(down)*\` note and are still genuinely down. Nothing to do unless you're actively chasing one._"
   echo ""
   if [ -n "$known_down_rows" ]; then
     echo "| Section | Station | URL | Result | Details |"
