@@ -126,7 +126,9 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean waves for sleep, from the creator of an Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
 - [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
 - ⭐ [SomaFM - Groove Salad](https://somafm.com/groovesalad/): Ambient and downtempo beats and grooves. [Stream](https://somafm.com/groovesalad256.pls)
-- [Subsonic Radio](https://www.subsonicradio.com/): One of 16 Disney theme-park ambience channels, running since the mid-2000s. [Future Land](https://www.subsonicradio.com:8443/future_land.mp3) / [Main Street USA](https://www.subsonicradio.com:8443/main_street.mp3) / [Wilderness Junction](https://www.subsonicradio.com:8443/wilderness_junction.mp3)
+- [Subsonic Radio](https://www.subsonicradio.com/): Unofficial recordings from Disney theme-park attractions, resorts, and parades, across 16 channels since the mid-2000s. [SR One](https://www.subsonicradio.com:8443/requests.mp3) / [SR Two - Extended Plays](https://www.subsonicradio.com:8443/longbois.mp3) / [WEDWay PeopleMover](https://www.subsonicradio.com:8443/wedway.mp3)
+
+
 
 [↑ back to top](#top)
 
