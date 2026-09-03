@@ -1,44 +1,71 @@
 {
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "http://channels.dinamo.fm/discotheque-mp3": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "http://channels.dinamo.fm/sleep-mp3": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
-  "http://oscar.scenesat.com:8000/scenesatmax": {
-    "consecutive_failures": 5
-  },
-  "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 5
-  },
-  "https://boxradio-edge-00.streamafrica.net/lofi": {
-    "consecutive_failures": 5
-  },
-  "https://boxradio-edge-01.streamafrica.net/rain": {
-    "consecutive_failures": 5
-  },
-  "https://cast1.sql2.smrn.com/5001": {
+  "http://east-mp3-128.streamthejazzgroove.com/stream": {
     "consecutive_failures": 1
   },
+  "http://ice10.securenetsystems.net/LUXOMP3": {
+    "consecutive_failures": 1
+  },
+  "http://ice64.securenetsystems.net/KBON": {
+    "consecutive_failures": 1
+  },
+  "http://ice7.securenetsystems.net/KCSM2": {
+    "consecutive_failures": 1
+  },
+  "http://ice9.securenetsystems.net/DSR": {
+    "consecutive_failures": 1
+  },
+  "http://oscar.scenesat.com:8000/scenesatmax": {
+    "consecutive_failures": 6
+  },
+  "http://stream.zeno.fm/e4auhdgm6cquv": {
+    "consecutive_failures": 6
+  },
+  "http://west-mp3-128.streamthejazzgroove.com/stream": {
+    "consecutive_failures": 1
+  },
+  "https://boxradio-edge-00.streamafrica.net/lofi": {
+    "consecutive_failures": 6
+  },
+  "https://boxradio-edge-01.streamafrica.net/rain": {
+    "consecutive_failures": 6
+  },
   "https://flouka.out.airtime.pro/flouka_a": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
+  },
+  "https://ice23.securenetsystems.net/CIUT": {
+    "consecutive_failures": 1
+  },
+  "https://ice23.securenetsystems.net/WSUMFM": {
+    "consecutive_failures": 1
+  },
+  "https://ice64.securenetsystems.net/WBJC": {
+    "consecutive_failures": 1
   },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
+  },
+  "https://stream.bestairadio.com/live": {
+    "consecutive_failures": 1
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   }
 }
