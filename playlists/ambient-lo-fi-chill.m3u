@@ -88,11 +88,11 @@ https://somafm.com/dronezone256.pls
 #EXTINF:-1,SomaFM - Groove Salad
 https://somafm.com/groovesalad256.pls
 # Homepage: https://www.subsonicradio.com/
-#EXTINF:-1,Subsonic Radio - Future Land
-https://www.subsonicradio.com:8443/future_land.mp3
+#EXTINF:-1,Subsonic Radio - SR One
+https://www.subsonicradio.com:8443/requests.mp3
 # Homepage: https://www.subsonicradio.com/
-#EXTINF:-1,Subsonic Radio - Main Street USA
-https://www.subsonicradio.com:8443/main_street.mp3
+#EXTINF:-1,Subsonic Radio - SR Two - Extended Plays
+https://www.subsonicradio.com:8443/longbois.mp3
 # Homepage: https://www.subsonicradio.com/
-#EXTINF:-1,Subsonic Radio - Wilderness Junction
-https://www.subsonicradio.com:8443/wilderness_junction.mp3
+#EXTINF:-1,Subsonic Radio - WEDWay PeopleMover
+https://www.subsonicradio.com:8443/wedway.mp3
