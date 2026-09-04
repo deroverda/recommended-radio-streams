@@ -1,50 +1,29 @@
 {
   "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 1
-  },
-  "https://arcaderadio.com/index.html": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 4
-  },
-  "https://darkentertainments.com/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 5
   },
   "https://dinamo.fm/": {
-    "consecutive_failures": 4
+    "consecutive_failures": 5
   },
   "https://dinamo.fm/content/4/channels": {
-    "consecutive_failures": 4
+    "consecutive_failures": 5
   },
   "https://fade.radio/": {
-    "consecutive_failures": 4
+    "consecutive_failures": 5
   },
   "https://github.com/deroverda/recommended-radio-streams/stargazers": {
-    "consecutive_failures": 4
-  },
-  "https://historyradio.org/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 5
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 4
+    "consecutive_failures": 5
   },
-  "https://mouthfull.live/": {
+  "https://radiovilnius.live/": {
     "consecutive_failures": 1
   },
   "https://www.dansbandskanalen.se/": {
-    "consecutive_failures": 4
-  },
-  "https://www.mailta.pe/": {
-    "consecutive_failures": 1
-  },
-  "https://www.neuradio.it/": {
-    "consecutive_failures": 1
-  },
-  "https://www.poolfm.com.br/": {
-    "consecutive_failures": 1
-  },
-  "https://www.radio80k.de/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 5
   }
 }
