@@ -63,10 +63,8 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Mobile
 | App Name | OS | Type | Notes |
 | :--- | :---: | :---: | :--- |
-| [Broadcasts](https://apps.apple.com/app/broadcasts/id1469995354) | iOS | `Freemium` | Polished native UI with sleep timer, alarm, and cross-device sync. |
-| [CuterDio](https://cuterdio.com/en) | iOS | `Open Source` | Lightweight, no account required. |
+| [Broadcasts](https://apps.apple.com/app/broadcasts/id1469995354) | iOS | `Freemium` | Station library with Radio Browser search and custom stream URLs.. |
 | [Eter](https://apps.apple.com/app/eter-streaming-internet-radio/id1523221566) | iOS | `Freemium` | Minimal native player with Apple Watch, TV, and CarPlay support. |
-| [Frog Radio](https://apps.apple.com/app/frogradio/id1442306286) | iOS | `Paid` | 50k+ station database with iCloud sync. |
 | [Triode](https://triode.app/) | iOS | `Freemium` | Artwork-forward design with a clean minimal interface. |
 | [RadioDroid](https://github.com/segler-alex/RadioDroid) | Android | `Open Source` | Supports recording and Chromecast. |
 | [radioMii](https://github.com/haecksenwerk/radioMii-Android) | Android | `Open Source` | Clean Material 3 design, add any stream by URL. |
@@ -77,10 +75,10 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 | :--- | :---: | :---: | :--- |
 | [Foobar2000](https://www.foobar2000.org/) | Win/Mac | `Freeware` | Extensible via components, handles virtually any audio format. |
 | [Frog Radio](https://frogradio.net/) | macOS | `Paid` | Native Mac app with iCloud sync. |
-| [QMPlay2](https://github.com/zaps166/QMPlay2) | Win/Mac/Lin | `Open Source` | Cross-platform with built-in YouTube and network stream support. |
-| [Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave) | Linux | `Open Source` | Native GNOME app with offline station list support. |
-| [Tray FM](https://www.carthagosoft.net/TrayFM.php) | Win | `Freeware` | Tray-based player with radio-browser.info integration, portable version available. |
-| [Tuner](https://github.com/tuner-labs/tuner) | Linux | `Open Source` | Minimal Linux player with shuffle-based station discovery. |
+| [Radiola](https://github.com/SokoloffA/radiola) | macOS | `Open Source` | Lightweight menu bar player for quickly listening to Internet streams. |
+| [Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave) | Linux | `Open Source` | GNOME player with 50,000+ Radio Browser stations, recording, and Chromecast support. |
+| [Tray FM](https://www.carthagosoft.net/TrayFM.php) | Win | `Freeware` | Lightweight tray player with Radio Browser integration and portable builds. |
+| [Traydio](https://github.com/TheJoeFin/Traydio) | Win | `Open Source` | Minimalist player with native WinUI interface and tray controls. |
 | [VLC](https://www.videolan.org/vlc/) | Win/Mac/Lin | `Open Source` | Opens any stream URL, M3U, or PLS file without configuration. |
 
 ### Terminal
