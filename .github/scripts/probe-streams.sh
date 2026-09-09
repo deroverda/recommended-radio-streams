@@ -140,18 +140,20 @@ for raw in lines:
 PYEOF
 }
 
-# Collapses whitespace, escapes markdown table pipes, then truncates to a
-# maximum length. Truncation breaks at the last full word rather than cutting
-# mid-word, so error snippets stay readable in the report.
+# Collapse whitespace, cut to 200 chars at a word boundary, then escape table
+# pipes. Escaping goes last so the cut cannot split a "\|" pair.
 sanitize_text() {
   local out
   out=$(printf '%s' "$1" \
     | tr '\n\t' ' ' \
-    | sed -E 's/[[:space:]]+/ /g; s/^ //; s/ $//; s/\|/\\|/g')
+    | sed -E 's/[[:space:]]+/ /g; s/^ //; s/ $//')
   if [ "${#out}" -gt 200 ]; then
     out="${out:0:200}"
     out="${out% *}..."
   fi
+  # "${out//|/\\|}" collapses to a bare "|" in bash replacement - use a var.
+  local bs='\'
+  out=${out//|/${bs}|}
   printf '%s' "$out"
 }
 
@@ -532,9 +534,17 @@ done < "$tmp_results"
   emit_failure_table "$known_down_recheck_rows"
   echo ""
   echo "## CI-Blocked (likely fine from home)"
-  echo "_NOT tagged down. Failed with 401/403 (blocked), 429 (rate-limited), or a timeout/reset - all classic datacenter-IP symptoms. Almost certainly fine from a residential IP. Ignore a Runs of 1; verify from home only if the same URL persists across several weeks._"
+  echo "_NOT tagged down. Failed with 401/403 (blocked), 429 (rate-limited), or a timeout/reset - all classic datacenter-IP symptoms. Almost certainly fine from a residential IP. Split by how long the block has persisted._"
   echo ""
-  emit_failure_table "$ci_blocked_rows"
+  echo "### New or recent (Runs 1-2)"
+  echo "_First blocked this run or last. Check from home; if it keeps failing it moves to Chronic._"
+  echo ""
+  emit_failure_table "$(printf '%s' "$ci_blocked_rows" | awk -F'\t' 'NF && $1+0 <= 2')"
+  echo ""
+  echo "### Chronic (Runs 3+)"
+  echo "_Blocked from CI for weeks. Skip unless investigating one._"
+  echo ""
+  emit_failure_table "$(printf '%s' "$ci_blocked_rows" | awk -F'\t' 'NF && $1+0 >= 3')"
   echo ""
   echo "## Known-Down - confirmed"
   echo "_Tagged \`*(down)*\` and failing with an error CI can trust from any IP (404, DNS, server error). Genuinely down. Nothing to do week to week - but a high Runs count is the cue to stop keeping the entry and cut it._"
