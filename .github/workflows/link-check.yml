@@ -54,8 +54,11 @@ jobs:
               r'(?P<desc>.*)$'
           )
           STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
+          # Duplicated in probe-streams.sh (build_name_map) and readme_to_m3u.py -
+          # keep all three identical. Trailing group tolerates one "*(down ...)*" note.
           STREAM_CHAIN_RE = re.compile(
-              r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*$'
+              r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*'
+              r'(?:\*\(\s*down\b[^)]*\)\*?\s*)?$'
           )
           STREAM_LINK_RE = re.compile(r'\[[^\]]+\]\((?P<url>[^)]+)\)')
 
@@ -204,10 +207,19 @@ jobs:
           git diff --cached --quiet && exit 0
           git commit -m "Update lychee state (consecutive-failure tracking)"
           # generate-playlists.yml and the stream-probe job below can also push
-          # to main - rebase onto whatever landed first instead of failing the
-          # job over an unrelated push.
-          git pull --rebase --autostash
-          git push
+          # to main during this run. The state file is regenerated every run, so
+          # on a race keep our version rebased onto latest main (-X theirs),
+          # retry a few times, and never fail the job over the bookkeeping
+          # commit - the report itself is already uploaded above.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || continue
+            git rebase -X theirs origin/main || { git rebase --abort 2>/dev/null || true; continue; }
+            git push && exit 0
+          done
+          msg="lychee state commit kept losing the push race; skipping (non-fatal)"
+          echo "$msg"
+          [ -n "${GITHUB_STEP_SUMMARY:-}" ] && echo "> $msg" >> "$GITHUB_STEP_SUMMARY"
+          exit 0
 
   stream-probe:
     name: Stream Audio Probe
@@ -235,7 +247,15 @@ jobs:
           PROBE_TIMEOUT: 30
           MAX_RETRIES: 2
           RETRY_BASE_DELAY: 2
-        run: bash .github/scripts/probe-streams.sh || true
+        run: |
+          rc=0
+          bash .github/scripts/probe-streams.sh || rc=$?
+          # Exit 3 = the README parser produced zero stream URLs (state left
+          # untouched, a short report was written). Surface that as a job
+          # failure. Any other non-zero is a partial probe failure and stays
+          # non-fatal, which is what the old "|| true" protected.
+          [ "$rc" -eq 3 ] && exit 1
+          exit 0
 
       - name: Commit updated probe state
         if: github.event_name != 'pull_request'
@@ -249,11 +269,20 @@ jobs:
           git add .github/probe-state.json
           git diff --cached --quiet && exit 0
           git commit -m "Update probe state (consecutive-failure tracking)"
-          # generate-playlists.yml also pushes to main on a README change, so
-          # this push can lose a race to it - rebase onto whatever landed
-          # first instead of failing the job over an unrelated push.
-          git pull --rebase --autostash
-          git push
+          # generate-playlists.yml and the lychee job above also push to main
+          # during this run. The state file is regenerated every run, so on a
+          # race keep our version rebased onto latest main (-X theirs), retry a
+          # few times, and never fail the job over the bookkeeping commit - the
+          # report itself is uploaded in the next step.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || continue
+            git rebase -X theirs origin/main || { git rebase --abort 2>/dev/null || true; continue; }
+            git push && exit 0
+          done
+          msg="probe state commit kept losing the push race; skipping (non-fatal)"
+          echo "$msg"
+          [ -n "${GITHUB_STEP_SUMMARY:-}" ] && echo "> $msg" >> "$GITHUB_STEP_SUMMARY"
+          exit 0
 
       - name: Upload stream report
         if: always()
