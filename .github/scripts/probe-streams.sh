@@ -91,8 +91,13 @@ STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re
 # STREAM_RE's whitelist. Accept any label when it's part of the "/"-joined
 # chain of links at the very end of the line - the end-of-line anchor keeps
 # this from matching an inline description link that sits before trailing text.
+# The optional trailing group tolerates one "*(down ...)*" note (same shape as
+# the down= detector below) so a down-tagged multi-stream entry is still parsed.
+# This regex is duplicated in readme_to_m3u.py and in link-check.yml's
+# "Exclude stream URLs" step - keep all three identical.
 STREAM_CHAIN_RE = re.compile(
-    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*$'
+    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*'
+    r'(?:\*\(\s*down\b[^)]*\)\*?\s*)?$'
 )
 STREAM_LINK_RE = re.compile(r'\[[^\]]+\]\((?P<url>[^)]+)\)')
 HEADING_RE = re.compile(r'^#{2,4}\s+(.*)')
@@ -151,6 +156,20 @@ sanitize_text() {
     out="${out% *}..."
   fi
   printf '%s' "$out"
+}
+
+# Emits a failure table sorted by the consecutive-run count (first tab field of
+# each row, stripped before printing). Ascending: a "1" (first-time failure this
+# run) floats to the top as the new decision to make; long-running rows sink.
+emit_failure_table() {
+  local rows="$1"
+  if [ -n "$rows" ]; then
+    echo "| Section | Station | URL | Result | Runs | Details |"
+    echo "|---|---|---|---|---|---|"
+    printf '%s' "$rows" | sort -t"$(printf '\t')" -k1,1n | cut -f2-
+  else
+    echo "_None._"
+  fi
 }
 
 classify_error() {
@@ -212,7 +231,10 @@ probe_one_url() {
   local url="$1"
   local attempt=1
   local delay="$RETRY_BASE_DELAY"
-  local err status
+  # Initialised so the classify_error call below has defined values even if the
+  # loop body never runs (MAX_RETRIES <= 0). Note: the loop treats MAX_RETRIES
+  # as a total attempt count, not "retries on top of one try".
+  local err="" status=1
 
   RESULT_CLASS="UNKNOWN"
   RESULT_DETAIL=""
@@ -289,8 +311,11 @@ probe_url() {
 
   if is_playlist_url "$url" && [ "$depth" -le "$MAX_PLAYLIST_DEPTH" ]; then
     local content inner_urls
+    # tr -d '\r': .pls/.m3u files are frequently CRLF, and the "File1=" sed
+    # path below does not strip the trailing \r - it would reach ffmpeg as
+    # part of the URL and fail an otherwise-working stream.
     content=$(curl -fsSL --max-time "$PLAYLIST_TIMEOUT" --retry 2 --retry-delay 2 \
-      -A "$UA" "$url" 2>/dev/null | head -c 65536)
+      -A "$UA" "$url" 2>/dev/null | head -c 65536 | tr -d '\r')
     if [ -z "$content" ]; then
       RESULT_CLASS="EMPTY_PLAYLIST"
       RESULT_DETAIL="no content fetched"
@@ -365,6 +390,24 @@ fi
 # ----------------------------------------------------------------------------
 mapfile -t urls < <(extract_stream_urls)
 checked="${#urls[@]}"
+# A parser regression (or a malformed README) yields zero URLs. Without this
+# guard the run would still rewrite probe-state.json to "{}" further down,
+# wiping every consecutive-failure streak, and commit an empty report.
+if [ "$checked" -eq 0 ]; then
+  echo "Error: no stream URLs parsed from $README_FILE - leaving $STATE_FILE untouched." >&2
+  # Still write a report so the "Upload stream report" step has a file (it uses
+  # if-no-files-found: error) and the run summary shows the reason, rather than
+  # the job failing with a confusing "no files found".
+  {
+    echo "# Stream Probe Report - $(date -u +%F)"
+    echo ""
+    echo "**No stream URLs were parsed from \`$README_FILE\`.** Nothing was probed"
+    echo "and \`$STATE_FILE\` was left untouched. This almost always means the"
+    echo "README structure changed in a way the parser did not expect."
+  } > "$REPORT"
+  [ -n "${GITHUB_STEP_SUMMARY:-}" ] && cat "$REPORT" >> "$GITHUB_STEP_SUMMARY"
+  exit 3
+fi
 echo "Probing $checked streams (up to $JOBS in parallel)..."
 
 i=0
@@ -398,19 +441,21 @@ cat "$tmp_dir"/[0-9]*.tsv > "$tmp_results" 2>/dev/null || true
 total_ok=0
 total_silent=0
 manual=0
-access_blocked=0
-timeout_blocked=0
+ci_blocked=0
 known_down=0
 known_down_recheck=0
 recovered=0
+# Failure-table rows are stored as "<runs><TAB>| ... |" so emit_failure_table
+# can sort by the run count and then strip the key.
 manual_rows=""
-access_rows=""
-timeout_rows=""
+ci_blocked_rows=""
 known_down_rows=""
 known_down_recheck_rows=""
 recovered_rows=""
+silent_rows=""
 declare -A category_counts
 declare -A new_fail_count
+TAB=$(printf '\t')
 
 while IFS=$'\t' read -r result url detail silent name section down; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
@@ -425,10 +470,7 @@ while IFS=$'\t' read -r result url detail silent name section down; do
   else
     new_fail_count["$url"]=$(( ${prev_fail_count[$url]:-0} + 1 ))
   fi
-  # Only worth mentioning once it's more than a single blip - a first-time
-  # failure needs no extra alarm, that's just what "Probe Failures" already means.
-  fail_note=""
-  [ "${new_fail_count[$url]}" -gt 1 ] && fail_note=" [${new_fail_count[$url]} consecutive runs]"
+  runs="${new_fail_count[$url]}"   # 1 = first failing run; higher = ongoing
 
   # Entry is tagged "*(down)*" in README and probing OK again - surface it
   # as a recovery hint, still count it as OK.
@@ -436,24 +478,27 @@ while IFS=$'\t' read -r result url detail silent name section down; do
     recovered_rows+="| $safe_section | $safe_name | <$url> | probing OK - consider removing the *(down)* note |"$'\n'
     recovered=$((recovered + 1))
     total_ok=$((total_ok + 1))
-    [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
+    if [ "$silent" = "true" ]; then
+      total_silent=$((total_silent + 1))
+      silent_rows+="| $safe_section | $safe_name | <$url> |"$'\n'
+    fi
     continue
   fi
   # Entry is tagged "*(down)*" in README and still failing. Split by whether
   # CI can actually tell it's dead. NOT_FOUND / DNS_FAILURE / SERVER_ERROR
   # and the like look the same from any IP, so "still down" is trustworthy.
-  # AUTH_REQUIRED / FORBIDDEN / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are
-  # exactly what a datacenter-IP block produces, so CI can't say whether the
-  # stream came back - those go to a "recheck from home" list instead of
-  # being reported as confirmed-down.
+  # AUTH_REQUIRED / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are exactly what a
+  # datacenter-IP block produces, so CI can't say whether the stream came back -
+  # those go to a "recheck from home" list instead of being reported as
+  # confirmed-down.
   if [ "$down" = "1" ] && [ "$result" != "OK" ]; then
     case "$result" in
-      AUTH_REQUIRED|FORBIDDEN|TIMEOUT|CONNECTION_RESET|RATE_LIMITED)
-        known_down_recheck_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
+      AUTH_REQUIRED|TIMEOUT|CONNECTION_RESET|RATE_LIMITED)
+        known_down_recheck_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
         known_down_recheck=$((known_down_recheck + 1))
         ;;
       *)
-        known_down_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-} |"$'\n'
+        known_down_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
         known_down=$((known_down + 1))
         ;;
     esac
@@ -463,18 +508,17 @@ while IFS=$'\t' read -r result url detail silent name section down; do
   case "$result" in
     OK)
       total_ok=$((total_ok + 1))
-      [ "$silent" = "true" ] && total_silent=$((total_silent + 1))
+      if [ "$silent" = "true" ]; then
+        total_silent=$((total_silent + 1))
+        silent_rows+="| $safe_section | $safe_name | <$url> |"$'\n'
+      fi
       ;;
-    AUTH_REQUIRED|FORBIDDEN|RATE_LIMITED)
-      access_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
-      access_blocked=$((access_blocked + 1))
-      ;;
-    TIMEOUT|CONNECTION_RESET)
-      timeout_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
-      timeout_blocked=$((timeout_blocked + 1))
+    AUTH_REQUIRED|RATE_LIMITED|TIMEOUT|CONNECTION_RESET)
+      ci_blocked_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
+      ci_blocked=$((ci_blocked + 1))
       ;;
     *)
-      manual_rows+="| $safe_section | $safe_name | <$url> | $result | ${detail:-}$fail_note |"$'\n'
+      manual_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
       manual=$((manual + 1))
       ;;
   esac
@@ -486,38 +530,14 @@ done < "$tmp_results"
 {
   echo "# Stream Probe Report - $(date -u +%F)"
   echo ""
-  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$known_down** known-down, **$known_down_recheck** tagged-down needing recheck, **$recovered** recovered, **$access_blocked** access-blocked, **$timeout_blocked** timed out."
+  echo "Checked **$checked** streams: **$total_ok** OK (**$total_silent** silent), **$manual** unexpected failures, **$recovered** recovered, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
   echo ""
-  echo "## Statistics"
-  echo "| Metric | Value |"
-  echo "|---|---|"
-  echo "| Total streams checked | $checked |"
-  echo "| Playable (OK) | $total_ok |"
-  echo "| Silent streams (warning) | $total_silent |"
-  echo "| Unexpected failures | $manual |"
-  echo "| Known-down (tagged in README) | $known_down |"
-  echo "| Tagged-down, CI blocked (recheck from home) | $known_down_recheck |"
-  echo "| Recovered (tagged down, now OK) | $recovered |"
-  echo "| Access-blocked (CI) | $access_blocked |"
-  echo "| Timed out | $timeout_blocked |"
-  echo ""
-  echo "## Result Breakdown"
-  echo "| Result | Count |"
-  echo "|---|---|"
-  for cat in "${!category_counts[@]}"; do
-    echo "| $cat | ${category_counts[$cat]} |"
-  done
+  echo "Sections are ordered most-actionable first. Failure tables sort by consecutive-run count, so a **Runs** of 1 is new this week; stop reading once you hit a section with nothing to act on."
   echo ""
   echo "## Probe Failures (unexpected)"
   echo "_Streams that failed AND are not tagged \`*(down)*\` in README. These are the ones to look at. Could be genuinely dead, or the same datacenter-IP blocking seen elsewhere - verify from a residential IP before removing the README entry._"
   echo ""
-  if [ -n "$manual_rows" ]; then
-    echo "| Section | Station | URL | Result | Details |"
-    echo "|---|---|---|---|---|"
-    printf '%s' "$manual_rows"
-  else
-    echo "_None._"
-  fi
+  emit_failure_table "$manual_rows"
   echo ""
   echo "## Recovered"
   echo "_Tagged \`*(down)*\` in README but probing OK now. If it holds across a couple of runs, remove the status note on GitHub and drop it from standing-context.md._"
@@ -530,49 +550,42 @@ done < "$tmp_results"
     echo "_None._"
   fi
   echo ""
-  echo "## Known-Down - CI can't confirm (recheck from home)"
-  echo "_Tagged \`*(down)*\` in README and still failing from CI, but only with an error a datacenter-IP block also produces (401/403/timeout/reset). CI can't tell whether the stream recovered. Check these in VLC or foobar2000 from a home connection - if one plays, remove its \`*(down)*\` note on GitHub._"
+  echo "## Silent (decodes OK, no audio)"
+  echo "_Stream connects and decodes but no sound above the silence threshold in the sample window. Check by ear - could be genuinely dead air, or a quiet passage on an ambient/classical station (the detector is not genre-aware)._"
   echo ""
-  if [ -n "$known_down_recheck_rows" ]; then
-    echo "| Section | Station | URL | Result | Details |"
-    echo "|---|---|---|---|---|"
-    printf '%s' "$known_down_recheck_rows"
+  if [ -n "$silent_rows" ]; then
+    echo "| Section | Station | URL |"
+    echo "|---|---|---|"
+    printf '%s' "$silent_rows"
   else
     echo "_None._"
   fi
   echo ""
-  echo "## Known-Down (already tagged in README)"
-  echo "_Expected failures with an error CI can trust from any IP (404, DNS, server error) - these entries carry a \`*(down)*\` note and are still genuinely down. Nothing to do unless you're actively chasing one._"
+  echo "## Known-Down - recheck from home"
+  echo "_Tagged \`*(down)*\` in README and still failing from CI, but only with an error a datacenter-IP block also produces (401/403/429/timeout/reset). CI can't tell whether the stream recovered. Check these in VLC or foobar2000 from a home connection - if one plays, remove its \`*(down)*\` note on GitHub._"
   echo ""
-  if [ -n "$known_down_rows" ]; then
-    echo "| Section | Station | URL | Result | Details |"
-    echo "|---|---|---|---|---|"
-    printf '%s' "$known_down_rows"
-  else
-    echo "_None._"
-  fi
+  emit_failure_table "$known_down_recheck_rows"
   echo ""
-  echo "## Access-Blocked"
-  echo "_401/403 from the datacenter IP. Almost certainly fine from a residential IP - safe to ignore unless persistent across many runs._"
+  echo "## CI-Blocked (likely fine from home)"
+  echo "_NOT tagged down. Failed with 401/403 (blocked), 429 (rate-limited), or a timeout/reset - all classic datacenter-IP symptoms. Almost certainly fine from a residential IP. Ignore a Runs of 1; verify from home only if the same URL persists across several weeks._"
   echo ""
-  if [ -n "$access_rows" ]; then
-    echo "| Section | Station | URL | Result | Details |"
-    echo "|---|---|---|---|---|"
-    printf '%s' "$access_rows"
-  else
-    echo "_None._"
-  fi
+  emit_failure_table "$ci_blocked_rows"
   echo ""
-  echo "## Timed Out"
-  echo "_TIMEOUT / CONNECTION_RESET from the datacenter IP. Usually fine from residential IP, but verify in foobar2000 or VLC if a stream times out consistently across multiple runs._"
+  echo "## Known-Down - confirmed"
+  echo "_Tagged \`*(down)*\` and failing with an error CI can trust from any IP (404, DNS, server error). Genuinely down. Nothing to do week to week - but a high Runs count is the cue to stop keeping the entry and cut it._"
   echo ""
-  if [ -n "$timeout_rows" ]; then
-    echo "| Section | Station | URL | Result | Details |"
-    echo "|---|---|---|---|---|"
-    printf '%s' "$timeout_rows"
-  else
-    echo "_None._"
-  fi
+  emit_failure_table "$known_down_rows"
+  echo ""
+  echo "## Result Breakdown (appendix)"
+  echo "_Every raw classification and its count, largest first. Not a triage list - a week-to-week health trend, watch UNKNOWN in particular._"
+  echo ""
+  echo "| Result | Count |"
+  echo "|---|---|"
+  for cat in "${!category_counts[@]}"; do
+    printf '%s\t%s\n' "${category_counts[$cat]}" "$cat"
+  done | sort -rn | while IFS=$'\t' read -r cnt cat; do
+    echo "| $cat | $cnt |"
+  done
 } > "$REPORT"
 
 # Persist this run's streak counts for next run's comparison. Rewritten
