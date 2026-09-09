@@ -107,7 +107,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [ChillTraxx](https://www.chilltrax.com/): Listener-supported downtempo and chillout, broadcast from Oakland, California. [Stream](https://streamssleu.chilltrax.com/stream)
 - [CodeRadio](https://www.freecodecamp.org/news/code-radio/): Jazzy beats to code to, from freeCodeCamp. [Stream](https://coderadio-admin-v2.freecodecamp.org/listen/coderadio/radio.mp3)
 - [Dark Ambient Radio](https://www.darkambientradio.de/news.php): Dark ambient only since 2006, with track info provided through forum comments. [Stream](http://s3.viastreaming.net:8835/,)
-- [Dinamo.FM - Sleep](https://dinamo.fm/content/4/channels): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3) *(down, cause unknown, kept for now)*
+- [Dinamo.FM - Sleep](https://dinamo.fm/content/4/channels): Ambient and downtempo from an independent broadcaster based in Istanbul. [Stream](http://channels.dinamo.fm/sleep-mp3)
 - ⭐ [Echoes of Bluemars](http://echoesofbluemars.org/): Archived tribute to Bluemars, the ambient stream that went dark in 2013. [Bluemars](http://streams.echoesofbluemars.org:8000/bluemars) / [Cryosleep](http://streams.echoesofbluemars.org:8000/cryosleep) / [Voices From Within](http://streams.echoesofbluemars.org:8000/voicesfromwithin)
 - [Fluid Radio](https://www.fluid-radio.co.uk/): Experimental ambient and modern classical from Daniel Crossley's Bristol label, since 2010. [Stream](http://uk4-vn.webcast-server.net:9270/,)
 - [The Kyoto Connection](https://www.thekyotoconnection.com/): Japanese-inspired ambient from an Argentine band that waited 20 years to visit Japan. [Stream](https://server.laradio.online:59009/live)
@@ -211,7 +211,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Dublin Digital Radio](https://listen.dublindigitalradio.com/): Award-winning volunteer community radio from Dublin, covering music, art, and politics since 2016. [Stream](https://dublin-digital-radio.radiocult.fm/stream)
 - [The Dump](https://www.thedumpradio.com/): Obscure music across genres, intentionally unpolished. [Stream](https://radio.turbo.net.au/stream-hq)
 - [East Village Radio](https://eastvillageradio.com/): Freeform station launched in 2003 from a 1st Avenue shopfront studio in New York City. [Stream](https://east-village-radio.radiocult.fm/stream)
-- [Fade Radio](https://fade.radio/): DJ sets, live performances, podcasts, and art projects from an independent Athens outlet. [Stream](https://stream.radiojar.com/072mdmpbfq8uv)
+- [Fade Radio](https://fade.radio/): DJ sets, live performances, podcasts, and art projects from an independent Athens outlet. [Stream](https://stream.radiojar.com/072mdmpbfq8uv) *(down, cause unknown, kept for now)*
 - [Fango Radio](https://www.fangoradio.com/): Unusual and rarely-heard music, words, and sounds from Pistoia, Tuscany. [Stream](https://pantano.ovh:8444/pantano)
 - [fbi.radio](https://www.fbi.radio/): Sydney's independent non-profit, half Australian music, half of that from Sydney, since 2003. [Stream](https://streamer.fbiradio.com/stream)
 - [Foundation FM](https://foundation.fm/): House, garage, and bass from a women and queer-led London collective. [Stream](https://streamer.radio.co/s0628bdd53/listen)
@@ -388,7 +388,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
 
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
-- [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3) *(down, cause unknown, kept for now)*
+- [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3)
 - [Disco Factory FM](https://www.discofactory.fm): Volunteer friends spinning vinyl-only 12-inch disco, funk, and soul from the 70s-80s. [Stream](https://s5.radio.co/s253044a7a/listen)
 - [The Face Radio](https://thefaceradio.com/): Soul, funk, disco and mod from a Brooklyn collective, since 2016. [Stream](https://the-face-radio.radiocult.fm/stream)
 - [Funk the Planet](https://funkthepla.net/): Programmed by Santa Barbara DJ Vince Leo, classic and modern funk. [Stream](https://streaming.live365.com/a01484)
@@ -564,7 +564,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](http://allrelays.rainwave.cc/game.mp3)
 - [RPGamers Radio](https://www.rpgamers.net/radio/): Listener-driven game music from 8-bit NES to modern releases, with a request system. [Stream](https://listen.rpgamers.net/rpgn)
 - [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax) *(down since Aug 2026, hardware failure, rebuilding)*
-- [Shmup Radio](https://shmupradio.com/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
+- [Shmup Radio](https://shmupradio.com/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320) *(down, cause unknown, kept for now)*
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999, Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
 - [Streaming Soundtracks](http://www.streamingsoundtracks.com/): Scores from movies, TV, and anime. [Stream](http://hi5.streamingsoundtracks.com/)
