@@ -13,7 +13,6 @@
 # What it does:
 # - Probes every stream URL with ffmpeg (parallel, capped at $JOBS).
 # - Resolves .pls/.m3u/.asx playlist files to their inner URLs first.
-# - Detects silence on otherwise-OK streams.
 # - Separates genuine probe failures from runner-blocked streams (datacenter
 #   IP blocks produce AUTH_REQUIRED/TIMEOUT/CONNECTION_RESET but the stream
 #   works fine from a residential IP).
@@ -46,8 +45,6 @@ PROBE_TIMEOUT="${PROBE_TIMEOUT:-30}"
 PLAYLIST_TIMEOUT="${PLAYLIST_TIMEOUT:-15}"
 MAX_RETRIES="${MAX_RETRIES:-2}"
 RETRY_BASE_DELAY="${RETRY_BASE_DELAY:-2}"
-SILENCE_THRESHOLD="${SILENCE_THRESHOLD:-0.05}"
-SILENCE_DURATION="${SILENCE_DURATION:-0.5}"
 MAX_PLAYLIST_DEPTH="${MAX_PLAYLIST_DEPTH:-3}"
 STATE_FILE="${STATE_FILE:-.github/probe-state.json}"
 
@@ -238,24 +235,17 @@ probe_one_url() {
 
   RESULT_CLASS="UNKNOWN"
   RESULT_DETAIL=""
-  RESULT_SILENT="false"
 
   while [ "$attempt" -le "$MAX_RETRIES" ]; do
-    # Single connection does both the health check and silence detection -
-    # previously this was two separate ffmpeg connections per successful
-    # probe, and the second one's exit status was never checked, so a
-    # stream whose *second* connection failed (403, timeout, whatever)
-    # still got reported OK.
+    # One ffmpeg connection is the whole health check: connect, decode
+    # $DECODE_SECONDS of audio, check the exit status. An earlier version
+    # made a second connection whose exit status was never checked, so a
+    # stream whose second connection failed (403, timeout, whatever) still
+    # got reported OK.
     #
-    # -v warning suppresses silencedetect's own "silence_start" log lines
-    # (they're logged at AV_LOG_INFO, above warning) - so silence detection
-    # would silently never fire at this log level. ametadata=mode=print
-    # sends the same silence_start marker to stdout instead, bypassing the
-    # log level entirely, while -v stays at warning so $err doesn't fill up
-    # with the Input/Stream mapping/Output banner that -v info would add
-    # (sanitize_text only keeps the first 200 chars, so that banner would
-    # crowd out the actual error text on a failure).
-    local silent_frames
+    # -v warning keeps $err from filling up with the Input/Stream mapping/
+    # Output banner that -v info adds (sanitize_text only keeps the first
+    # 200 chars, so that banner would crowd out the real error on a failure).
     err=$(timeout "$PROBE_TIMEOUT" ffmpeg \
       -hide_banner -v warning -nostdin \
       -user_agent "$UA" \
@@ -264,14 +254,11 @@ probe_one_url() {
       -i "$url" \
       -map 0:a:0 -vn -sn -dn \
       -t "$DECODE_SECONDS" \
-      -af "silencedetect=noise=$SILENCE_THRESHOLD:d=$SILENCE_DURATION,ametadata=mode=print:key=lavfi.silence_start:file=-" \
       -f null - \
       2>&1)
     status=$?
 
     if [ "$status" -eq 0 ]; then
-      silent_frames=$(echo "$err" | grep -c "silence_start" || true)
-      [ "${silent_frames:-0}" -gt 0 ] && RESULT_SILENT="true"
       RESULT_CLASS="OK"
       RESULT_DETAIL=""
       return 0
@@ -307,7 +294,6 @@ probe_url() {
   local depth="${2:-1}"
   RESULT_CLASS="UNKNOWN"
   RESULT_DETAIL=""
-  RESULT_SILENT="false"
 
   if is_playlist_url "$url" && [ "$depth" -le "$MAX_PLAYLIST_DEPTH" ]; then
     local content inner_urls
@@ -385,8 +371,8 @@ fi
 
 # ----------------------------------------------------------------------------
 # Main - parallel probing capped at $JOBS
-# Each subshell writes one 7-field TSV line to its own file; concatenated after.
-# Fields: result<TAB>url<TAB>detail<TAB>silent<TAB>name<TAB>section<TAB>down
+# Each subshell writes one 6-field TSV line to its own file; concatenated after.
+# Fields: result<TAB>url<TAB>detail<TAB>name<TAB>section<TAB>down
 # ----------------------------------------------------------------------------
 mapfile -t urls < <(extract_stream_urls)
 checked="${#urls[@]}"
@@ -419,8 +405,8 @@ for url in "${urls[@]}"; do
     name="${url_to_name[$url]:-$url}"
     section="${url_to_section[$url]:--}"
     down="${url_to_down[$url]:-0}"
-    printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\n" \
-      "$RESULT_CLASS" "$url" "${RESULT_DETAIL:--}" "$RESULT_SILENT" \
+    printf "%s\t%s\t%s\t%s\t%s\t%s\n" \
+      "$RESULT_CLASS" "$url" "${RESULT_DETAIL:--}" \
       "$name" "$section" "$down" > "$result_file"
     echo " [$RESULT_CLASS] $url"
   ) &
@@ -439,7 +425,6 @@ cat "$tmp_dir"/[0-9]*.tsv > "$tmp_results" 2>/dev/null || true
 # Aggregate results
 # ----------------------------------------------------------------------------
 total_ok=0
-total_silent=0
 manual=0
 ci_blocked=0
 known_down=0
@@ -452,12 +437,11 @@ ci_blocked_rows=""
 known_down_rows=""
 known_down_recheck_rows=""
 recovered_rows=""
-silent_rows=""
 declare -A category_counts
 declare -A new_fail_count
 TAB=$(printf '\t')
 
-while IFS=$'\t' read -r result url detail silent name section down; do
+while IFS=$'\t' read -r result url detail name section down; do
   category_counts["$result"]=$(( ${category_counts["$result"]:-0} + 1 ))
   safe_name=$(sanitize_text "$name")
   safe_section=$(sanitize_text "$section")
@@ -478,10 +462,6 @@ while IFS=$'\t' read -r result url detail silent name section down; do
     recovered_rows+="| $safe_section | $safe_name | <$url> | probing OK - consider removing the *(down)* note |"$'\n'
     recovered=$((recovered + 1))
     total_ok=$((total_ok + 1))
-    if [ "$silent" = "true" ]; then
-      total_silent=$((total_silent + 1))
-      silent_rows+="| $safe_section | $safe_name | <$url> |"$'\n'
-    fi
     continue
   fi
   # Entry is tagged "*(down)*" in README and still failing. Split by whether
@@ -508,10 +488,6 @@ while IFS=$'\t' read -r result url detail silent name section down; do
   case "$result" in
     OK)
       total_ok=$((total_ok + 1))
-      if [ "$silent" = "true" ]; then
-        total_silent=$((total_silent + 1))
-        silent_rows+="| $safe_section | $safe_name | <$url> |"$'\n'
-      fi
       ;;
     AUTH_REQUIRED|RATE_LIMITED|TIMEOUT|CONNECTION_RESET)
       ci_blocked_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
@@ -530,7 +506,7 @@ done < "$tmp_results"
 {
   echo "# Stream Probe Report - $(date -u +%F)"
   echo ""
-  echo "Checked **$checked** streams: **$total_ok** OK (**$total_silent** silent), **$manual** unexpected failures, **$recovered** recovered, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
+  echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$recovered** recovered, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
   echo ""
   echo "Sections are ordered most-actionable first. Failure tables sort by consecutive-run count, so a **Runs** of 1 is new this week; stop reading once you hit a section with nothing to act on."
   echo ""
@@ -546,17 +522,6 @@ done < "$tmp_results"
     echo "| Section | Station | URL | Note |"
     echo "|---|---|---|---|"
     printf '%s' "$recovered_rows"
-  else
-    echo "_None._"
-  fi
-  echo ""
-  echo "## Silent (decodes OK, no audio)"
-  echo "_Stream connects and decodes but no sound above the silence threshold in the sample window. Check by ear - could be genuinely dead air, or a quiet passage on an ambient/classical station (the detector is not genre-aware)._"
-  echo ""
-  if [ -n "$silent_rows" ]; then
-    echo "| Section | Station | URL |"
-    echo "|---|---|---|"
-    printf '%s' "$silent_rows"
   else
     echo "_None._"
   fi
