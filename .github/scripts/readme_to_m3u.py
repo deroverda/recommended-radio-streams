@@ -11,7 +11,6 @@ Usage:
 import os
 import re
 import sys
-from collections import defaultdict
 
 ENTRY_RE = re.compile(
     r'^-\s*(?:⭐\s*)?\[(?P<name>[^\]]+)\]\((?P<homepage>[^)]+)\):\s*'
@@ -27,8 +26,13 @@ STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re
 # Preferred path: the "/"-joined chain of links at the very end of the
 # line. Any label is safe here because the end-of-line anchor excludes
 # inline description links (which sit before trailing text/punctuation).
+# The optional trailing group tolerates one "*(down ...)*" note so a
+# down-tagged multi-stream entry is still parsed. This regex is duplicated in
+# probe-streams.sh (build_name_map) and in link-check.yml's "Exclude stream
+# URLs" step - keep all three identical.
 STREAM_CHAIN_RE = re.compile(
-    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*$'
+    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*'
+    r'(?:\*\(\s*down\b[^)]*\)\*?\s*)?$'
 )
 STREAM_LINK_RE = re.compile(r'\[(?P<label>[^\]]+)\]\((?P<url>[^)]+)\)')
 
@@ -126,7 +130,13 @@ def main():
 
     sections = parse_sections(in_path)
 
-    # Fix: correct indentation throughout this block; slug_map belongs inside main()
+    # A parser regression or a wholesale README rename yields no sections. Refuse
+    # to continue rather than write nothing and (below) prune every playlist.
+    if not sections:
+        print(f"Error: no sections parsed from {in_path} - leaving {out_dir} untouched.",
+              file=sys.stderr)
+        sys.exit(3)
+
     slug_map = {}
 
     for title, entries in sections:
@@ -144,6 +154,23 @@ def main():
         out_path = os.path.join(out_dir, f"{slug}.m3u")
         write_m3u(out_path, entries, title)
         print(f"{slug}.m3u: {len(entries)} stations ({title})")
+
+    # Drop playlists for categories that no longer exist in README (renamed or
+    # removed). Guard against a partial parser regression: a real rename or
+    # removal touches one or two files, so if many playlists suddenly look
+    # stale it is far more likely the parser broke - refuse to prune and make
+    # it visible rather than delete legitimate playlists.
+    current = {f"{slug}.m3u" for slug in slug_map}
+    stale = [f for f in sorted(os.listdir(out_dir))
+             if f.endswith(".m3u") and f not in current]
+    if len(stale) > 2:
+        print(f"Refusing to prune {len(stale)} playlists ({', '.join(stale)}) - "
+              f"that looks like a parse regression, not {len(stale)} real removals.",
+              file=sys.stderr)
+        sys.exit(3)
+    for fname in stale:
+        os.remove(os.path.join(out_dir, fname))
+        print(f"removed stale {fname} (no matching README category)")
 
     print(f"\n{len(sections)} playlists written to {out_dir}")
 
