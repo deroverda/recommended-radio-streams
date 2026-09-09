@@ -1,29 +1,32 @@
 {
   "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
   "https://dinamo.fm/": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
   "https://dinamo.fm/content/4/channels": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
   "https://fade.radio/": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
   "https://github.com/deroverda/recommended-radio-streams/stargazers": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
+  },
+  "https://historyradio.org/": {
+    "consecutive_failures": 1
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
-  "https://wgdr.rocks/": {
+  "https://stationstation.fr/": {
     "consecutive_failures": 1
   },
   "https://www.dansbandskanalen.se/": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   }
 }
