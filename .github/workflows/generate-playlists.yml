@@ -6,6 +6,7 @@ on:
     paths:
       - "README.md"
       - ".github/scripts/readme_to_m3u.py"
+      - ".github/workflows/generate-playlists.yml"
   workflow_dispatch:
 
 permissions:
@@ -37,5 +38,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add playlists/
-          git diff --cached --quiet || git commit -m "Auto-update playlists from README"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "Auto-update playlists from README"
+          # link-check.yml and its state commits also push to main. Playlists are
+          # regenerated deterministically from README, so on a race rebase our
+          # version onto latest main (-X theirs) and retry the push.
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || continue
+            git rebase -X theirs origin/main || { git rebase --abort 2>/dev/null || true; continue; }
+            git push && exit 0
+          done
+          msg="playlist commit could not be pushed after 5 tries"
+          echo "$msg"
+          [ -n "${GITHUB_STEP_SUMMARY:-}" ] && echo "> $msg" >> "$GITHUB_STEP_SUMMARY"
+          exit 1
