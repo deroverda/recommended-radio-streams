@@ -33,6 +33,9 @@ https://stream.laut.fm/gta-classics
 # Homepage: http://gyusyabu.ddo.jp/
 #EXTINF:-1,Gyusyabu
 http://gyusyabu.ddo.jp:8000/;stream.mp3
+# Homepage: https://intergalactic.fm/
+#EXTINF:-1,Intergalactic FM - The Dream Machine
+https://radio.intergalactic.fm/3A
 # Homepage: https://kaaosradio.fi/
 #EXTINF:-1,Kaaosradio
 https://kaaosradio.fi:8001/chip
