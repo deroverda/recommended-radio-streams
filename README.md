@@ -211,7 +211,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Dublin Digital Radio](https://listen.dublindigitalradio.com/): Award-winning volunteer community radio from Dublin, covering music, art, and politics since 2016. [Stream](https://dublin-digital-radio.radiocult.fm/stream)
 - [The Dump](https://www.thedumpradio.com/): Obscure music across genres, intentionally unpolished. [Stream](https://radio.turbo.net.au/stream-hq)
 - [East Village Radio](https://eastvillageradio.com/): Freeform station launched in 2003 from a 1st Avenue shopfront studio in New York City. [Stream](https://east-village-radio.radiocult.fm/stream)
-- [Fade Radio](https://fade.radio/): DJ sets, live performances, podcasts, and art projects from an independent Athens outlet. [Stream](https://stream.radiojar.com/072mdmpbfq8uv) *(down, cause unknown, kept for now)*
 - [Fango Radio](https://www.fangoradio.com/): Unusual and rarely-heard music, words, and sounds from Pistoia, Tuscany. [Stream](https://pantano.ovh:8444/pantano)
 - [fbi.radio](https://www.fbi.radio/): Sydney's independent non-profit, half Australian music, half of that from Sydney, since 2003. [Stream](https://streamer.fbiradio.com/stream)
 - [Foundation FM](https://foundation.fm/): House, garage, and bass from a women and queer-led London collective. [Stream](https://streamer.radio.co/s0628bdd53/listen)
@@ -563,8 +562,8 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [RadioSEGA](https://www.radiosega.net/): SEGA game music and remixes, broadcasting fan shows since 2006. [Stream](http://content.radiosega.net:8006/live)
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](http://allrelays.rainwave.cc/game.mp3)
 - [RPGamers Radio](https://www.rpgamers.net/radio/): Listener-driven game music from 8-bit NES to modern releases, with a request system. [Stream](https://listen.rpgamers.net/rpgn)
-- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](http://oscar.scenesat.com:8000/scenesatmax) *(down since Aug 2026, hardware failure, rebuilding)*
-- [Shmup Radio](https://shmupradio.com/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320) *(down, cause unknown, kept for now)*
+- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](https://streams.scenesat.com/main/hq.mp3)
+- [Shmup Radio](https://shmupradio.com/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999, Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
 - [Streaming Soundtracks](http://www.streamingsoundtracks.com/): Scores from movies, TV, and anime. [Stream](http://hi5.streamingsoundtracks.com/)
@@ -589,7 +588,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Live music, performance, and experimental pan-African sounds from Cape Town. [Stream](https://pass.out.airtime.pro/pass_a)
 - [Pyongyang Radio FM](https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/): North Korean state radio via online relays. [Stream](https://listen7.myradio24.com/69366)
 - [Radio Al-Hara](https://www.radioalhara.net/): Experimental beats, talk, and underground Palestinian culture, broadcasting since 2020. [Stream](https://stream.radiojar.com/78cxy6wkxtzuv)
-- [Radio Flouka](https://www.radioflouka.com/): Contemporary Arab and North African music, from Mashriq to Maghreb, Paris-based. [Stream](https://flouka.out.airtime.pro/flouka_a) *(down, cause unknown, kept for now)*
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Javanese and Balinese gamelan recordings. [Stream](http://radioseribatu.out.airtime.pro:8000/radioseribatu_a)
 - [Svensk Folkmusik AkkA](https://www.svenskfolkmusik.nu/): 33,000+ tracks of Swedish folk music, run by two enthusiasts in the Netherlands. [Stream](https://mediaserv38.live-streams.nl:8107/stream)
 
