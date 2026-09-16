@@ -1,62 +1,44 @@
 {
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 17
-  },
-  "http://deliciousagony.streamguys1.com/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 18
   },
   "http://hi.death.fm/dfm": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
   },
-  "http://ice10.securenetsystems.net/LUXOMP3": {
-    "consecutive_failures": 1
-  },
-  "http://ice64.securenetsystems.net/KBON": {
-    "consecutive_failures": 1
-  },
-  "http://ice7.securenetsystems.net/KCSM2": {
-    "consecutive_failures": 1
-  },
-  "http://ice9.securenetsystems.net/DSR": {
+  "http://stream.willstare.com:8450/,": {
     "consecutive_failures": 1
   },
   "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 17
-  },
-  "https://boxradio-edge-00.streamafrica.net/lofi": {
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   "https://boxradio-edge-01.streamafrica.net/rain": {
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 17
-  },
-  "https://ice23.securenetsystems.net/CIUT": {
-    "consecutive_failures": 1
-  },
-  "https://ice23.securenetsystems.net/WSUMFM": {
-    "consecutive_failures": 1
-  },
-  "https://ice64.securenetsystems.net/WBJC": {
-    "consecutive_failures": 1
+    "consecutive_failures": 18
   },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   "https://stream.rekt.network/hls/rekt/aac_hifi.m3u8": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
+  },
+  "https://stream.willstare.com:8850/,": {
+    "consecutive_failures": 1
+  },
+  "https://stream.willstare.com:8860/,": {
+    "consecutive_failures": 1
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 17
+    "consecutive_failures": 18
   },
   "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
   }
 }
