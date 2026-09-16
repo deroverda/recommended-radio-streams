@@ -263,9 +263,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # The probe step above is allowed to fail (`|| true`) so one bad run
-          # never fails the whole job - which means the state file may not
-          # exist yet. Nothing to commit in that case.
+          # The probe step above captures its exit code (rc=$?) rather than using a bare
+          # `|| true`, and only hard-fails on rc=3 (zero URLs parsed) - any other non-zero
+          # exit is non-fatal, which means the state file may not exist yet. Nothing to
+          # commit in that case.
           [ -f .github/probe-state.json ] || exit 0
           git add .github/probe-state.json
           git diff --cached --quiet && exit 0
