@@ -152,6 +152,7 @@ sanitize_text() {
     out="${out% *}..."
   fi
   # "${out//|/\\|}" collapses to a bare "|" in bash replacement - use a var.
+  # shellcheck disable=SC1003 # not an escape attempt, bs holds a literal backslash
   local bs='\'
   out=${out//|/${bs}|}
   printf '%s' "$out"
