@@ -467,7 +467,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 
 ### Metal & Heavy <a id="metal-heavy"></a>
 - [Core Radio](https://coreradio.online/): Deathcore, metalcore, post-hardcore, and hardcore. [Stream](http://serv.coreradio.online:8000/coreradio)
-- [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](http://hi.death.fm/dfm)
+- [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](http://hi5.death.fm/)
 - [Doomnation Radio](https://www.doomnationradio.com/): Doom, sludge, stoner, and funeral doom from a metal webzine running since 2013. [Stream](https://s2.voscast.com:11123/stream)
 - [Hard Rock Hell Radio](https://hardrockhellradio.com/): Rock and metal from the UK-based HRH Magazine, with named DJs and weekly shows. [Stream](http://167.114.174.197:9254/stream)
 - [ISKC - Extreme Metal](https://iskcrocks.com/): Extreme metal sub-channel from the Netherlands, based ISKC Radio Group. [Stream](http://mediaserv68.live-streams.nl:8012/ExtremeMetal)
@@ -565,7 +565,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [RadioSEGA](https://www.radiosega.net/): SEGA game music and remixes, broadcasting fan shows since 2006. [Stream](http://content.radiosega.net:8006/live)
 - ⭐ [Rainwave - Game](https://rainwave.cc/): Interactive game music with listener voting. [Stream](http://allrelays.rainwave.cc/game.mp3)
 - [RPGamers Radio](https://www.rpgamers.net/radio/): Listener-driven game music from 8-bit NES to modern releases, with a request system. [Stream](https://listen.rpgamers.net/rpgn)
-- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](https://streams.scenesat.com/main/hq.mp3)
+- [SceneSat](https://scenesat.com/): Demoscene and tracker module music. [Stream](https://streams.scenesat.com/main/hq.mp3) 
 - [Shmup Radio](https://shmupradio.com/): Shoot-'em-up game soundtracks spanning 8-bit chiptune to orchestral arrangements, collecting scores since 2019. [Stream](https://stream.shmupradio.com/320)
 - [Slay Radio](https://slayradio.org/): Swedish station since 1999, Commodore 64 remixes with live community shows. [Stream](http://relay4.slayradio.org:8300/)
 - [SpriteLayer](https://www.spritelayerradio.com/): Classic chiptunes and modern video game soundtracks. [Stream](http://www.spritelayerradio.com:8010/all)
