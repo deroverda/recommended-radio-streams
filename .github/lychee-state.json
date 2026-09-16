@@ -1,4 +1,7 @@
 {
+  "http://www.giantsofjazzradio.co.uk/": {
+    "consecutive_failures": 2
+  },
   "https://compound-eye.org/": {
     "consecutive_failures": 15
   },
@@ -10,9 +13,6 @@
   },
   "https://github.com/deroverda/recommended-radio-streams/stargazers": {
     "consecutive_failures": 15
-  },
-  "https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/": {
-    "consecutive_failures": 1
   },
   "https://liquiddoom.net/": {
     "consecutive_failures": 15
