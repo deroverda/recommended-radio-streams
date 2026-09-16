@@ -283,7 +283,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Rytmabad Radio](https://rytmabad.com/): Tashkent's community station for Central Asia's underground electronic DJs and producers. [Stream](https://radio.filmtastic.uz/listen/rytmabad/radio.mp3)
 - [Sauna Radio](https://www.saunaradio.com/): DJ sets and performances broadcast from a sauna cabin in Stockholm, Saturdays. [Stream](https://stream.saunaradio.com/live)
 - [Seyðisfjörður Community Radio](https://www.seydisfjordurcommunityradio.net/): Experimental, founded in 2016 in a small East Iceland fishing town, broadcasting on 107.1FM. [Stream](https://seyisfjorur-community-radio.radiocult.fm/stream)
-- [Slack Radio](https://www.slackradio.org/): Artist-run, listener-funded SubGenius station from a 1979 parody religion. [Stream](https://s4.radio.co/s62c60f538/listen)
+- [Slack Radio](https://www.slackradio.org/): Artist-run, listener-funded SubGenius station from a 1979 parody religion. [Stream](https://slackradiolive.com/listen/slack_radio/radio.mp3)
 - [Soho Radio](https://sohoradio.com/): Independent from a street-level Soho studio, every genre from rockabilly to jazz, since 2014. [Stream](https://sohoradiomusic.doughunt.co.uk:8010/320mp3)
 - [Station Station](https://stationstation.fr/): Music, literary mixtapes, and sound creations from Paris's Station Gare des Mines. [Stream](https://libretime.stationstation.fr/main)
 - [stayfm](https://stayfm.com/): Independent, member-run community station from Augsburg, founded in 2018 as a non-profit association. [Stream](https://stayfm.com:8443/archive)
