@@ -44,11 +44,12 @@ jobs:
           # regenerated deterministically from README, so on a race rebase our
           # version onto latest main (-X theirs) and retry the push.
           for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}/5..."
             git fetch origin main || continue
             git rebase -X theirs origin/main || { git rebase --abort 2>/dev/null || true; continue; }
             git push && exit 0
           done
-          msg="playlist commit could not be pushed after 5 tries"
+          msg="playlist commit could not be pushed after ${attempt} attempts"
           echo "$msg"
           [ -n "${GITHUB_STEP_SUMMARY:-}" ] && echo "> $msg" >> "$GITHUB_STEP_SUMMARY"
           exit 1
