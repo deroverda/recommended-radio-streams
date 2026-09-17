@@ -42,9 +42,8 @@ jobs:
           # Uses the same parser as probe-streams.sh (.github/scripts/stream_parser.py)
           # so this list can never drift from what the stream probe considers a
           # stream link.
-          python3 .github/scripts/stream_parser.py --name-map README.md \
-            | cut -f1 > /tmp/stream_urls.txt
-          sed -E 's/[][\\\.^$?*+(){}|]/\\&/g' /tmp/stream_urls.txt | sort -u > .lycheeignore
+          python3 .github/scripts/stream_parser.py --name-map README.md | cut -f1 > /tmp/stream_urls.txt
+          sed -E 's/[][\\.^$?*+(){}|]/\\&/g' /tmp/stream_urls.txt | sort -u > .lycheeignore
           echo "Excluded $(wc -l < .lycheeignore) stream URLs from Lychee."
 
       - name: Run Link Checker
@@ -179,11 +178,12 @@ jobs:
           # retry a few times, and never fail the job over the bookkeeping
           # commit - the report itself is already uploaded above.
           for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}/5..."
             git fetch origin main || continue
             git rebase -X theirs origin/main || { git rebase --abort 2>/dev/null || true; continue; }
             git push && exit 0
           done
-          msg="lychee state commit kept losing the push race; skipping (non-fatal)"
+          msg="lychee state commit kept losing the push race after ${attempt} attempts; skipping (non-fatal)"
           echo "$msg"
           [ -n "${GITHUB_STEP_SUMMARY:-}" ] && echo "> $msg" >> "$GITHUB_STEP_SUMMARY"
           exit 0
@@ -229,9 +229,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # The probe step above is allowed to fail (`|| true`) so one bad run
-          # never fails the whole job - which means the state file may not
-          # exist yet. Nothing to commit in that case.
+          # The probe step above captures its exit code (rc=$?) rather than using a bare
+          # `|| true`, and only hard-fails on rc=3 (zero URLs parsed) - any other non-zero
+          # exit is non-fatal, which means the state file may not exist yet. Nothing to
+          # commit in that case.
           [ -f .github/probe-state.json ] || exit 0
           git add .github/probe-state.json
           git diff --cached --quiet && exit 0
@@ -242,11 +243,12 @@ jobs:
           # few times, and never fail the job over the bookkeeping commit - the
           # report itself is uploaded in the next step.
           for attempt in 1 2 3 4 5; do
+            echo "Push attempt ${attempt}/5..."
             git fetch origin main || continue
             git rebase -X theirs origin/main || { git rebase --abort 2>/dev/null || true; continue; }
             git push && exit 0
           done
-          msg="probe state commit kept losing the push race; skipping (non-fatal)"
+          msg="probe state commit kept losing the push race after ${attempt} attempts; skipping (non-fatal)"
           echo "$msg"
           [ -n "${GITHUB_STEP_SUMMARY:-}" ] && echo "> $msg" >> "$GITHUB_STEP_SUMMARY"
           exit 0
