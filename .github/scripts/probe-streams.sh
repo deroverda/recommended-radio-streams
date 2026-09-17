@@ -71,73 +71,12 @@ extract_stream_urls() {
   build_name_map | cut -f1 | sort -u
 }
 
-# Parses README.md once and emits url<TAB>name<TAB>section for every stream
-# link. Uses the same ENTRY_RE/STREAM_RE as readme_to_m3u.py for consistency.
-# HTML tags (e.g. <a id="...">) are stripped from section headings.
+# Parses README.md once and emits url<TAB>name<TAB>section<TAB>down for every
+# stream link. Delegates to stream_parser.py (.github/scripts/), the shared
+# parser also used by readme_to_m3u.py and link-check.yml's "Exclude stream
+# URLs" step, so all three can never drift out of sync with each other again.
 build_name_map() {
-  python3 - "$README_FILE" <<'PYEOF'
-import re
-import sys
-
-ENTRY_RE = re.compile(
-    r'^-\s*(?:\u2b50\s*)?\[(?P<name>[^\]]+)\]\((?P<homepage>[^)]+)\):\s*'
-    r'(?P<desc>.*)$'
-)
-STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
-# Custom sub-stream labels ("[Bluemars](url) / [Cryosleep](url)") aren't in
-# STREAM_RE's whitelist. Accept any label when it's part of the "/"-joined
-# chain of links at the very end of the line - the end-of-line anchor keeps
-# this from matching an inline description link that sits before trailing text.
-# The optional trailing group tolerates one "*(down ...)*" note (same shape as
-# the down= detector below) so a down-tagged multi-stream entry is still parsed.
-# This regex is duplicated in readme_to_m3u.py and in link-check.yml's
-# "Exclude stream URLs" step - keep all three identical.
-STREAM_CHAIN_RE = re.compile(
-    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*'
-    r'(?:\*\(\s*down\b[^)]*\)\*?\s*)?$'
-)
-STREAM_LINK_RE = re.compile(r'\[[^\]]+\]\((?P<url>[^)]+)\)')
-HEADING_RE = re.compile(r'^#{2,4}\s+(.*)')
-
-
-def entry_stream_urls(line):
-    """URLs for a README entry line's stream link(s), any label."""
-    m = STREAM_CHAIN_RE.search(line)
-    if m:
-        urls = STREAM_LINK_RE.findall(m.group(0))
-        if urls:
-            return urls
-    return [u for _label, u in STREAM_RE.findall(line)]
-
-
-path = sys.argv[1]
-with open(path, encoding='utf-8') as f:
-    lines = f.readlines()
-
-current_section = '-'
-for raw in lines:
-    s = raw.strip()
-    hm = HEADING_RE.match(s)
-    if hm:
-        title = hm.group(1)
-        # Strip markdown links: [text](url) -> text
-        title = re.sub(r'\[([^\]]*)\]\([^)]*\)', r'\1', title)
-        # Strip HTML tags: <a id="...">, </a>, etc.
-        title = re.sub(r'<[^>]+>', '', title).strip()
-        current_section = title or '-'
-        continue
-    m = ENTRY_RE.match(s)
-    if not m:
-        continue
-    name = re.sub(r'\*+', '', m.group('name')).strip()
-    # 4th field: 1 if the entry line carries a "*(down ...)*" status note.
-    # Lets the report separate "already known down" from unexpected failures.
-    # Matches the established form only: "*(" then "down". A bare "*down*"
-    # would risk colliding with ordinary italic text elsewhere in the README.
-    down = '1' if re.search(r'\*\(\s*down\b', s, re.I) else '0'
-    for url in entry_stream_urls(s):
-        print(f"{url}\t{name}\t{current_section}\t{down}")
-PYEOF
+  python3 .github/scripts/stream_parser.py --name-map "$README_FILE"
 }
 
 # Collapse whitespace, cut to 200 chars at a word boundary, then escape table
@@ -152,7 +91,6 @@ sanitize_text() {
     out="${out% *}..."
   fi
   # "${out//|/\\|}" collapses to a bare "|" in bash replacement - use a var.
-  # shellcheck disable=SC1003 # not an escape attempt, bs holds a literal backslash
   local bs='\'
   out=${out//|/${bs}|}
   printf '%s' "$out"
