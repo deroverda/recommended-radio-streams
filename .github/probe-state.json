@@ -1,41 +1,35 @@
 {
-  "http://167.114.174.197:9254/stream": {
-    "consecutive_failures": 1
-  },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
   },
   "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
   },
   "https://boxradio-edge-01.streamafrica.net/rain": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
+  },
+  "https://radio.nugs.net/nugsnet": {
+    "consecutive_failures": 1
   },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 20
-  },
-  "https://stream.gensokyoradio.net/3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 21
   },
   "https://stream.rekt.network/hls/rekt/aac_hifi.m3u8": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 20
+    "consecutive_failures": 21
   },
   "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
-    "consecutive_failures": 5
-  },
-  "https://www.tuneintoradio1.com/listen/violent_forces_radio/radio.mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 6
   }
 }
