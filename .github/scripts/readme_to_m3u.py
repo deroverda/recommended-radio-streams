@@ -12,38 +12,8 @@ import os
 import re
 import sys
 
-ENTRY_RE = re.compile(
-    r'^-\s*(?:⭐\s*)?\[(?P<name>[^\]]+)\]\((?P<homepage>[^)]+)\):\s*'
-    r'(?P<desc>.*)$'
-)
-# Narrow by design, and mirrors probe-streams.sh's pattern. Broadening it
-# would re-match two things that look like stream tags but aren't: a
-# station's own homepage link when the name is numeric (e.g. "[1234](url)"),
-# and an inline link inside a description. Kept as a fallback for lines
-# where the stream links aren't last: a trailing "*(down, ...)*" status
-# note, or a parenthetical channel list like "([1](url), [2](url))".
-STREAM_RE = re.compile(r'\[(Stream|Channel\s*[12]|[12])\]\((?P<url>[^)]+)\)', re.I)
-# Preferred path: the "/"-joined chain of links at the very end of the
-# line. Any label is safe here because the end-of-line anchor excludes
-# inline description links (which sit before trailing text/punctuation).
-# The optional trailing group tolerates one "*(down ...)*" note so a
-# down-tagged multi-stream entry is still parsed. This regex is duplicated in
-# probe-streams.sh (build_name_map) and in link-check.yml's "Exclude stream
-# URLs" step - keep all three identical.
-STREAM_CHAIN_RE = re.compile(
-    r'(?:\[[^\]]+\]\([^)]+\)\s*/\s*)*\[[^\]]+\]\([^)]+\)\s*'
-    r'(?:\*\(\s*down\b[^)]*\)\*?\s*)?$'
-)
-STREAM_LINK_RE = re.compile(r'\[(?P<label>[^\]]+)\]\((?P<url>[^)]+)\)')
+from stream_parser import ENTRY_RE, extract_streams
 
-def extract_streams(line):
-    """Return [(label, url), ...] for a README entry line's stream link(s)."""
-    m = STREAM_CHAIN_RE.search(line)
-    if m:
-        streams = STREAM_LINK_RE.findall(m.group(0))
-        if streams:
-            return streams
-    return STREAM_RE.findall(line)
 HEADER_RE = re.compile(r'^(#{2,4})\s+(.*)')
 
 def strip_md_links(text):
