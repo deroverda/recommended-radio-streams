@@ -1,35 +1,35 @@
 {
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
-  "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 21
-  },
-  "https://boxradio-edge-01.streamafrica.net/rain": {
-    "consecutive_failures": 21
-  },
-  "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 21
-  },
-  "https://radio.nugs.net/nugsnet": {
+  "http://s6.voscast.com:11312/": {
     "consecutive_failures": 1
   },
+  "http://stream.zeno.fm/e4auhdgm6cquv": {
+    "consecutive_failures": 22
+  },
+  "https://boxradio-edge-01.streamafrica.net/rain": {
+    "consecutive_failures": 22
+  },
+  "https://fm09-ice.stream.khz.se/fm09_mp3": {
+    "consecutive_failures": 22
+  },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://stream.rekt.network/hls/rekt/aac_hifi.m3u8": {
-    "consecutive_failures": 7
+    "consecutive_failures": 8
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   }
 }
