@@ -12,6 +12,9 @@ https://s3.radio.co/sc8d895604/listen
 # Homepage: https://www.concertzender.nl/en
 #EXTINF:-1,Concertzender - World of Jazz
 https://streams.greenhost.nl:8006/jazz
+# Homepage: https://www.dr.dk/lyd/p8jazz
+#EXTINF:-1,DR P8 Jazz
+http://live-icy.gss.dr.dk/A/A22H.mp3
 # Homepage: https://www.fmr.co.za/
 #EXTINF:-1,Fine Music Radio
 http://edge.iono.fm/xhls/fmr_live_medium.m3u8
@@ -27,6 +30,9 @@ https://headwaxradio.radioca.st/stream
 # Homepage: https://www.ifusionradio.com/
 #EXTINF:-1,iFusion Radio
 https://listen.radioking.com/radio/523747/stream/582004
+# Homepage: https://www.jazz.fm
+#EXTINF:-1,JAZZ.FM91
+https://jazzfm91.streamb.live/SB00009
 # Homepage: https://jclubbandstand.torontocast.stream/stations/index.html
 #EXTINF:-1,J-Club Bandstand - Jazz Sakura
 https://kathy.torontocast.com:3330/,
@@ -63,6 +69,9 @@ https://ksds-ice.streamguys1.com/ksds.mp3
 # Homepage: https://www.linn.co.uk/linn-radio
 #EXTINF:-1,Linn Jazz
 http://radio.linn.co.uk:8000/autodj
+# Homepage: http://www.newmorning.com/
+#EXTINF:-1,New Morning
+https://listen.radioking.com/radio/605/stream/62902
 # Homepage: https://www.nts.live/infinite-mixtapes/expansions
 #EXTINF:-1,NTS - Expansions
 https://stream-mixtape-geo.ntslive.net/mixtape3
@@ -81,6 +90,9 @@ http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
 # Homepage: https://somafm.com/sonicuniverse/
 #EXTINF:-1,SomaFM - Sonic Universe
 https://somafm.com/sonicuniverse256.pls
+# Homepage: https://www.swingstreetradio.org/
+#EXTINF:-1,Swing Street
+http://s6.voscast.com:11312/
 # Homepage: https://www.tsfjazz.com/
 #EXTINF:-1,TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3

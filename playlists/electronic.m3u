@@ -18,6 +18,12 @@ https://ibizasonica.streaming-pro.com:8001/bluemarlin
 # Homepage: https://bondiradio.com.au/
 #EXTINF:-1,Bondi Radio
 https://streaming.radio.co/sfd68ddd77/listen
+# Homepage: https://cafemamboibiza.com/
+#EXTINF:-1,Cafe Mambo
+http://streamer.radio.co/sd7b28e5f3/listen
+# Homepage: https://centreforceradio.com/
+#EXTINF:-1,Centreforce
+http://centreforce.streamgb.com:8830/320
 # Homepage: https://radio.deepershades.net
 #EXTINF:-1,Deeper Shades of House
 https://andromeda.housejunkie.ca/radio/8000/radio.mp3
@@ -33,6 +39,9 @@ https://dub.ninja/live
 # Homepage: https://www.ebm-radio.de/index.php
 #EXTINF:-1,EBM Radio
 http://www.ebm-radio.org:7000/hq
+# Homepage: https://www.electroswing-radio.com/
+#EXTINF:-1,Electro Swing Revolution
+https://streamer.radio.co/s2c3cc784b/listen
 # Homepage: https://www.eurodance-radio.com/
 #EXTINF:-1,Eurodance Radio
 http://daydeeeurodance.stream.laut.fm/daydeeeurodance
@@ -126,6 +135,12 @@ https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
 # Homepage: https://skylabradio.com
 #EXTINF:-1,Skylab Radio
 http://stream.skylab-radio.com:8000/live
+# Homepage: https://sovietwave.su/
+#EXTINF:-1,Sovietwave
+http://station.waveradio.org/soviet.mp3
+# Homepage: https://www.spacedogsradio.com/
+#EXTINF:-1,Space dogs
+https://listen2.streamaudio.co:8042/stream
 # Homepage: https://www.sub.fm/
 #EXTINF:-1,Sub.FM
 http://subfm.radioca.st/Sub.FM

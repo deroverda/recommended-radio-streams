@@ -15,6 +15,12 @@ https://streaming.live365.com/a97155
 # Homepage: https://www.boogalooradio.com/
 #EXTINF:-1,Boogaloo Radio
 https://streams.radio.co/sb88c742f0/listen
+# Homepage: https://cathedral13.com/
+#EXTINF:-1,Cathedral 13
+https://usa15.fastcast4u.com/proxy/tstamate?mp=/1
+# Homepage: https://cosmicfuzzfm.com/
+#EXTINF:-1,Cosmic Fuzz
+https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3
 # Homepage: https://thecurrent.org
 #EXTINF:-1,The Current
 https://current.stream.publicradio.org/current.mp3

@@ -18,6 +18,9 @@ https://nature-rex.radioca.st/stream
 # Homepage: https://www.birdsong.fm/
 #EXTINF:-1,Birdsong FM
 https://a1.radio.co/s5c5da6a36/listen
+# Homepage: https://cafedelmar.com/radio
+#EXTINF:-1,Cafe Del Mar
+https://streams.radio.co/se1a320b47/listen
 # Homepage: https://www.chilltrax.com/
 #EXTINF:-1,ChillTraxx
 https://streamssleu.chilltrax.com/stream
@@ -54,6 +57,9 @@ https://cp12.serverse.com/proxy/moonphase/stream
 # Homepage: https://moss.garden
 #EXTINF:-1,Moss Garden
 https://radio.moss.garden/listen/moss_garden/radio.mp3
+# Homepage: https://mountainchill.com
+#EXTINF:-1,Mountain Chill
+https://mountain-chill.radiocult.fm/stream
 # Homepage: https://www.nordiclodgeradio.com/
 #EXTINF:-1,Nordic Lodge
 http://radio.streemlion.com:1160/stream

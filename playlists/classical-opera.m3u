@@ -6,6 +6,9 @@ https://mediaserv73.live-streams.nl:18058/stream
 # Homepage: https://www.bbc.co.uk/sounds/play/live/bbc_radio_three
 #EXTINF:-1,BBC Radio 3
 http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8
+# Homepage: https://bru-zane.com/classical-radio/
+#EXTINF:-1,Bru Zane
+https://uk2.streamingpulse.com/ssl/bzr
 # Homepage: https://www.classicalcalifornia.org/
 #EXTINF:-1,Classical California
 https://14103.live.streamtheworld.com/KUSCAAC96.aac
@@ -33,6 +36,9 @@ https://stream-mixtape-geo.ntslive.net/mixtape35
 # Homepage: https://www.radioswissclassic.ch/en
 #EXTINF:-1,Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
+# Homepage: https://www.concertgebouworkest.nl/nl/radio/
+#EXTINF:-1,RCO Live
+https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192
 # Homepage: https://www.wbjc.com/
 #EXTINF:-1,WBJC 91.5
 https://ice64.securenetsystems.net/WBJC

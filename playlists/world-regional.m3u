@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 # Group: World & Regional
+# Homepage: https://3jradio.com/
+#EXTINF:-1,3j Radio
+https://de1.streamingpulse.com/ssl/9085
 # Homepage: https://alefamusic.net/
 #EXTINF:-1,Alefa Music
 http://www.radioking.com/play/alefamusic
