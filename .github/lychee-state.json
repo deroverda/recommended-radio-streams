@@ -1,35 +1,26 @@
 {
-  "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 3
-  },
   "https://compound-eye.org/": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://dinamo.fm/": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://dinamo.fm/content/4/channels": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://everynoise.com/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://github.com/deroverda/recommended-radio-streams/stargazers": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 1
-  },
-  "https://radiovilnius.live/": {
-    "consecutive_failures": 1
-  },
-  "https://realrootsradio.net/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://www.dansbandskanalen.se/": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   }
 }
