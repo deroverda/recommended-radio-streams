@@ -466,7 +466,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Radio Suisse Jazz](https://www.radioswissjazz.ch/en): Jazz, soul, and blues from Swiss public radio. [Stream](https://stream.srg-ssr.ch/m/rsj/aacp_96)
 - [Shonan Beach FM](https://www.beachfm.co.jp/): Jazz, R&B, and Big Band from Zushi, on air since 1993. [Stream](http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a)
 - [SomaFM - Sonic Universe](https://somafm.com/sonicuniverse/): Avant-garde jazz that bends tradition. [Stream](https://somafm.com/sonicuniverse256.pls)
-- [Swing Street](https://www.swingstreetradio.org/): Vintage 1920s-40s big band and swing recordings from a nonprofit preservation society's 15,000-record collection. [Stream](http://s6.voscast.com:11312/)
+- [Swing Street](https://www.swingstreetradio.org/): Vintage 1920s-40s big band and swing recordings from a nonprofit preservation society's 15,000-record collection. [Stream](https://s1.voscast.com:10413/stream)
 - [TSF Jazz](https://www.tsfjazz.com/): Jazz and talk from Paris. [Stream](http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3)
 - ⭐ [WBGO 88.3](https://www.wbgo.org/): Public jazz station from Newark, NJ, NPR member station. [Stream](https://ais-sa8.cdnstream1.com/3629_128.mp3)
 - [WDNA 88.9](https://wdnaradio.org): Jazz and Latin jazz from Miami. [Stream](http://us9.streamingpulse.com:7033/stream)
