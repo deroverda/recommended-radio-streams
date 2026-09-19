@@ -58,7 +58,8 @@ body:
       options:
         - Ambient, Lo-Fi & Chill
         - Classical & Opera
-        - College, Freeform & Community
+        - Campus & Public Radio
+        - Global Independent & Online Communities
         - Decades, Oldies & Nostalgia
         - Electronic
         - Funk, Soul, Hip-Hop & Disco
@@ -71,7 +72,7 @@ body:
         - World & Regional
         - Christmas & Holiday
         - Experimental, Nerdy & Scanners
-        - Multi-Station Network
+        - Multi-Station Networks
         - Not sure / other (specify below)
     validations:
       required: true
