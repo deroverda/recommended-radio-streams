@@ -1,29 +1,29 @@
 {
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
   },
   "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
   },
   "https://boxradio-edge-01.streamafrica.net/rain": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
+  },
+  "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3": {
+    "consecutive_failures": 1
   },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 23
-  },
-  "https://stream.rekt.network/hls/rekt/aac_hifi.m3u8": {
-    "consecutive_failures": 9
+    "consecutive_failures": 24
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
   }
 }
