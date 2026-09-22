@@ -153,7 +153,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Whisperings: Solo Piano Radio](https://www.solopianoradio.com/): Started 2003 because no radio format existed for solo piano music. [Stream](https://pianosolo.streamguys1.com/live)
 - [WMNR](https://www.wmnr.org/): Independent classical from Monroe, Connecticut, with live Tanglewood and BSO concert broadcasts. [Stream](https://wmnr.streamguys1.com/live)
 - [WQXR 105.9](https://www.wqxr.org/): New York Public Radio's classical station, live concerts from major NYC venues. [Stream](http://stream.wqxr.org/wqxr)
-- ⭐ [WQXR Q2](https://www.wqxr.org/series/q2): Contemporary classical and experimental works. [Stream](http://q2stream.wqxr.org/q2)
 
 [↑ back to top](#top)
 
@@ -182,6 +181,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [WFMU 91.1](https://wfmu.org): The longest-running freeform station in the US, Jersey City since 1958. [Stream](https://wfmu.org/wfmu.pls)
 - [WMSE 91.7](https://wmse.org/): From Milwaukee School of Engineering, anti-established since 1981. [Stream](https://wmse.streamguys1.com/wmselivemp3)
 - [WNCW 88.7](https://www.wncw.org/): Americana, roots, and folk from Isothermal Community College in the North Carolina foothills, since 1989. [Stream](https://wncw-live-a.edge.audiocdn.com/6286_56k.aac)
+- ⭐ [WNYC - New Sounds](https://www.newsounds.org): John Schaefer's genre-free music discovery show, on New York Public Radio since 1982. [Stream](http://q2stream.wqxr.org/q2)
 - [WRIR 97.3](https://wrir.org): All-volunteer low-power FM from Richmond, playing what other stations won't, since 2005. [Stream](https://live.wrir.org/)
 - [WSUM 91.7](https://wsum.org/): Student-run from UW-Madison, named Best College Station in the Nation by IBS. [Stream](https://ice23.securenetsystems.net/WSUMFM)
 - [WTJU 91.1](https://wtju.net): Classical to jazz to folk from the University of Virginia. [Stream](https://streams.wtju.net/wtju-live.mp3)
