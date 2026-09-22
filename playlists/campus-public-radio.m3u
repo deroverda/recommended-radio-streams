@@ -63,6 +63,9 @@ https://wmse.streamguys1.com/wmselivemp3
 # Homepage: https://www.wncw.org/
 #EXTINF:-1,WNCW 88.7
 https://wncw-live-a.edge.audiocdn.com/6286_56k.aac
+# Homepage: https://www.newsounds.org
+#EXTINF:-1,WNYC - New Sounds
+http://q2stream.wqxr.org/q2
 # Homepage: https://wrir.org
 #EXTINF:-1,WRIR 97.3
 https://live.wrir.org/
