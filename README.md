@@ -91,6 +91,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 | Tool Name | Category | Type | Notes |
 | :--- | :---: | :---: | :--- |
 | [Radiolise](https://radiolise.com) | Web App | `Free` | Browser-based, no install needed, works on any device. |
+| [Air Drift](https://airdrift.stream/) | Web App | `Free` | Radio Browser directory on a 3D globe, with a shuffle button for a random station by country or genre. |
 | [ScrobbleRadio](https://scrobblerad.io) | Utility | `Free` | Tracks listening to Last.fm, Libre.fm, or ListenBrainz. |
 
 ---
