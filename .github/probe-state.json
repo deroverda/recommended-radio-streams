@@ -1,44 +1,50 @@
 {
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
   },
   "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
   },
   "https://ice1.somafm.com/metal-128-aac": {
-    "consecutive_failures": 1
-  },
-  "https://ice5.somafm.com/reggae-256-mp3": {
-    "consecutive_failures": 1
-  },
-  "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3": {
     "consecutive_failures": 2
   },
-  "https://somafm.com/dronezone256.pls": {
+  "https://ice5.somafm.com/reggae-256-mp3": {
+    "consecutive_failures": 2
+  },
+  "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM04AAC335.mp3": {
+    "consecutive_failures": 3
+  },
+  "https://puma.streemlion.com:1785/stream": {
     "consecutive_failures": 1
+  },
+  "https://somafm.com/dronezone256.pls": {
+    "consecutive_failures": 2
   },
   "https://somafm.com/groovesalad256.pls": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://somafm.com/sonicuniverse256.pls": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
   },
   "https://stream.radiokrs.me:8443/lq.mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 25
+    "consecutive_failures": 26
+  },
+  "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
+    "consecutive_failures": 1
   }
 }
