@@ -1,26 +1,26 @@
 {
   "https://compound-eye.org/": {
-    "consecutive_failures": 24
+    "consecutive_failures": 25
   },
   "https://dinamo.fm/": {
-    "consecutive_failures": 24
+    "consecutive_failures": 25
   },
   "https://dinamo.fm/content/4/channels": {
-    "consecutive_failures": 24
-  },
-  "https://github.com/deroverda/recommended-radio-streams/stargazers": {
-    "consecutive_failures": 24
+    "consecutive_failures": 25
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 24
+    "consecutive_failures": 25
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 4
+    "consecutive_failures": 5
+  },
+  "https://radiovilnius.live/": {
+    "consecutive_failures": 1
   },
   "https://www.dansbandskanalen.se/": {
-    "consecutive_failures": 24
+    "consecutive_failures": 25
   },
   "https://www.svenskfolkmusik.nu/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   }
 }
