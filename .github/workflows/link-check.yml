@@ -68,6 +68,7 @@ jobs:
             --accept "100..=103,200..=299,401,403,406,415,429"
             --exclude "localhost"
             --exclude "127.0.0.1"
+            --exclude "github.com/deroverda/recommended-radio-streams/stargazers"
             README.md
         env:
           GITHUB_TOKEN: ${{ github.token }}
