@@ -1,26 +1,26 @@
 {
-  "https://compound-eye.org/": {
-    "consecutive_failures": 25
-  },
-  "https://dinamo.fm/": {
-    "consecutive_failures": 25
-  },
-  "https://dinamo.fm/content/4/channels": {
-    "consecutive_failures": 25
-  },
-  "https://liquiddoom.net/": {
-    "consecutive_failures": 25
-  },
-  "https://mountainchill.com/": {
-    "consecutive_failures": 5
-  },
-  "https://radiovilnius.live/": {
+  "http://www.giantsofjazzradio.co.uk/": {
     "consecutive_failures": 1
   },
-  "https://www.dansbandskanalen.se/": {
-    "consecutive_failures": 25
+  "https://compound-eye.org/": {
+    "consecutive_failures": 26
   },
-  "https://www.svenskfolkmusik.nu/": {
-    "consecutive_failures": 2
+  "https://dinamo.fm/": {
+    "consecutive_failures": 26
+  },
+  "https://dinamo.fm/content/4/channels": {
+    "consecutive_failures": 26
+  },
+  "https://funkyunclefm.net/": {
+    "consecutive_failures": 1
+  },
+  "https://liquiddoom.net/": {
+    "consecutive_failures": 26
+  },
+  "https://mountainchill.com/": {
+    "consecutive_failures": 6
+  },
+  "https://www.dansbandskanalen.se/": {
+    "consecutive_failures": 26
   }
 }
