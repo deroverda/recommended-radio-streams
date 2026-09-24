@@ -66,7 +66,7 @@ STATE_FILE="${STATE_FILE:-.github/probe-state.json}"
 # a normal pause between songs/segments - 0.9 means "silent 90%+ of the
 # window". SILENCE_CHECK_SECONDS defaults to the same length as the main
 # decode but can be shortened independently to reduce the added run time.
-SILENCE_THRESHOLD_DB="${SILENCE_THRESHOLD_DB:--50dB}"
+SILENCE_THRESHOLD_DB="${SILENCE_THRESHOLD_DB:--60dB}"
 SILENCE_MIN_RATIO="${SILENCE_MIN_RATIO:-0.9}"
 SILENCE_CHECK_SECONDS="${SILENCE_CHECK_SECONDS:-$DECODE_SECONDS}"
 
@@ -209,7 +209,7 @@ check_silence() {
     -headers $'Accept: */*\r\n' \
     -i "$url" \
     -map 0:a:0 -vn -sn -dn \
-    -af "silencedetect=noise=${SILENCE_THRESHOLD_DB}:d=1" \
+    -af "silencedetect=noise=${SILENCE_THRESHOLD_DB}:d=2" \
     -t "$SILENCE_CHECK_SECONDS" \
     -f null - \
     2>&1) || true
