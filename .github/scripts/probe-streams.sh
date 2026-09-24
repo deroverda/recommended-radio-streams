@@ -19,7 +19,9 @@
 #   silencedetect logs at INFO level and the main probe deliberately stays at
 #   "-v warning" so a real failure's error text isn't crowded out by
 #   ffmpeg's banner - confirmed by testing that silencedetect produces zero
-#   output at "-v warning".
+#   output at "-v warning". A second, separately-timed check must also agree
+#   before a stream is flagged, since a live stream's coincidental gap
+#   between tracks would otherwise register as a false positive.
 # - Result Breakdown now shows each category's count against last run's
 #   count ("vs last week"), not just a bare number, so a climbing category is
 #   visible instead of needing to be remembered.
@@ -207,6 +209,7 @@ check_silence() {
     -hide_banner -v info -nostdin \
     -user_agent "$UA" \
     -headers $'Accept: */*\r\n' \
+    -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
     -i "$url" \
     -map 0:a:0 -vn -sn -dn \
     -af "silencedetect=noise=${SILENCE_THRESHOLD_DB}:d=2" \
@@ -216,6 +219,16 @@ check_silence() {
   dur=$(printf '%s' "$out" | grep -oE 'silence_duration: [0-9.]+' | awk -F': ' '{sum+=$2} END {print sum+0}')
   awk -v d="$dur" -v total="$SILENCE_CHECK_SECONDS" -v ratio="$SILENCE_MIN_RATIO" \
     'BEGIN { exit !(d >= total * ratio) }'
+}
+
+# Requires two separately-timed silence checks to agree before trusting the
+# result - a coincidental gap between tracks is unlikely to still be silent
+# a few seconds later; genuine dead air will be.
+check_silence_confirmed() {
+  local url="$1"
+  check_silence "$url" || return 1
+  sleep 5
+  check_silence "$url"
 }
 
 probe_one_url() {
@@ -253,7 +266,7 @@ probe_one_url() {
     status=$?
 
     if [ "$status" -eq 0 ]; then
-      if check_silence "$url"; then
+      if check_silence_confirmed "$url"; then
         RESULT_CLASS="SILENT"
         RESULT_DETAIL="decoded OK but silent for >=${SILENCE_MIN_RATIO} of a ${SILENCE_CHECK_SECONDS}s window"
         return 1
