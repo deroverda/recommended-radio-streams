@@ -36,3 +36,11 @@ jobs:
       - name: Shellcheck probe-streams.sh
         shell: bash
         run: shellcheck .github/scripts/probe-streams.sh
+
+      - name: Write lint summary (clean)
+        if: success()
+        run: echo "actionlint and shellcheck both passed, 0 issues found." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Write lint summary (failed)
+        if: failure()
+        run: echo "actionlint or shellcheck found issues, see the failed step's log above for details." >> "$GITHUB_STEP_SUMMARY"
