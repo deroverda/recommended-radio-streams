@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# probe-streams.sh - v4.0
+# probe-streams.sh - v4.1
 # Probes every stream URL in README.md, in parallel, for actual decodable audio.
 # Produces a structured markdown report.
 #
@@ -9,6 +9,20 @@
 # bitrate values from manifest headers rather than actual encoded bitrate, making
 # any quality table unreliable. Use the local PowerShell script for quality
 # assessment.
+#
+# v4.1: two additions.
+# - Silence/dead-air detection: a stream that decodes cleanly but is
+#   broadcasting silence used to report OK, since the original check only
+#   proved ffmpeg didn't error out. Streams that pass the main decode now get
+#   a second, separate ffmpeg pass with the silencedetect filter. Kept as a
+#   separate call rather than folded into the main probe because
+#   silencedetect logs at INFO level and the main probe deliberately stays at
+#   "-v warning" so a real failure's error text isn't crowded out by
+#   ffmpeg's banner - confirmed by testing that silencedetect produces zero
+#   output at "-v warning".
+# - Result Breakdown now shows each category's count against last run's
+#   count ("vs last week"), not just a bare number, so a climbing category is
+#   visible instead of needing to be remembered.
 #
 # What it does:
 # - Probes every stream URL with ffmpeg (parallel, capped at $JOBS).
@@ -47,6 +61,14 @@ MAX_RETRIES="${MAX_RETRIES:-2}"
 RETRY_BASE_DELAY="${RETRY_BASE_DELAY:-2}"
 MAX_PLAYLIST_DEPTH="${MAX_PLAYLIST_DEPTH:-3}"
 STATE_FILE="${STATE_FILE:-.github/probe-state.json}"
+# Silence/dead-air detection (v4.1). SILENCE_MIN_RATIO is the fraction of the
+# check window that must be silent to flag a stream as dead air rather than
+# a normal pause between songs/segments - 0.9 means "silent 90%+ of the
+# window". SILENCE_CHECK_SECONDS defaults to the same length as the main
+# decode but can be shortened independently to reduce the added run time.
+SILENCE_THRESHOLD_DB="${SILENCE_THRESHOLD_DB:--50dB}"
+SILENCE_MIN_RATIO="${SILENCE_MIN_RATIO:-0.9}"
+SILENCE_CHECK_SECONDS="${SILENCE_CHECK_SECONDS:-$DECODE_SECONDS}"
 
 if ! command -v ffmpeg >/dev/null 2>&1; then
   echo "Error: ffmpeg is required." >&2; exit 2
@@ -166,6 +188,36 @@ classify_error() {
   esac
 }
 
+# v4.1. Runs a short second decode pass, only for streams that already probed
+# OK, specifically to catch "connects and decodes fine but is broadcasting
+# silence" - the main probe only proves ffmpeg didn't error out, not that
+# there's audible content. Deliberately a separate ffmpeg call rather than
+# folded into probe_one_url: silencedetect logs its silence_start/
+# silence_end/silence_duration markers at INFO level, and probe_one_url
+# intentionally stays at "-v warning" so a real failure's error text isn't
+# crowded out by ffmpeg's banner (see the comment on that call). This second
+# pass can be as verbose as it wants since only one specific marker is read
+# out of it. Returns 0 (true) if silent, 1 (false) otherwise - including on
+# any error running this check, so a transient blip on this secondary pass
+# never overrides an already-successful main probe.
+check_silence() {
+  local url="$1"
+  local out dur
+  out=$(timeout "$PROBE_TIMEOUT" ffmpeg \
+    -hide_banner -v info -nostdin \
+    -user_agent "$UA" \
+    -headers $'Accept: */*\r\n' \
+    -i "$url" \
+    -map 0:a:0 -vn -sn -dn \
+    -af "silencedetect=noise=${SILENCE_THRESHOLD_DB}:d=1" \
+    -t "$SILENCE_CHECK_SECONDS" \
+    -f null - \
+    2>&1) || true
+  dur=$(printf '%s' "$out" | grep -oE 'silence_duration: [0-9.]+' | awk -F': ' '{sum+=$2} END {print sum+0}')
+  awk -v d="$dur" -v total="$SILENCE_CHECK_SECONDS" -v ratio="$SILENCE_MIN_RATIO" \
+    'BEGIN { exit !(d >= total * ratio) }'
+}
+
 probe_one_url() {
   local url="$1"
   local attempt=1
@@ -201,6 +253,11 @@ probe_one_url() {
     status=$?
 
     if [ "$status" -eq 0 ]; then
+      if check_silence "$url"; then
+        RESULT_CLASS="SILENT"
+        RESULT_DETAIL="decoded OK but silent for >=${SILENCE_MIN_RATIO} of a ${SILENCE_CHECK_SECONDS}s window"
+        return 1
+      fi
       RESULT_CLASS="OK"
       RESULT_DETAIL=""
       return 0
@@ -289,6 +346,8 @@ done < "$tmp_dir/station_map.tsv"
 # Load last run's consecutive-failure counts, if any - lets the report say
 # "3rd consecutive failure" instead of treating every failure as a fresh
 # surprise. Missing/corrupt state file just means everyone starts at 0.
+# "_category_totals" (v4.1) is a reserved key in the same JSON file, not a
+# URL - skipped here so it isn't mistaken for one.
 declare -A prev_fail_count
 if [ -f "$STATE_FILE" ]; then
   while IFS=$'\t' read -r u c; do
@@ -306,7 +365,34 @@ except Exception:
     data = {}
 
 for url, entry in data.items():
+    if url.startswith('_'):
+        continue
     print(f"{url}\t{entry.get('consecutive_failures', 0)}")
+PYEOF
+  )
+fi
+
+# v4.1. Load last run's per-category totals for the Result Breakdown's
+# "vs last week" column. Same missing/corrupt-file tolerance as above -
+# everything just reads as "new" this run.
+declare -A prev_category_counts
+if [ -f "$STATE_FILE" ]; then
+  while IFS=$'\t' read -r cat cnt; do
+    [ -z "$cat" ] && continue
+    prev_category_counts["$cat"]="$cnt"
+  done < <(python3 - "$STATE_FILE" <<'PYEOF'
+import json
+import sys
+
+path = sys.argv[1]
+try:
+    with open(path, encoding='utf-8') as f:
+        data = json.load(f)
+except Exception:
+    data = {}
+
+for cat, cnt in data.get('_category_totals', {}).items():
+    print(f"{cat}\t{cnt}")
 PYEOF
   )
 fi
@@ -407,12 +493,12 @@ while IFS=$'\t' read -r result url detail name section down; do
     continue
   fi
   # Entry is tagged "*(down)*" in README and still failing. Split by whether
-  # CI can actually tell it's dead. NOT_FOUND / DNS_FAILURE / SERVER_ERROR
-  # and the like look the same from any IP, so "still down" is trustworthy.
-  # AUTH_REQUIRED / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are exactly what a
-  # datacenter-IP block produces, so CI can't say whether the stream came back -
-  # those go to a "recheck from home" list instead of being reported as
-  # confirmed-down.
+  # CI can actually tell it's dead. NOT_FOUND / DNS_FAILURE / SERVER_ERROR /
+  # SILENT and the like look the same from any IP, so "still down" is
+  # trustworthy. AUTH_REQUIRED / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are
+  # exactly what a datacenter-IP block produces, so CI can't say whether the
+  # stream came back - those go to a "recheck from home" list instead of
+  # being reported as confirmed-down.
   if [ "$down" = "1" ] && [ "$result" != "OK" ]; then
     case "$result" in
       AUTH_REQUIRED|TIMEOUT|CONNECTION_RESET|RATE_LIMITED)
@@ -450,7 +536,7 @@ done < "$tmp_results"
   echo ""
   echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$recovered** recovered, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
   echo ""
-  echo "Sections are ordered most-actionable first. Failure tables sort by consecutive-run count, so a **Runs** of 1 is new this week; stop reading once you hit a section with nothing to act on."
+  echo "Sections are ordered most-actionable first. Failure tables sort by consecutive-run count, so a **Runs** of 1 is new this week; stop reading once you hit a section with nothing to act on. A \`SILENT\` result means the stream connected and decoded without error but produced no audible signal - treated the same as any other failure, not a CI-blocking symptom."
   echo ""
   echo "## Probe Failures (unexpected)"
   echo "_Streams that failed AND are not tagged \`*(down)*\` in README. These are the ones to look at. Could be genuinely dead, or the same datacenter-IP blocking seen elsewhere - verify from a residential IP before removing the README entry._"
@@ -487,27 +573,40 @@ done < "$tmp_results"
   emit_failure_table "$(printf '%s' "$ci_blocked_rows" | awk -F'\t' 'NF && $1+0 >= 3')"
   echo ""
   echo "## Known-Down - confirmed"
-  echo "_Tagged \`*(down)*\` and failing with an error CI can trust from any IP (404, DNS, server error). Genuinely down. Nothing to do week to week - but a high Runs count is the cue to stop keeping the entry and cut it._"
+  echo "_Tagged \`*(down)*\` and failing with an error CI can trust from any IP (404, DNS, server error, silence). Genuinely down. Nothing to do week to week - but a high Runs count is the cue to stop keeping the entry and cut it._"
   echo ""
   emit_failure_table "$known_down_rows"
   echo ""
   echo "## Result Breakdown (appendix)"
-  echo "_Every raw classification and its count, largest first. Not a triage list - a week-to-week health trend, watch UNKNOWN in particular._"
+  echo "_Every raw classification, its count, and how that count changed since last run. Not a triage list - a week-to-week health trend, watch anything climbing, UNKNOWN and SILENT in particular._"
   echo ""
-  echo "| Result | Count |"
-  echo "|---|---|"
+  echo "| Result | Count | vs last week |"
+  echo "|---|---|---|"
   for cat in "${!category_counts[@]}"; do
     printf '%s\t%s\n' "${category_counts[$cat]}" "$cat"
   done | sort -rn | while IFS=$'\t' read -r cnt cat; do
-    echo "| $cat | $cnt |"
+    prev="${prev_category_counts[$cat]:-}"
+    if [ -z "$prev" ]; then
+      trend="new"
+    else
+      diff=$((cnt - prev))
+      if [ "$diff" -gt 0 ]; then
+        trend="+$diff"
+      elif [ "$diff" -lt 0 ]; then
+        trend="$diff"
+      else
+        trend="–"
+      fi
+    fi
+    echo "| $cat | $cnt | $trend |"
   done
 } > "$REPORT"
 
-# Persist this run's streak counts for next run's comparison. Rewritten
-# from scratch each run (not merged with the old file) so a station removed
-# from README.md simply stops appearing here instead of accumulating stale
-# entries forever.
-# Written to a temp file rather than piped - a heredoc script (the "python3 -"
+# Persist this run's streak counts and category totals for next run's
+# comparison. Rewritten from scratch each run (not merged with the old file)
+# so a station removed from README.md simply stops appearing here instead of
+# accumulating stale entries forever.
+# Written to temp files rather than piped - a heredoc script (the "python3 -"
 # below) already occupies stdin to receive its own source, so piped data
 # would silently vanish instead of reaching the script's own stdin read.
 fail_count_tsv="$tmp_dir/fail_counts.tsv"
@@ -516,11 +615,17 @@ for url in "${!new_fail_count[@]}"; do
   printf '%s\t%s\n' "$url" "${new_fail_count[$url]}"
 done > "$fail_count_tsv"
 
-python3 - "$fail_count_tsv" "$STATE_FILE" <<'PYEOF'
+category_tsv="$tmp_dir/category_counts.tsv"
+: > "$category_tsv"
+for cat in "${!category_counts[@]}"; do
+  printf '%s\t%s\n' "$cat" "${category_counts[$cat]}"
+done > "$category_tsv"
+
+python3 - "$fail_count_tsv" "$category_tsv" "$STATE_FILE" <<'PYEOF'
 import json
 import sys
 
-tsv_path, state_path = sys.argv[1], sys.argv[2]
+tsv_path, category_tsv_path, state_path = sys.argv[1], sys.argv[2], sys.argv[3]
 data = {}
 with open(tsv_path, encoding='utf-8') as f:
     for line in f:
@@ -533,6 +638,16 @@ with open(tsv_path, encoding='utf-8') as f:
             continue  # only failures are worth persisting - absence means healthy,
                       # and it keeps the file (and its weekly commit) small
         data[url] = {"consecutive_failures": count}
+
+category_totals = {}
+with open(category_tsv_path, encoding='utf-8') as f:
+    for line in f:
+        line = line.rstrip('\n')
+        if not line:
+            continue
+        cat, count = line.split('\t')
+        category_totals[cat] = int(count)
+data['_category_totals'] = category_totals
 
 with open(state_path, 'w', encoding='utf-8') as f:
     json.dump(data, f, indent=2, sort_keys=True)
