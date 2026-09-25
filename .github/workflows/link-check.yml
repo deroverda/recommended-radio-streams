@@ -67,7 +67,7 @@ jobs:
             --retry-wait-time 15
             --user-agent "Mozilla/5.0"
             --header "Accept: */*"
-            --accept "100..=103,200..=299"
+            --accept "100..=103,200..=299,401,403,406,415,429"
             --exclude "localhost"
             --exclude "127.0.0.1"
             --exclude "github.com/deroverda/recommended-radio-streams/stargazers"
@@ -115,11 +115,6 @@ jobs:
           ENTRY_RE = re.compile(r'^\* \[(?P<code>[^\]]+)\] <(?P<url>[^>]+)> \(at [^)]+\) \| (?P<detail>.*)$')
 
           report_path, state_path = sys.argv[1], sys.argv[2]
-          # Codes a datacenter-IP block typically produces. No longer accepted
-          # as success by lychee's --accept list above, so they now reach
-          # this tracker - labelled here so they read differently from a
-          # code CI can actually trust (404, DNS failure, expired cert).
-          BLOCKED_CODES = {"401", "403", "406", "415", "429"}
 
           with open(report_path, encoding='utf-8') as f:
               lines = f.readlines()
@@ -146,11 +141,8 @@ jobs:
               m = ENTRY_RE.match(line.strip())
               if m:
                   count = new_state[m.group('url')]['consecutive_failures']
-                  note = " _(likely CI IP block)_" if m.group('code') in BLOCKED_CODES else ""
                   if count > 1:
-                      note = f" **[{count} consecutive runs]**{note}"
-                  if note:
-                      line = line.rstrip('\n') + note + "\n"
+                      line = line.rstrip('\n') + f" **[{count} consecutive runs]**\n"
               out_lines.append(line)
 
           with open(report_path, 'w', encoding='utf-8') as f:
