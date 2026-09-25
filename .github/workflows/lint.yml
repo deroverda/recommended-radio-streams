@@ -29,13 +29,16 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Run actionlint
-        uses: docker://rhysd/actionlint:1.7.7
+        uses: docker://rhysd/actionlint:1.7.12
         with:
           args: -color
 
       - name: Shellcheck probe-streams.sh
         shell: bash
         run: shellcheck .github/scripts/probe-streams.sh
+
+      - name: Check Python scripts compile
+        run: python3 -m py_compile .github/scripts/*.py
 
       - name: Write lint summary (clean)
         if: success()
