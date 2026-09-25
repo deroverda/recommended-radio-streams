@@ -20,12 +20,12 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Description
+      label: What should we know about it?
       description: >
-        10-12 words. Genre and/or location. Must come from the station's own
-        website or Radio Browser - never invented. Avoid generic terms like
-        "curated," "eclectic," "diverse," "24/7," "ad-free."
-      placeholder: e.g. Electronic and jazz from a wooden shack in a park in Brussels.
+        What they play, plus anything distinctive - location, history, who
+        runs it. A rough sentence is fine, we'll tighten the wording. Please
+        base it on the station's own site or Radio Browser, not guesswork.
+      placeholder: e.g. Electronic and jazz, run out of a wooden shack in a park in Brussels.
     validations:
       required: true
 
@@ -35,6 +35,17 @@ body:
       label: Description Source
       description: Where did the description come from? (URL or "Radio Browser")
       placeholder: https://kioskradio.com/about
+    validations:
+      required: true
+
+  - type: input
+    id: affiliation
+    attributes:
+      label: Affiliation
+      description: >
+        Are you affiliated with this station (run it, work for it, etc)?
+        State plainly, or write "None."
+      placeholder: None
     validations:
       required: true
 
