@@ -6,6 +6,7 @@ on:
     paths:
       - "README.md"
       - ".github/scripts/readme_to_m3u.py"
+      - ".github/scripts/stream_parser.py"
       - ".github/workflows/generate-playlists.yml"
   workflow_dispatch:
 
