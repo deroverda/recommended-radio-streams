@@ -198,7 +198,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [313.FM](https://www.313.fm/): Electronic music born in the depths of a Detroit warehouse. [Stream](http://icecast.ofdoom.com:8000/burst.mp3)
 - [8 Ball Radio](https://8ballradio.nyc): NYC artist collective running radio, zines, and public-access TV from Chinatown since 2014. [Stream](https://eightball.out.airtime.pro/eightball_a)
 - [8Radio.com](https://8radio.com/): Independent alternative from Dublin, founded in 2013 by ex-Phantom FM's Simon Maher. [Stream](https://edge4.audioxi.com/8RADIO)
-- [Aaja Music](https://aajamusic.com/): Electronic and DJ sets from a bar in a Deptford railway arch, London. *(down)* [Channel 1](https://aaja.radiocult.fm/stream) / [Channel 2](https://aaja-2.radiocult.fm/stream)
+- [Aaja Music](https://aajamusic.com/): Electronic and DJ sets from a bar in a Deptford railway arch, London. [Channel 1](https://aaja.radiocult.fm/stream) / [Channel 2](https://aaja-2.radiocult.fm/stream)
 - [Amplitudes Radio](https://amplitudesradio.com/): DJ sets and regional culture from a Bordeaux-area collective. [Stream](https://listen.radioking.com/radio/591304/stream/654688)
 - [Bangkok Community Radio (BCR)](https://www.bangkokcommunityradio.com/): Underground electronic from a studio above a Bangkok record shop, since 2021. [Stream](https://bcr.radiocult.fm/stream)
 - [Behind Loud Tracks](https://blt-radio.com/): French friends' collective for music discovery, sharing, and sound creation, launched 2025. [Stream](https://play.radioking.io/blt-radio)
