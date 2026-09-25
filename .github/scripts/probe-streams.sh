@@ -71,6 +71,12 @@ STATE_FILE="${STATE_FILE:-.github/probe-state.json}"
 SILENCE_THRESHOLD_DB="${SILENCE_THRESHOLD_DB:--60dB}"
 SILENCE_MIN_RATIO="${SILENCE_MIN_RATIO:-0.9}"
 SILENCE_CHECK_SECONDS="${SILENCE_CHECK_SECONDS:-$DECODE_SECONDS}"
+# Delay between the two silence checks in check_silence_confirmed(). The
+# first check already needs >=SILENCE_MIN_RATIO of its window silent, so a
+# normal gap between tracks can't trip it - what this guards against is
+# transient dead air (a DJ handover, an encoder restart), which can run
+# tens of seconds. 30s was chosen over the original 5s for that reason.
+SILENCE_CONFIRM_DELAY="${SILENCE_CONFIRM_DELAY:-30}"
 
 if ! command -v ffmpeg >/dev/null 2>&1; then
   echo "Error: ffmpeg is required." >&2; exit 2
@@ -209,6 +215,7 @@ check_silence() {
     -hide_banner -v info -nostdin \
     -user_agent "$UA" \
     -headers $'Accept: */*\r\n' \
+    -tls_verify 0 \
     -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
     -i "$url" \
     -map 0:a:0 -vn -sn -dn \
@@ -227,7 +234,7 @@ check_silence() {
 check_silence_confirmed() {
   local url="$1"
   check_silence "$url" || return 1
-  sleep 5
+  sleep "$SILENCE_CONFIRM_DELAY"
   check_silence "$url"
 }
 
@@ -257,6 +264,7 @@ probe_one_url() {
       -hide_banner -v warning -nostdin \
       -user_agent "$UA" \
       -headers $'Accept: */*\r\n' \
+      -tls_verify 0 \
       -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
       -i "$url" \
       -map 0:a:0 -vn -sn -dn \
@@ -264,6 +272,12 @@ probe_one_url() {
       -f null - \
       2>&1)
     status=$?
+    # Strip ffmpeg's "[https @ 0x55e9d9cc66c0]" context pointers here, once,
+    # before this text reaches classify_error (where a pointer containing
+    # "403"/"404"/"429" would otherwise decide the classification) or
+    # sanitize_text (where it just wastes space in the report's Details
+    # column). Pointers are random per run (ASLR), never meaningful.
+    err=$(printf '%s' "$err" | sed -E 's/@ 0x[0-9a-fA-F]+//g')
 
     if [ "$status" -eq 0 ]; then
       if check_silence_confirmed "$url"; then
@@ -426,7 +440,7 @@ if [ "$checked" -eq 0 ]; then
   # if-no-files-found: error) and the run summary shows the reason, rather than
   # the job failing with a confusing "no files found".
   {
-    echo "# Stream Probe Report - $(date -u +%F)"
+    echo "# Stream Probe Report - $(date -u '+%F %H:%M UTC')"
     echo ""
     echo "**No stream URLs were parsed from \`$README_FILE\`.** Nothing was probed"
     echo "and \`$STATE_FILE\` was left untouched. This almost always means the"
@@ -545,7 +559,7 @@ done < "$tmp_results"
 # Report
 # ----------------------------------------------------------------------------
 {
-  echo "# Stream Probe Report - $(date -u +%F)"
+  echo "# Stream Probe Report - $(date -u '+%F %H:%M UTC')"
   echo ""
   echo "Checked **$checked** streams: **$total_ok** OK, **$manual** unexpected failures, **$recovered** recovered, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
   echo ""
@@ -595,9 +609,17 @@ done < "$tmp_results"
   echo ""
   echo "| Result | Count | vs last week |"
   echo "|---|---|---|"
-  for cat in "${!category_counts[@]}"; do
-    printf '%s\t%s\n' "${category_counts[$cat]}" "$cat"
-  done | sort -rn | while IFS=$'\t' read -r cnt cat; do
+  {
+    for cat in "${!category_counts[@]}"; do
+      printf '%s\t%s\n' "${category_counts[$cat]}" "$cat"
+    done
+    # Categories present last run but empty now - without this a category
+    # dropping to zero just vanishes from the table instead of showing the
+    # drop.
+    for cat in "${!prev_category_counts[@]}"; do
+      [ -n "${category_counts[$cat]:-}" ] || printf '0\t%s\n' "$cat"
+    done
+  } | sort -rn | while IFS=$'\t' read -r cnt cat; do
     prev="${prev_category_counts[$cat]:-}"
     if [ -z "$prev" ]; then
       trend="new"
@@ -608,7 +630,7 @@ done < "$tmp_results"
       elif [ "$diff" -lt 0 ]; then
         trend="$diff"
       else
-        trend="–"
+        trend="0"
       fi
     fi
     echo "| $cat | $cnt | $trend |"
