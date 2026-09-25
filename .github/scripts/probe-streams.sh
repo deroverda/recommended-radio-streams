@@ -211,11 +211,18 @@ classify_error() {
 check_silence() {
   local url="$1"
   local out dur
+  # -tls_verify is only valid on ffmpeg's https/tls protocol - passing it to a
+  # plain http:// URL makes ffmpeg reject the option outright instead of
+  # connecting at all. Only add it when the URL is actually https.
+  local tls_opts=()
+  case "$url" in
+    https://*|HTTPS://*) tls_opts=(-tls_verify 0) ;;
+  esac
   out=$(timeout "$PROBE_TIMEOUT" ffmpeg \
     -hide_banner -v info -nostdin \
     -user_agent "$UA" \
     -headers $'Accept: */*\r\n' \
-    -tls_verify 0 \
+    "${tls_opts[@]}" \
     -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
     -i "$url" \
     -map 0:a:0 -vn -sn -dn \
@@ -250,6 +257,15 @@ probe_one_url() {
   RESULT_CLASS="UNKNOWN"
   RESULT_DETAIL=""
 
+  # -tls_verify is only valid on ffmpeg's https/tls protocol - passing it to a
+  # plain http:// URL makes ffmpeg reject the option outright instead of
+  # connecting at all. Only add it when the URL is actually https. Computed
+  # once outside the retry loop since $url doesn't change between attempts.
+  local tls_opts=()
+  case "$url" in
+    https://*|HTTPS://*) tls_opts=(-tls_verify 0) ;;
+  esac
+
   while [ "$attempt" -le "$MAX_RETRIES" ]; do
     # One ffmpeg connection is the whole health check: connect, decode
     # $DECODE_SECONDS of audio, check the exit status. An earlier version
@@ -264,7 +280,7 @@ probe_one_url() {
       -hide_banner -v warning -nostdin \
       -user_agent "$UA" \
       -headers $'Accept: */*\r\n' \
-      -tls_verify 0 \
+      "${tls_opts[@]}" \
       -reconnect 1 -reconnect_streamed 1 -reconnect_delay_max 5 \
       -i "$url" \
       -map 0:a:0 -vn -sn -dn \
