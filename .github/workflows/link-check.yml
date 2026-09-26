@@ -16,6 +16,7 @@ on:
       - ".github/scripts/stream_parser.py"
   schedule:
     - cron: "0 0 * * 1" # weekly on Monday at UTC midnight
+    - cron: "0 20 * * 6" # weekly on Saturday 20:00 UTC - catches weekend-only live stations
   workflow_dispatch:
 
 permissions:
