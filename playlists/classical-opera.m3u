@@ -36,9 +36,6 @@ https://stream-mixtape-geo.ntslive.net/mixtape35
 # Homepage: https://www.radioswissclassic.ch/en
 #EXTINF:-1,Radio Suisse Classique
 http://stream.srg-ssr.ch/m/rsc_fr/mp3_128
-# Homepage: https://www.concertgebouworkest.nl/nl/radio/
-#EXTINF:-1,RCO Live
-https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192
 # Homepage: https://www.wbjc.com/
 #EXTINF:-1,WBJC 91.5
 https://ice64.securenetsystems.net/WBJC

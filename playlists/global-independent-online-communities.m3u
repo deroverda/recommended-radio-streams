@@ -315,15 +315,9 @@ https://sounds.threedradio.com/stream
 # Homepage: https://www.tirkultura.lv/
 #EXTINF:-1,Tīrkultūra
 https://s3.radio.co/s216811754/listen
-# Homepage: https://tsubakifm.com/
-#EXTINF:-1,TSUBAKI fm
-https://edge.mixlr.com/channel/vgmet
 # Homepage: https://veneno.live/
 #EXTINF:-1,Veneno
 https://radio.veneno.live/stream/main
-# Homepage: https://www.wearevarious.com/
-#EXTINF:-1,We Are Various
-https://azuracast.wearevarious.com/listen/we_are_various/live.mp3
 # Homepage: https://wavefarm.org/radio/wgxc/schedule
 #EXTINF:-1,WGXC 90.7-FM
 https://audio.wavefarm.org/wgxc.mp3
