@@ -40,6 +40,8 @@ STREAM_CHAIN_RE = re.compile(
 )
 STREAM_LINK_RE = re.compile(r'\[(?P<label>[^\]]+)\]\((?P<url>[^)]+)\)')
 HEADING_RE = re.compile(r'^#{2,4}\s+(.*)')
+# Matches a "*(down)*" / "*(down ...)*" status note anywhere on an entry line.
+DOWN_RE = re.compile(r'\*\(\s*down\b', re.I)
 
 
 def extract_streams(line):
@@ -82,7 +84,7 @@ def build_name_map(path):
         name = re.sub(r'\*+', '', m.group('name')).strip()
         # 4th field: 1 if the entry line carries a "*(down ...)*" status note.
         # Lets callers separate "already known down" from unexpected failures.
-        down = '1' if re.search(r'\*\(\s*down\b', s, re.I) else '0'
+        down = '1' if DOWN_RE.search(s) else '0'
         for url in entry_stream_urls(s):
             yield url, name, current_section, down
 
