@@ -1,7 +1,7 @@
 <a id="top"></a>
 <div align="center">
 
-<picture>
+<picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deroverda/recommended-radio-streams/main/banner.png">
   <img src="https://raw.githubusercontent.com/deroverda/recommended-radio-streams/main/banner-light.png" width="720" alt="Recommended Radio Streams">
 </picture>
