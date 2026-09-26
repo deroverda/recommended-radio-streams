@@ -12,7 +12,7 @@ import os
 import re
 import sys
 
-from stream_parser import ENTRY_RE, extract_streams
+from stream_parser import DOWN_RE, ENTRY_RE, extract_streams
 
 HEADER_RE = re.compile(r'^(#{2,4})\s+(.*)')
 
@@ -59,9 +59,11 @@ def parse_sections(path):
         m = ENTRY_RE.match(s)
         if not m:
             continue
-        streams = extract_streams(s)
-        if not streams:
+        # Known-dead entries stay in README (with their tag) but are left out
+        # of the playlists, so importers don't get streams already confirmed down.
+        if DOWN_RE.search(s):
             continue
+        streams = extract_streams(s)
 
         name = re.sub(r'\*+', '', m.group('name')).strip()
         homepage = m.group('homepage').strip()
