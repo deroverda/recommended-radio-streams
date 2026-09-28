@@ -2,88 +2,83 @@
   "_category_totals": {
     "AUTH_REQUIRED": 11,
     "NOT_FOUND": 2,
-    "OK": 422,
-    "PLAYLIST_PARSE_ERROR": 1,
-    "SERVER_ERROR": 1,
-    "SILENT": 10,
-    "TIMEOUT": 1
+    "OK": 423,
+    "SILENT": 9,
+    "TIMEOUT": 3
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 29
+    "consecutive_failures": 30
   },
   "http://allrelays.rainwave.cc/game.mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "http://stream.zeno.fm/e4auhdgm6cquv": {
-    "consecutive_failures": 29
+    "consecutive_failures": 30
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 3
-  },
-  "https://centova11.instainternet.com/proxy/marktho1?mp=/stream": {
-    "consecutive_failures": 1
+    "consecutive_failures": 4
   },
   "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 29
+    "consecutive_failures": 30
   },
   "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://ice1.somafm.com/metal-128-aac": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://ice5.somafm.com/reggae-256-mp3": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
-  "https://libretime.radioquantica.com/main.mp3": {
+  "https://mediaserv38.live-streams.nl:18030/stream": {
     "consecutive_failures": 1
   },
-  "https://radio.mensajito.mx/nopalA": {
+  "https://origin.streamnerd.nl/operator/operator/icecast.audio": {
     "consecutive_failures": 1
   },
-  "https://radio.nugs.net/nugsnet": {
-    "consecutive_failures": 1
-  },
-  "https://radio.veneno.live/stream/main": {
+  "https://pantano.ovh:8444/pantano": {
     "consecutive_failures": 1
   },
   "https://radio80k.out.airtime.pro/radio80k_a": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://somafm.com/dronezone256.pls": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://somafm.com/groovesalad256.pls": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://somafm.com/sonicuniverse256.pls": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
+  },
+  "https://sp1.autopo.st/8026/stream": {
+    "consecutive_failures": 1
   },
   "https://stayfm.com:8443/archive": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://stream-15.aiir.com/kqwcuxfxcwhtv": {
-    "consecutive_failures": 29
+    "consecutive_failures": 30
   },
   "https://stream-relay-geo.internetpublicradio.live/stream/main": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://stream.zeno.fm/9q3ez3k3fchvv": {
-    "consecutive_failures": 29
+    "consecutive_failures": 30
   },
   "https://stream.zeno.fm/nftv61u086etv": {
-    "consecutive_failures": 29
+    "consecutive_failures": 30
   },
   "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
   }
 }
