@@ -157,24 +157,25 @@ classify_error() {
       echo "SSL_FAILURE" ;;
     *"timed out"*)
       echo "TIMEOUT" ;;
-    *"Connection refused"*|*"Connection reset"*)
+    *"Connection refused"*|*"Connection reset"*|*"Couldn't connect to server"*)
       echo "CONNECTION_RESET" ;;
-    *"403"*|*"401"*|*"Forbidden"*|*"Unauthorized"*)
+    *"HTTP error 403"*|*"HTTP error 401"*|*"returned 403"*|*"returned 401"*|*"error: 403"*|*"error: 401"*|*"Forbidden"*|*"Unauthorized"*)
       echo "AUTH_REQUIRED" ;;
-    *"429"*|*"Too Many Requests"*|*"522"*)
+    *"HTTP error 429"*|*"returned 429"*|*"error: 429"*|*"HTTP error 522"*|*"returned 522"*|*"error: 522"*|*"Too Many Requests"*)
       echo "RATE_LIMITED" ;;
-    *"404"*|*"Not Found"*)
+    *"HTTP error 404"*|*"returned 404"*|*"error: 404"*|*"Not Found"*)
       echo "NOT_FOUND" ;;
-    *"5XX"*)
-      # ffmpeg's libavutil groups every 500-599 response into this exact
-      # literal string - it never prints the real status (500 vs 503 vs
-      # 504 are indistinguishable to us). Without this case, every 5xx
-      # response fell through to UNKNOWN and got reported as an
-      # unexplained "unexpected failure" instead of a labeled server error.
+    *"5XX"*|*"HTTP error 5"*|*"returned error: 5"*)
+      # ffmpeg prints the real status in its "HTTP error 503 ..." warning
+      # and also groups 5xx replies into the literal "5XX". curl prints
+      # "returned error: 503". Without this case, every 5xx response fell
+      # through to UNKNOWN and got reported as an unexplained "unexpected
+      # failure" instead of a labeled server error.
       echo "SERVER_ERROR" ;;
-    *"4XX"*)
-      # Same grouping ffmpeg does for any 4xx code other than 400/401/403/404,
-      # which do get their own specific number and are matched above.
+    *"4XX"*|*"Bad Request"*|*"returned error: 4"*)
+      # ffmpeg groups any 4xx other than 401/403/404 into "4XX", and 400
+      # is matched by its "Bad Request" reason phrase. curl's "returned
+      # error: 4nn" catches the rest. 401/403/404 are matched above.
       echo "CLIENT_ERROR" ;;
     *"Unsupported codec"*|*"codec not found"*)
       echo "UNSUPPORTED_CODEC" ;;
@@ -275,7 +276,7 @@ probe_one_url() {
     # "403"/"404"/"429" would otherwise decide the classification) or
     # sanitize_text (where it just wastes space in the report's Details
     # column). Pointers are random per run (ASLR), never meaningful.
-    err=$(printf '%s' "$err" | sed -E 's/@ 0x[0-9a-fA-F]+//g')
+    err=$(printf '%s' "$err" | sed -E 's/@ 0x[0-9a-fA-F]+//g; s/([Ss]egment) [0-9]+/\1 #/g')
 
     if [ "$status" -eq 0 ]; then
       if check_silence_confirmed "$url"; then
@@ -320,15 +321,19 @@ probe_url() {
   RESULT_DETAIL=""
 
   if is_playlist_url "$url" && [ "$depth" -le "$MAX_PLAYLIST_DEPTH" ]; then
-    local content inner_urls
+    local content inner_urls curl_err err_file="$tmp_dir/curl_err.$BASHPID"
     # tr -d '\r': .pls/.m3u files are frequently CRLF, and the "File1=" sed
     # path below does not strip the trailing \r - it would reach ffmpeg as
     # part of the URL and fail an otherwise-working stream.
     content=$(curl -fsSL --max-time "$PLAYLIST_TIMEOUT" --retry 2 --retry-delay 2 \
-      -A "$UA" "$url" 2>/dev/null | head -c 65536 | tr -d '\r')
+      -A "$UA" "$url" 2>"$err_file" | head -c 65536 | tr -d '\r')
     if [ -z "$content" ]; then
-      RESULT_CLASS="EMPTY_PLAYLIST"
-      RESULT_DETAIL="no content fetched"
+      # Classify curl's own error (403, timeout, DNS...) the same way as an
+      # ffmpeg failure, so a blocked playlist lands in CI-Blocked, not here.
+      curl_err=$(tail -n 1 "$err_file" 2>/dev/null)
+      RESULT_CLASS=$(classify_error "$curl_err" 0 "$url")
+      [ "$RESULT_CLASS" = "UNKNOWN" ] && RESULT_CLASS="EMPTY_PLAYLIST"
+      RESULT_DETAIL=$(sanitize_text "${curl_err:-no content fetched}")
       return 1
     fi
     inner_urls=$(echo "$content" | grep -oE '^https?://[^[:space:]]+' || true)
