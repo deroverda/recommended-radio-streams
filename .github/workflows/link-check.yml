@@ -46,7 +46,7 @@ jobs:
           # so this list can never drift from what the stream probe considers a
           # stream link.
           python3 .github/scripts/stream_parser.py --name-map README.md | cut -f1 > /tmp/stream_urls.txt
-          sed -E 's/[][\\.^$?*+(){}|]/\\&/g' /tmp/stream_urls.txt | sort -u > .lycheeignore
+          sed -E 's#^(http://[^/:]+):80(/|$)#\1\2#; s#^(https://[^/:]+):443(/|$)#\1\2#; s/[][\\.^$?*+(){}|]/\\&/g; s/.*/^&\/?$/' /tmp/stream_urls.txt | sort -u > .lycheeignore
           echo "Excluded $(wc -l < .lycheeignore) stream URLs from Lychee."
 
       - name: Run Link Checker
