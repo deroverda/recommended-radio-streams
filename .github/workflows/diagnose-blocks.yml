@@ -1,0 +1,162 @@
+name: Diagnose Stream Blocks
+
+# Temporary, manual-only test. Runs every stream flagged in the 2026-09-30
+# report with five User-Agent labels plus a curl status check, then probes
+# the Securenet hosts one at a time. Delete this file when done.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Install ffmpeg
+        shell: bash
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends ffmpeg curl ca-certificates
+
+      - name: Diagnose blocks
+        shell: bash
+        run: |
+          set -uo pipefail
+          OUT="${GITHUB_STEP_SUMMARY:-/dev/stdout}"
+          LIST="$RUNNER_TEMP/urls.txt"
+          RES="$RUNNER_TEMP/rows"
+          mkdir -p "$RES"
+          export RES
+
+          # group|station|url  (inner stream URLs are used for the SomaFM playlists)
+          cat > "$LIST" <<'EOF'
+          unexpected|Great Circles|https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f
+          unexpected|LYL Radio|https://icecast.lyl.live/live
+          unexpected|Veneno|https://radio.veneno.live/stream/main
+          unexpected|Radio 80000|https://radio80k.out.airtime.pro/radio80k_a
+          unexpected|Studio Néau|https://studioneau.out.airtime.pro/studioneau_a
+          unexpected|Clyde Built Radio|https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
+          ci-blocked new|CIUT 89.5|https://ice23.securenetsystems.net/CIUT
+          ci-blocked new|WSUM 91.7|https://ice23.securenetsystems.net/WSUMFM
+          ci-blocked new|WBJC 91.5|https://ice64.securenetsystems.net/WBJC
+          ci-blocked new|LuxuriaMusic|http://ice10.securenetsystems.net/LUXOMP3
+          ci-blocked new|Radio Vilnius|https://transliacija.audiomastering.lt/radiovilnius-mp3
+          ci-blocked new|KCSM Jazz 91.1|http://ice7.securenetsystems.net/KCSM2
+          ci-blocked new|Daybreak Star Radio|http://ice9.securenetsystems.net/DSR
+          ci-blocked new|KBON 101.1|http://ice64.securenetsystems.net/KBON
+          ci-blocked chronic|Totally Wired Radio|https://totallywired.out.airtime.pro/totallywired_a
+          ci-blocked chronic|SomaFM Drone Zone|https://ice5.somafm.com/dronezone-256-mp3
+          ci-blocked chronic|SomaFM Groove Salad|https://ice5.somafm.com/groovesalad-256-mp3
+          ci-blocked chronic|SomaFM Sonic Universe|https://ice5.somafm.com/sonicuniverse-256-mp3
+          ci-blocked chronic|SomaFM Metal Detector|https://ice1.somafm.com/metal-128-aac
+          ci-blocked chronic|SomaFM Heavyweight Reggae|https://ice5.somafm.com/reggae-256-mp3
+          ci-blocked chronic|Beatles Radio|http://stream.zeno.fm/e4auhdgm6cquv
+          ci-blocked chronic|Radio Paisajes|https://stream.zeno.fm/nftv61u086etv
+          ci-blocked chronic|Spinning Seal FM|https://stream.zeno.fm/9q3ez3k3fchvv
+          ci-blocked chronic|Panacea Radio|https://stream-15.aiir.com/kqwcuxfxcwhtv
+          ci-blocked chronic|Liquid DooM Radio|http://83.240.65.106:8000/doom
+          ci-blocked chronic|Dansbandskanalen|https://fm09-ice.stream.khz.se/fm09_mp3
+          known-down|TSUBAKI fm|https://edge.mixlr.com/channel/vgmet
+          known-down|We Are Various|https://azuracast.wearevarious.com/listen/we_are_various/live.mp3
+          control (recovered)|RCO Live|https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192
+          EOF
+
+          ua_for() {
+            case "$1" in
+              none) echo "" ;;
+              mozilla) echo "Mozilla/5.0" ;;
+              honest) echo "recommended-radio-streams-probe/1.0 (+https://github.com/deroverda/recommended-radio-streams)" ;;
+              chrome) echo "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" ;;
+              vlc) echo "VLC/3.0.21 LibVLC/3.0.21" ;;
+            esac
+          }
+
+          # One ffmpeg decode of 5 seconds. Prints OK with mean volume, or a short error code.
+          try_ffmpeg() {
+            local url="$1" ua="$2" out rc vol code
+            local -a ua_args=()
+            [ -n "$ua" ] && ua_args=(-user_agent "$ua")
+            out=$(timeout 25 ffmpeg -hide_banner -nostdin -v info "${ua_args[@]}" \
+              -i "$url" -map 0:a:0 -vn -sn -dn -t 5 -af volumedetect -f null - 2>&1)
+            rc=$?
+            out="${out//"$url"/}"
+            if [ "$rc" -eq 0 ]; then
+              vol=$(printf '%s' "$out" | sed -nE 's/.*mean_volume: (-?[0-9.]+) dB.*/\1/p' | tail -n 1)
+              echo "OK ${vol:-?}dB"
+              return
+            fi
+            code=$(printf '%s' "$out" | grep -oE '(HTTP error |returned )[45][0-9X]{2}' | head -n 1 | grep -oE '[45][0-9X]{2}')
+            if [ -n "$code" ]; then
+              echo "$code"
+            elif [ "$rc" -eq 124 ] || printf '%s' "$out" | grep -qi 'timed out'; then
+              echo "TIMEOUT"
+            elif printf '%s' "$out" | grep -qi 'Connection refused'; then
+              echo "REFUSED"
+            elif printf '%s' "$out" | grep -qiE 'Name or service not known|Could not resolve|No address associated'; then
+              echo "DNS"
+            elif printf '%s' "$out" | grep -qiE 'SSL|TLS|certificate|handshake'; then
+              echo "TLS"
+            else
+              echo "ERR"
+            fi
+          }
+
+          # HTTP status from curl with a bare Mozilla/5.0 (different TLS stack from ffmpeg).
+          try_curl() {
+            local code
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 8 -A "Mozilla/5.0" "$1" 2>/dev/null)
+            echo "${code:-000}"
+          }
+
+          # $1 is one list line: idx|group|station|url
+          probe_row() {
+            local idx group name url label row
+            IFS="|" read -r idx group name url <<< "$1"
+            row="| $group | $name |"
+            for label in none mozilla honest chrome vlc; do
+              row="$row $(try_ffmpeg "$url" "$(ua_for "$label")") |"
+            done
+            row="$row $(try_curl "$url") |"
+            printf '%s\n' "$row" > "$RES/$idx.row"
+          }
+
+          export -f ua_for try_ffmpeg try_curl probe_row
+
+          {
+            echo "# Stream block diagnosis"
+            echo
+            echo "Started: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo
+            echo "Each cell is one 5 second ffmpeg decode. OK shows the mean volume, and about -90 dB means silence."
+            echo "Number cells are HTTP status codes. The last column is curl with Mozilla/5.0."
+            echo
+            echo "## Part 1: all flagged streams (4 at a time)"
+            echo
+            echo "| Group | Station | none (ffmpeg default) | Mozilla/5.0 | honest | Chrome | VLC | curl |"
+            echo "|---|---|---|---|---|---|---|---|"
+          } >> "$OUT"
+
+          awk '{printf "%03d|%s\n", NR, $0}' "$LIST" \
+            | xargs -d '\n' -P 4 -n 1 bash -c "probe_row \"\$1\"" _
+
+          cat "$RES"/*.row >> "$OUT"
+
+          {
+            echo
+            echo "## Part 2: Securenet hosts, one at a time, default ffmpeg user agent"
+            echo
+            echo "| Station | Result | Seconds |"
+            echo "|---|---|---|"
+          } >> "$OUT"
+
+          while IFS="|" read -r _ name url; do
+            case "$url" in
+              *securenetsystems.net*)
+                start=$(date +%s)
+                result=$(try_ffmpeg "$url" "")
+                echo "| $name | $result | $(( $(date +%s) - start )) |" >> "$OUT"
+                ;;
+            esac
+          done < "$LIST"
