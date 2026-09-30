@@ -15,10 +15,10 @@ on:
       - ".github/scripts/probe-streams.sh"
       - ".github/scripts/stream_parser.py"
   schedule:
-    - cron: "0 0 * * 1" # weekly on Monday at UTC midnight
-    - cron: "0 20 * * 6" # weekly on Saturday 20:00 UTC - catches weekend-only live stations
+    - cron: "17 0 * * 1" # weekly on Monday at 00:17 UTC
+    - cron: "17 17 * * 6" # weekly on Saturday 17:17 UTC - catches weekend-only live stations
   workflow_dispatch:
-
+  
 permissions:
   contents: read
 
