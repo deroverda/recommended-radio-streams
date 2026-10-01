@@ -6,10 +6,12 @@ on:
     paths:
       - ".github/workflows/**"
       - ".github/scripts/**"
+      - ".github/tests/**"
   pull_request:
     paths:
       - ".github/workflows/**"
       - ".github/scripts/**"
+      - ".github/tests/**"
   workflow_dispatch:
 
 permissions:
@@ -39,6 +41,10 @@ jobs:
 
       - name: Check Python scripts compile
         run: python3 -m py_compile .github/scripts/*.py
+
+      - name: Parser fixture test
+        shell: bash
+        run: python3 .github/scripts/stream_parser.py --name-map .github/tests/parser_fixture.md | diff -u .github/tests/parser_expected.tsv -
 
       - name: Write lint summary (clean)
         if: success()
