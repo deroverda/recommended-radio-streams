@@ -1,8 +1,9 @@
 name: Diagnose Stream Blocks
 
-# Temporary, manual-only test. Runs every stream flagged in the 2026-09-30
-# report with five User-Agent labels plus a curl status check, then probes
-# the Securenet hosts one at a time. Delete this file when done.
+# Temporary, manual-only test. Part 1 probes the three streams that are still
+# refused from GitHub with five User-Agent labels. Part 2 prints their
+# connection details. Part 3 fetches the websites that the link checker keeps
+# flagging with four labels. Delete this file when done.
 on:
   workflow_dispatch:
 
@@ -25,42 +26,31 @@ jobs:
         run: |
           set -uo pipefail
           OUT="${GITHUB_STEP_SUMMARY:-/dev/stdout}"
-          LIST="$RUNNER_TEMP/urls.txt"
+          STREAMS="$RUNNER_TEMP/streams.txt"
+          SITES="$RUNNER_TEMP/sites.txt"
           RES="$RUNNER_TEMP/rows"
           mkdir -p "$RES"
           export RES
 
-          # group|station|url  (inner stream URLs are used for the SomaFM playlists)
-          cat > "$LIST" <<'EOF'
-          unexpected|Great Circles|https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f
-          unexpected|LYL Radio|https://icecast.lyl.live/live
-          unexpected|Veneno|https://radio.veneno.live/stream/main
-          unexpected|Radio 80000|https://radio80k.out.airtime.pro/radio80k_a
-          unexpected|Studio Néau|https://studioneau.out.airtime.pro/studioneau_a
-          unexpected|Clyde Built Radio|https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
-          ci-blocked new|CIUT 89.5|https://ice23.securenetsystems.net/CIUT
-          ci-blocked new|WSUM 91.7|https://ice23.securenetsystems.net/WSUMFM
-          ci-blocked new|WBJC 91.5|https://ice64.securenetsystems.net/WBJC
-          ci-blocked new|LuxuriaMusic|http://ice10.securenetsystems.net/LUXOMP3
-          ci-blocked new|Radio Vilnius|https://transliacija.audiomastering.lt/radiovilnius-mp3
-          ci-blocked new|KCSM Jazz 91.1|http://ice7.securenetsystems.net/KCSM2
-          ci-blocked new|Daybreak Star Radio|http://ice9.securenetsystems.net/DSR
-          ci-blocked new|KBON 101.1|http://ice64.securenetsystems.net/KBON
-          ci-blocked chronic|Totally Wired Radio|https://totallywired.out.airtime.pro/totallywired_a
-          ci-blocked chronic|SomaFM Drone Zone|https://ice5.somafm.com/dronezone-256-mp3
-          ci-blocked chronic|SomaFM Groove Salad|https://ice5.somafm.com/groovesalad-256-mp3
-          ci-blocked chronic|SomaFM Sonic Universe|https://ice5.somafm.com/sonicuniverse-256-mp3
-          ci-blocked chronic|SomaFM Metal Detector|https://ice1.somafm.com/metal-128-aac
-          ci-blocked chronic|SomaFM Heavyweight Reggae|https://ice5.somafm.com/reggae-256-mp3
-          ci-blocked chronic|Beatles Radio|http://stream.zeno.fm/e4auhdgm6cquv
-          ci-blocked chronic|Radio Paisajes|https://stream.zeno.fm/nftv61u086etv
-          ci-blocked chronic|Spinning Seal FM|https://stream.zeno.fm/9q3ez3k3fchvv
-          ci-blocked chronic|Panacea Radio|https://stream-15.aiir.com/kqwcuxfxcwhtv
-          ci-blocked chronic|Liquid DooM Radio|http://83.240.65.106:8000/doom
-          ci-blocked chronic|Dansbandskanalen|https://fm09-ice.stream.khz.se/fm09_mp3
-          known-down|TSUBAKI fm|https://edge.mixlr.com/channel/vgmet
-          known-down|We Are Various|https://azuracast.wearevarious.com/listen/we_are_various/live.mp3
-          control (recovered)|RCO Live|https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192
+          # group|station|url
+          cat > "$STREAMS" <<'EOF'
+          refused|Totally Wired Radio|https://totallywired.out.airtime.pro/totallywired_a
+          refused|Dansbandskanalen|https://fm09-ice.stream.khz.se/fm09_mp3
+          refused|Liquid DooM Radio|http://83.240.65.106:8000/doom
+          EOF
+
+          # group|site|url
+          cat > "$SITES" <<'EOF'
+          cert error|giantsofjazzradio.co.uk|http://www.giantsofjazzradio.co.uk/
+          cert error|compound-eye.org|https://compound-eye.org/
+          cert error|mountainchill.com|https://mountainchill.com/
+          reset|dinamo.fm|https://dinamo.fm/
+          reset|dinamo.fm channels|https://dinamo.fm/content/4/channels
+          reset|spacedogsradio.com|https://www.spacedogsradio.com/
+          status|dansbandskanalen.se|https://www.dansbandskanalen.se/
+          status|monoskop.org|https://monoskop.org/Community_radio
+          timeout|liquiddoom.net|https://liquiddoom.net/
+          timeout|le-grigri.com|https://www.le-grigri.com/
           EOF
 
           ua_for() {
@@ -103,11 +93,18 @@ jobs:
             fi
           }
 
-          # HTTP status from curl with a bare Mozilla/5.0 (different TLS stack from ffmpeg).
-          try_curl() {
-            local code
-            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 8 -A "Mozilla/5.0" "$1" 2>/dev/null)
-            echo "${code:-000}"
+          # One website fetch, following redirects. Prints the HTTP status, plus the curl exit code when curl failed.
+          try_site() {
+            local url="$1" ua="$2" code rc
+            local -a ua_args=()
+            [ -n "$ua" ] && ua_args=(-A "$ua")
+            code=$(curl -s -o /dev/null -L -w '%{http_code}' --max-time 20 "${ua_args[@]}" "$url" 2>/dev/null)
+            rc=$?
+            if [ "$rc" -eq 0 ]; then
+              echo "$code"
+            else
+              echo "${code:-000} (exit $rc)"
+            fi
           }
 
           # $1 is one list line: idx|group|station|url
@@ -118,45 +115,69 @@ jobs:
             for label in none mozilla honest chrome vlc; do
               row="$row $(try_ffmpeg "$url" "$(ua_for "$label")") |"
             done
-            row="$row $(try_curl "$url") |"
             printf '%s\n' "$row" > "$RES/$idx.row"
           }
 
-          export -f ua_for try_ffmpeg try_curl probe_row
+          probe_site_row() {
+            local idx group name url label row
+            IFS="|" read -r idx group name url <<< "$1"
+            row="| $group | $name |"
+            for label in none mozilla honest chrome; do
+              row="$row $(try_site "$url" "$(ua_for "$label")") |"
+            done
+            printf '%s\n' "$row" > "$RES/s$idx.row"
+          }
+
+          export -f ua_for try_ffmpeg try_site probe_row probe_site_row
 
           {
-            echo "# Stream block diagnosis"
+            echo "# Block diagnosis, round 2"
             echo
             echo "Started: $(date -u '+%Y-%m-%d %H:%M UTC')"
             echo
-            echo "Each cell is one 5 second ffmpeg decode. OK shows the mean volume, and about -90 dB means silence."
-            echo "Number cells are HTTP status codes. The last column is curl with Mozilla/5.0."
+            echo "## Part 1: the three streams still refused (5 second ffmpeg decode per cell)"
             echo
-            echo "## Part 1: all flagged streams (4 at a time)"
+            echo "OK shows the mean volume. Numbers are HTTP status codes."
             echo
-            echo "| Group | Station | none (ffmpeg default) | Mozilla/5.0 | honest | Chrome | VLC | curl |"
-            echo "|---|---|---|---|---|---|---|---|"
+            echo "| Group | Station | none (ffmpeg default) | Mozilla/5.0 | honest | Chrome | VLC |"
+            echo "|---|---|---|---|---|---|---|"
           } >> "$OUT"
 
-          awk '{printf "%03d|%s\n", NR, $0}' "$LIST" \
-            | xargs -d '\n' -P 4 -n 1 bash -c "probe_row \"\$1\"" _
+          awk '{printf "%03d|%s\n", NR, $0}' "$STREAMS" \
+            | xargs -d '\n' -P 3 -n 1 bash -c "probe_row \"\$1\"" _
 
-          cat "$RES"/*.row >> "$OUT"
+          cat "$RES"/[0-9]*.row >> "$OUT"
 
           {
             echo
-            echo "## Part 2: Securenet hosts, one at a time, default ffmpeg user agent"
+            echo "## Part 2: connection details for the three streams (honest user agent)"
             echo
-            echo "| Station | Result | Seconds |"
-            echo "|---|---|---|"
+            echo "Lines starting with an asterisk show the connection steps. Lines starting with a less-than sign are the server's response headers."
           } >> "$OUT"
 
           while IFS="|" read -r _ name url; do
-            case "$url" in
-              *securenetsystems.net*)
-                start=$(date +%s)
-                result=$(try_ffmpeg "$url" "")
-                echo "| $name | $result | $(( $(date +%s) - start )) |" >> "$OUT"
-                ;;
-            esac
-          done < "$LIST"
+            {
+              echo
+              echo "### $name"
+              echo
+              echo '```'
+              curl -sv --connect-timeout 6 --max-time 10 -o /dev/null -A "$(ua_for honest)" "$url" 2>&1 \
+                | tr -d '\r' | grep -E '^(\*|<) ' | head -n 30
+              echo '```'
+            } >> "$OUT"
+          done < "$STREAMS"
+
+          {
+            echo
+            echo "## Part 3: websites the link checker keeps flagging (curl, 4 at a time)"
+            echo
+            echo "Numbers are the final HTTP status after redirects. A cell with exit N means curl failed: 6 DNS, 7 refused, 28 timeout, 35 TLS handshake, 56 connection reset, 60 certificate problem."
+            echo
+            echo "| Group | Site | curl default | Mozilla/5.0 | honest | Chrome |"
+            echo "|---|---|---|---|---|---|"
+          } >> "$OUT"
+
+          awk '{printf "%03d|%s\n", NR, $0}' "$SITES" \
+            | xargs -d '\n' -P 4 -n 1 bash -c "probe_site_row \"\$1\"" _
+
+          cat "$RES"/s*.row >> "$OUT"
