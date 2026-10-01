@@ -1,0 +1,88 @@
+name: Debug Lychee dinamo.fm
+
+# Temporary, manual-only test. Lychee gets "Connection reset" from dinamo.fm
+# while curl gets 200 from the same runner. This compares curl, the current
+# lychee (0.24.2, same as lychee-action@v2) and an older lychee (0.18.1) with a
+# different TLS setup, all against the same two URLs. Results go to the job
+# summary. Delete this file when done.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  debug:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Download lychee 0.24.2 and 0.18.1
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="https://github.com/lycheeverse/lychee/releases/download"
+          for v in 0.24.2 0.18.1; do
+            mkdir -p "$RUNNER_TEMP/lychee-$v"
+            curl -fsSL "$base/lychee-v$v/lychee-x86_64-unknown-linux-gnu.tar.gz" \
+              | tar xz -C "$RUNNER_TEMP/lychee-$v"
+            # 0.24.2 unpacks into a subfolder and 0.18.1 does not, so find the binary
+            bin=$(find "$RUNNER_TEMP/lychee-$v" -type f -name lychee | head -n 1)
+            mv "$bin" "$RUNNER_TEMP/lychee-$v/lychee-bin"
+            "$RUNNER_TEMP/lychee-$v/lychee-bin" --version
+          done
+
+      - name: Compare curl and lychee
+        shell: bash
+        run: |
+          set -uo pipefail
+          OUT="$GITHUB_STEP_SUMMARY"
+          NEW="$RUNNER_TEMP/lychee-0.24.2/lychee-bin"
+          OLD="$RUNNER_TEMP/lychee-0.18.1/lychee-bin"
+          HOST="dinamo.fm"
+          URLS="https://dinamo.fm/ https://dinamo.fm/content/4/channels"
+          UA="recommended-radio-streams-probe/1.0 (+https://github.com/deroverda/recommended-radio-streams)"
+          # TLS 1.2 cipher suites that rustls (lychee's TLS library) offers
+          RUSTLS_12="ECDHE-ECDSA-AES256-GCM-SHA384:ECDHE-ECDSA-AES128-GCM-SHA256:ECDHE-ECDSA-CHACHA20-POLY1305:ECDHE-RSA-AES256-GCM-SHA384:ECDHE-RSA-AES128-GCM-SHA256:ECDHE-RSA-CHACHA20-POLY1305"
+
+          # run <label> <command...>: records output and exit code, never stops the step
+          run() {
+            local label="$1"; shift
+            local out rc
+            out=$("$@" 2>&1) && rc=0 || rc=$?
+            {
+              echo "#### $label (exit $rc)"
+              echo '```'
+              printf '%s\n' "$out" | tail -n 40
+              echo '```'
+            } >> "$OUT"
+          }
+
+          # curl_line <curl options...> <url>: status, HTTP version and TLS details only
+          curl_line() {
+            curl -sS -o /dev/null -v --max-time 30 -A "$UA" "$@" 2>&1 \
+              | grep -E 'SSL connection using|ALPN: server|HTTP/[0-9.]+ [0-9]{3}|curl: \('
+            return "${PIPESTATUS[0]}"
+          }
+
+          echo "## Host: $HOST" >> "$OUT"
+          run "openssl s_client" bash -c "openssl s_client -connect $HOST:443 -servername $HOST </dev/null 2>&1 | grep -E 'Protocol|Cipher is|Verify return|alert|errno'"
+
+          for URL in $URLS; do
+            echo "## $URL" >> "$OUT"
+            run "curl default" curl_line "$URL"
+            run "curl HTTP/1.1 only" curl_line --http1.1 "$URL"
+            run "curl TLS 1.2 only" curl_line --tls-max 1.2 "$URL"
+            run "curl TLS 1.3 only" curl_line --tlsv1.3 "$URL"
+            run "curl TLS 1.2 with rustls ciphers" curl_line --tls-max 1.2 --ciphers "$RUSTLS_12" "$URL"
+
+            # lychee crawls a URL given directly, so pass it inside a file, like README.md
+            LINKS="$(mktemp --suffix=.md)"
+            echo "<$URL>" > "$LINKS"
+            run "lychee 0.24.2, CI settings" "$NEW" --no-progress --max-retries 0 --timeout 30 \
+              --user-agent "$UA" --header "Accept: */*" "$LINKS"
+            run "lychee 0.24.2, TLS 1.3 minimum" "$NEW" --no-progress --max-retries 0 --timeout 30 \
+              --user-agent "$UA" --min-tls TLSv1_3 "$LINKS"
+            # 0.18.1 wants headers as key=value, so the Accept header is left out
+            run "lychee 0.18.1" "$OLD" --no-progress --max-retries 0 --timeout 30 \
+              --user-agent "$UA" "$LINKS"
+          done
