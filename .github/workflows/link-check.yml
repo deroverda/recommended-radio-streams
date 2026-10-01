@@ -66,7 +66,7 @@ jobs:
             --host-request-interval 1s
             --timeout 30
             --retry-wait-time 15
-            --user-agent "Mozilla/5.0"
+            --user-agent "recommended-radio-streams-probe/1.0 (+https://github.com/deroverda/recommended-radio-streams)"
             --header "Accept: */*"
             --accept "100..=103,200..=299,401,403,406,415,429"
             --exclude "localhost"
