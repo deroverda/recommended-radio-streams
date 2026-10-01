@@ -697,6 +697,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [RadioFeeds UK & Ireland](http://www.radiofeeds.co.uk/): Directory for UK and Irish stations with a mobile-friendly web player.
 - ⭐ [Radio Garden](https://radio.garden): Visual interactive globe for radio discovery.
 - [Radio-Locator](https://radio-locator.com/): Directory for finding local FM and AM stations by ZIP code or location.
+- [radio-playlists](https://github.com/AlonDrilich/radio-playlists): Working Radio Browser streams as M3U files by country and genre, top 500, rebuilt weekly.
 - [SHOUTcast](https://directory.shoutcast.com/): Genre-based directory for streaming.
 - [TuneIn](https://tunein.com/): Commercial directory with 100k+ stations.
 - [TuneJourney](https://tunejourney.com/): Interactive 3D globe with 70,000+ stations and an AI talk-skip feature.
