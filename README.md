@@ -204,7 +204,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Behind Loud Tracks](https://blt-radio.com/): French friends' collective for music discovery, sharing, and sound creation, launched 2025. [Stream](https://play.radioking.io/blt-radio)
 - [Black Rhino Radio](https://blackrhinoradio.com/): Music and arts collective from Bucharest, broadcasting dub, bass, jazz, and hip-hop. [Stream](https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a)
 - [Cashmere Radio](https://cashmereradio.com): Experimental not-for-profit from Berlin, treating radio itself as the art form. [Stream](https://cashmereradio.out.airtime.pro/cashmereradio_a)
-- [Clyde Built Radio](https://www.clydebuiltradio.com/): Glasgow music from a tiny studio in the Barras Market, since 2020. [Stream](https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a)
+- [Clyde Built Radio](https://www.clydebuiltradio.com/): Glasgow music from a tiny studio in the Barras Market, since 2020. *(down)* [Stream](https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a)
 - ⭐ [Dandelion Radio](https://dandelionradio.com/): Inspired by John Peel, home of the Festive 50 since 2006. [Stream](https://www.dandelionradio.com/DandelionRadio.pls)
 - [Datafruits](https://datafruits.fm/): Cooperative freeform net radio with minimal editorial control, listener-supported since 2012. [Stream](https://streampusher-relay.club/datafruits.mp3)
 - [Depa Radio](https://www.depa.radio/): Live broadcasts from the DJ booth at Departamento, a bar in Roma, Mexico City. [Stream](https://servidor15-2.brlogic.com:7006/live)
@@ -628,7 +628,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Broadcastify](https://www.broadcastify.com/): Largest directory for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
 - [DriftConditions](https://driftconditions.org/): Procedurally mixed found sound, spoken word, and shortwave crosstalk, assembled live by code and never repeated. [Stream](https://usa14.fastcast4u.com/proxy/wmodes?mp=/1)
-- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. [Stream](https://stream.bestairadio.com/live)
+- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. *(down)* [Stream](https://stream.bestairadio.com/live)
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
