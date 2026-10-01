@@ -161,8 +161,10 @@ jobs:
               echo "### $name"
               echo
               echo '```'
-              curl -sv --connect-timeout 6 --max-time 10 -o /dev/null -A "$(ua_for honest)" "$url" 2>&1 \
-                | tr -d '\r' | grep -E '^(\*|<) ' | head -n 30
+              curl -sv --connect-timeout 12 --max-time 15 -o /dev/null -A "$(ua_for honest)" "$url" 2>&1 \
+                | tr -d '\r' \
+                | grep -E '^< |Connected to|Failed to connect|Timeout|timed out|Immediate connect|SSL certificate|expire date|issuer' \
+                | head -n 40 || true
               echo '```'
             } >> "$OUT"
           done < "$STREAMS"
