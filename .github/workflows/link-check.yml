@@ -15,7 +15,7 @@ on:
       - ".github/scripts/probe-streams.sh"
       - ".github/scripts/stream_parser.py"
   schedule:
-    - cron: "17 0 * * 1" # weekly on Monday at 00:17 UTC
+    - cron: "17 10 * * 1" # weekly on Monday at 10:17 UTC - daytime in Europe, unlike the Saturday evening run
     - cron: "17 17 * * 6" # weekly on Saturday 17:17 UTC - catches weekend-only live stations
   workflow_dispatch:
   
