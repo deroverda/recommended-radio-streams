@@ -72,6 +72,7 @@ jobs:
             --exclude "localhost"
             --exclude "127.0.0.1"
             --exclude "github.com/deroverda/recommended-radio-streams/stargazers"
+            --exclude "^https://dinamo[.]fm/"
             README.md
         env:
           GITHUB_TOKEN: ${{ github.token }}
