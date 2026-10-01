@@ -52,7 +52,7 @@ set -uo pipefail
 # ----------------------------------------------------------------------------
 # CONFIGURATION
 # ----------------------------------------------------------------------------
-UA="${UA:-Mozilla/5.0}"
+UA="${UA:-recommended-radio-streams-probe/1.0 (+https://github.com/deroverda/recommended-radio-streams)}"
 README_FILE="${README_FILE:-README.md}"
 REPORT="${REPORT:-stream-report.md}"
 JOBS="${JOBS:-8}"
