@@ -16,7 +16,7 @@
 
 </div>
 
-Internet radio I actually listen to, underground electronic, freeform, jazz, ambient, and weird stuff. Every entry includes a direct stream URL you can paste into any app.
+Internet radio I actually listen to: underground electronic, freeform, jazz, ambient, and weird stuff. Every station in The Station Directory has a stream URL you can paste into any app.
 
 ---
 
@@ -25,7 +25,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 1. Choose a player from [Apps & Players](#apps-players).
 2. Search the player's built-in radio directory first.
 3. If it's not listed, long-press or right-click to copy the [Stream] link, then paste it into any media player to tune in.
-4.  Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list, download the one matching your interests.
+4. Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list. Download the one matching your interests.
 
 *Tip: Click a station's name to visit its official site. ⭐ = Personal favorites.*
 
@@ -63,7 +63,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### Mobile
 | App Name | OS | Type | Notes |
 | :--- | :---: | :---: | :--- |
-| [Broadcasts](https://apps.apple.com/app/broadcasts/id1469995354) | iOS | `Freemium` | Station library with Radio Browser search and custom stream URLs.. |
+| [Broadcasts](https://apps.apple.com/app/broadcasts/id1469995354) | iOS | `Freemium` | Station library with Radio Browser search and custom stream URLs. |
 | [Eter](https://apps.apple.com/app/eter-streaming-internet-radio/id1523221566) | iOS | `Freemium` | Minimal native player with Apple Watch, TV, and CarPlay support. |
 | [Triode](https://triode.app/) | iOS | `Freemium` | Artwork-forward design with a clean minimal interface. |
 | [RadioDroid](https://github.com/segler-alex/RadioDroid) | Android | `Open Source` | Supports recording and Chromecast. |
@@ -171,9 +171,9 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [KUTX 98.9](https://kutx.org): Austin public radio. Indie rock, Americana, and Texas music. [Stream](https://streams.kut.org/4428_192.mp3)
 - [KVRX 91.7](https://kvrx.org/): Student-run freeform from UT Austin. [Stream](https://kvrx.org/now_playing/stream)
 - [KXLU 88.9](https://kxlu.com/): Los Angeles student-run, focused on underground rock and independent sets. [Stream](https://kxlu.streamguys1.com/kxlu-hi)
-- [KZSU Stanford 90.1](https://kzsu.stanford.edu): Student-run from Stanford, with a 80,000-disc library and an annual Day of Noise. [Stream](http://kzsu-streams.stanford.edu/kzsu-1-256.mp3)
+- [KZSU Stanford 90.1](https://kzsu.stanford.edu): Student-run from Stanford, with an 80,000-disc library and an annual Day of Noise. [Stream](http://kzsu-streams.stanford.edu/kzsu-1-256.mp3)
 - [Prun'](https://www.prun.net/): Student station from Nantes since 1999, covering emerging artists across groove, hip-hop, funk, and electronic. [Stream](https://www.prun.net/stream)
-- [Radio KRŠ](https://radiokrs.com/): Montenegro's first student station, since 2014, slogan translates to 'We break the silence.' [Stream](https://stream.radiokrs.me:8443/lq.mp3)
+- [Radio KRŠ](https://radiokrs.com/): Montenegro's first student broadcaster, since 2014, with the slogan "We break the silence." [Stream](https://stream.radiokrs.me:8443/lq.mp3)
 - [Subcity Radio](https://subcity.org/): No-playlist student collective from the University of Glasgow, 200+ contributors since 1995. [Stream](https://stream.subcity.org/listen)
 - [UCT Radio](https://www.uct.ac.za/radio): Student-run from the University of Cape Town since 1976, with a South African music quota. [Stream](https://edge.iono.fm/xice/uctradio_live_high.aac)
 - [WFMU - Rock 'n' Soul](https://wfmu.org/): Rock, R&B, and soul. [Stream](http://wfmu.org/wfmu_rock.pls)
@@ -206,7 +206,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Cashmere Radio](https://cashmereradio.com): Experimental not-for-profit from Berlin, treating radio itself as the art form. [Stream](https://cashmereradio.out.airtime.pro/cashmereradio_a)
 - [Clyde Built Radio](https://www.clydebuiltradio.com/): Glasgow music from a tiny studio in the Barras Market, since 2020. *(down)* [Stream](https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a)
 - ⭐ [Dandelion Radio](https://dandelionradio.com/): Inspired by John Peel, home of the Festive 50 since 2006. [Stream](https://www.dandelionradio.com/DandelionRadio.pls)
-- [Datafruits](https://datafruits.fm/): Cooperative freeform net radio with minimal editorial control, listener-supported since 2012. [Stream](https://streampusher-relay.club/datafruits.mp3)
+- [Datafruits](https://datafruits.fm/): Cooperative freeform broadcaster with minimal editorial control, listener-supported since 2012. [Stream](https://streampusher-relay.club/datafruits.mp3)
 - [Depa Radio](https://www.depa.radio/): Live broadcasts from the DJ booth at Departamento, a bar in Roma, Mexico City. [Stream](https://servidor15-2.brlogic.com:7006/live)
 - [DIA!](https://www.diaradio.live/): Basque-language music and culture from Saint-Jean-de-Luz, launched at a festival in 2019. [Stream](https://livestream.diaradio.live/main)
 - [Dial Radio](https://dialradio.live/): No accounts, no DJs, anyone contributes a playlist for one of four daily time slots. [Stream](https://cast.dialradio.live/stream.aac)
@@ -214,7 +214,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [dublab](https://dublab.com): Future roots music from a Los Angeles non-profit, since 1999. [Stream](http://dublab.out.airtime.pro:8000/dublab_a)
 - ⭐ [Dublin Digital Radio](https://listen.dublindigitalradio.com/): Award-winning volunteer community radio from Dublin, covering music, art, and politics since 2016. [Stream](https://dublin-digital-radio.radiocult.fm/stream)
 - [The Dump](https://www.thedumpradio.com/): Obscure music across genres, intentionally unpolished. [Stream](https://radio.turbo.net.au/stream-hq)
-- [East Village Radio](https://eastvillageradio.com/): Freeform station launched in 2003 from a 1st Avenue shopfront studio in New York City. [Stream](https://east-village-radio.radiocult.fm/stream)
+- [East Village Radio](https://eastvillageradio.com/): Freeform since 2003, from a 1st Avenue shopfront studio in New York City. [Stream](https://east-village-radio.radiocult.fm/stream)
 - [Fango Radio](https://www.fangoradio.com/): Unusual and rarely-heard music, words, and sounds from Pistoia, Tuscany. [Stream](https://pantano.ovh:8444/pantano)
 - [fbi.radio](https://www.fbi.radio/): Sydney's independent non-profit, half Australian music, half of that from Sydney, since 2003. [Stream](https://streamer.fbiradio.com/stream)
 - [Foundation FM](https://foundation.fm/): House, garage, and bass from a women and queer-led London collective. [Stream](https://streamer.radio.co/s0628bdd53/listen)
@@ -256,7 +256,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Operator Radio](https://operator-radio.com/): Alternative sounds from a blue shipping container in Rotterdam, broadcasting since 2017. [Stream](https://origin.streamnerd.nl/operator/operator/icecast.audio)
 - [Palanga Street Radio](https://palanga.live/): DIY community radio started in a Vilnius flat on Palanga Street, since 2017. [Stream](https://stream.palanga.live:8443/palanga128.mp3)
 - [Paranoise Radio](https://www.paranoiseradio.com/): Pirate radio turned international collective, started by students in Thessaloniki in 2008. [Stream](https://paranoisewebcast.radioca.st/stream)
-- [Parea Radio](https://parearadio.com/): Athens community station named for parea, Greek for friends gathered around sound. [Stream](https://parea-radio-b7474105.radiocult.fm/stream)
+- [Parea Radio](https://parearadio.com/): Athens community broadcaster named for parea, Greek for friends gathered around sound. [Stream](https://parea-radio-b7474105.radiocult.fm/stream)
 - [Piñata Radio](https://www.pinataradio.com/): Bar in Montpellier with live broadcasts from emerging local and international artists. [Stream](https://listen.radioking.com/radio/96031/stream/134656)
 - [Radio 80000](https://www.radio80k.de/): Munich's electronic underground from a converted shipping container, since 2015. [Stream](https://radio80k.out.airtime.pro/radio80k_a)
 - [Radio Banda Larga](https://rbl.media/): Started with a live broadcast from a terrace in Turin's Parco del Valentino, 2011. [Stream](https://rblmedia-a4a44e62.radiocult.fm/stream)
@@ -300,10 +300,10 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [TSUBAKI fm](https://tsubakifm.com/): Independent music broadcast from Tokyo, Kyoto, Nagoya, Hiroshima, and Okinawa. *(down)* [Stream](https://edge.mixlr.com/channel/vgmet)
 - [Veneno](https://veneno.live/): Cultural broadcasts from downtown São Paulo, connecting artists and collectives, since 2018. [Stream](https://radio.veneno.live/stream/main)
 - [We Are Various](https://www.wearevarious.com/): Nomadic community station from Antwerp, broadcasting live from a rotating set of local venues. *(down)* [Stream](https://azuracast.wearevarious.com/listen/we_are_various/live.mp3)
-- [WGXC 90.7-FM](https://wavefarm.org/radio/wgxc/schedule): Wave Farm's FM from the Upper Hudson Valley, "Radio for Open Ears". [Stream](https://audio.wavefarm.org/wgxc.mp3)
+- [WGXC 90.7](https://wavefarm.org/radio/wgxc/schedule): Wave Farm's FM from the Upper Hudson Valley, "Radio for Open Ears". [Stream](https://audio.wavefarm.org/wgxc.mp3)
 - ⭐ [Worldwide FM](https://www.worldwidefm.net/): Founded by Gilles Peterson, jazz, soul, and global sounds from London. [Stream](https://worldwide-fm.radiocult.fm/stream)
 - [XRAY.fm](https://xray.fm/): Portland non-profit putting local DJs and the city's underground music scene on air. [Stream](https://listen.xray.fm/stream)
-- [Zabrij Radio](https://www.zabrijradio.org/): Zagreb station founded in 2025, pivoted from global sound exploration to underrepresented Balkan music. [Stream](https://zabrij-radio.radiocult.fm/stream)
+- [Zabrij Radio](https://www.zabrijradio.org/): Founded in Zagreb in 2025, pivoted from global sound exploration to underrepresented Balkan music. [Stream](https://zabrij-radio.radiocult.fm/stream)
 
 [↑ back to top](#top)
 
@@ -356,8 +356,8 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Frisky Radio](https://frisky.fm/): Underground electronic DJ mixes since 2008. [Stream](http://stream2.friskyradio.com/frisky_mp3_hi)
 - [GROOVE RADIO](https://www.grooveradio.com/): Founded 1992 by LA DJ Swedish Egil, first US DJ culture format. [Stream](https://streams.radio.co/s14193ab17/listen)
 - ⭐ [Intergalactic FM - Cybernetic Broadcasting System](https://intergalactic.fm/): Pirate-born cult station from The Hague, electro, disco, and deep cuts. [Stream](http://radio.intergalactic.fm:80/1)
-- ⭐ [ISEKOI Radio - Main Channel](https://isekoi-radio.com/): Electronic music framed as transmissions from an exoplanet 63 light-years away, since 2023. [Stream](https://public.isekoi-radio.com/listen/isekoi/radio.mp3)
 - [Intergalactic FM - Disco Fetish](https://intergalactic.fm/): Italo, disco, and old-school cuts from the pirate-born cult station in The Hague. [Stream](https://radio.intergalactic.fm/2A)
+- ⭐ [ISEKOI Radio - Main Channel](https://isekoi-radio.com/): Electronic music framed as transmissions from an exoplanet 63 light-years away, since 2023. [Stream](https://public.isekoi-radio.com/listen/isekoi/radio.mp3)
 - [Italoradio.fm](https://italoradio.fm/): Classic and new Italo-disco. [Stream](http://cc6.beheerstream.com:8102/stream)
 - [Kool FM](https://www.rinse.fm/channels/kool): Jungle and drum and bass pioneer from 1991, now broadcasting from Rinse FM's studio. [Stream](https://admin.stream.rinse.fm/proxy/kool/stream)
 - [KSOL - From the Valleys of Kasol](https://ksol.live/valleys-of-kasol): Psytrance and goa trance for following the bass into the forest. [Stream](https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8)
@@ -396,7 +396,6 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ---
 
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
-
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
 - [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3)
 - [Disco Factory FM](https://www.discofactory.fm): Volunteer friends spinning vinyl-only 12-inch disco, funk, and soul from the 70s-80s. [Stream](https://s5.radio.co/s253044a7a/listen)
@@ -483,7 +482,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](http://hi5.death.fm/)
 - [Doomnation Radio](https://www.doomnationradio.com/): Doom, sludge, stoner, and funeral doom from a metal webzine running since 2013. [Stream](https://s2.voscast.com:11123/stream)
 - [Hard Rock Hell Radio](https://hardrockhellradio.com/): Rock and metal from the UK-based HRH Magazine, with named DJs and weekly shows. [Stream](https://tbfmonli.radioca.st/stream)
-- [ISKC - Extreme Metal](https://iskcrocks.com/): Extreme metal sub-channel from the Netherlands, based ISKC Radio Group. [Stream](http://mediaserv68.live-streams.nl:8012/ExtremeMetal)
+- [ISKC - Extreme Metal](https://iskcrocks.com/): Extreme metal sub-channel from the Netherlands-based ISKC Radio Group. [Stream](http://mediaserv68.live-streams.nl:8012/ExtremeMetal)
 - [Metal Devastation](https://metaldevastationradio.com/): All-genre extreme metal with live DJs and chat, from Jackson, Tennessee, since 2013. [Stream](https://c13.radioboss.fm:18099/stream)
 - [NTS - The Pit](https://www.nts.live/infinite-mixtapes/the-pit): Sludge, black metal, and thrash in rotation. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape34)
 - [Prog Palace Radio](https://www.progpalaceradio.com/): Progressive and power metal since 1999, for fans of Dream Theater and Kamelot. [Stream](https://cheetah.streemlion.com/progpalace64)
@@ -498,12 +497,12 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 
 ### News & Spoken Word <a id="news-spoken-word"></a>
 - [AudioBookRadio](http://www.audiobookradio.net/): Spoken word with Laurence Olivier in classic plays, audiobooks, and poetry readings. [Stream](https://audiobookradio.out.airtime.pro/audiobookradio_a)
-- ⭐ [BBC Radio 4](https://www.bbc.co.uk/sounds/play/live/bbc_radio_fourfm): News, drama, comedy, and spoken word from UK public service broadcaster. [Stream](http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8)
+- ⭐ [BBC Radio 4](https://www.bbc.co.uk/sounds/play/live/bbc_radio_fourfm): News, drama, comedy, and spoken word from the UK public service broadcaster. [Stream](http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8)
 - [BBC World Service](https://www.bbc.co.uk/sounds/play/live/bbc_world_service): International news and culture. [Stream](http://stream.live.vc.bbcmedia.co.uk/bbc_world_service)
 - [Historyradio.org](https://historyradio.org): Literature, speeches, and audiobooks. [Stream](http://stream.radiojar.com/6bmecgg3wd5tv)
 - [Horror Radio](https://darkentertainments.com/): Vintage horror radio plays and eerie soundscapes. [Stream](https://eu1.fastcast4u.com/proxy/stevende1?mp=/,)
 - [The Ultimate Art Bell](https://www.willstare.com/art-bell-repository/): Archive of classic Art Bell paranormal talk episodes. [Stream](http://stream.willstare.com:8450/,)
-- [Vintage ROKiT - Crime and Suspense](https://rokitradio.com/): Restored crime and mystery dramas from vintage radio broadcasts. [Stream](http://streaming04.liveboxstream.uk:8168/stream)
+- [Vintage ROKiT Radio - Crime and Suspense](https://rokitradio.com/): Restored crime and mystery dramas from vintage radio broadcasts. [Stream](http://streaming04.liveboxstream.uk:8168/stream)
 
 [↑ back to top](#top)
 
@@ -597,7 +596,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [CeltCast](https://celtcast.com/): Volunteer-run Viking, Pagan and Celtic folk station since 2014, with its own Fantasy Awards. [Stream](http://caster04.streampakket.com:8982/1_mp3_192)
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Glasgow's volunteer community broadcaster for Celtic, folk, and traditional music, with ties to Celtic Connections. [Stream](https://streaming.broadcastradio.com:11135/celtic)
 - [CeolFM](https://ceol.fm/): Musician-led Irish traditional music with dedicated fiddle, pipes, songs, and reel streams. [Stream](https://listen.ceol.fm/auto)
-- [Dansbandskanalen](https://www.dansbandskanalen.se/): Swedish dansband, schlager and country blended for the Swedish partner-dance bugg, from Staffanstorp, Sweden. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
+- [Dansbandskanalen](https://www.dansbandskanalen.se/): Dansband, schlager and country blended for the Swedish partner dance bugg, from Staffanstorp. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
 - [Daybreak Star Radio](https://daybreakstarradio.com): Indigenous music network from Seattle's Daybreak Star Cultural Center, since 2021. [Stream](http://ice9.securenetsystems.net/DSR)
 - ⭐ [Gladys Palmera Colección](https://gladyspalmera.com/coleccion): Archive of vintage Latin and Afro-Caribbean music. [Stream](http://streams.radio.co/s496c4d2e8/listen)
 - [J1 Radio - Gold](https://www.j1fm.tokyo): Japanese pop and enka, 1950s to 1989. [Stream](http://gold.j1fm.tokyo/)
@@ -634,7 +633,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
 - [OpenMHz](https://openmhz.com/): Community-contributed recordings of fire, police, and EMS radio, archived 30 days.
 - [P-Node](https://p-node.org): Artist collective broadcasting experimental and transmission art on web and DAB+ from Paris, since 2018. [Stream](http://stream.p-node.org/dab.mp3)
-- [Payphone Radio](https://www.payphone-project.com/payphone-radio-network): Archive of over 1600 recorded New York City payphone calls from 2010-2020. [Stream](https://centova11.instainternet.com/proxy/marktho1?mp=/stream)
+- [Payphone Radio](https://www.payphone-project.com/payphone-radio-network): Archive of over 1,600 recorded New York City payphone calls from 2010-2020. [Stream](https://centova11.instainternet.com/proxy/marktho1?mp=/stream)
 - [Radio Brennpunkt](https://radiobrennpunkt.org/): Unusual music, live shows, and fringe audio from Seattle, all Creative Commons or public domain. [Stream](https://radio-brennpunkt.radiocult.fm/stream)
 - [Radio is a Foreign Country](https://www.radioisaforeigncountry.org/): Shortwave archives and obscure global recordings. [Stream](https://s5.radio.co/s20251311a/listen)
 - [Radio Paisajes](https://radiopaisajes.cl/): Field recordings and experimental music from Chile and the Americas. [Stream](https://stream.zeno.fm/nftv61u086etv)
@@ -652,7 +651,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ---
 
 ## Multi-Station Networks <a id="multi-station"></a>
-*Networks operating multiple themed channels under one umbrella, distinct from the single-station search tools in Directories & Discovery Tools.*
+*Networks operating multiple themed channels under one umbrella, distinct from the single-station search tools in Station Directories & Databases.*
 - [1.FM Radio Network](https://radio.1cloud.fm/all-stations): 60+ single-genre channels spanning classical, reggaeton, psytrance, and decades from the 70s to today.
 - [90s90s Radio](https://www.90s90s.de/radios): Dedicated 90s channels.
 - [Asia DREAM Radio](https://asiadreamradio.torontocast.stream/): J-pop, J-rock, J-jazz, hip-hop, and kayoukyoku across a dozen channels from TorontoCast.
@@ -670,7 +669,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [Pumpkin FM](https://pumpkinfm.com): Golden-age drama, comedy, and music from the 1940s-60s across multiple themed channels.
 - [Radio BOB!](https://www.radiobob.de/musik/streams): German rock network, 60+ streams from decade-specific to dedicated Metallica and Wacken channels.
 - ⭐ [Radio Caprice](https://radcap.ru/): Russian network with 300+ micro-genre channels.
-- [Radio FG](https://www.radiofg.com): French electro network since 1991, with FG Chic, FG Club, and 60 webradios total.
+- [Radio FG](https://www.radiofg.com): French electro network since 1991, with FG Chic, FG Club, and 60 channels total.
 - [Radio Record](https://www.radiorecord.ru/): St. Petersburg's first dance station since 1995, 90+ channels, its EDM shift decided by pager votes.
 - [Rainwave](https://rainwave.cc/): Interactive video game music channels.
 - ⭐ [SomaFM](https://somafm.com/): 30+ listener-supported, commercial-free channels.
@@ -688,10 +687,10 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - ⭐ [FMStream](https://fmstream.org/): Tools for finding raw stream URLs.
 - [Freeform Radio Directory](https://www.freeformradio.directory/): Directory of freeform and independent stations with direct stream links.
 - [Icecast Directory](https://dir.xiph.org): Open directory of Icecast streaming stations.
-- [internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) (github): Curated station list, one m3u file per stream, quality over quantity.
+- [internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) (github): GitHub list of hand-picked stations, one m3u file per stream, quality over quantity.
 - [m3u radio music playlists](https://junguler.github.io/m3u-radio-music-playlists/): GitHub scrape of 50+ directory sites into genre-sorted playlists, over a million unique streams.
 - [Monoskop](https://monoskop.org/Community_radio): Wiki directory of community and freeform radio stations worldwide, with links and station histories.
-- [One Radio](https://one-radio.com/): Directory of independent, human-curated stations organized by city and genre, built around "non-algorithmic, palate-expanding" discovery.
+- [One Radio](https://one-radio.com/): Directory of independent, human-picked stations organized by city and genre, with no algorithmic recommendations.
 - [PublicRadioFan](https://publicradiofan.com/): Program schedules and live stream listings for public radio stations worldwide.
 - ⭐ [Radio Browser](https://www.radio-browser.info): Open-source, community-maintained database.
 - [RadioFeeds UK & Ireland](http://www.radiofeeds.co.uk/): Directory for UK and Irish stations with a mobile-friendly web player.
@@ -701,7 +700,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 - [SHOUTcast](https://directory.shoutcast.com/): Genre-based directory for streaming.
 - [TuneIn](https://tunein.com/): Commercial directory with 100k+ stations.
 - [TuneJourney](https://tunejourney.com/): Interactive 3D globe with 70,000+ stations and an AI talk-skip feature.
-- [You.Radio Artist Streams](https://you.radio/search): Single-artist streams via `http://streaming.exclusive.radio/er/SLUG/icecast.audio` - replace SLUG with the artist name lowercased, no spaces or punctuation, dropping "The".
+- [You.Radio Artist Streams](https://you.radio/search): Single-artist streams via `https://streaming.exclusive.radio/er/SLUG/icecast.audio`, SLUG is the artist name in lowercase, no spaces, punctuation or "The".
 - [Zeno.fm](https://zeno.fm/radio/): Streaming host for independent broadcasters.
 
 [↑ back to top](#top)
@@ -717,7 +716,7 @@ Internet radio I actually listen to, underground electronic, freeform, jazz, amb
 ### How to find direct stream URLs
 
 **1. Check the site**
-Look for links labeled "Listen Live," "Direct Stream," "MP3," "AAC," "M3U," "PLS", "Winamp"
+Look for links labeled "Listen Live," "Direct Stream," "MP3," "AAC," "M3U," "PLS," or "Winamp."
 
 **2. The Stream Detector Method**
 A fast way to capture hidden stream URLs from embedded web players.
@@ -732,7 +731,7 @@ Open the web player, right-click and select **Inspect** (or press `F12`). Go to 
 
 **4. The Cat-Catch Method (for HLS/DASH streams the above don't catch)**
 A heavier-duty sniffer with dedicated HLS (.m3u8) and DASH (MPD) parsers. Use it when Stream Detector or the Inspector method don't surface a clean, playable URL.
-* Install cat-catch for [Chrome](https://chrome.google.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb), [Edge](https://microsoftedge.microsoft.com/addons/detail/oohmdefbjalncfplafanlagojlakmjci), or [Firefox](https://addons.mozilla.org/addon/cat-catch/) - use only these official links - the maintainers warn of ad-injected fake copies elsewhere.
+* Install cat-catch for [Chrome](https://chrome.google.com/webstore/detail/jfedfbgedapdagkghmgibemcoggfppbb), [Edge](https://microsoftedge.microsoft.com/addons/detail/oohmdefbjalncfplafanlagojlakmjci), or [Firefox](https://addons.mozilla.org/addon/cat-catch/). Use only these official links, because the maintainers warn of ad-injected fake copies elsewhere.
 * Play the station, open the extension, and use the built-in M3U8/DASH parser to resolve the manifest into a direct stream URL.
 
 ---
@@ -750,7 +749,7 @@ A heavier-duty sniffer with dedicated HLS (.m3u8) and DASH (MPD) parsers. Use it
 ---
 
 ## Contributing <a id="contributing"></a>
-Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-streams/issues/new) or this [Form](https://tally.so/r/eqp5el).
+Suggest a station via [GitHub](https://github.com/deroverda/recommended-radio-streams/issues/new) or this [form](https://tally.so/r/eqp5el).
 
 Good suggestions include a homepage link, a direct stream URL, and a description covering what they play plus something distinctive, location, history, or concept. Human-curated and non-commercial stations fit best.
 
