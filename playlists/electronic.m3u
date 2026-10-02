@@ -57,12 +57,12 @@ https://streams.radio.co/s14193ab17/listen
 # Homepage: https://intergalactic.fm/
 #EXTINF:-1,Intergalactic FM - Cybernetic Broadcasting System
 http://radio.intergalactic.fm:80/1
-# Homepage: https://isekoi-radio.com/
-#EXTINF:-1,ISEKOI Radio - Main Channel
-https://public.isekoi-radio.com/listen/isekoi/radio.mp3
 # Homepage: https://intergalactic.fm/
 #EXTINF:-1,Intergalactic FM - Disco Fetish
 https://radio.intergalactic.fm/2A
+# Homepage: https://isekoi-radio.com/
+#EXTINF:-1,ISEKOI Radio - Main Channel
+https://public.isekoi-radio.com/listen/isekoi/radio.mp3
 # Homepage: https://italoradio.fm/
 #EXTINF:-1,Italoradio.fm
 http://cc6.beheerstream.com:8102/stream
