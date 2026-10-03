@@ -1,23 +1,20 @@
 {
-  "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 2
+  "https://bestairadio.com/": {
+    "consecutive_failures": 1
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 30
+    "consecutive_failures": 31
   },
-  "https://dinamo.fm/": {
-    "consecutive_failures": 30
-  },
-  "https://dinamo.fm/content/4/channels": {
-    "consecutive_failures": 30
+  "https://gensokyoradio.net/": {
+    "consecutive_failures": 1
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 30
+    "consecutive_failures": 31
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 10
+    "consecutive_failures": 11
   },
-  "https://www.dansbandskanalen.se/": {
-    "consecutive_failures": 30
+  "https://www.boogalooradio.com/": {
+    "consecutive_failures": 1
   }
 }
