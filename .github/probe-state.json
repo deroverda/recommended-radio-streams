@@ -1,51 +1,45 @@
 {
   "_category_totals": {
-    "AUTH_REQUIRED": 3,
-    "OK": 434,
+    "AUTH_REQUIRED": 2,
+    "OK": 436,
     "SERVER_ERROR": 1,
-    "SILENT": 8,
-    "TIMEOUT": 2
+    "SILENT": 6,
+    "TIMEOUT": 3
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 31
+    "consecutive_failures": 32
+  },
+  "https://aaja.radiocult.fm/stream": {
+    "consecutive_failures": 1
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 31
+    "consecutive_failures": 32
   },
   "https://libretime.radioquantica.com/main.mp3": {
-    "consecutive_failures": 1
-  },
-  "https://radio.veneno.live/stream/main": {
-    "consecutive_failures": 1
-  },
-  "https://radio13.pro-fhi.net/flux-nwsimjda2/stream": {
-    "consecutive_failures": 1
-  },
-  "https://stream-relay-geo.internetpublicradio.live/stream/main": {
-    "consecutive_failures": 3
+    "consecutive_failures": 2
   },
   "https://stream.bestairadio.com/live": {
-    "consecutive_failures": 1
-  },
-  "https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://stream.thesocalsound.org/1": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 4
+    "consecutive_failures": 5
+  },
+  "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
+    "consecutive_failures": 1
   }
 }
