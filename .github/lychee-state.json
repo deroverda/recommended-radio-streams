@@ -1,20 +1,26 @@
 {
+  "http://www.giantsofjazzradio.co.uk/": {
+    "consecutive_failures": 1
+  },
   "https://bestairadio.com/": {
+    "consecutive_failures": 2
+  },
+  "https://boxradio.net/en/radio/lofi-radio": {
+    "consecutive_failures": 1
+  },
+  "https://boxradio.net/en/radio/rain-thunderstorms-sounds": {
     "consecutive_failures": 1
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 31
-  },
-  "https://gensokyoradio.net/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 32
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 31
+    "consecutive_failures": 32
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 11
+    "consecutive_failures": 12
   },
-  "https://www.boogalooradio.com/": {
+  "https://veneno.live/": {
     "consecutive_failures": 1
   }
 }
