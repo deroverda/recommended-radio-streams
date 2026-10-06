@@ -548,7 +548,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Radio Paradise](https://radioparadise.com/): Mixed by a couple in Paradise, California, rock, world, and electronic. [Stream](http://stream-dc1.radioparadise.com/rp_192m.ogg)
 - [Radio Woodstock](https://radiowoodstock.com/): AAA rock, indie, folk, and live Hudson Valley music. [Stream](https://stream.revma.ihrhls.com/zc7332)
 - [Real Punk Radio](https://realpunkradio.com/): 100% DIY station spanning punk, ska, rockabilly, psychobilly, and old-school country under one punk ethos. [Stream](http://149.56.155.73:8080/stream)
-- [The SoCal Sound](https://thesocalsound.org/): Album-alternative and Americana from Cal State Northridge public radio. [Stream](https://stream.thesocalsound.org/1)
+- [The SoCal Sound](https://thesocalsound.org/): Album-alternative and Americana from Cal State Northridge public radio. [Stream](http://playerservices.streamtheworld.com/api/livestream-redirect/KCSNFMAAC.aac)
 - [Yacht Rock Miami](https://yachtrockmiami.com/): Yacht rock from Miami. [Stream](https://usa20.fastcast4u.com:4100/1753014835)
 
 [↑ back to top](#top)
