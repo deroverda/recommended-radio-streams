@@ -26,6 +26,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 2. Search the player's built-in radio directory first.
 3. If it's not listed, long-press or right-click to copy the [Stream] link, then paste it into any media player to tune in.
 4. Prefer bulk import? Per-genre [.m3u playlists](playlists/) are auto-generated from this list. Download the one matching your interests.
+5. If a stream connects but stays silent, the station is probably between shows. Check its site for the schedule.
 
 *Tip: Click a station's name to visit its official site. ⭐ = Personal favorites.*
 
