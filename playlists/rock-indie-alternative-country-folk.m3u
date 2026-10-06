@@ -71,7 +71,7 @@ https://stream.revma.ihrhls.com/zc7332
 http://149.56.155.73:8080/stream
 # Homepage: https://thesocalsound.org/
 #EXTINF:-1,The SoCal Sound
-https://stream.thesocalsound.org/1
+http://playerservices.streamtheworld.com/api/livestream-redirect/KCSNFMAAC.aac
 # Homepage: https://yachtrockmiami.com/
 #EXTINF:-1,Yacht Rock Miami
 https://usa20.fastcast4u.com:4100/1753014835
