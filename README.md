@@ -597,7 +597,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Celtic Music Radio](https://www.celticmusicradio.net/): Glasgow's volunteer community broadcaster for Celtic, folk, and traditional music, with ties to Celtic Connections. [Stream](https://streaming.broadcastradio.com:11135/celtic)
 - [CeolFM](https://ceol.fm/): Musician-led Irish traditional music with dedicated fiddle, pipes, songs, and reel streams. [Stream](https://listen.ceol.fm/auto)
 - [Dansbandskanalen](https://www.dansbandskanalen.se/): Dansband, schlager and country blended for the Swedish partner dance bugg, from Staffanstorp. [Stream](https://fm09-ice.stream.khz.se/fm09_mp3)
-- [Daybreak Star Radio](https://daybreakstarradio.com): Indigenous music network from Seattle's Daybreak Star Cultural Center, since 2021. [Stream](http://ice9.securenetsystems.net/DSR)
+- [Daybreak Star Radio](https://daybreakstarradio.com): Indigenous music network from Seattle's Daybreak Star Cultural Center, since 2021. *(down)* [Stream](http://ice9.securenetsystems.net/DSR)
 - ⭐ [Gladys Palmera Colección](https://gladyspalmera.com/coleccion): Archive of vintage Latin and Afro-Caribbean music. [Stream](http://streams.radio.co/s496c4d2e8/listen)
 - [J1 Radio - Gold](https://www.j1fm.tokyo): Japanese pop and enka, 1950s to 1989. [Stream](http://gold.j1fm.tokyo/)
 - [KBON 101.1](https://www.kbon.com/): South Louisiana station since 1997, Cajun, zydeco, and swamp pop. [Stream](http://ice64.securenetsystems.net/KBON)
