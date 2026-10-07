@@ -19,9 +19,10 @@
 #   silencedetect logs at INFO level and the main probe deliberately stays at
 #   "-v warning" so a real failure's error text isn't crowded out by
 #   ffmpeg's banner - confirmed by testing that silencedetect produces zero
-#   output at "-v warning". A second, separately-timed check must also agree
-#   before a stream is flagged, since a live stream's coincidental gap
-#   between tracks would otherwise register as a false positive.
+#   output at "-v warning". A short first check screens every stream; only a
+#   stream that fails it gets a longer second check on a fresh connection,
+#   and must be silent there too before it is flagged. A stream that opens
+#   quiet and then plays (a buffer, a pre-roll gap) passes the long check.
 # - Result Breakdown now shows each category's count against last run's
 #   count ("vs last week"), not just a bare number, so a climbing category is
 #   visible instead of needing to be remembered.
@@ -66,17 +67,16 @@ STATE_FILE="${STATE_FILE:-.github/probe-state.json}"
 # Silence/dead-air detection (v4.1). SILENCE_MIN_RATIO is the fraction of the
 # check window that must be silent to flag a stream as dead air rather than
 # a normal pause between songs/segments - 0.9 means "silent 90%+ of the
-# window". SILENCE_CHECK_SECONDS defaults to the same length as the main
-# decode but can be shortened independently to reduce the added run time.
+# window". SILENCE_CHECK_SECONDS is the quick screen that every stream passing
+# the main decode gets; it defaults to the same length as the main decode.
+# SILENCE_CONFIRM_SECONDS is the longer second check, run only for streams
+# that failed the screen, so its extra run time is a few streams' worth. It
+# is longer on purpose: a stream that is quiet only while the connection
+# settles is silent for the screen but not for most of the longer window.
 SILENCE_THRESHOLD_DB="${SILENCE_THRESHOLD_DB:--60dB}"
 SILENCE_MIN_RATIO="${SILENCE_MIN_RATIO:-0.9}"
 SILENCE_CHECK_SECONDS="${SILENCE_CHECK_SECONDS:-$DECODE_SECONDS}"
-# Delay between the two silence checks in check_silence_confirmed(). The
-# first check already needs >=SILENCE_MIN_RATIO of its window silent, so a
-# normal gap between tracks can't trip it - what this guards against is
-# transient dead air (a DJ handover, an encoder restart), which can run
-# tens of seconds. 30s was chosen over the original 5s for that reason.
-SILENCE_CONFIRM_DELAY="${SILENCE_CONFIRM_DELAY:-30}"
+SILENCE_CONFIRM_SECONDS="${SILENCE_CONFIRM_SECONDS:-30}"
 
 if ! command -v ffmpeg >/dev/null 2>&1; then
   echo "Error: ffmpeg is required." >&2; exit 2
@@ -211,8 +211,10 @@ classify_error() {
 # never overrides an already-successful main probe.
 check_silence() {
   local url="$1"
+  local window="$2"
   local out dur
-  out=$(timeout "$PROBE_TIMEOUT" ffmpeg \
+  # The timeout covers the decode window plus the usual connect allowance.
+  out=$(timeout $((window + PROBE_TIMEOUT)) ffmpeg \
     -hide_banner -v info -nostdin \
     -user_agent "$UA" \
     -headers $'Accept: */*\r\n' \
@@ -220,22 +222,22 @@ check_silence() {
     -i "$url" \
     -map 0:a:0 -vn -sn -dn \
     -af "silencedetect=noise=${SILENCE_THRESHOLD_DB}:d=2" \
-    -t "$SILENCE_CHECK_SECONDS" \
+    -t "$window" \
     -f null - \
     2>&1) || true
   dur=$(printf '%s' "$out" | grep -oE 'silence_duration: [0-9.]+' | awk -F': ' '{sum+=$2} END {print sum+0}')
-  awk -v d="$dur" -v total="$SILENCE_CHECK_SECONDS" -v ratio="$SILENCE_MIN_RATIO" \
+  awk -v d="$dur" -v total="$window" -v ratio="$SILENCE_MIN_RATIO" \
     'BEGIN { exit !(d >= total * ratio) }'
 }
 
-# Requires two separately-timed silence checks to agree before trusting the
-# result - a coincidental gap between tracks is unlikely to still be silent
-# a few seconds later; genuine dead air will be.
+# Two-stage check. The short screen runs for every stream that decoded; only
+# a stream that fails it gets the long check, on a fresh connection, which
+# must also be silent for most of its window. A stream that is quiet only for
+# its first seconds passes the long check; genuine dead air does not.
 check_silence_confirmed() {
   local url="$1"
-  check_silence "$url" || return 1
-  sleep "$SILENCE_CONFIRM_DELAY"
-  check_silence "$url"
+  check_silence "$url" "$SILENCE_CHECK_SECONDS" || return 1
+  check_silence "$url" "$SILENCE_CONFIRM_SECONDS"
 }
 
 probe_one_url() {
@@ -281,7 +283,7 @@ probe_one_url() {
     if [ "$status" -eq 0 ]; then
       if check_silence_confirmed "$url"; then
         RESULT_CLASS="SILENT"
-        RESULT_DETAIL="decoded OK but silent for >=${SILENCE_MIN_RATIO} of a ${SILENCE_CHECK_SECONDS}s window"
+        RESULT_DETAIL="decoded OK but silent for >=${SILENCE_MIN_RATIO} of a ${SILENCE_CONFIRM_SECONDS}s window"
         return 1
       fi
       RESULT_CLASS="OK"
@@ -523,9 +525,10 @@ while IFS=$'\t' read -r result url detail name section down; do
     continue
   fi
   # Entry is tagged "*(down)*" in README and still failing. Split by whether
-  # CI can actually tell it's dead. NOT_FOUND / DNS_FAILURE / SERVER_ERROR /
-  # SILENT and the like look the same from any IP, so "still down" is
-  # trustworthy. AUTH_REQUIRED / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are
+  # CI can actually tell it's dead. NOT_FOUND / DNS_FAILURE / SERVER_ERROR
+  # look the same from any IP, so "still down" is trustworthy. SILENT is
+  # grouped here too, but a live-only station is silent whenever it is off
+  # air, so it can be SILENT without being dead. AUTH_REQUIRED / TIMEOUT / CONNECTION_RESET / RATE_LIMITED are
   # exactly what a datacenter-IP block produces, so CI can't say whether the
   # stream came back - those go to a "recheck from home" list instead of
   # being reported as confirmed-down.
@@ -603,7 +606,7 @@ done < "$tmp_results"
   emit_failure_table "$(printf '%s' "$ci_blocked_rows" | awk -F'\t' 'NF && $1+0 >= 3')"
   echo ""
   echo "## Known-Down - confirmed"
-  echo "_Tagged \`*(down)*\` and failing with an error CI can trust from any IP (404, DNS, server error, silence). Genuinely down. Nothing to do week to week - but a high Runs count is the cue to stop keeping the entry and cut it._"
+  echo "_Tagged \`*(down)*\` and failing with an error CI can trust from any IP (404, DNS, server error). Genuinely down. A SILENT row here is the exception: a live-only station is silent whenever it is off air, so check it at its broadcast time. Nothing to do week to week - but a high Runs count is the cue to stop keeping the entry and cut it._"
   echo ""
   emit_failure_table "$known_down_rows"
   echo ""
