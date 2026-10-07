@@ -628,7 +628,6 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Broadcastify](https://www.broadcastify.com/): Largest directory for live public safety, aviation, rail, and marine communications feeds.
 - [Brooklyn Pirate Radio Sound Map](https://map.pirateradiomap.com): Archive of pirate broadcast recordings from Flatbush, Brooklyn, mapped by neighborhood since 2014.
 - [DriftConditions](https://driftconditions.org/): Procedurally mixed found sound, spoken word, and shortwave crosstalk, assembled live by code and never repeated. [Stream](https://usa14.fastcast4u.com/proxy/wmodes?mp=/1)
-- [The Frequency](https://bestairadio.com/): Satire talk radio entirely voiced by AI, set in a fictional 51st state. *(down)* [Stream](https://stream.bestairadio.com/live)
 - [GWES EAS Relay](https://globaleas.org/): Enthusiasts relaying real US civil emergency and weather alerts via repurposed broadcast EAS equipment, since 2015.
 - [LiveATC](https://www.liveatc.net/): Live air traffic control communications from airports worldwide.
 - [Mechanical Music Radio](https://mechanicalmusicradio.com): The world's only station for fairground organs, music boxes, pianolas, and orchestrions. [Stream](https://global.citrus3.com:2020/stream/mechanicalmusicradio)
