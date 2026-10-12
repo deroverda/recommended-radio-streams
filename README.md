@@ -298,7 +298,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [THF Radio](https://www.thfradio.de/): Experimental broadcasts from the former gatehouse at Tempelhof Airport, Berlin. [Stream](https://thf-radio-7ec0e6ee.radiocult.fm/stream)
 - [Three D Radio 93.7 FM](https://www.threedradio.com/): Volunteer-run alternative FM from Adelaide, no playlists, 120+ announcers, since 1979. [Stream](https://sounds.threedradio.com/stream)
 - [Tīrkultūra](https://www.tirkultura.lv/): Experimental radio art from Riga, founded in 2015 by a fashion designer and two artists. [Stream](https://s3.radio.co/s216811754/listen)
-- [TSUBAKI fm](https://tsubakifm.com/): Independent music broadcast from Tokyo, Kyoto, Nagoya, Hiroshima, and Okinawa. *(down)* [Stream](https://edge.mixlr.com/channel/vgmet)
+- [TSUBAKI fm](https://tsubakifm.com/): Independent music broadcast from Tokyo, Kyoto, Nagoya, Hiroshima, and Okinawa. [Stream](https://edge.mixlr.com/channel/vgmet)
 - [Veneno](https://veneno.live/): Cultural broadcasts from downtown São Paulo, connecting artists and collectives, since 2018. [Stream](https://radio.veneno.live/stream/main)
 - [We Are Various](https://www.wearevarious.com/): Nomadic community station from Antwerp, broadcasting live from a rotating set of local venues. *(down)* [Stream](https://azuracast.wearevarious.com/listen/we_are_various/live.mp3)
 - [WGXC 90.7](https://wavefarm.org/radio/wgxc/schedule): Wave Farm's FM from the Upper Hudson Valley, "Radio for Open Ears". [Stream](https://audio.wavefarm.org/wgxc.mp3)
