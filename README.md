@@ -606,7 +606,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Oroko Radio](https://oroko.live/): Afro indie, folk, and soul from Accra, Ghana. [Stream](https://oroko-radio.radiocult.fm/stream)
 - ⭐ [Pan African Space Station](https://panafricanspacestation.org.za/): Live music, performance, and experimental pan-African sounds from Cape Town. [Stream](https://pass.out.airtime.pro/pass_a)
 - [Pyongyang Radio FM](https://kfaspain.es/emisora-central-de-corea-pyongyang-fm/): North Korean state radio via online relays. [Stream](https://listen7.myradio24.com/69366)
-- [Radio Al-Hara](https://www.radioalhara.net/): Experimental beats, talk, and underground Palestinian culture, broadcasting since 2020. [Stream](https://stream.radiojar.com/78cxy6wkxtzuv)
+- [Radio Al-Hara](https://www.radioalhara.net/): Experimental beats, talk, and underground Palestinian culture, broadcasting since 2020. [Stream](https://stream.radioalhara.net/ra)
 - ⭐ [Seribatu](https://www.radioseribatu.com/radioseribatu): Javanese and Balinese gamelan recordings. [Stream](http://radioseribatu.out.airtime.pro:8000/radioseribatu_a)
 - [Svensk Folkmusik AkkA](https://www.svenskfolkmusik.nu/): 33,000+ tracks of Swedish folk music, run by two enthusiasts in the Netherlands. [Stream](https://mediaserv38.live-streams.nl:8107/stream)
 
