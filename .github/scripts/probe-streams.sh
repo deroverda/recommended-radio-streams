@@ -486,6 +486,7 @@ cat "$tmp_dir"/[0-9]*.tsv > "$tmp_results" 2>/dev/null || true
 # ----------------------------------------------------------------------------
 total_ok=0
 manual=0
+silent=0
 ci_blocked=0
 known_down=0
 known_down_recheck=0
@@ -493,6 +494,7 @@ recovered=0
 # Failure-table rows are stored as "<runs><TAB>| ... |" so emit_failure_table
 # can sort by the run count and then strip the key.
 manual_rows=""
+silent_rows=""
 ci_blocked_rows=""
 known_down_rows=""
 known_down_recheck_rows=""
@@ -554,6 +556,10 @@ while IFS=$'\t' read -r result url detail name section down; do
       ci_blocked_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
       ci_blocked=$((ci_blocked + 1))
       ;;
+    SILENT)
+      silent_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
+      silent=$((silent + 1))
+      ;;
     *)
       manual_rows+="${runs}${TAB}| $safe_section | $safe_name | <$url> | $result | $runs | ${detail:-} |"$'\n'
       manual=$((manual + 1))
@@ -567,14 +573,19 @@ done < "$tmp_results"
 {
   echo "# Stream Probe Report - $(date -u '+%F %H:%M UTC')"
   echo ""
-  echo "Checked **$checked** streams: **$total_ok** OK (**$recovered** of them recovered), **$manual** unexpected failures, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
+  echo "Checked **$checked** streams: **$total_ok** OK (**$recovered** of them recovered), **$manual** unexpected failures, **$silent** silent, **$known_down_recheck** tagged-down needing recheck, **$ci_blocked** CI-blocked, **$known_down** confirmed still-down."
   echo ""
-  echo "Sections are ordered most-actionable first. Failure tables sort by consecutive-run count, so a **Runs** of 1 is new this run; stop reading once you hit a section with nothing to act on. A \`SILENT\` result means the stream connected and decoded without error but produced no audible signal - treated the same as any other failure, not a CI-blocking symptom."
+  echo "Sections are ordered most-actionable first. Failure tables sort by consecutive-run count, so a **Runs** of 1 is new this run; stop reading once you hit a section with nothing to act on. A \`SILENT\` result means the stream connected and decoded without error but produced no audible signal. Scheduled stations are silent when off air, so SILENT streams get their own section and are not counted as failures."
   echo ""
   echo "## Probe Failures (unexpected)"
   echo "_Streams that failed AND are not tagged \`*(down)*\` in README. These are the ones to look at. Could be genuinely dead, or the same datacenter-IP blocking seen elsewhere - verify from a residential IP before removing the README entry._"
   echo ""
   emit_failure_table "$manual_rows"
+  echo ""
+  echo "## Silent (check only if the station should be 24/7)"
+  echo "_Not tagged \`*(down)*\`. Decoded without error but silent for most of a 30 s check. Many stations here broadcast on a schedule and are silent when off air, so this is not an error list. Look at a row only if that station is meant to stream around the clock, or its Runs count keeps climbing._"
+  echo ""
+  emit_failure_table "$silent_rows"
   echo ""
   echo "## Recovered"
   echo "_Tagged \`*(down)*\` in README but probing OK now. If it holds across a couple of runs, remove the status note on GitHub._"
