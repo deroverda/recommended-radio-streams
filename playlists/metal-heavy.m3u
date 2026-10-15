@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 # Group: Metal & Heavy
+# Homepage: https://www.chronixradio.net/
+#EXTINF:-1,ChroniX Radio - Aggression
+http://usa19.fastcast4u.com:5720/
 # Homepage: https://coreradio.online/
 #EXTINF:-1,Core Radio
 http://serv.coreradio.online:8000/coreradio

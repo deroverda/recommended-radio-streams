@@ -81,6 +81,9 @@ https://octaverecords.out.airtime.pro/octaverecords_a
 # Homepage: https://thepenthouse.fm/
 #EXTINF:-1,The Penthouse
 http://sc1.mystreamserver.com:8052/,
+# Homepage: http://www.radiomanouche.com/
+#EXTINF:-1,Radio Manouche
+http://stream.radiomanouche.com:8118/listen
 # Homepage: https://www.radioswissjazz.ch/en
 #EXTINF:-1,Radio Suisse Jazz
 https://stream.srg-ssr.ch/m/rsj/aacp_96
@@ -96,6 +99,9 @@ https://s1.voscast.com:10413/stream
 # Homepage: https://www.tsfjazz.com/
 #EXTINF:-1,TSF Jazz
 http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3
+# Homepage: https://walmradio.com/
+#EXTINF:-1,WALM - Adroit Jazz Underground
+https://icecast.walmradio.com:8443/jazz
 # Homepage: https://www.wbgo.org/
 #EXTINF:-1,WBGO 88.3
 https://ais-sa8.cdnstream1.com/3629_128.mp3

@@ -1,5 +1,8 @@
 ﻿#EXTM3U
 # Group: Experimental, Nerdy & Scanners
+# Homepage: https://ambientscape.com/crystal-radio-broadcast
+#EXTINF:-1,Crystal Radio Receiver Broadcast
+https://listen.radioking.com/radio/504205/stream/561655
 # Homepage: https://driftconditions.org/
 #EXTINF:-1,DriftConditions
 https://usa14.fastcast4u.com/proxy/wmodes?mp=/1
@@ -21,6 +24,12 @@ https://s5.radio.co/s20251311a/listen
 # Homepage: https://radiopaisajes.cl/
 #EXTINF:-1,Radio Paisajes
 https://stream.zeno.fm/nftv61u086etv
+# Homepage: https://theradius.us/
+#EXTINF:-1,The Radius
+https://partneraudio.wavefarm.org/radius.mp3
+# Homepage: https://extra.resonance.fm/
+#EXTINF:-1,Resonance Extra
+https://stream.resonance.fm/resonance-extra
 # Homepage: https://compound-eye.org
 #EXTINF:-1,Shirley & Spinoza
 https://s2.radio.co/sec5fa6199/listen

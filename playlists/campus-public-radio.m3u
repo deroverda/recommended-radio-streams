@@ -48,6 +48,9 @@ https://stream.subcity.org/listen
 # Homepage: https://www.uct.ac.za/radio
 #EXTINF:-1,UCT Radio
 https://edge.iono.fm/xice/uctradio_live_high.aac
+# Homepage: https://www.wfmu.org/drummer
+#EXTINF:-1,WFMU - Give the Drummer Radio
+http://stream0.wfmu.org/drummer
 # Homepage: https://wfmu.org/
 #EXTINF:-1,WFMU - Rock 'n' Soul
 http://wfmu.org/wfmu_rock.pls

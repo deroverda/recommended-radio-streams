@@ -39,6 +39,9 @@ http://cassini.shoutca.st:8574/stream
 # Homepage: https://ignoreradio.com/
 #EXTINF:-1,Ignore Radio Shoegaze
 https://sp1.autopo.st/8026/stream
+# Homepage: https://www.jempradio.com/
+#EXTINF:-1,JEMP Radio
+https://streaming.radio.co/sd71de59b3/listen
 # Homepage: https://www.kexp.org/listen/
 #EXTINF:-1,KEXP 90.3
 https://kexp.streamguys1.com/kexp160.aac

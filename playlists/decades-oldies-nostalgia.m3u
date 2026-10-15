@@ -1,11 +1,20 @@
 ﻿#EXTM3U
 # Group: Decades, Oldies & Nostalgia
+# Homepage: https://radio.macinmind.com/
+#EXTINF:-1,Antioch OTR
+http://stream.radio.macinmind.com:8000/listen
+# Homepage: https://www.aor.am/
+#EXTINF:-1,Arctic Outpost Radio
+https://radio.streemlion.com:3475/stream
 # Homepage: https://you.radio/station/exclusiveradio-beatles
 #EXTINF:-1,Beatles Radio
 http://stream.zeno.fm/e4auhdgm6cquv
 # Homepage: https://www.flowerpowerradio.com/
 #EXTINF:-1,Flower Power Radio
 http://uk1.streamingpulse.com:7000/,
+# Homepage: https://www.greatbigradio.com/
+#EXTINF:-1,Great Big Radio
+https://pstnet8.shoutcastnet.com:10064/stream
 # Homepage: https://jclubbandstand.torontocast.stream/stations/index.html
 #EXTINF:-1,J-Club Bandstand
 https://cast1.torontocast.com:2060/stream
