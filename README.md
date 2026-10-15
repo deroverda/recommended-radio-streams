@@ -64,35 +64,22 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 ### Mobile
 | App Name | OS | Type | Notes |
 | :--- | :---: | :---: | :--- |
-| [Broadcasts](https://apps.apple.com/app/broadcasts/id1469995354) | iOS | `Freemium` | Station library with Radio Browser search and custom stream URLs. |
-| [Eter](https://apps.apple.com/app/eter-streaming-internet-radio/id1523221566) | iOS | `Freemium` | Minimal native player with Apple Watch, TV, and CarPlay support. |
-| [Triode](https://triode.app/) | iOS | `Freemium` | Artwork-forward design with a clean minimal interface. |
-| [RadioDroid](https://github.com/segler-alex/RadioDroid) | Android | `Open Source` | Supports recording and Chromecast. |
-| [radioMii](https://github.com/haecksenwerk/radioMii-Android) | Android | `Open Source` | Clean Material 3 design, add any stream by URL. |
-| [Transistor](https://codeberg.org/y20k/transistor) | Android | `Open Source` | No account, no tracking, F-Droid available. |
+| [OpenTune](https://apps.apple.com/app/opentune-fm-radio-no-ads/id6745879421) | iOS | `Free` | No ads or account. M3U import into folders, quality switching, CarPlay. |
+| [Transistor](https://codeberg.org/y20k/transistor) | Android | `Open Source` | No account or tracking. Tap a stream link in your browser to add it. |
 
 ### Desktop
 | App Name | OS | Type | Notes |
 | :--- | :---: | :---: | :--- |
-| [Foobar2000](https://www.foobar2000.org/) | Win/Mac | `Freeware` | Extensible via components, handles virtually any audio format. |
-| [Frog Radio](https://frogradio.net/) | macOS | `Paid` | Native Mac app with iCloud sync. |
 | [Radiola](https://github.com/SokoloffA/radiola) | macOS | `Open Source` | Lightweight menu bar player for quickly listening to Internet streams. |
 | [Shortwave](https://flathub.org/en/apps/de.haeckerfelix.Shortwave) | Linux | `Open Source` | GNOME player with 50,000+ Radio Browser stations, recording, and Chromecast support. |
-| [Tray FM](https://www.carthagosoft.net/TrayFM.php) | Win | `Freeware` | Lightweight tray player with Radio Browser integration and portable builds. |
 | [Traydio](https://github.com/TheJoeFin/Traydio) | Win | `Open Source` | Minimalist player with native WinUI interface and tray controls. |
 | [VLC](https://www.videolan.org/vlc/) | Win/Mac/Lin | `Open Source` | Opens any stream URL, M3U, or PLS file without configuration. |
 
-### Terminal
-| App Name | Environment | Type | Notes |
+### Other
+| App Name | Platform | Type | Notes |
 | :--- | :---: | :---: | :--- |
-| [PyRadio](https://github.com/coderholic/pyradio) | Python / Curses | `Open Source` | Keyboard-driven player with Vim-like keybindings. |
-| [Tera](https://github.com/shinokada/tera) | Go / mpv | `Open Source` | Includes advanced tagging, blocklists, and headless CLI playback. |
-
-### Web & Utilities
-| Tool Name | Category | Type | Notes |
-| :--- | :---: | :---: | :--- |
-| [Radiolise](https://radiolise.com) | Web App | `Free` | Browser-based, no install needed, works on any device. |
-| [ScrobbleRadio](https://scrobblerad.io) | Utility | `Free` | Tracks listening to Last.fm, Libre.fm, or ListenBrainz. |
+| [PyRadio](https://github.com/coderholic/pyradio) | Terminal | `Open Source` | Keyboard-driven player with Vim-like keybindings. |
+| [Radiolise](https://radiolise.com) | Web | `Free` | Browser-based, no install needed, works on any device. |
 
 ---
 
@@ -123,9 +110,9 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Psyndora - Chillout](https://www.psyndora.com/chill.html): Ambient and psybient channel from a Patras, Greece psytrance station. [Stream](https://cast.magicstreams.gr:9125/;)
 - [Radio Isla Negra - Slowbeat](https://www.radioislanegra.com/): Listener-supported downtempo and ambient from Isla Negra, Chile, since 1999. [Stream](https://radioislanegra.org/radio/8000/basic.aac)
 - [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain)
-- [Sleepbot Environmental Broadcast](https://sleepbot.com/ambience/broadcast/): One of the oldest ambient streams online, running since 1999 as Ambience for the Masses. [Stream](http://primarystream.sleepbot.com:8218/seb)
+- ⭐ [Sleepbot Environmental Broadcast](https://sleepbot.com/ambience/broadcast/): One of the oldest ambient streams online, running since 1999 as Ambience for the Masses. [Stream](http://primarystream.sleepbot.com:8218/seb)
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean waves for sleep, from the creator of an Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
-- [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
+- ⭐ [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
 - ⭐ [SomaFM - Groove Salad](https://somafm.com/groovesalad/): Ambient and downtempo beats and grooves. [Stream](https://somafm.com/groovesalad256.pls)
 - [Subsonic Radio](https://www.subsonicradio.com/): Unofficial recordings from Disney theme-park attractions, resorts, and parades, across 16 channels since the mid-2000s. [SR One](https://www.subsonicradio.com:8443/requests.mp3) / [SR Two - Extended Plays](https://www.subsonicradio.com:8443/longbois.mp3) / [WEDWay PeopleMover](https://www.subsonicradio.com:8443/wedway.mp3)
 
@@ -140,17 +127,17 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - ⭐ [BBC Radio 3](https://www.bbc.co.uk/sounds/play/live/bbc_radio_three): Classical, jazz, and world music from the BBC. Live concerts and the Proms. [Stream](http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d128000.norewind.m3u8)
 - [Bru Zane](https://bru-zane.com/classical-radio/): Archive of French Romantic music (1780-1920) from the Palazzetto Bru Zane in Venice, since 2016. [Stream](https://uk2.streamingpulse.com/ssl/bzr)
 - [Classical California](https://www.classicalcalifornia.org/): Classical from LA and San Francisco, home of SF Symphony and SF Opera broadcasts. [Stream](https://14103.live.streamtheworld.com/KUSCAAC96.aac)
-- [Concertzender - Baroque](https://www.concertzender.nl/): Independent Dutch station's baroque channel, focused on lesser-known works and period performance. [Stream](http://streams.greenhost.nl:8080/barok)
+- ⭐ [Concertzender - Baroque](https://www.concertzender.nl/): Independent Dutch station's baroque channel, focused on lesser-known works and period performance. [Stream](http://streams.greenhost.nl:8080/barok)
 - [CRB Classical 99.5](https://www.classicalwcrb.org/): Home of the Boston Symphony Orchestra. [Stream](https://wgbh-live.streamguys1.com/classical-hi)
 - [France Musique](https://www.radiofrance.fr/francemusique): French public classical, jazz, and contemporary, with live concerts. [Stream](http://icecast.radiofrance.fr/francemusique-hifi.aac)
-- [France Musique - La Contemporaine](https://www.radiofrance.fr/francemusique/radio-contemporaine): Contemporary classical focusing on living composers and world premieres. [Stream](http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac)
+- ⭐ [France Musique - La Contemporaine](https://www.radiofrance.fr/francemusique/radio-contemporaine): Contemporary classical focusing on living composers and world premieres. [Stream](http://icecast.radiofrance.fr/francemusiquelacontemporaine-hifi.aac)
 - [Linn Classical](https://www.linn.co.uk/linn-radio): High fidelity classical from Linn's audiophile catalog. [Stream](http://radio.linn.co.uk:8004/stream)
 - [MRG.fm - OperaRadio](https://www.w.mrg.fm/): Opera recordings and performances. [Stream](http://listen.mrg.fm:8110/,)
 - [NTS - Sheet Music](https://www.nts.live/infinite-mixtapes/sheet-music): Classical works, baroque through contemporary composition. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape35)
 - [Radio Suisse Classique](https://www.radioswissclassic.ch/en): Swiss public radio for classical and opera. [Stream](http://stream.srg-ssr.ch/m/rsc_fr/mp3_128)
 - [RCO Live](https://www.concertgebouworkest.nl/nl/radio/): Archival concert recordings from the Royal Concertgebouw Orchestra, Amsterdam. [Stream](https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192)
 - [WBJC 91.5](https://www.wbjc.com/): Non-commercial classical from Baltimore, on air since 1951 with live local hosts. [Stream](https://ice64.securenetsystems.net/WBJC)
-- [WFMT](https://www.wfmt.com/): Classical and opera from Chicago, home of Lyric Opera of Chicago broadcasts. [Stream](https://wfmt.streamguys1.com/main-source)
+- ⭐ [WFMT](https://www.wfmt.com/): Classical and opera from Chicago, home of Lyric Opera of Chicago broadcasts. [Stream](https://wfmt.streamguys1.com/main-source)
 - [Whisperings: Solo Piano Radio](https://www.solopianoradio.com/): Started 2003 because no radio format existed for solo piano music. [Stream](https://pianosolo.streamguys1.com/live)
 - [WMNR](https://www.wmnr.org/): Independent classical from Monroe, Connecticut, with live Tanglewood and BSO concert broadcasts. [Stream](https://wmnr.streamguys1.com/live)
 - [WQXR 105.9](https://www.wqxr.org/): New York Public Radio's classical station, live concerts from major NYC venues. [Stream](http://stream.wqxr.org/wqxr)
@@ -180,7 +167,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - ⭐ [WFMU - Give the Drummer Radio](https://www.wfmu.org/drummer): Doug Schulkind's 2010 offshoot, over two dozen shows hosted remotely by music obsessives. [Stream](http://stream0.wfmu.org/drummer)
 - [WFMU - Rock 'n' Soul](https://wfmu.org/): Rock, R&B, and soul. [Stream](http://wfmu.org/wfmu_rock.pls)
 - [WFMU - Sheena's Jungle Room](https://wfmu.org/): Garage, surf, and rockabilly. [Stream](http://stream0.wfmu.org/sheena)
-- [WFMU 91.1](https://wfmu.org): The longest-running freeform station in the US, Jersey City since 1958. [Stream](https://wfmu.org/wfmu.pls)
+- ⭐ [WFMU 91.1](https://wfmu.org): The longest-running freeform station in the US, Jersey City since 1958. [Stream](https://wfmu.org/wfmu.pls)
 - [WMSE 91.7](https://wmse.org/): From Milwaukee School of Engineering, anti-established since 1981. [Stream](https://wmse.streamguys1.com/wmselivemp3)
 - [WNCW 88.7](https://www.wncw.org/): Americana, roots, and folk from Isothermal Community College in the North Carolina foothills, since 1989. [Stream](https://wncw-live-a.edge.audiocdn.com/6286_56k.aac)
 - ⭐ [WNYC - New Sounds](https://www.newsounds.org): John Schaefer's genre-free music discovery show, on New York Public Radio since 1982. [Stream](http://q2stream.wqxr.org/q2)
