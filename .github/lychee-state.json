@@ -1,23 +1,26 @@
 {
   "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://boxradio.net/en/radio/lofi-radio": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://boxradio.net/en/radio/rain-thunderstorms-sounds": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 34
+    "consecutive_failures": 35
+  },
+  "https://fritto.fm/": {
+    "consecutive_failures": 1
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 34
+    "consecutive_failures": 35
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 14
+    "consecutive_failures": 15
   },
-  "https://www.headwaxradio.ie/": {
-    "consecutive_failures": 2
+  "https://www.spacedogsradio.com/": {
+    "consecutive_failures": 1
   }
 }
