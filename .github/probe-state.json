@@ -1,60 +1,56 @@
 {
   "_category_totals": {
-    "AUTH_REQUIRED": 2,
-    "NOT_FOUND": 1,
-    "OK": 430,
-    "SILENT": 5,
-    "TIMEOUT": 9
+    "AUTH_REQUIRED": 1,
+    "OK": 445,
+    "PLAYLIST_PARSE_ERROR": 2,
+    "SERVER_ERROR": 3,
+    "SILENT": 7,
+    "TIMEOUT": 1,
+    "UNKNOWN": 1
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 34
+    "consecutive_failures": 35
+  },
+  "http://edge4.peta.live365.net/b77280_128mp3": {
+    "consecutive_failures": 1
   },
   "http://ice10.securenetsystems.net/LUXOMP3": {
+    "consecutive_failures": 2
+  },
+  "http://icecast.ofdoom.com:8000/burst.mp3": {
     "consecutive_failures": 1
   },
-  "http://ice64.securenetsystems.net/KBON": {
+  "http://s3.viastreaming.net:8835/,": {
     "consecutive_failures": 1
   },
-  "http://ice7.securenetsystems.net/KCSM2": {
-    "consecutive_failures": 1
-  },
-  "http://ice9.securenetsystems.net/DSR": {
+  "https://aaja-2.radiocult.fm/stream": {
     "consecutive_failures": 1
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 8
-  },
-  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 8
+    "consecutive_failures": 9
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 8
+    "consecutive_failures": 9
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 34
+    "consecutive_failures": 35
   },
-  "https://ice23.securenetsystems.net/CIUT": {
+  "https://frittofm2020.out.airtime.pro/frittofm2020_a": {
     "consecutive_failures": 1
   },
-  "https://ice23.securenetsystems.net/WSUMFM": {
+  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
     "consecutive_failures": 1
   },
-  "https://ice64.securenetsystems.net/WBJC": {
+  "https://radio.nugs.net/nugsnet": {
     "consecutive_failures": 1
   },
-  "https://listen.xray.fm/stream": {
+  "https://radio.streemlion.com:3475/stream": {
     "consecutive_failures": 1
   },
-  "https://radio.mensajito.mx/nopalA": {
+  "https://radio.veneno.live/stream/main": {
     "consecutive_failures": 1
   },
-  "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 6
-  },
-  "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 7
-  },
-  "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
+  "https://stream-relay-geo.internetpublicradio.live/stream/main": {
     "consecutive_failures": 1
   }
 }
