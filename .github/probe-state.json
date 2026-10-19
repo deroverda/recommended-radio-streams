@@ -1,56 +1,49 @@
 {
   "_category_totals": {
     "AUTH_REQUIRED": 1,
-    "OK": 445,
-    "PLAYLIST_PARSE_ERROR": 2,
-    "SERVER_ERROR": 3,
-    "SILENT": 7,
-    "TIMEOUT": 1,
+    "OK": 447,
+    "SERVER_ERROR": 1,
+    "SILENT": 8,
+    "TIMEOUT": 2,
     "UNKNOWN": 1
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
   "http://edge4.peta.live365.net/b77280_128mp3": {
-    "consecutive_failures": 1
-  },
-  "http://ice10.securenetsystems.net/LUXOMP3": {
     "consecutive_failures": 2
   },
+  "http://hyades.shoutca.st:8627/stream": {
+    "consecutive_failures": 1
+  },
   "http://icecast.ofdoom.com:8000/burst.mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
-  "http://s3.viastreaming.net:8835/,": {
-    "consecutive_failures": 1
-  },
-  "https://aaja-2.radiocult.fm/stream": {
+  "https://aaja.radiocult.fm/stream": {
     "consecutive_failures": 1
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 9
+    "consecutive_failures": 10
+  },
+  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
+    "consecutive_failures": 1
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 9
+    "consecutive_failures": 10
+  },
+  "https://eightball.out.airtime.pro/eightball_a": {
+    "consecutive_failures": 1
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 35
+    "consecutive_failures": 36
   },
-  "https://frittofm2020.out.airtime.pro/frittofm2020_a": {
+  "https://origin.streamnerd.nl/operator/operator/icecast.audio": {
     "consecutive_failures": 1
   },
-  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
+  "https://partneraudio.wavefarm.org/radius.mp3": {
     "consecutive_failures": 1
   },
-  "https://radio.nugs.net/nugsnet": {
-    "consecutive_failures": 1
-  },
-  "https://radio.streemlion.com:3475/stream": {
-    "consecutive_failures": 1
-  },
-  "https://radio.veneno.live/stream/main": {
-    "consecutive_failures": 1
-  },
-  "https://stream-relay-geo.internetpublicradio.live/stream/main": {
+  "https://stream.shmupradio.com/320": {
     "consecutive_failures": 1
   }
 }
