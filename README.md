@@ -532,7 +532,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [DARE FM](https://wdarefm.com/): New York's first alternative rock outlet, formerly WLIR, broadcasting since 1980. [Stream](http://hydra.cdnstream.com/1552_128)
 - [Delicious Agony](http://www.deliciousagony.com/): Rarities and full albums from progressive rock. [Stream](http://deliciousagony.streamguys1.com/)
 - [Folk Alley](https://folkalley.com/): Folk, roots, and Americana since 2003, now run by the FreshGrass Foundation. [Stream](https://freshgrass.streamguys1.com/folkalley-128mp3)
-- [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead, Jerry Garcia Band, Ratdog, and other Dead-family projects. [Stream](http://cassini.shoutca.st:8574/stream)
+- [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead, Jerry Garcia Band, Ratdog, and other Dead-family projects. [Stream](http://108.163.245.230:8100/stream)
 - [Ignore Radio Shoegaze](https://ignoreradio.com/): Shoegaze and dream pop. [Stream](https://sp1.autopo.st/8026/stream)
 - [JEMP Radio](https://www.jempradio.com/): Phish and jam bands from coastal Maine since 2014, hand-picked by volunteer hosts, no shuffle. [Stream](https://streaming.radio.co/sd71de59b3/listen)
 - [KEXP 90.3](https://www.kexp.org/listen/): Indie rock from Seattle, famous for live in-studio sessions. [Stream](https://kexp.streamguys1.com/kexp160.aac)
