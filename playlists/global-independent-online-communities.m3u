@@ -3,9 +3,6 @@
 # Homepage: https://www.20ftradio.net/
 #EXTINF:-1,20ft Radio
 https://20ft-radio.radiocult.fm/stream
-# Homepage: https://www.313.fm/
-#EXTINF:-1,313.FM
-http://icecast.ofdoom.com:8000/burst.mp3
 # Homepage: https://8ballradio.nyc
 #EXTINF:-1,8 Ball Radio
 https://eightball.out.airtime.pro/eightball_a
