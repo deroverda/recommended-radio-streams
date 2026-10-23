@@ -331,7 +331,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 ### Electronic
 - [54house.fm](https://www.54house.fm/): House via weekly label shows from Defected, Toolroom, Circoloco, and more. [Stream](https://54house.fm:9013/stream)
 - [After Hours FM](https://ah.fm): Trance and progressive live sets since 2006, home of the End of Year Countdown. [Stream](http://fr.ah.fm:8000/,)
-- [Bad Radio](https://badradio.nz/): Phonk and dark trap from New Zealand. [Stream](http://server.badradio.biz:8000/stream)
+- [BADRADIO](https://badradio.nz/): Phonk, trap and hip hop from New Zealand, every track sent in by its artist. [Stream](https://s2.radio.co/s2b2b68744/listen)
 - [Bassdrive](https://www.bassdrive.com): Drum and bass since 2001, with live sets from DJs worldwide. [Stream](https://www.bassdrive.com/bassdrive.m3u)
 - [Blue Marlin Ibiza](http://www.bluemarlinibiza.com/radio/live): House and lounge from Ibiza. [Stream](https://ibizasonica.streaming-pro.com:8001/bluemarlin)
 - [Bondi Radio](https://bondiradio.com.au/): Sydney house and deep grooves, relaunched by DJ Hodgie in the 2020 lockdown. [Stream](https://streaming.radio.co/sfd68ddd77/listen)
