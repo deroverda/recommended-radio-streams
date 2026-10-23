@@ -184,7 +184,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 ### Global Independent & Online Communities <a id="global-indie-radio"></a>
 *Independent web broadcasters with a strong physical or human identity: collectives, artist-run studios, and community projects, not defined by any single genre.*
 - [20ft Radio](https://www.20ftradio.net/): Music from a former factory in Kyiv. [Stream](https://20ft-radio.radiocult.fm/stream)
-- [313.FM](https://www.313.fm/): Electronic music born in the depths of a Detroit warehouse. [Stream](http://icecast.ofdoom.com:8000/burst.mp3)
+- [313.FM](https://www.313.fm/): Electronic music born in the depths of a Detroit warehouse. *(down)* [Stream](http://icecast.ofdoom.com:8000/burst.mp3)
 - [8 Ball Radio](https://8ballradio.nyc): NYC artist collective running radio, zines, and public-access TV from Chinatown since 2014. [Stream](https://eightball.out.airtime.pro/eightball_a)
 - [8Radio.com](https://8radio.com/): Independent alternative from Dublin, founded in 2013 by ex-Phantom FM's Simon Maher. [Stream](https://edge4.audioxi.com/8RADIO)
 - [Aaja Music](https://aajamusic.com/): Electronic and DJ sets from a bar in a Deptford railway arch, London. [Channel 1](https://aaja.radiocult.fm/stream) / [Channel 2](https://aaja-2.radiocult.fm/stream)
