@@ -18,6 +18,9 @@ https://aaja-2.radiocult.fm/stream
 # Homepage: https://amplitudesradio.com/
 #EXTINF:-1,Amplitudes Radio
 https://listen.radioking.com/radio/591304/stream/654688
+# Homepage: https://badradio.biz/
+#EXTINF:-1,Bad Radio
+http://server.badradio.biz:8000/stream
 # Homepage: https://www.bangkokcommunityradio.com/
 #EXTINF:-1,Bangkok Community Radio (BCR)
 https://bcr.radiocult.fm/stream
