@@ -189,6 +189,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [8Radio.com](https://8radio.com/): Independent alternative from Dublin, founded in 2013 by ex-Phantom FM's Simon Maher. [Stream](https://edge4.audioxi.com/8RADIO)
 - [Aaja Music](https://aajamusic.com/): Electronic and DJ sets from a bar in a Deptford railway arch, London. [Channel 1](https://aaja.radiocult.fm/stream) / [Channel 2](https://aaja-2.radiocult.fm/stream)
 - [Amplitudes Radio](https://amplitudesradio.com/): DJ sets and regional culture from a Bordeaux-area collective. [Stream](https://listen.radioking.com/radio/591304/stream/654688)
+- [Bad Radio](https://badradio.biz/): Independent project where DJs apply for weekly hour-long shows, including ambient and more. [Stream](http://server.badradio.biz:8000/stream)
 - [Bangkok Community Radio (BCR)](https://www.bangkokcommunityradio.com/): Underground electronic from a studio above a Bangkok record shop, since 2021. [Stream](https://bcr.radiocult.fm/stream)
 - [Behind Loud Tracks](https://blt-radio.com/): French friends' collective for music discovery, sharing, and sound creation, launched 2025. [Stream](https://play.radioking.io/blt-radio)
 - [Black Rhino Radio](https://blackrhinoradio.com/): Music and arts collective from Bucharest, broadcasting dub, bass, jazz, and hip-hop. [Stream](https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a)
