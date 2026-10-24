@@ -1,49 +1,44 @@
 {
   "_category_totals": {
     "AUTH_REQUIRED": 1,
-    "OK": 447,
-    "SERVER_ERROR": 1,
-    "SILENT": 8,
+    "OK": 450,
+    "PLAYLIST_PARSE_ERROR": 1,
+    "SERVER_ERROR": 2,
+    "SILENT": 4,
     "TIMEOUT": 2,
     "UNKNOWN": 1
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 36
-  },
-  "http://edge4.peta.live365.net/b77280_128mp3": {
-    "consecutive_failures": 2
-  },
-  "http://hyades.shoutca.st:8627/stream": {
-    "consecutive_failures": 1
+    "consecutive_failures": 37
   },
   "http://icecast.ofdoom.com:8000/burst.mp3": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
   },
-  "https://aaja.radiocult.fm/stream": {
+  "https://admin.stream.rinse.fm/proxy/kool/stream": {
+    "consecutive_failures": 1
+  },
+  "https://admin.stream.rinse.fm/proxy/rinse_uk/stream": {
+    "consecutive_failures": 1
+  },
+  "https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3": {
     "consecutive_failures": 1
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 10
+    "consecutive_failures": 11
   },
   "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 10
-  },
-  "https://eightball.out.airtime.pro/eightball_a": {
-    "consecutive_failures": 1
+    "consecutive_failures": 11
   },
   "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 36
+    "consecutive_failures": 37
   },
-  "https://origin.streamnerd.nl/operator/operator/icecast.audio": {
+  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
     "consecutive_failures": 1
   },
-  "https://partneraudio.wavefarm.org/radius.mp3": {
-    "consecutive_failures": 1
-  },
-  "https://stream.shmupradio.com/320": {
+  "https://radio.veneno.live/stream/main": {
     "consecutive_failures": 1
   }
 }
