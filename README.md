@@ -695,12 +695,12 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 
 ## Station Directories & Databases <a id="directories"></a>
 - [Alternate Airwaves](https://alternateairwaves.com): Directory of non-commercial, community, and college stations.
-- [Audiophile.fm](https://audiophile.fm/): Hi-res and lossless internet radio directory with built-in player.
+- [Audiophile.fm](https://audiophile.fm/): Directory of hi-res and lossless streams, with a built-in player.
 - [Demoscene & Video Game Radio](https://mw.rat.bz/davgmsrl/): Michael Walden's compiled directory of about 69 demoscene and video game music streams, since 2011.
 - ⭐ [FMStream](https://fmstream.org/): Tools for finding raw stream URLs.
 - [Freeform Radio Directory](https://www.freeformradio.directory/): Directory of freeform and independent stations with direct stream links.
 - [Icecast Directory](https://dir.xiph.org): Open directory of Icecast streaming stations.
-- [internet-radio-streams](https://github.com/mikepierce/internet-radio-streams) (github): GitHub list of hand-picked stations, one m3u file per stream, quality over quantity.
+- [internet-radio-streams](https://github.com/mikepierce/internet-radio-streams): GitHub list of hand-picked stations, one m3u file per stream, quality over quantity.
 - [m3u radio music playlists](https://junguler.github.io/m3u-radio-music-playlists/): GitHub scrape of 50+ directory sites into genre-sorted playlists, over a million unique streams.
 - [Monoskop](https://monoskop.org/Community_radio): Wiki directory of community and freeform radio stations worldwide, with links and station histories.
 - [One Radio](https://one-radio.com/): Directory of independent, human-picked stations organized by city and genre, with no algorithmic recommendations.
