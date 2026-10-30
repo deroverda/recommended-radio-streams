@@ -3,6 +3,18 @@
 # Homepage: https://christmasfm.com/
 #EXTINF:-1,Christmas FM Ireland
 https://christmasfm.cdnstream1.com/2547_128.mp3
+# Homepage: https://thechristmasstation.org/
+#EXTINF:-1,The Christmas Station
+http://stream.radio.co/s63541ce9b/listen
+# Homepage: https://deadair.co/
+#EXTINF:-1,Dead Air
+https://screamcheese.radioca.st/stream
+# Homepage: https://holidazehalloweenradio.com/
+#EXTINF:-1,Holidaze Halloween Radio
+https://ec3.yesstreaming.net:4355/stream
+# Homepage: https://www.klassikradio.de/klassik-radio-select/weihnachtsmusik/
+#EXTINF:-1,Klassik Radio - Christmas
+http://stream.klassikradio.de/christmas/mp3-192
 # Homepage: https://walmradio.com/station.php?station=christmas
 #EXTINF:-1,WALM - Christmas Vinyl
 https://icecast.walmradio.com:8443/christmas
