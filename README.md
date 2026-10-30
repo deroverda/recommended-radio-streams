@@ -112,8 +112,10 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Rain & Thunderstorms Sounds](https://boxradio.net/en/radio/rain-thunderstorms-sounds): Continuous rain and thunderstorm sounds for sleep and relaxation, part of the Box Radio network. [Stream](https://boxradio-edge-01.streamafrica.net/rain)
 - ⭐ [Sleepbot Environmental Broadcast](https://sleepbot.com/ambience/broadcast/): One of the oldest ambient streams online, running since 1999 as Ambience for the Masses. [Stream](http://primarystream.sleepbot.com:8218/seb)
 - [Sleepscapes](https://www.willstare.com/sleep/): Rain and ocean waves for sleep, from the creator of an Art Bell archive. [Rain](https://stream.willstare.com:8850/,) / [Waves](https://stream.willstare.com:8860/,)
+- [SomaFM - Doomed](https://somafm.com/doomed/): Dark industrial and ambient music with a Halloween mood all year round. [Stream](https://ice5.somafm.com/doomed-256-mp3)
 - ⭐ [SomaFM - Drone Zone](https://somafm.com/listen/): Atmospheric textures with minimal beats. [Stream](https://somafm.com/dronezone256.pls)
 - ⭐ [SomaFM - Groove Salad](https://somafm.com/groovesalad/): Ambient and downtempo beats and grooves. [Stream](https://somafm.com/groovesalad256.pls)
+- [SomaFM - Secret Agent](https://somafm.com/secretagent/): Spy-film lounge, cinematic downtempo and 60s European pop, from Henry Mancini to William Orbit. [Stream](https://ice6.somafm.com/secretagent-128-mp3)
 - [Subsonic Radio](https://www.subsonicradio.com/): Unofficial recordings from Disney theme-park attractions, resorts, and parades, across 16 channels since the mid-2000s. [SR One](https://www.subsonicradio.com:8443/requests.mp3) / [SR Two - Extended Plays](https://www.subsonicradio.com:8443/longbois.mp3) / [WEDWay PeopleMover](https://www.subsonicradio.com:8443/wedway.mp3)
 
 
@@ -389,6 +391,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 ---
 
 ### Funk, Soul, Hip-Hop & Disco <a id="funk-soul-hiphop-disco"></a>
+- [90s90s - HipHop & Rap](https://www.90s90s.de/radios): Golden-age 90s rap, from Snoop Doggy Dogg and Notorious B.I.G. to Germany's Fettes Brot. [Stream](https://streams.90s90s.de/hiphop/mp3-192)
 - [Comala Radio](https://www.comalaradio.com/): Soul, funk, house, Brazilian, and African groove from the SupaGroovalistic collective in Lille, since 2017. [Stream](https://listen.radioking.com/radio/38120/stream/74519)
 - [dinamo.fm - DiSCOTHEQUE](https://dinamo.fm/content/4/channels): 70s New York disco selected by Istanbul-based DJs. [Stream](http://channels.dinamo.fm/discotheque-mp3)
 - [Disco Factory FM](https://www.discofactory.fm): Volunteer friends spinning vinyl-only 12-inch disco, funk, and soul from the 70s-80s. [Stream](https://s5.radio.co/s253044a7a/listen)
@@ -416,6 +419,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Radio Nova - Hip-Hop](https://www.nova.fr/radios/): Nova's dedicated hip-hop channel, French and international. [Stream](https://nova-odn.ice.infomaniak.ch/nova-odn-256.aac)
 - [Radio Nula - Classic](https://radionula.com): Soul, funk, disco, and hip-hop from a Ljubljana DJ collective, since 2008. [Stream](https://strm.radionula.com/channel4)
 - [Sensimedia Hip Hop](https://sensimedia.net/radio/stations/hiphop): LA reggae and hip-hop network since 1999, among the first broadcasting online. [Stream](https://sensihiphop.radioca.st/stream)
+- [SomaFM - Seven Inch Soul](https://somafm.com/7soul/): Vintage soul from a DJ's own collection, nearly all original 45 rpm vinyl singles. [Stream](https://ice2.somafm.com/7soul-128-aac)
 - [Street Sounds Radio](https://www.streetsoundsradio.com/): Soul, boogie, jazz-funk, and electro from the Street Sounds label, since 1982. [Stream](https://streaming.broadcastradio.com:10525/streetsd)
 - [Swiss Groove](https://www.swissgroove.ch): Non-profit jazz and funk founded 2003 by Zurich music collectors. [Stream](https://relay1.swissgroove.ch/;)
 - [Totally Wired Radio](https://totallywiredradio.com): Soul, mod, and rare groove from the Acid Jazz Records label, London. [Stream](https://totallywired.out.airtime.pro/totallywired_a)
@@ -477,6 +481,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Core Radio](https://coreradio.online/): Deathcore, metalcore, post-hardcore, and hardcore. [Stream](http://serv.coreradio.online:8000/coreradio)
 - [Death.FM](https://death.fm/): Black, death, and brutal metal, launched on Halloween 2004. [Stream](http://hi5.death.fm/)
 - [Doomnation Radio](https://www.doomnationradio.com/): Doom, sludge, stoner, and funeral doom from a metal webzine running since 2013. [Stream](https://s2.voscast.com:11123/stream)
+- [Hard Rock Heaven](https://www.hrhradio.com/): 80s hard rock and hair metal, the big hits plus songs from smaller bands. [Stream](http://hydra.cdnstream.com/1521_128)
 - [Hard Rock Hell Radio](https://hardrockhellradio.com/): Rock and metal from the UK-based HRH Magazine, with named DJs and weekly shows. [Stream](https://tbfmonli.radioca.st/stream)
 - [ISKC - Extreme Metal](https://iskcrocks.com/): Extreme metal sub-channel from the Netherlands-based ISKC Radio Group. [Stream](http://mediaserv68.live-streams.nl:8012/ExtremeMetal)
 - [Metal Devastation](https://metaldevastationradio.com/): All-genre extreme metal with live DJs and chat, from Jackson, Tennessee, since 2013. [Stream](https://c13.radioboss.fm:18099/stream)
@@ -508,6 +513,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 ### Reggae & Dub <a id="reggae-dub"></a>
 - ⭐ [Alpha Boys School Radio](https://alphaboysschoolradio.com/): Ska and rocksteady from the Kingston school that produced the Skatalites. [Stream](http://alphaboys-live.streamguys1.com/alphaboys.mp3)
 - [Badam Radio](https://badam-radio.radioweb.co/): Dub and reggae with African-influenced roots, based in France since 2017. [Stream](https://listen.radioking.com/radio/105610/stream/144949)
+- [Bob's Ska Radio](https://www.bobskaradio.com/): One Seattle fan's ska, from 1960s Jamaica through 2Tone to ska-punk, since 2008. [Stream](http://51.255.235.165:5528/stream)
 - ⭐ [Dr. Dick's Dub Shack](https://drdicksdubshack.com/): Dub, reggae, and bass-heavy electronic from Bermuda. [Stream](https://streamer.radio.co/s0635c8b0d/listen)
 - [FIP Reggae](https://www.radiofrance.fr/fip/radio-reggae): Roots, dub, and rocksteady from the French public broadcaster in Paris. [Stream](http://icecast.radiofrance.fr/fipreggae-hifi.aac)
 - [Irie FM](https://iriefm.net/): Jamaica's first all-reggae broadcaster, from Ocho Rios since 1990. [Stream](https://usa19.fastcast4u.com:7430/,)
@@ -543,6 +549,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [NTS - Memory Lane](https://www.nts.live/infinite-mixtapes/memory-lane): Psychedelic folk and garage rock from the counterculture era. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape6)
 - [NTS - The Tube](https://www.nts.live/infinite-mixtapes/the-tube): Post-punk, industrial, and minimal wave from music's underground fringe. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape26)
 - [Nugs Radio](https://www.nugs.net/): Live rock and jam band recordings. [Stream](https://radio.nugs.net/nugsnet)
+- [Radio BOB! - Rockabilly](https://www.radiobob.de/rockabilly-stream): Rockabilly from Gene Vincent and Carl Perkins to the Stray Cats and Berlin's Baseballs. [Stream](http://streams.radiobob.de/bob-rockabilly/mp3-192/mediaplayer)
 - [Radio Paradise](https://radioparadise.com/): Mixed by a couple in Paradise, California, rock, world, and electronic. [Stream](http://stream-dc1.radioparadise.com/rp_192m.ogg)
 - [Radio Woodstock](https://radiowoodstock.com/): AAA rock, indie, folk, and live Hudson Valley music. [Stream](https://stream.revma.ihrhls.com/zc7332)
 - [Real Punk Radio](https://realpunkradio.com/): 100% DIY station spanning punk, ska, rockabilly, psychobilly, and old-school country under one punk ethos. [Stream](http://149.56.155.73:8080/stream)
