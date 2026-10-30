@@ -12,6 +12,9 @@ http://hi5.death.fm/
 # Homepage: https://www.doomnationradio.com/
 #EXTINF:-1,Doomnation Radio
 https://s2.voscast.com:11123/stream
+# Homepage: https://www.hrhradio.com/
+#EXTINF:-1,Hard Rock Heaven
+http://hydra.cdnstream.com/1521_128
 # Homepage: https://hardrockhellradio.com/
 #EXTINF:-1,Hard Rock Hell Radio
 https://tbfmonli.radioca.st/stream

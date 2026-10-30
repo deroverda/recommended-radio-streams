@@ -87,12 +87,18 @@ https://stream.willstare.com:8850/,
 # Homepage: https://www.willstare.com/sleep/
 #EXTINF:-1,Sleepscapes - Waves
 https://stream.willstare.com:8860/,
+# Homepage: https://somafm.com/doomed/
+#EXTINF:-1,SomaFM - Doomed
+https://ice5.somafm.com/doomed-256-mp3
 # Homepage: https://somafm.com/listen/
 #EXTINF:-1,SomaFM - Drone Zone
 https://somafm.com/dronezone256.pls
 # Homepage: https://somafm.com/groovesalad/
 #EXTINF:-1,SomaFM - Groove Salad
 https://somafm.com/groovesalad256.pls
+# Homepage: https://somafm.com/secretagent/
+#EXTINF:-1,SomaFM - Secret Agent
+https://ice6.somafm.com/secretagent-128-mp3
 # Homepage: https://www.subsonicradio.com/
 #EXTINF:-1,Subsonic Radio - SR One
 https://www.subsonicradio.com:8443/requests.mp3

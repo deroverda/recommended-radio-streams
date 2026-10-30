@@ -6,6 +6,9 @@ http://alphaboys-live.streamguys1.com/alphaboys.mp3
 # Homepage: https://badam-radio.radioweb.co/
 #EXTINF:-1,Badam Radio
 https://listen.radioking.com/radio/105610/stream/144949
+# Homepage: https://www.bobskaradio.com/
+#EXTINF:-1,Bob's Ska Radio
+http://51.255.235.165:5528/stream
 # Homepage: https://drdicksdubshack.com/
 #EXTINF:-1,Dr. Dick's Dub Shack
 https://streamer.radio.co/s0635c8b0d/listen
