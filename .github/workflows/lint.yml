@@ -7,11 +7,13 @@ on:
       - ".github/workflows/**"
       - ".github/scripts/**"
       - ".github/tests/**"
+      - "README.md"
   pull_request:
     paths:
       - ".github/workflows/**"
       - ".github/scripts/**"
       - ".github/tests/**"
+      - "README.md"
   workflow_dispatch:
 
 permissions:
@@ -45,7 +47,11 @@ jobs:
       - name: Parser fixture test
         shell: bash
         run: python3 .github/scripts/stream_parser.py --name-map .github/tests/parser_fixture.md | diff -u .github/tests/parser_expected.tsv -
-
+        
+      - name: README format and wording check
+        shell: bash
+        run: python3 .github/scripts/readme_check.py README.md
+        
       - name: Write lint summary (clean)
         if: success()
         run: echo "All lint checks passed (actionlint, shellcheck, Python compile, parser fixture test)." >> "$GITHUB_STEP_SUMMARY"
