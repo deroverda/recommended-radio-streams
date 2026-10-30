@@ -614,7 +614,11 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 
 ### Christmas & Holiday <a id="christmas-music-holiday"></a>
 - [Christmas FM Ireland](https://christmasfm.com/): Irish seasonal broadcasts supporting children's charities nationwide. [Stream](https://christmasfm.cdnstream1.com/2547_128.mp3)
-- [SomaFM - Holiday Broadcasts](https://somafm.com/holiday/): Various holiday channels, returns in October.
+- [The Christmas Station](https://thechristmasstation.org/): Year-round Christmas hits and older favorites, plus listener requests that everyone hears. [Stream](http://stream.radio.co/s63541ce9b/listen)
+- [Dead Air](https://deadair.co/): Spooky songs, novelty records and horror movie clips, run by a radio veteran since 2012. [Stream](https://screamcheese.radioca.st/stream)
+- [Holidaze Halloween Radio](https://holidazehalloweenradio.com/): Horror punk, horror surf, murder ballads and psychobilly, hosted by Queen Halloween since 2009. [Stream](https://ec3.yesstreaming.net:4355/stream)
+- [Klassik Radio - Christmas](https://www.klassikradio.de/klassik-radio-select/weihnachtsmusik/): Classical Christmas and choral music, from Schubert's Ave Maria to Bach's Christmas Oratorio. [Stream](http://stream.klassikradio.de/christmas/mp3-192)
+- [SomaFM - Holiday Broadcasts](https://somafm.com/holiday/): Five seasonal channels, from Christmas soul to retro elevator music, on air October to January.
 - [WALM - Christmas Vinyl](https://walmradio.com/station.php?station=christmas): Golden-age Christmas standards played for the warm crackle of vinyl. [Stream](https://icecast.walmradio.com:8443/christmas)
 
 [↑ back to top](#top)
