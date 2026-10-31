@@ -542,7 +542,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Grateful Dead Radio](https://www.gdradio.net/): Grateful Dead, Jerry Garcia Band, Ratdog, and other Dead-family projects. [Stream](http://108.163.245.230:8100/stream)
 - [Ignore Radio Shoegaze](https://ignoreradio.com/): Shoegaze and dream pop. [Stream](https://sp1.autopo.st/8026/stream)
 - [JEMP Radio](https://www.jempradio.com/): Phish and jam bands from coastal Maine since 2014, hand-picked by volunteer hosts, no shuffle. [Stream](https://streaming.radio.co/sd71de59b3/listen)
-- [KEXP 90.3](https://www.kexp.org/listen/): Indie rock from Seattle, famous for live in-studio sessions. [Stream](https://kexp.streamguys1.com/kexp160.aac)
+- [KEXP 90.3](https://www.kexp.org/listen/): Indie rock from Seattle, famous for live in-studio sessions. [Stream](https://edg1-iad-kexp.streamguys1.com/kexp64.aac)
 - [Krautrock-World](https://krautrock-world.com/): Dedicated krautrock, psychedelic, space rock, and progressive rock, run for an active listener community. [Stream](https://krautrockworld.stream.laut.fm/krautrockworld)
 - [Live Jam Radio](https://livejamradio.com/): Exclusively live versions, every track, every artist, no studio recordings. [Stream](https://stations.radio-host.com/proxy/livejam/stream)
 - [Morow](https://www.morow.com/): Progressive rock from Paris. [Stream](https://www.morow.com/morow.pls)
