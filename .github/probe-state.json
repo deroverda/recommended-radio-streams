@@ -1,58 +1,42 @@
 {
   "_category_totals": {
-    "AUTH_REQUIRED": 1,
-    "NOT_FOUND": 1,
-    "OK": 445,
-    "SILENT": 7,
-    "TIMEOUT": 5,
-    "UNKNOWN": 2
+    "OK": 460,
+    "PLAYLIST_PARSE_ERROR": 2,
+    "SILENT": 6,
+    "TIMEOUT": 2,
+    "UNKNOWN": 1
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 38
-  },
-  "http://gyusyabu.ddo.jp:8000/;stream.mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 39
   },
   "http://icecast.ofdoom.com:8000/burst.mp3": {
-    "consecutive_failures": 4
-  },
-  "http://stream.skylab-radio.com:8000/live": {
-    "consecutive_failures": 1
-  },
-  "https://audio-edge-ey5nr.ams.s.radiomast.io/799da8fd-389e-4923-9068-77c725c6e82f": {
-    "consecutive_failures": 1
+    "consecutive_failures": 5
   },
   "https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3": {
-    "consecutive_failures": 2
-  },
-  "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 12
-  },
-  "https://bcr.radiocult.fm/stream": {
-    "consecutive_failures": 1
-  },
-  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
     "consecutive_failures": 3
   },
+  "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
+    "consecutive_failures": 13
+  },
+  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
+    "consecutive_failures": 4
+  },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 12
+    "consecutive_failures": 13
   },
   "https://eightball.out.airtime.pro/eightball_a": {
+    "consecutive_failures": 2
+  },
+  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
     "consecutive_failures": 1
   },
-  "https://fm09-ice.stream.khz.se/fm09_mp3": {
-    "consecutive_failures": 38
-  },
-  "https://partneraudio.wavefarm.org/radius.mp3": {
+  "https://libretime.radioquantica.com/main.mp3": {
     "consecutive_failures": 1
   },
-  "https://stream.shmupradio.com/320": {
+  "https://radio.streemlion.com:3475/stream": {
     "consecutive_failures": 1
   },
-  "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 1
-  },
-  "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
+  "https://radio.veneno.live/stream/main": {
     "consecutive_failures": 1
   }
 }
