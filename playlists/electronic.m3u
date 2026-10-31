@@ -132,9 +132,9 @@ https://stream.sanctuaryradio.com/mainchannel_hq
 # Homepage: https://serrebiradio.com
 #EXTINF:-1,SerrebiRadio
 https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
-# Homepage: https://skylabradio.com
+# Homepage: https://skylab-radio.com/
 #EXTINF:-1,Skylab Radio
-http://stream.skylab-radio.com:8000/live
+https://stream.skylab-radio.com/live
 # Homepage: https://sovietwave.su/
 #EXTINF:-1,Sovietwave
 http://station.waveradio.org/soviet.mp3

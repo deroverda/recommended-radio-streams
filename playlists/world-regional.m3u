@@ -15,9 +15,6 @@ https://streaming.broadcastradio.com:11135/celtic
 # Homepage: https://ceol.fm/
 #EXTINF:-1,CeolFM
 https://listen.ceol.fm/auto
-# Homepage: https://www.dansbandskanalen.se/
-#EXTINF:-1,Dansbandskanalen
-https://fm09-ice.stream.khz.se/fm09_mp3
 # Homepage: https://daybreakstarradio.com
 #EXTINF:-1,Daybreak Star Radio
 http://ice9.securenetsystems.net/DSR
