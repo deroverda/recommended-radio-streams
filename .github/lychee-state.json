@@ -1,35 +1,41 @@
 {
+  "http://websdr.ewi.utwente.nl:8901/": {
+    "consecutive_failures": 1
+  },
   "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 8
+    "consecutive_failures": 9
   },
   "https://boxradio.net/en/radio/lofi-radio": {
-    "consecutive_failures": 8
+    "consecutive_failures": 9
   },
   "https://boxradio.net/en/radio/rain-thunderstorms-sounds": {
-    "consecutive_failures": 8
+    "consecutive_failures": 9
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 39
+    "consecutive_failures": 40
   },
   "https://fritto.fm/": {
-    "consecutive_failures": 5
-  },
-  "https://hardrockhellradio.com/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 6
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 39
-  },
-  "https://monoskop.org/Community_radio": {
-    "consecutive_failures": 1
+    "consecutive_failures": 40
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 19
+    "consecutive_failures": 20
+  },
+  "https://radcap.ru/": {
+    "consecutive_failures": 1
+  },
+  "https://radiovilnius.live/": {
+    "consecutive_failures": 1
   },
   "https://ukrootsfm.net/": {
-    "consecutive_failures": 3
+    "consecutive_failures": 4
   },
-  "https://www.radioreloj.cu/": {
+  "https://www.nebulah-radio.com/": {
+    "consecutive_failures": 1
+  },
+  "https://www.svenskfolkmusik.nu/": {
     "consecutive_failures": 1
   }
 }
