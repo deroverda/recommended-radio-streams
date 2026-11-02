@@ -1,42 +1,47 @@
 {
   "_category_totals": {
-    "OK": 460,
-    "PLAYLIST_PARSE_ERROR": 2,
-    "SILENT": 6,
-    "TIMEOUT": 2,
-    "UNKNOWN": 1
+    "AUTH_REQUIRED": 1,
+    "NOT_FOUND": 1,
+    "OK": 459,
+    "PLAYLIST_PARSE_ERROR": 1,
+    "SILENT": 4,
+    "TIMEOUT": 3,
+    "UNKNOWN": 2
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 39
+    "consecutive_failures": 40
   },
   "http://icecast.ofdoom.com:8000/burst.mp3": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
-  "https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3": {
-    "consecutive_failures": 3
-  },
-  "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 13
-  },
-  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 4
-  },
-  "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 13
-  },
-  "https://eightball.out.airtime.pro/eightball_a": {
-    "consecutive_failures": 2
-  },
-  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
+  "http://radio.streemlion.com:1160/stream": {
     "consecutive_failures": 1
   },
-  "https://libretime.radioquantica.com/main.mp3": {
+  "https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3": {
+    "consecutive_failures": 4
+  },
+  "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
+    "consecutive_failures": 14
+  },
+  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
+    "consecutive_failures": 5
+  },
+  "https://edge.mixlr.com/channel/vgmet": {
+    "consecutive_failures": 14
+  },
+  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
+    "consecutive_failures": 2
+  },
+  "https://mediaserv38.live-streams.nl:8107/stream": {
+    "consecutive_failures": 1
+  },
+  "https://radio.filmtastic.uz/listen/rytmabad/radio.mp3": {
     "consecutive_failures": 1
   },
   "https://radio.streemlion.com:3475/stream": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
-  "https://radio.veneno.live/stream/main": {
+  "https://studioneau.out.airtime.pro/studioneau_a": {
     "consecutive_failures": 1
   }
 }
