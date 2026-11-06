@@ -33,6 +33,9 @@ https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a
 # Homepage: https://cashmereradio.com
 #EXTINF:-1,Cashmere Radio
 https://cashmereradio.out.airtime.pro/cashmereradio_a
+# Homepage: https://www.clydebuiltradio.com/
+#EXTINF:-1,Clyde Built Radio
+https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a
 # Homepage: https://dandelionradio.com/
 #EXTINF:-1,Dandelion Radio
 https://www.dandelionradio.com/DandelionRadio.pls
@@ -275,7 +278,7 @@ https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8
 https://a1.asurahosting.com/listen/rukh/radio.mp3
 # Homepage: https://rytmabad.com/
 #EXTINF:-1,Rytmabad Radio
-https://radio.filmtastic.uz/listen/rytmabad/radio.mp3
+https://dashboard.rytmabad.radio/listen/radio.mp3
 # Homepage: https://www.saunaradio.com/
 #EXTINF:-1,Sauna Radio
 https://stream.saunaradio.com/live
