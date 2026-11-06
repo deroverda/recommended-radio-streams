@@ -196,7 +196,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [Behind Loud Tracks](https://blt-radio.com/): French friends' collective for music discovery, sharing, and sound creation, launched 2025. [Stream](https://play.radioking.io/blt-radio)
 - [Black Rhino Radio](https://blackrhinoradio.com/): Music and arts collective from Bucharest, broadcasting dub, bass, jazz, and hip-hop. [Stream](https://blackrhinoradio.out.airtime.pro/blackrhinoradio_a)
 - [Cashmere Radio](https://cashmereradio.com): Experimental not-for-profit from Berlin, treating radio itself as the art form. [Stream](https://cashmereradio.out.airtime.pro/cashmereradio_a)
-- [Clyde Built Radio](https://www.clydebuiltradio.com/): Glasgow music from a tiny studio in the Barras Market, since 2020. *(down)* [Stream](https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a)
+- [Clyde Built Radio](https://www.clydebuiltradio.com/): Glasgow music from a tiny studio in the Barras Market, since 2020. [Stream](https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a)
 - ⭐ [Dandelion Radio](https://dandelionradio.com/): Inspired by John Peel, home of the Festive 50 since 2006. [Stream](https://www.dandelionradio.com/DandelionRadio.pls)
 - [Datafruits](https://datafruits.fm/): Cooperative freeform broadcaster with minimal editorial control, listener-supported since 2012. [Stream](https://streampusher-relay.club/datafruits.mp3)
 - [Depa Radio](https://www.depa.radio/): Live broadcasts from the DJ booth at Departamento, a bar in Roma, Mexico City. [Stream](https://servidor15-2.brlogic.com:7006/live)
@@ -276,7 +276,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - ⭐ [Rinse FM](https://www.rinse.fm/channels/uk): London pirate-turned-legal, pioneering grime and dubstep from Tower Hamlets since 1994. [Stream](https://admin.stream.rinse.fm/proxy/rinse_uk/stream)
 - [ROVR](https://www.rovr.live/): Anti-algorithm mix, no talk or ads, from a record shop and café in Soho, London. [Stream](https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8)
 - [Rukh Radio](https://rukh.live/): Non-commercial DIY community station from Odesa, Ukraine, focused on experimental and alternative music and countercultures. [Stream](https://a1.asurahosting.com/listen/rukh/radio.mp3)
-- [Rytmabad Radio](https://rytmabad.com/): Tashkent's community station for Central Asia's underground electronic DJs and producers. [Stream](https://radio.filmtastic.uz/listen/rytmabad/radio.mp3)
+- [Rytmabad Radio](https://rytmabad.com/): Tashkent's community station for Central Asia's underground electronic DJs and producers. [Stream](https://dashboard.rytmabad.radio/listen/radio.mp3)
 - [Sauna Radio](https://www.saunaradio.com/): DJ sets and performances broadcast from a sauna cabin in Stockholm, Saturdays. [Stream](https://stream.saunaradio.com/live)
 - [Seyðisfjörður Community Radio](https://www.seydisfjordurcommunityradio.net/): Experimental, founded in 2016 in a small East Iceland fishing town, broadcasting on 107.1FM. [Stream](https://seyisfjorur-community-radio.radiocult.fm/stream)
 - [Slack Radio](https://www.slackradio.org/): Artist-run, listener-funded SubGenius station from a 1979 parody religion. [Stream](https://slackradiolive.com/listen/slack_radio/radio.mp3)
@@ -521,7 +521,7 @@ Internet radio I actually listen to: underground electronic, freeform, jazz, amb
 - [NTS - Island Time](https://www.nts.live/infinite-mixtapes/island-time): Reggae, dub, and rocksteady rhythms out of the Caribbean. [Stream](https://stream-mixtape-geo.ntslive.net/mixtape21)
 - [Real Roots Radio](https://realrootsradio.net/): London roots and dub collective since 2009, worldwide selectors and a hand-built sound system. [Stream](https://streams.radio.co/s1df61e0af/listen)
 - [SomaFM - Heavyweight Reggae](https://somafm.com/reggae/): Reggae, ska, and rocksteady classics and deep cuts from the San Francisco listener-supported broadcaster. [Stream](https://ice5.somafm.com/reggae-256-mp3)
-- [UK Roots FM](https://ukrootsfm.net/): London's self-styled 'foundation station', roots and revival since 1999. [Stream](http://138.201.198.218:8043/,)
+- [UK Roots FM](https://ukrootsfm.com/): London's self-styled 'foundation station', roots and revival since 1999. [Stream](http://138.201.198.218:8043/,)
 
 [↑ back to top](#top)
 
