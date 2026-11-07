@@ -1,47 +1,45 @@
 {
   "_category_totals": {
     "AUTH_REQUIRED": 1,
-    "NOT_FOUND": 1,
+    "NOT_FOUND": 2,
     "OK": 459,
-    "PLAYLIST_PARSE_ERROR": 1,
-    "SILENT": 4,
-    "TIMEOUT": 3,
-    "UNKNOWN": 2
+    "SILENT": 8,
+    "TIMEOUT": 1
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 40
-  },
-  "http://icecast.ofdoom.com:8000/burst.mp3": {
-    "consecutive_failures": 6
-  },
-  "http://radio.streemlion.com:1160/stream": {
-    "consecutive_failures": 1
-  },
-  "https://azuracast.gatekeeperradio.com/listen/gatekeeper_radio/radio.mp3": {
-    "consecutive_failures": 4
+    "consecutive_failures": 41
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 14
+    "consecutive_failures": 15
+  },
+  "https://bcr.radiocult.fm/stream": {
+    "consecutive_failures": 1
+  },
+  "https://cast1.sql2.smrn.com/5001": {
+    "consecutive_failures": 1
   },
   "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 14
+    "consecutive_failures": 15
   },
-  "https://hls-prod.rovr.live/prod/stream_plus02/llhls.m3u8": {
-    "consecutive_failures": 2
-  },
-  "https://mediaserv38.live-streams.nl:8107/stream": {
+  "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192": {
     "consecutive_failures": 1
   },
-  "https://radio.filmtastic.uz/listen/rytmabad/radio.mp3": {
+  "https://icecast.teveo.cu/b3jbfThq": {
     "consecutive_failures": 1
   },
-  "https://radio.streemlion.com:3475/stream": {
-    "consecutive_failures": 2
+  "https://radio.mensajito.mx/nopalA": {
+    "consecutive_failures": 1
+  },
+  "https://radio.veneno.live/stream/main": {
+    "consecutive_failures": 1
+  },
+  "https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u": {
+    "consecutive_failures": 1
   },
   "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   }
 }
