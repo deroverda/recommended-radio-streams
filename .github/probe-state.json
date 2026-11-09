@@ -1,45 +1,37 @@
 {
   "_category_totals": {
-    "AUTH_REQUIRED": 1,
-    "NOT_FOUND": 2,
-    "OK": 459,
-    "SILENT": 8,
-    "TIMEOUT": 1
+    "OK": 461,
+    "SILENT": 7,
+    "TIMEOUT": 3
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 41
+    "consecutive_failures": 42
+  },
+  "http://hyades.shoutca.st:8627/stream": {
+    "consecutive_failures": 1
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 15
+    "consecutive_failures": 16
   },
   "https://bcr.radiocult.fm/stream": {
-    "consecutive_failures": 1
-  },
-  "https://cast1.sql2.smrn.com/5001": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   },
   "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 6
+    "consecutive_failures": 7
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 15
+    "consecutive_failures": 16
   },
-  "https://ice.cr1.streamzilla.xlcdn.com:8000/sz=RCOLiveWebradio=mp3-192": {
+  "https://libretime.stationstation.fr/main": {
     "consecutive_failures": 1
   },
-  "https://icecast.teveo.cu/b3jbfThq": {
-    "consecutive_failures": 1
-  },
-  "https://radio.mensajito.mx/nopalA": {
-    "consecutive_failures": 1
-  },
-  "https://radio.veneno.live/stream/main": {
-    "consecutive_failures": 1
-  },
-  "https://stream.gensokyoradio.net/GensokyoRadio-enhanced.m3u": {
+  "https://pantano.ovh:8444/pantano": {
     "consecutive_failures": 1
   },
   "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
+  },
+  "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
+    "consecutive_failures": 1
   }
 }
