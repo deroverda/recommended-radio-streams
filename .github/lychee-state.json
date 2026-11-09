@@ -1,29 +1,23 @@
 {
   "http://www.giantsofjazzradio.co.uk/": {
-    "consecutive_failures": 10
+    "consecutive_failures": 11
   },
   "https://compound-eye.org/": {
-    "consecutive_failures": 41
+    "consecutive_failures": 42
   },
-  "https://fritto.fm/": {
-    "consecutive_failures": 7
-  },
-  "https://gensokyoradio.net/": {
+  "https://everynoise.com/": {
     "consecutive_failures": 1
   },
+  "https://fritto.fm/": {
+    "consecutive_failures": 8
+  },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 41
+    "consecutive_failures": 42
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 21
+    "consecutive_failures": 22
   },
   "https://radcap.ru/": {
-    "consecutive_failures": 2
-  },
-  "https://radiovilnius.live/": {
-    "consecutive_failures": 2
-  },
-  "https://www.svenskfolkmusik.nu/": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
   }
 }
