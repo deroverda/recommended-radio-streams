@@ -1,37 +1,38 @@
 {
   "_category_totals": {
+    "AUTH_REQUIRED": 1,
     "OK": 461,
-    "SILENT": 7,
+    "SILENT": 6,
     "TIMEOUT": 3
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 42
-  },
-  "http://hyades.shoutca.st:8627/stream": {
-    "consecutive_failures": 1
+    "consecutive_failures": 43
   },
   "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 16
+    "consecutive_failures": 17
   },
   "https://bcr.radiocult.fm/stream": {
-    "consecutive_failures": 2
+    "consecutive_failures": 3
   },
   "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 7
+    "consecutive_failures": 8
   },
   "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 16
+    "consecutive_failures": 17
   },
-  "https://libretime.stationstation.fr/main": {
+  "https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8": {
     "consecutive_failures": 1
   },
-  "https://pantano.ovh:8444/pantano": {
+  "https://ksol.live/hls/suno_toh_sahi/aac_hifi.m3u8": {
+    "consecutive_failures": 1
+  },
+  "https://listen.radioking.com/radio/314507/stream/361754": {
+    "consecutive_failures": 1
+  },
+  "https://radio.veneno.live/stream/main": {
     "consecutive_failures": 1
   },
   "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 3
-  },
-  "https://transliacija.audiomastering.lt/radiovilnius-mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 4
   }
 }
