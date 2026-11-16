@@ -1,20 +1,20 @@
 {
   "https://compound-eye.org/": {
-    "consecutive_failures": 43
+    "consecutive_failures": 44
   },
   "https://fritto.fm/": {
-    "consecutive_failures": 9
+    "consecutive_failures": 10
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 43
+    "consecutive_failures": 44
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 23
+    "consecutive_failures": 24
+  },
+  "https://netilradio.com/": {
+    "consecutive_failures": 1
   },
   "https://radcap.ru/": {
-    "consecutive_failures": 4
-  },
-  "https://www.concertzender.nl/en": {
-    "consecutive_failures": 1
+    "consecutive_failures": 5
   }
 }
