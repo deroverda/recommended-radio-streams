@@ -1,20 +1,41 @@
 {
   "https://compound-eye.org/": {
-    "consecutive_failures": 44
+    "consecutive_failures": 45
   },
   "https://fritto.fm/": {
-    "consecutive_failures": 10
+    "consecutive_failures": 11
+  },
+  "https://greatcircles.net/": {
+    "consecutive_failures": 1
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 44
+    "consecutive_failures": 45
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 24
+    "consecutive_failures": 25
   },
-  "https://netilradio.com/": {
+  "https://psychedelicized.com/": {
     "consecutive_failures": 1
   },
   "https://radcap.ru/": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
+  },
+  "https://radio.macinmind.com/": {
+    "consecutive_failures": 1
+  },
+  "https://radiokrs.com/": {
+    "consecutive_failures": 1
+  },
+  "https://www.digitiki.com/radio.html": {
+    "consecutive_failures": 1
+  },
+  "https://www.grooveradio.com/": {
+    "consecutive_failures": 1
+  },
+  "https://www.solopianoradio.com/": {
+    "consecutive_failures": 1
+  },
+  "https://youarelistening.to/": {
+    "consecutive_failures": 1
   }
 }
