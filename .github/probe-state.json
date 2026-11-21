@@ -1,45 +1,65 @@
 {
   "_category_totals": {
-    "AUTH_REQUIRED": 1,
-    "OK": 459,
-    "SILENT": 6,
-    "TIMEOUT": 4,
+    "AUTH_REQUIRED": 2,
+    "CONNECTION_RESET": 2,
+    "DNS_FAILURE": 1,
+    "OK": 453,
+    "SILENT": 9,
+    "TIMEOUT": 3,
     "UNKNOWN": 1
   },
   "http://83.240.65.106:8000/doom": {
-    "consecutive_failures": 44
+    "consecutive_failures": 45
   },
-  "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
-    "consecutive_failures": 18
-  },
-  "https://bcr.radiocult.fm/stream": {
-    "consecutive_failures": 4
-  },
-  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
-    "consecutive_failures": 9
-  },
-  "https://edge.mixlr.com/channel/vgmet": {
-    "consecutive_failures": 18
-  },
-  "https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8": {
-    "consecutive_failures": 2
-  },
-  "https://ksol.live/hls/suno_toh_sahi/aac_hifi.m3u8": {
-    "consecutive_failures": 2
-  },
-  "https://mediaserv38.live-streams.nl:18030/stream": {
+  "http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3": {
     "consecutive_failures": 1
   },
-  "https://radio.eduneu.eu:8020/radio.mp3": {
+  "http://radio.streemlion.com:1160/stream": {
+    "consecutive_failures": 1
+  },
+  "https://aaja.radiocult.fm/stream": {
+    "consecutive_failures": 1
+  },
+  "https://azuracast.wearevarious.com/listen/we_are_various/live.mp3": {
+    "consecutive_failures": 19
+  },
+  "https://bcr.radiocult.fm/stream": {
+    "consecutive_failures": 5
+  },
+  "https://clydebuiltradio.out.airtime.pro/clydebuiltradio_a": {
+    "consecutive_failures": 10
+  },
+  "https://edge.mixlr.com/channel/vgmet": {
+    "consecutive_failures": 19
+  },
+  "https://ksol.live/hls/from_the_valleys_of_kasol/aac_hifi.m3u8": {
+    "consecutive_failures": 3
+  },
+  "https://ksol.live/hls/suno_toh_sahi/aac_hifi.m3u8": {
+    "consecutive_failures": 3
+  },
+  "https://listen.radioking.com/radio/69079/stream/106852": {
+    "consecutive_failures": 1
+  },
+  "https://mediaserv38.live-streams.nl:18030/stream": {
+    "consecutive_failures": 2
+  },
+  "https://radio.turbo.net.au/stream-hq": {
+    "consecutive_failures": 1
+  },
+  "https://radio.veneno.live/stream/main": {
+    "consecutive_failures": 1
+  },
+  "https://stayfm.com:8443/archive": {
+    "consecutive_failures": 1
+  },
+  "https://stream.skylab-radio.com/live": {
     "consecutive_failures": 1
   },
   "https://studioneau.out.airtime.pro/studioneau_a": {
-    "consecutive_failures": 5
+    "consecutive_failures": 6
   },
   "https://totallywired.out.airtime.pro/totallywired_a": {
-    "consecutive_failures": 1
-  },
-  "https://www.tuneintoradio1.com/listen/violent_forces_radio/radio.mp3": {
-    "consecutive_failures": 1
+    "consecutive_failures": 2
   }
 }
