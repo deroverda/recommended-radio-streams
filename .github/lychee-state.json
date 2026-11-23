@@ -1,41 +1,20 @@
 {
+  "http://www.giantsofjazzradio.co.uk/": {
+    "consecutive_failures": 1
+  },
   "https://compound-eye.org/": {
-    "consecutive_failures": 45
+    "consecutive_failures": 46
   },
   "https://fritto.fm/": {
-    "consecutive_failures": 11
-  },
-  "https://greatcircles.net/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 12
   },
   "https://liquiddoom.net/": {
-    "consecutive_failures": 45
+    "consecutive_failures": 46
   },
   "https://mountainchill.com/": {
-    "consecutive_failures": 25
-  },
-  "https://psychedelicized.com/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 26
   },
   "https://radcap.ru/": {
-    "consecutive_failures": 6
-  },
-  "https://radio.macinmind.com/": {
-    "consecutive_failures": 1
-  },
-  "https://radiokrs.com/": {
-    "consecutive_failures": 1
-  },
-  "https://www.digitiki.com/radio.html": {
-    "consecutive_failures": 1
-  },
-  "https://www.grooveradio.com/": {
-    "consecutive_failures": 1
-  },
-  "https://www.solopianoradio.com/": {
-    "consecutive_failures": 1
-  },
-  "https://youarelistening.to/": {
-    "consecutive_failures": 1
+    "consecutive_failures": 7
   }
 }
